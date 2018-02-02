@@ -300,6 +300,12 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTE2OS4yMzkuMTgxLjMg-70POq8rsbvNj5Mk1famjOciOJCLkJLP9tK_fJ7BE2gbMi5kbnNjcnlwdC1jZXJ0LnphLmQwd24uYml6
 
 
+## de.dnsmaschine.net
+DNSSEC/Non-logged/Uncensored
+Hosted by vultr.com (Frankfurt Germany)
+sdns://AQcAAAAAAAAAEzIwOS4yNTAuMjM1LjE3MDo0NDMgz0wbvISl_NVCSe0wDJMS79BAFZoWth1djmhuzv_n3KAiMi5kbnNjcnlwdC1jZXJ0LmRlLmRuc21hc2NoaW5lLm5ldA
+
+
 ## dnscrypt.ca-1
 Uncensored DNSSEC validating and log-free
 sdns://AQcAAAAAAAAAFDE5OS4xNjcuMTMwLjExODo1MzUzIHT3RVUXvCb3EXflbXKTJ4hscpFbP0YoMD-RDEfDjoJ5HTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0x
