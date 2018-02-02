@@ -365,11 +365,6 @@ Public DNSCrypt server in Sweden provided by Ipredator.se
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
 
 
-## okturtles
-For a surveillance-free world. HTTPS is broken. DNSChain fixes it.
-sdns://AQYAAAAAAAAADTIzLjIyNi4yMjcuOTMgHYU5U-NPr9AF-Uxv0czmNdQRmQQNSNGaXTULanyBc8sdMi5kbnNjcnlwdC1jZXJ0Lm9rdHVydGxlcy5jb20
-
-
 ## opennic-famicoman
 OpenNIC DNS server with DNSCrypt support
 sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
