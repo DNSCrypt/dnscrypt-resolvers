@@ -370,6 +370,26 @@ OpenNIC DNS server with DNSCrypt support
 sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
 
 
+## opennic-luggs
+Public DNS server in Canada operated by Luggs
+sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
+
+
+## opennic-luggs-ipv6
+Public DNS server in Canada operated by Luggs
+sdns://AQYAAAAAAAAAIVsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDQ6MTExXSAcGXkzG-gjzM8ImnkGk35cNBAqVqx_YnDgRiWy7dsE4x8yLmRuc2NyeXB0LWNlcnQubnMzLmNhLmx1Z2dzLmNv
+
+
+## opennic-onic
+Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
+sdns://AQcAAAAAAAAADjEyOC41Mi4xMzAuMjA5IBKNsb3hDHyh1SsJH2M-mcGTfRT1-BKwy1s89cvMBHJyIjIuZG5zY3J5cHQtY2VydC5vbmljLmNzYWlsLm1pdC5lZHU
+
+
+## opennic-onic-ipv6
+Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
+sdns://AQcAAAAAAAAAFlsyMDAxOjQ3MDoxZjA2OjEwYjo6Ml0gEo2xveEMfKHVKwkfYz6ZwZN9FPX4ErDLWzz1y8wEcnIiMi5kbnNjcnlwdC1jZXJ0Lm9uaWMuY3NhaWwubWl0LmVkdQ
+
+
 ## opennic-tumabox
 Public DNS server operated by TumaBox.org
 sdns://AQYAAAAAAAAAEjEzMC4yNTUuNzMuOTA6NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
@@ -421,4 +441,3 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 ## google
 Google DNS (anycast)
 sdns://AgUAAAAAAAAAACDyXGrcc5eNecJ8nomJCJ-q6eCLTEn6bHic0hWGUwYQaA5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
-

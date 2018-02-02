@@ -38,3 +38,23 @@ sdns://AQYAAAAAAAAAEjEzMC4yNTUuNzMuOTA6NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-oo
 ## opennic-tumabox-ipv6
 Public DNS server operated by TumaBox.org
 sdns://AQYAAAAAAAAAG1syYTAyOmUwMDpmZmZkOjEzOTo6OV06NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
+
+
+## opennic-luggs
+Public DNS server in Canada operated by Luggs
+sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
+
+
+## opennic-luggs-ipv6
+Public DNS server in Canada operated by Luggs
+sdns://AQYAAAAAAAAAIVsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDQ6MTExXSAcGXkzG-gjzM8ImnkGk35cNBAqVqx_YnDgRiWy7dsE4x8yLmRuc2NyeXB0LWNlcnQubnMzLmNhLmx1Z2dzLmNv
+
+
+## opennic-onic
+Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
+sdns://AQcAAAAAAAAADjEyOC41Mi4xMzAuMjA5IBKNsb3hDHyh1SsJH2M-mcGTfRT1-BKwy1s89cvMBHJyIjIuZG5zY3J5cHQtY2VydC5vbmljLmNzYWlsLm1pdC5lZHU
+
+
+## opennic-onic-ipv6
+Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
+sdns://AQcAAAAAAAAAFlsyMDAxOjQ3MDoxZjA2OjEwYjo6Ml0gEo2xveEMfKHVKwkfYz6ZwZN9FPX4ErDLWzz1y8wEcnIiMi5kbnNjcnlwdC1jZXJ0Lm9uaWMuY3NhaWwubWl0LmVkdQ
