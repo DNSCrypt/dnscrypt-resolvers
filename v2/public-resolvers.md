@@ -352,12 +352,12 @@ sdns://AQcAAAAAAAAAEzIwNS4xODUuMTE2LjExNjo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9a
 
 ## fvz-anyone
 Fusl's public primary OpenNIC Tier2 Anycast DNS Resolver
-sdns://AQYAAAAAAAAAEzE4NS4xMjEuMTc3LjE3Nzo0NDMgGmrQoytMWmGmldFTZw1pqxaQP57D9_ZPE-U1oxiyKKUdMi5kbnNjcnlwdC1jZXJ0LmRuc3JlYy5tZW8ud3M
+sdns://AQYAAAAAAAAAFDE4NS4xMjEuMTc3LjE3Nzo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
 
 
 ## fvz-anytwo
 Fusl's public secondary OpenNIC Tier2 Anycast DNS Resolver
-sdns://AQYAAAAAAAAAEzE2OS4yMzkuMjAyLjIwMjo0NDMgGmrQoytMWmGmldFTZw1pqxaQP57D9_ZPE-U1oxiyKKUdMi5kbnNjcnlwdC1jZXJ0LmRuc3JlYy5tZW8ud3M
+sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
 
 
 ## ipredator
