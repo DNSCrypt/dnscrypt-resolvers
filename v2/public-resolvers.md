@@ -60,11 +60,6 @@ Non-logging, uncensored DNS resolver provided by Babylon Network
 sdns://AQYAAAAAAAAAEzg3LjI1My4xNTIuMTkwOjUzNTMgh5QHChQ9NcocpjLnsYkwKE6uXa_rtAHj31Lp8Der0YIfMi5kbnNjcnlwdC1jZXJ0LmJhYnlsb24ubmV0d29yaw
 
 
-## captnemo-in
-Non-logging, provided by Nemo
-sdns://AQYAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBwyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4g
-
-
 ## cisco
 Remove your DNS blind spot
 sdns://AQAAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
@@ -344,11 +339,6 @@ sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKy
 ## dnscrypt.nl-ns0-ipv6
 Public DNSCrypt server in Amsterdam, the Netherlands
 sdns://AQcAAAAAAAAAJlsyMDAxOjE5ZjA6NTAwMTozMGE6NTQwMDpmZjpmZTU4OjcxNDBdIEyE-4wFEV36X5fF7QMpE3DHirzWThXdU6sI3nL7hErKHzIuZG5zY3J5cHQtY2VydC5uczAuZG5zY3J5cHQubmw
-
-
-## dns.btr.zone
-Free of logs and censors by BTR.Zone
-sdns://AQcAAAAAAAAADTk0LjEzMC42Ny4xMzggmdrmfsRbhlkODU9lM3wFtPrPNWg4LCENLNI6hO-0fTIcMi5kbnNjcnlwdC1jZXJ0LmRucy5idHIuem9uZQ
 
 
 ## freetsa.org
