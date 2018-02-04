@@ -15,7 +15,10 @@ To use that list, add this to the `[sources]` section of your
     cache_file = 'parental-control.md'
     format = 'v2'
 
-This list was last updated on 2018-01-30
+In order to enforce safe search results from Google and Youtube, you may
+also want to enable cloaking (`cloaking_rules` in the configuration file).
+
+This list was last updated on 2018-02-04
 
 --
 

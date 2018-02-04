@@ -21,7 +21,7 @@ To use that list, add this to the `[sources]` section of your
     cache_file = 'public-resolvers.md'
     format = 'v2'
 
-This list was last updated on 2018-01-30
+This list was last updated on 2018-02-04
 
 --
 
