@@ -440,9 +440,12 @@ sdns://AgUAAAAAAAAAACDyXGrcc5eNecJ8nomJCJ-q6eCLTEn6bHic0hWGUwYQaA5kbnMuZ29vZ2xlL
 
 
 ## doh-dnscrypt-info
-Experimental DNS-over-HTTPS server, currently served by Scaleway and
-OVH, soon to be anycast.
-
+Experimental DNS-over-HTTPS server, currently served by Scaleway and OVH.
 Maintained by Frank Denis.
-
 sdns://AgcAAAAAAAAADTM3LjU5LjIzOC4yMTMgwzRA_TfjYt0RwSHqBHwj7OM-D_x-CDgqIHeJHIoN1P0UZG9oLmZyLmRuc2NyeXB0LmluZm8KL2Rucy1xdWVyeQ
+
+
+## doh-crypto-sx
+Experimental DNS-over-HTTPS server, globally cached via Cloudflare.
+Maintained by Frank Denis.
+sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
