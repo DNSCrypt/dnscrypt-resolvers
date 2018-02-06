@@ -19,9 +19,8 @@ To use that list, add this to the `[sources]` section of your
     url = 'http://download.dnscrypt.info/resolvers-list/v2/public-resolvers.md'
     minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
     cache_file = 'public-resolvers.md'
-    format = 'v2'
 
-This list was last updated on 2018-02-04
+This list was last updated on 2018-02-06
 
 --
 
