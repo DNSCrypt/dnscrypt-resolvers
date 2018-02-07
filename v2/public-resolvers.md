@@ -453,5 +453,5 @@ sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvL
 
 
 ## comodo-02
-Comodo dome shield - https://cdome.comodo.com/shield/
+Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
 sdns://AQAAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
