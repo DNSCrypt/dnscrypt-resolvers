@@ -20,7 +20,7 @@ To use that list, add this to the `[sources]` section of your
     minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
     cache_file = 'public-resolvers.md'
 
-This list was last updated on 2018-02-06
+This list was last updated on 2018-02-11
 
 --
 
@@ -382,6 +382,12 @@ sdns://AgUAAAAAAAAAACDyXGrcc5eNecJ8nomJCJ-q6eCLTEn6bHic0hWGUwYQaA5kbnMuZ29vZ2xlL
 ## ipredator
 Public DNSCrypt server in Sweden provided by Ipredator.se
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
+
+
+## lazarus-dns
+Public DNSCrypt server in Amsterdam, Netherlands. Supports DNSSEC and no logs are kept.
+Maintained by @tuttimann.
+sdns://AQcAAAAAAAAACzUxLjE1LjQ3LjUxIIy7xPO4BKIjlZhWiAZkNX8as04yzdovGiyL1eXBtmrGGzIuZG5zY3J5cHQtY2VydC5sYXphcnVzLWRucw
 
 
 ## opennic-famicoman
