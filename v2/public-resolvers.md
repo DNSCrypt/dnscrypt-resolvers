@@ -59,6 +59,17 @@ Non-logging, uncensored DNS resolver provided by Babylon Network
 sdns://AQYAAAAAAAAAEzg3LjI1My4xNTIuMTkwOjUzNTMgh5QHChQ9NcocpjLnsYkwKE6uXa_rtAHj31Lp8Der0YIfMi5kbnNjcnlwdC1jZXJ0LmJhYnlsb24ubmV0d29yaw
 
 
+## captnemo-in
+Server running out of a Digital Ocean droplet in BLR1 region.
+Maintained by Abhay Rana aka Nemo.
+
+If you are within India, this might be a nice DNS server to use.
+
+Warning: forwards queries to Cisco servers.
+
+sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
+
+
 ## cisco
 Remove your DNS blind spot
 sdns://AQAAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
