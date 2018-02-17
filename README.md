@@ -1,4 +1,4 @@
-List of public DNSCrypt-enabled resolvers.
+Lists of public DNSCrypt-enabled resolvers.
 
 Stable download URLs:
 https://download.dnscrypt.info/dnscrypt-resolvers/v2/
