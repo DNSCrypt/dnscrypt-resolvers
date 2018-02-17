@@ -1,6 +1,7 @@
 List of public DNSCrypt-enabled resolvers.
 
 Stable download URLs:
+https://download.dnscrypt.info/dnscrypt-resolvers/v2/
 
-- V1 (compatible with dnscrypt-proxy 1.x):
-[dnscrypt-resolvers.csv](https://download.dnscrypt.org/dnscrypt-proxy/dnscrypt-resolvers.csv) - [dnscrypt-resolvers.csv.minisig](https://download.dnscrypt.org/dnscrypt-proxy/dnscrypt-resolvers.csv.minisig)
+More DNS server sources:
+https://github.com/jedisct1/dnscrypt-proxy/wiki/DNS-server-sources
