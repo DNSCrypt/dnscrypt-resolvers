@@ -20,7 +20,7 @@ To use that list, add this to the `[sources]` section of your
     minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
     cache_file = 'public-resolvers.md'
 
-This list was last updated on 2018-02-11
+This list was last updated on 2018-02-18
 
 --
 
@@ -472,3 +472,17 @@ sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm
 ## yandex
 Yandex public DNS server (anycast)
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
+
+
+## cleanbrowsing-family
+Family filter - Blocks adult content + mixed content sites + proxies +
+enforces safe search engine mode.
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
+
+## cleanbrowsing-adult
+Adult filter - Blocks adult content + enforces safe search engine mode.
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
