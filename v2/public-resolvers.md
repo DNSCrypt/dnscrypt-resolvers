@@ -20,8 +20,6 @@ To use that list, add this to the `[sources]` section of your
     minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
     cache_file = 'public-resolvers.md'
 
-This list was last updated on 2018-02-18
-
 --
 
 ## adguard-dns-family
