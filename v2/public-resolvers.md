@@ -371,6 +371,13 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
+## dnscrypt.name
+Free, non-logged, uncensored. Hosted by DigitalOcean in San Francisco, CA, USA.
+Maintained by Justin Paine (@xxdesmus).
+
+sdns://AQcAAAAAAAAAETE1OS44OS4xNDYuNjE6NDQzIOY8tgM6b_fTKYaB7ivuWJ2WcRrT24jGaQNa-HexZ7o7HTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5uYW1l
+
+
 ## dnscrypt.nl-ns0
 Public DNSCrypt server in Amsterdam, the Netherlands
 sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKyh8yLmRuc2NyeXB0LWNlcnQubnMwLmRuc2NyeXB0Lm5s
