@@ -410,6 +410,14 @@ Fusl's public secondary OpenNIC Tier2 Anycast DNS Resolver
 sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
 
 
+## flatty.co
+Plain Vanilla setup of dnscrypt-server-docker hosted on hetzner. NO LOGGING.
+DNS served from the Hetzner.com Datacenter in Germany.
+Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
+
+sdns://AQcAAAAAAAAAEjE5NS4yMDEuMTYuNjE6NDQzNCDQEZd7QrwiKuovLQjd7swAmeD2i5R-4YLdUY7ZgC0xdhkyLmRuc2NyeXB0LWNlcnQuZmxhdHR5LmNv
+
+
 ## google
 Google DNS (anycast)
 sdns://AgUAAAAAAAAAACDyXGrcc5eNecJ8nomJCJ-q6eCLTEn6bHic0hWGUwYQaA5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
@@ -459,6 +467,14 @@ sdns://AQYAAAAAAAAAEjEzMC4yNTUuNzMuOTA6NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-oo
 ## opennic-tumabox-ipv6
 Public DNS server operated by TumaBox.org
 sdns://AQYAAAAAAAAAG1syYTAyOmUwMDpmZmZkOjEzOTo6OV06NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
+
+
+## qag.me
+Plain Vanilla setup of dnscrypt-server-docker on a headless box. NO LOGGING.
+Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
+Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
+
+sdns://AQcAAAAAAAAAEjEwNi41MS4xMjguNzg6NDQzNCCm-rdko9ehxyCNEdoBhIYCgaUIh7xCPd79M893C3rv_xYyLmRuc2NyeXB0LWNlcnQucWFnLm1l
 
 
 ## scaleway-fr
