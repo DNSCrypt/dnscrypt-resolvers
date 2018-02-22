@@ -257,11 +257,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAETE1MS44MC43LjExNToxMDUzIFioItMp68FPvOtFr0LrL1jHlwrT7TE5fR00hjYjdXJRGzIuZG5zY3J5cHQtY2VydC5mci5kMHduLmJpeg
 
 
-## d0wn-gr-ns1
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADTg1LjI1LjEwNS4xOTMgsZwLXEjyWPoL5Gf0X1C8f5hfxUSKT7ydVXRaNVcBgAkbMi5kbnNjcnlwdC1jZXJ0LmdyLmQwd24uYml6
-
-
 ## d0wn-is-ns1
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADDM3LjIzNS40OS42MSArKJdOBzprOHIqW-H3oCUMUI-oCSOPjz122GCYINey2RsyLmRuc2NyeXB0LWNlcnQuaXMuZDB3bi5iaXo
