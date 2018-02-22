@@ -247,11 +247,6 @@ provided by cryptostorm.is
 sdns://AQIAAAAAAAAADTE3My4yMDguOTUuNzUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## d0wn-es-ns1
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADTkxLjE0Mi4yMjAuMjkg6wnoVK7alwXLR-1p6t1BVjZTgsXIjaLjaRc7VEd0dQUbMi5kbnNjcnlwdC1jZXJ0LmVzLmQwd24uYml6
-
-
 ## d0wn-fr-ns1
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAETE1MS44MC43LjExNToxMDUzIFioItMp68FPvOtFr0LrL1jHlwrT7TE5fR00hjYjdXJRGzIuZG5zY3J5cHQtY2VydC5mci5kMHduLmJpeg
@@ -262,11 +257,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
 
 
-## d0wn-lv-ns1
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADDg5LjExMS4xMy42MCCaw2tMetvn1taXtr8VHBUaspGMXbkSFfi5hlkmM6Sl4RsyLmRuc2NyeXB0LWNlcnQubHYuZDB3bi5iaXo
-
-
 ## d0wn-lv-ns2
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTE4NS44Ni4xNTEuMjggsRH4DOPgHDbMcwmVAJ5jUe8IBQMwnZQXeqOMZ5FtDN8cMi5kbnNjcnlwdC1jZXJ0Lmx2Mi5kMHduLmJpeg
@@ -275,11 +265,6 @@ sdns://AQcAAAAAAAAADTE4NS44Ni4xNTEuMjggsRH4DOPgHDbMcwmVAJ5jUe8IBQMwnZQXeqOMZ5FtD
 ## d0wn-lv-ns2-ipv6
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAG1syYTAyOjdhYTA6MTIwMTo6ZjYwZToyNzE5XSCxEfgM4-AcNsxzCZUAnmNR7wgFAzCdlBd6o4xnkW0M3xwyLmRuc2NyeXB0LWNlcnQubHYyLmQwd24uYml6
-
-
-## d0wn-mx-ns1
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADzIwMS4xMzEuMTI2LjIxMiCZnmPwDefBcTpyViUqPwl77DrSj74odWlcN-gNPVVP0BsyLmRuc2NyeXB0LWNlcnQubXguZDB3bi5iaXo
 
 
 ## d0wn-nl-ns4
@@ -310,11 +295,6 @@ sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtG
 ## d0wn-tz-ns1-ipv6
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
-
-
-## d0wn-us-ns4
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADjEwNy4xODEuMTY4LjUyIPOSXVOjFWbCrPKy0oppZzmwZhuM7xs6_egoDYPU6m19HDIuZG5zY3J5cHQtY2VydC51czQuZDB3bi5iaXo
 
 
 ## d0wn-za-ns1
