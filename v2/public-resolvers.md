@@ -348,13 +348,6 @@ Public DNSCrypt server in Amsterdam, the Netherlands
 sdns://AQcAAAAAAAAAJlsyMDAxOjE5ZjA6NTAwMTozMGE6NTQwMDpmZjpmZTU4OjcxNDBdIEyE-4wFEV36X5fF7QMpE3DHirzWThXdU6sI3nL7hErKHzIuZG5zY3J5cHQtY2VydC5uczAuZG5zY3J5cHQubmw
 
 
-## doh-dnscrypt-info
-Experimental DNS-over-HTTPS server, currently served by Scaleway and OVH.
-Maintained by Frank Denis.
-
-sdns://AgcAAAAAAAAADTM3LjU5LjIzOC4yMTMgwzRA_TfjYt0RwSHqBHwj7OM-D_x-CDgqIHeJHIoN1P0UZG9oLmZyLmRuc2NyeXB0LmluZm8KL2Rucy1xdWVyeQ
-
-
 ## doh-crypto-sx
 Experimental DNS-over-HTTPS server, globally cached via Cloudflare.
 Maintained by Frank Denis.
