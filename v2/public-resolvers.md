@@ -436,6 +436,11 @@ sdns://AQYAAAAAAAAAEjEzMC4yNTUuNzMuOTA6NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-oo
 Public DNS server operated by TumaBox.org
 sdns://AQYAAAAAAAAAG1syYTAyOmUwMDpmZmZkOjEzOTo6OV06NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
 
+## publicarray-au
+DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
+Maintained by publicarray - https://dns.seby.io
+
+sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
 
 ## qag.me
 Plain Vanilla setup of dnscrypt-server-docker on a headless box. NO LOGGING.
