@@ -355,10 +355,18 @@ Maintained by Frank Denis.
 sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
+## ev-ca
+Non-logging, uncensored DNS resolver provided by evilvibes.com
+Hosted by: digitalocean.com - Location: Toronto, Canada
+https://www.evilvibes.com/dnscrypt.php
+
+sdns://AQcAAAAAAAAADjE1OS44OS4xMjQuMTg2IEQWrEIaFrsbJbCmEKctUm-5RDGPmR_stXBjOmIdvRCUHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
+
+
 ## ev-us
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Hosted by: vultr.com - Location: Seattle, USA
-Server status: https://status.evilvibes.com/
+https://www.evilvibes.com/dnscrypt.php
 
 sdns://AQcAAAAAAAAADzEwNC4xNTYuMjUzLjExMyDnaC_jr-UyTXQYQ8OkLyMQ5lhGKZas3QyMC0tati69MB0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
 
