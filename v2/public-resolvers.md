@@ -358,7 +358,7 @@ sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvL
 ## ev-ca
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Hosted by: digitalocean.com - Location: Toronto, Canada
-https://www.evilvibes.com/dnscrypt.php
+https://www.evilvibes.com/dnscrypt
 
 sdns://AQcAAAAAAAAADjE1OS44OS4xMjQuMTg2IEQWrEIaFrsbJbCmEKctUm-5RDGPmR_stXBjOmIdvRCUHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
@@ -366,9 +366,25 @@ sdns://AQcAAAAAAAAADjE1OS44OS4xMjQuMTg2IEQWrEIaFrsbJbCmEKctUm-5RDGPmR_stXBjOmIdv
 ## ev-us
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Hosted by: vultr.com - Location: Seattle, USA
-https://www.evilvibes.com/dnscrypt.php
+https://www.evilvibes.com/dnscrypt
 
 sdns://AQcAAAAAAAAADzEwNC4xNTYuMjUzLjExMyDnaC_jr-UyTXQYQ8OkLyMQ5lhGKZas3QyMC0tati69MB0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
+
+
+## ev-us2
+Non-logging, uncensored DNS resolver provided by evilvibes.com
+Hosted by: vultr.com - Location: New Jersey, USA
+https://www.evilvibes.com/dnscrypt
+
+sdns://AQcAAAAAAAAADjE0NC4yMDIuMTUuMTMxIKLp-jrtojXjQzK9muKwWgO0lqJSmO0zpghDgjMIytQiHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
+
+
+## ev-us3
+Non-logging, uncensored DNS resolver provided by evilvibes.com
+Hosted by: vultr.com - Location: Dallas, USA
+https://www.evilvibes.com/dnscrypt
+
+sdns://AQcAAAAAAAAADjE0NC4yMDIuNjguMjMxIH8qiHvAoGoZn5vybGUnxy0eKCJY-62SZDGowYxzmiYQHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
 
 ## freetsa.org
