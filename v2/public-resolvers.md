@@ -308,9 +308,9 @@ Uncensored DNSSEC validating and log-free
 sdns://AQcAAAAAAAAAFDE5OS4xNjcuMTI4LjExMjo1MzUzIEPVLIJZIpbC22-NSM4iT9zHJibhBvbjiGGT-gCQKWMbHTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0y
 
 
-## dnscrypt.ca-3
+## dnscrypt.ca-2-ipv6
 Uncensored DNSSEC validating and log-free
-sdns://AQcAAAAAAAAAEzY5LjE2NS4yMjAuMjIxOjUzNTMgH5iH2E7cxcehI8hiCm1La8uRRaGZT2v2ZkPrLJ4z3lsdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTM
+sdns://AQcAAAAAAAAAH1syNjA1OjIxMDA6MDoxOjpiNWFkOjE4ZTJdOjUzNTMgQ9UsglkilsLbb41IziJP3McmJuEG9uOIYZP6AJApYxsdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTI
 
 
 ## dnscrypt.eu-dk
