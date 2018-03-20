@@ -107,6 +107,11 @@ By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
 
 
+## cloudflare
+Cloudflare public DNS server (anycast)
+sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznxJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ
+
+
 ## comodo-02
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
 sdns://AQAAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
