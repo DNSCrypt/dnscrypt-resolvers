@@ -255,11 +255,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTE4NS44Ni4xNTEuMjggsRH4DOPgHDbMcwmVAJ5jUe8IBQMwnZQXeqOMZ5FtDN8cMi5kbnNjcnlwdC1jZXJ0Lmx2Mi5kMHduLmJpeg
 
 
-## d0wn-lv-ns2-ipv6
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAAG1syYTAyOjdhYTA6MTIwMTo6ZjYwZToyNzE5XSCxEfgM4-AcNsxzCZUAnmNR7wgFAzCdlBd6o4xnkW0M3xwyLmRuc2NyeXB0LWNlcnQubHYyLmQwd24uYml6
-
-
 ## d0wn-nl-ns4
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTMxLjIyMC40My4xMDUgKk9DiVzmMjC0xXalrDhkGE0SaUmxYP2wkWartM7GBnIcMi5kbnNjcnlwdC1jZXJ0Lm5sNC5kMHduLmJpeg
