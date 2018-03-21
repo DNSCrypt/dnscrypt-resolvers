@@ -319,8 +319,7 @@ sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRh
 ## dnscrypt.name
 Free, non-logged, uncensored. Hosted by DigitalOcean in San Francisco, CA, USA.
 Maintained by Justin Paine (@xxdesmus).
-
-sdns://AQcAAAAAAAAADTE1OS44OS4xNDYuNjEg5jy2Azpv99MphoHuK-5YnZZxGtPbiMZpA1r4d7FnujsdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm5hbWU
+sdns://AQcAAAAAAAAAETE1OS44OS4xNDYuNjE6NDQzIOY8tgM6b_fTKYaB7ivuWJ2WcRrT24jGaQNa-HexZ7o7HTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5uYW1l
 
 
 ## dnscrypt.nl-ns0
