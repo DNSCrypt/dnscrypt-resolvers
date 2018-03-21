@@ -52,10 +52,6 @@ Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
 sdns://AQcAAAAAAAAADjEyOC41Mi4xMzAuMjA5IBKNsb3hDHyh1SsJH2M-mcGTfRT1-BKwy1s89cvMBHJyIjIuZG5zY3J5cHQtY2VydC5vbmljLmNzYWlsLm1pdC5lZHU
 
 
-## opennic-onic-ipv6
-Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
-sdns://AQcAAAAAAAAAFlsyMDAxOjQ3MDoxZjA2OjEwYjo6Ml0gEo2xveEMfKHVKwkfYz6ZwZN9FPX4ErDLWzz1y8wEcnIiMi5kbnNjcnlwdC1jZXJ0Lm9uaWMuY3NhaWwubWl0LmVkdQ
-
 ## publicarray-au
 DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
 Maintained by publicarray - https://dns.seby.io
