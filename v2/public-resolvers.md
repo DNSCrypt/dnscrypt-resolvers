@@ -474,11 +474,6 @@ Public DNSCrypt server in Poland
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
 
 
-## soltysiak-ipv6
-Public DNSCrypt server in Poland
-sdns://AQcAAAAAAAAAGVsyMDAxOjQ3MDo3MDo0ZmY6OjJdOjIwNTMgJcThiCkVRpePnCu9tqevpAHtoFEFCF1TA-cZKMBmjyEdMi5kbnNjcnlwdC1jZXJ0LnNvbHR5c2lhay5jb20
-
-
 ## ventricle.us
 Public DNSCrypt resolver provided by Jacob Henner
 sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm6olMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnZlbnRyaWNsZS51cw
