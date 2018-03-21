@@ -95,18 +95,6 @@ By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
 
-## cleanbrowsing-family-ipv6
-Family filter - Blocks adult content + mixed content sites + proxies + enforces safe search engine mode.
-By https://cleanbrowsing.org/
-sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
-
-
-## cleanbrowsing-adult-ipv6
-Family filter - Blocks adult content + mixed content sites + proxies + enforces safe search engine mode.
-By https://cleanbrowsing.org/
-sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
-
-
 ## cloudflare
 Cloudflare public DNS server (anycast)
 sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznxJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ
