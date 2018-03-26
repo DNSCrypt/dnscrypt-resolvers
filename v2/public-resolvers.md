@@ -95,6 +95,18 @@ By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
 
+## doh-cleanbrowsing-family
+Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
+By https://cleanbrowsing.org/
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
+
+
+## doh-cleanbrowsing-adult
+Adult filter - Blocks adult content + enforces Safe Search engine mode.
+By https://cleanbrowsing.org/
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
+
+
 ## cloudflare
 Cloudflare public DNS server (anycast)
 sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznxJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ

@@ -28,6 +28,7 @@ sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdR
 Block websites not suitable for children
 sdns://AQAAAAAAAAAAEjIwOC42Ny4yMjAuMTIzOjQ0MyC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
+
 ## cleanbrowsing-family
 Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
 By https://cleanbrowsing.org/
@@ -38,6 +39,18 @@ sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 Adult filter - Blocks adult content + enforces Safe Search engine mode.
 By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
+
+
+## doh-cleanbrowsing-family
+Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
+By https://cleanbrowsing.org/
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
+
+
+## doh-cleanbrowsing-adult
+Adult filter - Blocks adult content + enforces Safe Search engine mode.
+By https://cleanbrowsing.org/
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 
 
 ## cleanbrowsing-family-ipv6
