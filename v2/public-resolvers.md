@@ -109,7 +109,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 
 ## cloudflare
 Cloudflare public DNS server (anycast)
-sdns://AgcAAAAAAAAAACAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznxJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGBJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ
 
 
 ## comodo-02
