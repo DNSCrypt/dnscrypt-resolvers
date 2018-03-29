@@ -354,7 +354,7 @@ sdns://AQcAAAAAAAAAJlsyMDAxOjE5ZjA6NTAwMTozMGE6NTQwMDpmZjpmZTU4OjcxNDBdIEyE-4wFE
 
 
 ## doh-crypto-sx
-Experimental DNS-over-HTTPS server, globally cached via Cloudflare.
+DNS-over-HTTPS server. Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAADTEwNC4xOS4xOTguMjkgHdhQioxWWQQ5fHhkUeCPV2E888inI_bzef1MOFi2858NZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
