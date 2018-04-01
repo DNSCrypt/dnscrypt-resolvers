@@ -116,8 +116,13 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 
 
 ## cloudflare
-Cloudflare public DNS server (anycast)
+Cloudflare public DNS server - 1.1.1.1 (anycast)
 sdns://AgcAAAAAAAAABzEuMC4wLjEg63Ul-I8NlFj4GplQGb_TTLiczclX57DvMV8Q-JdjgRgSZG5zLmNsb3VkZmxhcmUuY29tCi9kbnMtcXVlcnk
+
+
+## cloudflare-ipv6
+Cloudflare public DNS server over IPv6 (anycast)
+sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NTMg63Ul-I8NlFj4GplQGb_TTLiczclX57DvMV8Q-JdjgRgSZG5zLmNsb3VkZmxhcmUuY29tCi9kbnMtcXVlcnk
 
 
 ## comodo-02
