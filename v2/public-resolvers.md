@@ -479,7 +479,7 @@ Non-logging, non-filtering, DNSSEC validating server in Mountain View,
 California.
 Maintained by Evan Xu (@ex-git)
 
-sdns://AQcAAAAAAAAADzEwNC4xOTguMTEwLjExNSCMXyRluIjvnPj49ieWG3xHAkW0CfXpvzHg-l8THamobyQyLmRuc2NyeXB0LWNlcnQuZG5zLnF1YWxpdHlvbG9neS5jb20
+sdns://AQcAAAAAAAAAEzEwNC4xOTguMTEwLjExNTo0NDMgg2u3HcgDDo2XsrKL05-UK3r6Z7RGMKwymuTIQ4fQZegkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
 
 
 ## scaleway-fr
