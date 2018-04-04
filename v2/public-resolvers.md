@@ -474,14 +474,6 @@ Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
 sdns://AQcAAAAAAAAAEjEwNi41MS4xMjguNzg6NDQzNCCm-rdko9ehxyCNEdoBhIYCgaUIh7xCPd79M893C3rv_xYyLmRuc2NyeXB0LWNlcnQucWFnLm1l
 
 
-## qualityology.com
-Non-logging, non-filtering, DNSSEC validating server in Mountain View,
-California.
-Maintained by Evan Xu (@ex-git)
-
-sdns://AQcAAAAAAAAADzEwNC4xOTguMTEwLjExNSCMXyRluIjvnPj49ieWG3xHAkW0CfXpvzHg-l8THamobyQyLmRuc2NyeXB0LWNlcnQuZG5zLnF1YWxpdHlvbG9neS5jb20
-
-
 ## scaleway-fr
 DNSSEC/Non-logged/Uncensored - ARM server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
