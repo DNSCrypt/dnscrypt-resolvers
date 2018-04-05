@@ -505,6 +505,12 @@ Public DNSCrypt server in Poland
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
 
 
+## trashvpn
+dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
+Hosted in Germany
+sdns://AQcAAAAAAAAAEzM3LjIyMS4xOTUuMTgxOjg0NDMgeWFZIMbyef83QDyIdD3cE9Fe_4QcTDw4nKWJDSacGvYbMi5kbnNjcnlwdC1jZXJ0LnRyYXNodnBuLmRl
+
+
 ## ventricle.us
 Public DNSCrypt resolver provided by Jacob Henner
 sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm6olMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnZlbnRyaWNsZS51cw
@@ -513,3 +519,9 @@ sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm
 ## yandex
 Yandex public DNS server (anycast)
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
+
+
+## zeroaim-ipv6
+dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
+Hosted in Germany
+sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8gumVIrn4GIrn6aTB1fUfMi5kbnNjcnlwdC1jZXJ0Lnplcm9haW0uZGUtaXB2Ng
