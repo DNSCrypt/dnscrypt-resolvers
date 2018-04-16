@@ -342,6 +342,14 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
+## dnscrypt.me
+
+dnscrypt.me is a free public DNSCrypt server in Germany
+Operated by @mibere. No logs/no filters/DNSSEC - http://dnscrypt.me
+
+sdns://AQcAAAAAAAAADjE5NS4yMDEuMTI4LjM2IAPy8MAulkBuCJ__WO6mLMk3zjMHoJl24KZAd3z59w4CGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
+
+
 ## dnscrypt.name
 Free, non-logged, uncensored. Hosted by DigitalOcean in San Francisco, CA, USA.
 Maintained by Justin Paine (@xxdesmus).
