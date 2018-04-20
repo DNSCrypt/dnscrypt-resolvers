@@ -343,11 +343,10 @@ sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRh
 
 
 ## dnscrypt.me
+DNSSEC / no logs / no filter, Germany
+http://dnscrypt.me
 
-dnscrypt.me is a free public DNSCrypt server in Germany
-No logs/no filters/DNSSEC - http://dnscrypt.me
-
-sdns://AQcAAAAAAAAADjE5NS4yMDEuMTI4LjM2IAPy8MAulkBuCJ__WO6mLMk3zjMHoJl24KZAd3z59w4CGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
+sdns://AQcAAAAAAAAADjk0LjE5OS4yMTMuMTcxIOLw8Q6iYxEPr9RATS4fO1JrxLTZN7AckYh63rFwiCa-GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
 
 
 ## dnscrypt.name
