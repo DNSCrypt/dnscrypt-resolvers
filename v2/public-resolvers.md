@@ -346,7 +346,7 @@ sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRh
 DNSSEC / no logs / no filter, Germany
 http://dnscrypt.me
 
-sdns://AQcAAAAAAAAADjk0LjE5OS4yMTMuMTcxIOLw8Q6iYxEPr9RATS4fO1JrxLTZN7AckYh63rFwiCa-GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
+sdns://AQcAAAAAAAAADjk0LjE5OS4yMTMuMTcyIGBM5f1Wb-7SLs4vAJ7gc4hyFSmM5OOLWOvI3Hu5gRVOGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
 
 
 ## dnscrypt.name
