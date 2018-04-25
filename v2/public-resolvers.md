@@ -51,21 +51,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAEjEzOS41OS4xNi4xMzA6NTM1MyCORifHOIOoUQMIIbpa5-XQQfSq75W3gpAWy2Udh8MoyRkyLmRuc2NyeXB0LWNlcnQuYXJ2aW5kLmlv
 
 
-## bn-fr0
-Non-logging, uncensored DNS resolver provided by Babylon Network
-sdns://AQYAAAAAAAAAETUuMTM1LjY2LjIyMjo1MzUzIIeUBwoUPTXKHKYy57GJMChOrl2v67QB499S6fA3q9GCHzIuZG5zY3J5cHQtY2VydC5iYWJ5bG9uLm5ldHdvcms
-
-
-## bn-fr0-ipv6
-Non-logging, uncensored IPv6 DNS resolver provided by Babylon Network
-sdns://AQYAAAAAAAAAHFsyMDAxOjQxZDA6ODo0NDgwOjoyMjJdOjUzNTMgh5QHChQ9NcocpjLnsYkwKE6uXa_rtAHj31Lp8Der0YIfMi5kbnNjcnlwdC1jZXJ0LmJhYnlsb24ubmV0d29yaw
-
-
-## bn-nl0
-Non-logging, uncensored DNS resolver provided by Babylon Network
-sdns://AQYAAAAAAAAAEzg3LjI1My4xNTIuMTkwOjUzNTMgh5QHChQ9NcocpjLnsYkwKE6uXa_rtAHj31Lp8Der0YIfMi5kbnNjcnlwdC1jZXJ0LmJhYnlsb24ubmV0d29yaw
-
-
 ## captnemo-in
 Server running out of a Digital Ocean droplet in BLR1 region.
 Maintained by Abhay Rana aka Nemo.
@@ -171,11 +156,6 @@ provided by cryptostorm.is
 sdns://AQIAAAAAAAAADzE4NS4yMTIuMTY5LjEzOSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-es
-provided by cryptostorm.is
-sdns://AQIAAAAAAAAADjE4NS4xNDAuMTE0LjUxIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-fi
 provided by cryptostorm.is
 sdns://AQIAAAAAAAAADjE4NS4xMTcuMTE4LjIwIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
@@ -194,11 +174,6 @@ sdns://AQIAAAAAAAAADTIxMi4xMjkuNDYuMzIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 ## cs-lv
 provided by cryptostorm.is
 sdns://AQIAAAAAAAAADTgwLjIzMy4xMzQuNTIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-md
-provided by cryptostorm.is
-sdns://AQIAAAAAAAAADTE3Ni4xMjMuMy4yNDkgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-nl
@@ -241,11 +216,6 @@ provided by cryptostorm.is
 sdns://AQIAAAAAAAAADjE3My4yMzQuNTYuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-ussouth
-provided by cryptostorm.is
-sdns://AQIAAAAAAAAACzcwLjMyLjM4LjY3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-ussouth2
 provided by cryptostorm.is
 sdns://AQIAAAAAAAAADTEwOC42Mi4xOS4xMzEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
@@ -266,29 +236,14 @@ provided by cryptostorm.is
 sdns://AQIAAAAAAAAADTE3My4yMDguOTUuNzUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## d0wn-fr-ns1
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAAETE1MS44MC43LjExNToxMDUzIFioItMp68FPvOtFr0LrL1jHlwrT7TE5fR00hjYjdXJRGzIuZG5zY3J5cHQtY2VydC5mci5kMHduLmJpeg
-
-
 ## d0wn-is-ns2
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
 
 
-## d0wn-lv-ns2
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADTE4NS44Ni4xNTEuMjggsRH4DOPgHDbMcwmVAJ5jUe8IBQMwnZQXeqOMZ5FtDN8cMi5kbnNjcnlwdC1jZXJ0Lmx2Mi5kMHduLmJpeg
-
-
 ## d0wn-nl-ns4
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAADTMxLjIyMC40My4xMDUgKk9DiVzmMjC0xXalrDhkGE0SaUmxYP2wkWartM7GBnIcMi5kbnNjcnlwdC1jZXJ0Lm5sNC5kMHduLmJpeg
-
-
-## d0wn-se-ns2
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADDMxLjIyMC41LjE4NiDFfdakF46t4tDAsTik1AdK31kUiIcRXKzrYKN7NJLaFRwyLmRuc2NyeXB0LWNlcnQuc2UyLmQwd24uYml6
 
 
 ## d0wn-tz-ns1
@@ -299,11 +254,6 @@ sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtG
 ## d0wn-tz-ns1-ipv6
 Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
-
-
-## d0wn-za-ns1
-Server provided by Martin 'd0wn' Albus
-sdns://AQcAAAAAAAAADTE2OS4yMzkuMTgxLjMg-70POq8rsbvNj5Mk1famjOciOJCLkJLP9tK_fJ7BE2gbMi5kbnNjcnlwdC1jZXJ0LnphLmQwd24uYml6
 
 
 ## de.dnsmaschine.net
@@ -347,13 +297,6 @@ DNSSEC / no logs / no filter, Germany
 http://dnscrypt.me
 
 sdns://AQcAAAAAAAAADjk0LjE5OS4yMTMuMTcyIGBM5f1Wb-7SLs4vAJ7gc4hyFSmM5OOLWOvI3Hu5gRVOGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
-
-
-## dnscrypt.name
-Free, non-logged, uncensored. Hosted by DigitalOcean in San Francisco, CA, USA.
-Maintained by Justin Paine (@xxdesmus).
-
-sdns://AQcAAAAAAAAADTE1OS44OS4xNDYuNjEg5jy2Azpv99MphoHuK-5YnZZxGtPbiMZpA1r4d7FnujsdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm5hbWU
 
 
 ## dnscrypt.nl-ns0
@@ -430,17 +373,6 @@ Public DNSCrypt server in Sweden provided by Ipredator.se
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
 
 
-## lazarus-dns
-Public DNSCrypt server in Amsterdam, Netherlands. Supports DNSSEC and no logs are kept.
-Maintained by @tuttimann.
-sdns://AQcAAAAAAAAACzUxLjE1LjQ3LjUxIIy7xPO4BKIjlZhWiAZkNX8as04yzdovGiyL1eXBtmrGGzIuZG5zY3J5cHQtY2VydC5sYXphcnVzLWRucw
-
-
-## opennic-famicoman
-OpenNIC DNS server with DNSCrypt support
-sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
-
-
 ## opennic-luggs
 Public DNS server in Canada operated by Luggs
 sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
@@ -471,14 +403,6 @@ DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
-
-
-## qag.me
-Plain Vanilla setup of dnscrypt-server-docker on a headless box. NO LOGGING.
-Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
-Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
-
-sdns://AQcAAAAAAAAAEjEwNi41MS4xMjguNzg6NDQzNCCm-rdko9ehxyCNEdoBhIYCgaUIh7xCPd79M893C3rv_xYyLmRuc2NyeXB0LWNlcnQucWFnLm1l
 
 
 ## qualityology.com
