@@ -404,6 +404,17 @@ Maintained by publicarray - https://dns.seby.io
 
 sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
 
+## publicarray-au2
+DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
+Maintained by publicarray
+
+sdns://AQcAAAAAAAAAEjM1LjIwMS4yMC4xNzk6ODQ0MyDbu252PopUsAoQmpOFc8eYC4rkr2nWINwVQPMlc8lN8xsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+
+## publicarray-au-doh
+DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
+Maintained by publicarray
+
+sdns://AgcAAAAAAAAAETM1LjIwMS4yMC4xNzk6NDQzAAtkb2guc2VieS5pbwovZG5zLXF1ZXJ5
 
 ## qualityology.com
 Non-logging, non-filtering, DNSSEC validating server in Mountain View,
