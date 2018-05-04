@@ -63,3 +63,10 @@ sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 Family filter - Blocks adult content + mixed content sites + proxies + enforces safe search engine mode.
 By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
+
+## sfw.scaleway-fr
+Uses deep learning to block adult websites. Free, DNSSEC, no logs.
+Hosted in Paris, running on a 1-XS server donated by Scaleway.com
+Maintained by Frank Denis
+
+sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
