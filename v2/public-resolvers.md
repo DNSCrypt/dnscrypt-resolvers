@@ -365,7 +365,7 @@ sdns://AQcAAAAAAAAAEjE5NS4yMDEuMTYuNjE6NDQzNCDQEZd7QrwiKuovLQjd7swAmeD2i5R-4YLdU
 
 ## google
 Google DNS (anycast)
-sdns://AgUAAAAAAAAAACDyXGrcc5eNecJ8nomJCJ-q6eCLTEn6bHic0hWGUwYQaA5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
+sdns://AgUAAAAAAAAAACAe9iTP_15r07rd8_3b_epWVGfjdymdx-5mdRZvMAzBuQ5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
 
 
 ## ipredator
