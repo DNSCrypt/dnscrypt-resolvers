@@ -64,6 +64,13 @@ Family filter - Blocks adult content + mixed content sites + proxies + enforces 
 By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
 
+
+## nawala-childprotection
+Internet filtering system (anycast), protecting child from inappropriate websites and abusive contents.
+By http://nawala.id in Indonesia.
+sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIHdOzLhkyLmRuc2NyeXB0LWNlcnQubmF3YWxhLmlk
+
+
 ## sfw.scaleway-fr
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
 Hosted in Paris, running on a 1-XS server donated by Scaleway.com
