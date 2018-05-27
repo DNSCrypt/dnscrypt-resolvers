@@ -465,3 +465,9 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
 Hosted in Germany
 sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8gumVIrn4GIrn6aTB1fUfMi5kbnNjcnlwdC1jZXJ0Lnplcm9haW0uZGUtaXB2Ng
+
+## ibksturm
+dnscrypt-server (dnscrypt-wrapper - dnsmasq backend), DNSSEC / Non-Logged / Unsencored, resolvs OPENNiC
+Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
+dnscrypt-resolvers/v2/public-resolvers.md
+
