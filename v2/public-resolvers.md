@@ -26,7 +26,7 @@ To use that list, add this to the `[sources]` section of your
 DNS-over-HTTPS server running rust-doh with PiHole for Adblocking.
 
 Non-logging, AD-filtering, supports DNSSEC.
-Hosted in Netherland on a RamNode VPS.
+Hosted in Netherlands on a RamNode VPS.
 
 sdns://AgMAAAAAAAAADjE3Ni41Ni4yMzYuMTc1AA5kbnMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
