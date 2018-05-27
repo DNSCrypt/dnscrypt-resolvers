@@ -352,6 +352,12 @@ Google DNS (anycast)
 sdns://AgUAAAAAAAAAACAe9iTP_15r07rd8_3b_epWVGfjdymdx-5mdRZvMAzBuQ5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
 
 
+## ibksturm
+dnscrypt-server (dnscrypt-wrapper - dnsmasq backend), DNSSEC / Non-Logged / Uncensored, OpenNIC
+Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
+sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
+
+
 ## ipredator
 Public DNSCrypt server in Sweden provided by Ipredator.se
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
@@ -465,10 +471,3 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
 Hosted in Germany
 sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8gumVIrn4GIrn6aTB1fUfMi5kbnNjcnlwdC1jZXJ0Lnplcm9haW0uZGUtaXB2Ng
-
-## ibksturm
-dnscrypt-server (dnscrypt-wrapper - dnsmasq backend), DNSSEC / Non-Logged / Unsencored, resolvs OPENNiC
-Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
-sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
-
-
