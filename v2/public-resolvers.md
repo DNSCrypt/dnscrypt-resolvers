@@ -469,5 +469,6 @@ sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8g
 ## ibksturm
 dnscrypt-server (dnscrypt-wrapper - dnsmasq backend), DNSSEC / Non-Logged / Unsencored, resolvs OPENNiC
 Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
-dnscrypt-resolvers/v2/public-resolvers.md
+sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
+
 
