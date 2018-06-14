@@ -28,7 +28,7 @@ DNS-over-HTTPS server running rust-doh with PiHole for Adblocking.
 Non-logging, AD-filtering, supports DNSSEC.
 Hosted in Netherlands on a RamNode VPS.
 
-AgMAAAAAAAAADjE3Ni41Ni4yMzYuMTc1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5hYWZsYWxvLm1lCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADjE3Ni41Ni4yMzYuMTc1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5hYWZsYWxvLm1lCi9kbnMtcXVlcnk
 
 
 ## adguard-dns-family
