@@ -22,6 +22,14 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
+## aaflalo-me
+DNS-over-HTTPS server running rust-doh with PiHole for Adblocking.
+
+Non-logging, AD-filtering, supports DNSSEC.
+Hosted in Netherlands on a RamNode VPS.
+
+sdns://AgMAAAAAAAAADjE3Ni41Ni4yMzYuMTc1AA5kbnMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
+
 ## adguard-dns-family
 Adguard DNS with safesearch and adult content blocking
 sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
