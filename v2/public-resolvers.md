@@ -422,7 +422,7 @@ Maintained by publicarray
 sdns://AgcAAAAAAAAAETM1LjIwMS4yMC4xNzk6NDQzAAtkb2guc2VieS5pbwovZG5zLXF1ZXJ5
 
 ## qag.me
-Plain Vanilla setup of dnscrypt-server-docker on a headless box. NO LOGGING.
+Plain Vanilla setup of dnscrypt-server-docker on a headless box. Upstream to 1.1.1.1.
 Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
 Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
 
