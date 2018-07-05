@@ -309,13 +309,18 @@ sdns://AQcAAAAAAAAADjk0LjE5OS4yMTMuMTcyIGBM5f1Wb-7SLs4vAJ7gc4hyFSmM5OOLWOvI3Hu5g
 
 
 ## dnscrypt.nl-ns0
-Public DNSCrypt server in Amsterdam, the Netherlands
+DNSCrypt v2 server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, recursive DNS. https://dnscrypt.nl
 sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKyh8yLmRuc2NyeXB0LWNlcnQubnMwLmRuc2NyeXB0Lm5s
 
 
 ## dnscrypt.nl-ns0-ipv6
-Public DNSCrypt server in Amsterdam, the Netherlands
+DNSCrypt v2 server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, recursive DNS. https://dnscrypt.nl
 sdns://AQcAAAAAAAAAJlsyMDAxOjE5ZjA6NTAwMTozMGE6NTQwMDpmZjpmZTU4OjcxNDBdIEyE-4wFEV36X5fF7QMpE3DHirzWThXdU6sI3nL7hErKHzIuZG5zY3J5cHQtY2VydC5uczAuZG5zY3J5cHQubmw
+
+
+## dnscrypt.nl-ns0-doh
+DNS-over-HTTPS server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, recursive DNS. https://dnscrypt.nl
+sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwAA9kb2guZG5zY3J5cHQubmwKL2Rucy1xdWVyeQ
 
 
 ## doh-crypto-sx
