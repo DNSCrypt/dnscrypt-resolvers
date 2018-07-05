@@ -320,7 +320,7 @@ sdns://AQcAAAAAAAAAJlsyMDAxOjE5ZjA6NTAwMTozMGE6NTQwMDpmZjpmZTU4OjcxNDBdIEyE-4wFE
 
 ## dnscrypt.nl-ns0-doh
 DNS-over-HTTPS server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, recursive DNS. https://dnscrypt.nl
-sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwAA9kb2guZG5zY3J5cHQubmwKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D2RvaC5kbnNjcnlwdC5ubAovZG5zLXF1ZXJ5
 
 
 ## doh-crypto-sx
