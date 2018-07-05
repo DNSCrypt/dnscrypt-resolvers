@@ -348,14 +348,6 @@ Fusl's public secondary OpenNIC Tier2 Anycast DNS Resolver
 sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
 
 
-## flatty.co
-Plain Vanilla setup of dnscrypt-server-docker hosted on hetzner. NO LOGGING.
-DNS served from the Hetzner.com Datacenter in Germany.
-Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
-
-sdns://AQcAAAAAAAAAEjE5NS4yMDEuMTYuNjE6NDQzNCDQEZd7QrwiKuovLQjd7swAmeD2i5R-4YLdUY7ZgC0xdhkyLmRuc2NyeXB0LWNlcnQuZmxhdHR5LmNv
-
-
 ## google
 Google DNS (anycast)
 sdns://AgUAAAAAAAAAACAe9iTP_15r07rd8_3b_epWVGfjdymdx-5mdRZvMAzBuQ5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
