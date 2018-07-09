@@ -31,11 +31,29 @@ Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
+## opennic-ethservices
+
+OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
+Location: Frankfurt, Germany
+By ethservices.
+
+sdns://AQUAAAAAAAAAEjk0LjI0Ny40My4yNTQ6NTM1MyDUQmYmXRg576Roac_42Ue6uQtQ664-FvA20PgVt_UIfigyLmRuc2NyeXB0LWNlcnQub3Blbm5pYzEuZXRoLXNlcnZpY2VzLmRl
+
 ## opennic-famicoman
 
-OpenNIC DNS server with DNSCrypt support
+OpenNIC • NoLogs • NoFilters
+Location: Amsterdam, Netherlands
+By famicoman.phillymesh.net
 
 sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
+
+## opennic-famicoman-ipv6
+
+OpenNIC • NoLogs • NoFilters • IPv6
+Location: Amsterdam, Netherlands
+By famicoman.phillymesh.net
+
+sdns://AQYAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjoxYTc6YzAwMV06NTM1MyC4j0hgVRc2lqPSv-Dsx2F1GY_gEuEBtP6GnB6cTDXnTzYyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5wZWVyMy5mYW1pY29tYW4ucGhpbGx5bWVzaC5uZXQ
 
 ## opennic-tumabox
 
@@ -57,9 +75,21 @@ sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bB
 
 ## opennic-luggs-ipv6
 
-Public DNS server in Canada operated by Luggs
+Public DNS server in Canada operated by Luggs (IPv6)
 
 sdns://AQYAAAAAAAAAIVsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDQ6MTExXSAcGXkzG-gjzM8ImnkGk35cNBAqVqx_YnDgRiWy7dsE4x8yLmRuc2NyeXB0LWNlcnQubnMzLmNhLmx1Z2dzLmNv
+
+## opennic-luggs2
+
+Second public DNS server in Canada operated by Luggs
+
+sdns://AQYAAAAAAAAAEDE0Mi40LjIwNS40Nzo0NDMgvL-34FDBPaJCLACwsaya1kjFwmS8thcLiD1xishuugkfMi5kbnNjcnlwdC1jZXJ0Lm5zNC5jYS5sdWdncy5jbw
+
+## opennic-luggs2-ipv6
+
+Second public DNS server in Canada operated by Luggs (IPv6)
+
+sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
 
 ## opennic-onic
 
@@ -73,3 +103,17 @@ DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+
+## publicarray-au2
+
+DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
+Maintained by publicarray
+
+sdns://AQcAAAAAAAAAEjM1LjIwMS4yMC4xNzk6ODQ0MyDbu252PopUsAoQmpOFc8eYC4rkr2nWINwVQPMlc8lN8xsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+
+## publicarray-au-doh
+
+DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
+Maintained by publicarray
+
+sdns://AgcAAAAAAAAAETM1LjIwMS4yMC4xNzk6NDQzAAtkb2guc2VieS5pbwovZG5zLXF1ZXJ5
