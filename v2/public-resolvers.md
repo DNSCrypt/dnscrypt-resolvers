@@ -241,12 +241,6 @@ provided by cryptostorm.is
 
 sdns://AQIAAAAAAAAADjE4NS45NC4xOTMuMjM0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
-## cs-uk
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADTUuMTAxLjEzNy4yNTEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
 ## cs-useast2
 
 provided by cryptostorm.is
@@ -449,14 +443,6 @@ Location: Amsterdam, Netherlands
 By famicoman.phillymesh.net
 
 sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
-
-## opennic-famicoman-ipv6
-
-OpenNIC • NoLogs • NoFilters • IPv6
-Location: Amsterdam, Netherlands
-By famicoman.phillymesh.net
-
-sdns://AQYAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjoxYTc6YzAwMV06NTM1MyC4j0hgVRc2lqPSv-Dsx2F1GY_gEuEBtP6GnB6cTDXnTzYyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5wZWVyMy5mYW1pY29tYW4ucGhpbGx5bWVzaC5uZXQ
 
 ## opennic-luggs
 

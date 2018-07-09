@@ -47,14 +47,6 @@ By famicoman.phillymesh.net
 
 sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
 
-## opennic-famicoman-ipv6
-
-OpenNIC • NoLogs • NoFilters • IPv6
-Location: Amsterdam, Netherlands
-By famicoman.phillymesh.net
-
-sdns://AQYAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjoxYTc6YzAwMV06NTM1MyC4j0hgVRc2lqPSv-Dsx2F1GY_gEuEBtP6GnB6cTDXnTzYyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5wZWVyMy5mYW1pY29tYW4ucGhpbGx5bWVzaC5uZXQ
-
 ## opennic-tumabox
 
 Public DNS server operated by TumaBox.org
