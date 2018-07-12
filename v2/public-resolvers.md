@@ -413,7 +413,7 @@ sdns://AgUAAAAAAAAAACAe9iTP_15r07rd8_3b_epWVGfjdymdx-5mdRZvMAzBuQ5kbnMuZ29vZ2xlL
 Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
 Hosted in Digital Ocean droplet in SGP region. Upstream to 1.1.1.1.
 
-sdns://AgYAAAAAAAAADDE2Ny45OS4zMS42OSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFzZy5kbnMuZ3JpZC5pbi50aAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADDE2Ny45OS4zMS42OSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFzZy5kbnMuZ3JpZC5pbi50aAovZG5zLXF1ZXJ5
 
 ## ibksturm
 
