@@ -26,7 +26,7 @@ sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2T
 
 ## ibksturm
 
-dnscrypt-server (dnscrypt-wrapper - dnsmasq backend), DNSSEC / Non-Logged / Uncensored, OpenNIC
+dnscrypt-server (dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
