@@ -12,6 +12,13 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
+## doh-ibksturm
+
+doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
+
+sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kbnMtcXVlcnk
+
 ## fvz-anyone
 
 Fusl's public primary OpenNIC Tier2 Anycast DNS Resolver

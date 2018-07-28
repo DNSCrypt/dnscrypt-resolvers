@@ -107,20 +107,6 @@ By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
-## doh-cleanbrowsing-family
-
-Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
-By https://cleanbrowsing.org/
-
-sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
-
-## doh-cleanbrowsing-adult
-
-Adult filter - Blocks adult content + enforces Safe Search engine mode.
-By https://cleanbrowsing.org/
-
-sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
-
 ## cloudflare
 
 Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
@@ -369,12 +355,33 @@ DNS-over-HTTPS server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored
 
 sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D2RvaC5kbnNjcnlwdC5ubAovZG5zLXF1ZXJ5
 
+## doh-cleanbrowsing-family
+
+Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
+By https://cleanbrowsing.org/
+
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
+
+## doh-cleanbrowsing-adult
+
+Adult filter - Blocks adult content + enforces Safe Search engine mode.
+By https://cleanbrowsing.org/
+
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
+
 ## doh-crypto-sx
 
 DNS-over-HTTPS server. Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAADTEwNC4xOS4xOTguMjkgHdhQioxWWQQ5fHhkUeCPV2E888inI_bzef1MOFi2858NZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
+
+## doh-ibksturm
+
+doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
+
+sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kbnMtcXVlcnk
 
 ## ev-us
 
@@ -415,20 +422,12 @@ Hosted in Digital Ocean droplet in SGP region. Upstream to 1.1.1.1.
 
 sdns://AgMAAAAAAAAADDE2Ny45OS4zMS42OSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFzZy5kbnMuZ3JpZC5pbi50aAovZG5zLXF1ZXJ5
 
-
 ## ibksturm
 
 dnscrypt-server (dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
-
-## doh-ibksturm
-
-doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
-Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
-
-sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kbnMtcXVlcnkk
 
 ## ipredator
 
