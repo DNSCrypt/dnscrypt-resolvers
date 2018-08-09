@@ -294,6 +294,12 @@ Hosted by vultr.com (Frankfurt Germany)
 
 sdns://AQcAAAAAAAAAEzIwOS4yNTAuMjM1LjE3MDo0NDMgz0wbvISl_NVCSe0wDJMS79BAFZoWth1djmhuzv_n3KAiMi5kbnNjcnlwdC1jZXJ0LmRlLmRuc21hc2NoaW5lLm5ldA
 
+## dns.upright.network-1
+
+dnscrypt-server Docker based. Provided by Upright Network: Hosted in Sydney
+
+sdns://AQcAAAAAAAAAEjE0OS4yOC4xNjAuMTM4OjQ0MyBA4nvJO8w80UVlJvtgBgSiH6FXHiMZeXRGTonHbYmzAiMyLmRuc2NyeXB0LWNlcnQuZG5zLnVwcmlnaHQubmV0d29yaw
+
 ## dnscrypt.ca-1
 
 Uncensored DNSSEC validating and log-free
@@ -596,9 +602,3 @@ dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
 Hosted in Germany
 
 sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8gumVIrn4GIrn6aTB1fUfMi5kbnNjcnlwdC1jZXJ0Lnplcm9haW0uZGUtaXB2Ng
-
-## dns.upright.network-1
-
-dnscrypt-server Docker based. Provided by Upright Network: Hosted in Sydney
-
-sdns://AQcAAAAAAAAAEjE0OS4yOC4xNjAuMTM4OjQ0MyBA4nvJO8w80UVlJvtgBgSiH6FXHiMZeXRGTonHbYmzAiMyLmRuc2NyeXB0LWNlcnQuZG5zLnVwcmlnaHQubmV0d29yaw
