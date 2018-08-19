@@ -571,13 +571,6 @@ Public DNSCrypt server in Poland
 
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
 
-## trashvpn
-
-dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
-Hosted in Germany
-
-sdns://AQcAAAAAAAAAEzM3LjIyMS4xOTUuMTgxOjg0NDMgeWFZIMbyef83QDyIdD3cE9Fe_4QcTDw4nKWJDSacGvYbMi5kbnNjcnlwdC1jZXJ0LnRyYXNodnBuLmRl
-
 ## ventricle.us
 
 Public DNSCrypt resolver provided by Jacob Henner
