@@ -355,6 +355,23 @@ DNS-over-HTTPS server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored
 
 sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D2RvaC5kbnNjcnlwdC5ubAovZG5zLXF1ZXJ5
 
+
+## doh-blahdns-de
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany 
+
+https://blahdns.com/
+
+sdns://AgMAAAAAAAAACzIxNy42MS4wLjk3ABJkb2guZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+## doh-blahdns
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan 
+
+https://blahdns.com/
+
+sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
 ## doh-cleanbrowsing-family
 
 Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
