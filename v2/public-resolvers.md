@@ -25,10 +25,9 @@ To use that list, add this to the `[sources]` section of your
 
 ## aaflalo-me-gcp
 
-DNS-over-HTTPS server running rust-doh with PiHole for Adblocking.
+DNS-over-HTTPS proxy of aaflalo-me hosted in Google Cloud Platform.
 
 Non-logging, AD-filtering, supports DNSSEC.
-Proxy of aaflalo-me hosted in Google Cloud Platform.
 
 sdns://AgMAAAAAAAAADTM1LjIyNy4zMi4yMjcgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSZG5zLWdjcC5hYWZsYWxvLm1lCi9kbnMtcXVlcnk
 
