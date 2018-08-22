@@ -364,6 +364,19 @@ DNS-over-HTTPS server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored
 
 sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D2RvaC5kbnNjcnlwdC5ubAovZG5zLXF1ZXJ5
 
+## dnscrypt.uk-ipv4
+
+DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK by Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAAEjEzOS41OS4yMDAuMTE2OjQ0MyAmJwT-OXZ9NntZ2eu_HtZeXARhCdiAynbBYcu6bArCdxsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
+
+## dnscrypt.uk-ipv6
+
+DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK by Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6MmUzOmUwMDFdOjQ0MyAmJwT-OXZ9NntZ2eu_HtZeXARhCdiAynbBYcu6bArCdxsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
 
 ## doh-blahdns-de
 
