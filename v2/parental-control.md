@@ -45,6 +45,19 @@ By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
+## doh-blahdns-de
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany 
+https://blahdns.com/
+
+sdns://AgMAAAAAAAAACzIxNy42MS4wLjk3ABJkb2guZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+## doh-blahdns
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan 
+https://blahdns.com/
+
+sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## doh-cleanbrowsing-family
 
 Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
