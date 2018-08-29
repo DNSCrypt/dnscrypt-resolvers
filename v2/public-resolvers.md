@@ -428,7 +428,7 @@ Non-logging, uncensored DNS resolver provided by evilvibes.com
 Hosted by: vultr.com - Location: Seattle, USA
 https://www.evilvibes.com/dnscrypt
 
-sdns://AQcAAAAAAAAADzEwNC4xNTYuMjUzLjExMyDnaC_jr-UyTXQYQ8OkLyMQ5lhGKZas3QyMC0tati69MB0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
+sdns://AQcAAAAAAAAADjEwNC4xNTYuMjUyLjE4ILNYRzmUAe4JezM_eiaokRdEOF7hA_jTl65AAyNMlNYQHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
 ## freetsa.org
 
