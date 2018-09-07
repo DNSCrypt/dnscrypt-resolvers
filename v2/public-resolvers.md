@@ -112,6 +112,16 @@ By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
+## cleanbrowsing-adult-ipv6
+
+Blocks access to all adult, pornographic and explicit sites. It does
+not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
+are allowed. Google and Bing are set to the Safe Mode.
+
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
+
 ## cleanbrowsing-family
 
 Blocks access to all adult, pornographic and explicit sites. It also
@@ -122,6 +132,24 @@ Youtube are set to the Safe Mode.
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
+
+## cleanbrowsing-family-ipv6
+
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
+
+## doh-cleanbrowsing-security
+
+Block access to phishing, malware and malicious domains. It does not block adult content.
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAEjE4NS4yMjguMTY4Ljk6ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
 
 ## cloudflare
 
@@ -424,11 +452,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 ## doh-cleanbrowsing-security
 
-Blocks access to all adult, pornographic and explicit sites. It also
-blocks proxy and VPN domains that are used to bypass the filters.
-Mixed content sites (like Reddit) are also blocked. Google, Bing and
-Youtube are set to the Safe Mode.
-
+Block access to phishing, malware and malicious domains. It does not block adult content.
 By https://cleanbrowsing.org/
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnFS9kb2gvc2VjdXJpdHktZmlsdGVyLw

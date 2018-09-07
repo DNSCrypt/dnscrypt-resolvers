@@ -75,15 +75,23 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 
 ## cleanbrowsing-family-ipv6
 
-Family filter - Blocks adult content + mixed content sites + proxies + enforces safe search engine mode.
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
 
 ## cleanbrowsing-adult-ipv6
 
-Family filter - Blocks adult content + mixed content sites + proxies + enforces safe search engine mode.
+Blocks access to all adult, pornographic and explicit sites. It does
+not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
+are allowed. Google and Bing are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
+
 sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
 
 ## nawala-childprotection
