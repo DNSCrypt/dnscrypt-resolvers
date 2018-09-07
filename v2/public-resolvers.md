@@ -102,19 +102,26 @@ Cisco OpenDNS IPv6 sandbox
 
 sdns://AQAAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
-## cleanbrowsing-family
-
-Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
-By https://cleanbrowsing.org/
-
-sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
-
 ## cleanbrowsing-adult
 
-Adult filter - Blocks adult content + enforces Safe Search engine mode.
+Blocks access to all adult, pornographic and explicit sites. It does
+not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
+are allowed. Google and Bing are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
+
+## cleanbrowsing-family
+
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
 
 ## cloudflare
 
@@ -380,7 +387,7 @@ sdns://AQcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6MmUzOmUwMDFdOjQ0MyAmJwT-OXZ9NntZ2eu_H
 
 ## doh-blahdns-de
 
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany 
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
 
 https://blahdns.com/
 
@@ -388,25 +395,43 @@ sdns://AgMAAAAAAAAACzIxNy42MS4wLjk3ABJkb2guZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 ## doh-blahdns
 
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan 
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan
 
 https://blahdns.com/
 
 sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
+## doh-cleanbrowsing-adult
+
+Blocks access to all adult, pornographic and explicit sites. It does
+not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
+are allowed. Google and Bing are set to the Safe Mode.
+
+By https://cleanbrowsing.org/
+
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
+
 ## doh-cleanbrowsing-family
 
-Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
-## doh-cleanbrowsing-adult
+## doh-cleanbrowsing-security
 
-Adult filter - Blocks adult content + enforces Safe Search engine mode.
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
-sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
+sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnFS9kb2gvc2VjdXJpdHktZmlsdGVyLw
 
 ## doh-crypto-sx
 

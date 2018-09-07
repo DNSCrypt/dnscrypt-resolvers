@@ -31,30 +31,44 @@ Block websites not suitable for children
 
 sdns://AQAAAAAAAAAAEjIwOC42Ny4yMjAuMTIzOjQ0MyC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
-## cleanbrowsing-family
-
-Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
-By https://cleanbrowsing.org/
-
-sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
-
 ## cleanbrowsing-adult
 
-Adult filter - Blocks adult content + enforces Safe Search engine mode.
+Blocks access to all adult, pornographic and explicit sites. It does
+not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
+are allowed. Google and Bing are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
+## cleanbrowsing-family
+
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
+By https://cleanbrowsing.org/
+
+sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
+
 ## doh-cleanbrowsing-family
 
-Family filter - Blocks adult content on all languages + mixed content sites + proxies + enforces Safe Search engine on Google, Bing and Youtube.
+Blocks access to all adult, pornographic and explicit sites. It also
+blocks proxy and VPN domains that are used to bypass the filters.
+Mixed content sites (like Reddit) are also blocked. Google, Bing and
+Youtube are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 ## doh-cleanbrowsing-adult
 
-Adult filter - Blocks adult content + enforces Safe Search engine mode.
+Blocks access to all adult, pornographic and explicit sites. It does
+not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
+are allowed. Google and Bing are set to the Safe Mode.
+
 By https://cleanbrowsing.org/
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
