@@ -651,6 +651,12 @@ Uncensored and no logging
 
 sdns://AgcAAAAAAAAADjE0Ni4xODUuMTY3LjQzABBkb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
 
+## securedns-ipv6-doh
+
+Uncensored and no logging
+
+sdns://AgcAAAAAAAAAGjJhMDM6YjBjMDowOjEwMTA6OmU5YTozMDAxABBkb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
+
 ## sfw.scaleway-fr
 
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
