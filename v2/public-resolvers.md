@@ -635,25 +635,25 @@ sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHk
 
 ## securedns
 
-Uncensored and no logging
+Uncensored and no logging (DNSCrypt protocol)
 
 sdns://AQcAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjUzNTMgs6WXaRRXWwSJ4Z-unEPmefryjFcYlwAxf3u0likfsJUcMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZWRucy5ldQ
 
 ## securedns-ipv6
 
-Uncensored and no logging
+Uncensored and no logging (IPv6, DNSCrypt protocol)
 
 sdns://AQcAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV06NTM1MyCzpZdpFFdbBInhn66cQ-Z5-vKMVxiXADF_e7SWKR-wlRwyLmRuc2NyeXB0LWNlcnQuc2VjdXJlZG5zLmV1
 
 ## securedns-doh
 
-Uncensored and no logging
+Uncensored and no logging (DoH protocol)
 
 sdns://AgcAAAAAAAAADjE0Ni4xODUuMTY3LjQzABBkb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
 
 ## securedns-ipv6-doh
 
-Uncensored and no logging
+Uncensored and no logging (IPv6, DoH protocol)
 
 sdns://AgcAAAAAAAAAGjJhMDM6YjBjMDowOjEwMTA6OmU5YTozMDAxABBkb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
 
