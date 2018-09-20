@@ -655,7 +655,7 @@ Non-logging, non-filtering, DNSSEC validating server in Mountain View,
 California.
 Maintained by Evan Xu (@ex-git)
 
-sdns://AQcAAAAAAAAAEzEwNC4xOTguMTEwLjExNTo0NDMgg2u3HcgDDo2XsrKL05-UK3r6Z7RGMKwymuTIQ4fQZegkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
+sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgi9LphtsRL5o4aPE1gkAGO2ss-5h153BR2A8-AlDXwpEkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
 
 ## scaleway-fr
 
@@ -702,6 +702,13 @@ sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01W
 Public DNSCrypt server in Poland
 
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
+
+## trashvpn.de
+
+dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
+Hosted in Germany
+
+stamp = 'sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTUuMTgxOjQ0MyAl_sppDIKYr4Er_QKZ1ee96Xy_f5ZZs5Dxo0EvV22IoBsyLmRuc2NyeXB0LWNlcnQudHJhc2h2cG4uZGU'
 
 ## ventricle.us
 
