@@ -708,7 +708,7 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
 Hosted in Germany
 
-stamp = 'sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTUuMTgxOjQ0MyAl_sppDIKYr4Er_QKZ1ee96Xy_f5ZZs5Dxo0EvV22IoBsyLmRuc2NyeXB0LWNlcnQudHJhc2h2cG4uZGU'
+sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTUuMTgxOjQ0MyAl_sppDIKYr4Er_QKZ1ee96Xy_f5ZZs5Dxo0EvV22IoBsyLmRuc2NyeXB0LWNlcnQudHJhc2h2cG4uZGU
 
 ## ventricle.us
 
