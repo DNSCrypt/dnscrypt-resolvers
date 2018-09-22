@@ -604,10 +604,17 @@ sdns://AQcAAAAAAAAAEjM1LjIwMS4yMC4xNzk6ODQ0MyDbu252PopUsAoQmpOFc8eYC4rkr2nWINwVQ
 
 ## publicarray-au-doh
 
+DNSSEC • OpenNic • Non-logging • Uncensored - hosted on vultr.com
+Maintained by publicarray
+
+sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
+
+## publicarray-au2-doh
+
 DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
 Maintained by publicarray
 
-sdns://AgcAAAAAAAAAETM1LjIwMS4yMC4xNzk6NDQzAAtkb2guc2VieS5pbwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTM1LjIwMS4yMC4xNzkgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPZG9oLnNlYnkuaW86NDQzCi9kbnMtcXVlcnk
 
 ## qag.me
 
