@@ -662,7 +662,7 @@ Non-logging, non-filtering, DNSSEC validating server in Mountain View,
 California.
 Maintained by Evan Xu (@ex-git)
 
-sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgi9LphtsRL5o4aPE1gkAGO2ss-5h153BR2A8-AlDXwpEkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
+sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgcLFt2QLxD5rsnp4cJjYqIF5zW1C3_9jGXDkTWrwQg5UkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
 
 ## scaleway-fr
 
