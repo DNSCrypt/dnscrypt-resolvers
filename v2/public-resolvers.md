@@ -658,11 +658,10 @@ sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC
 
 ## qualityology.com
 
-Non-logging, non-filtering, DNSSEC validating server in Mountain View,
-California.
+Non-logging, non-filtering, DNSSEC validating server in Los Angeles, California.
 Maintained by Evan Xu (@ex-git)
 
-sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgcLFt2QLxD5rsnp4cJjYqIF5zW1C3_9jGXDkTWrwQg5UkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
+sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgQBr-sZr8SDgaSZT9CbVOxFyNeLqFNhF1XiZJX2ZDwzwkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
 
 ## scaleway-fr
 
