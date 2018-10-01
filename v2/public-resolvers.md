@@ -471,6 +471,12 @@ Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kbnMtcXVlcnk
 
+## eieiDNS
+
+DNS-over-HTTPS server. Blocks ad and Tracking, DNSSEC, Hosted in Thailand
+
+sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMQAUZG9oMS5laWVpZG5zLmNvbTo0NDMKL2Rucy1xdWVyeQ
+
 ## ev-us
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
