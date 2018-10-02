@@ -485,7 +485,7 @@ DNS-over-HTTPS server. Blocks ad and Tracking, DNSSEC, Hosted in Thailand
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to upstream servers.
 
-sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMQAUZG9oMS5laWVpZG5zLmNvbTo0NDMKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkb2gxLmVpZWlkbnMuY29tOjQ0MwovZG5zLXF1ZXJ5
 
 ## ev-us
 
