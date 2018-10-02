@@ -80,13 +80,14 @@ Maintained by Abhay Rana aka Nemo.
 
 If you are within India, this might be a nice DNS server to use.
 
-Warning: forwards queries to Cisco servers.
-
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
 ## cisco
 
 Remove your DNS blind spot
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
 
 sdns://AQAAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
@@ -94,11 +95,17 @@ sdns://AQAAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 
 Block websites not suitable for children
 
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
 sdns://AQAAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
 ## cisco-ipv6
 
 Cisco OpenDNS IPv6 sandbox
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
 
 sdns://AQAAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
@@ -475,7 +482,10 @@ sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kb
 
 DNS-over-HTTPS server. Blocks ad and Tracking, DNSSEC, Hosted in Thailand
 
-sdns://AgAAAAAAAAAADDEwMy44Ni40OS4zMQAUZG9oMS5laWVpZG5zLmNvbTo0NDMKL2Rucy1xdWVyeQ
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to upstream servers.
+
+sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMQAUZG9oMS5laWVpZG5zLmNvbTo0NDMKL2Rucy1xdWVyeQ
 
 ## ev-us
 
