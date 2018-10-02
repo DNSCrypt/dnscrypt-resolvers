@@ -471,6 +471,12 @@ Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kbnMtcXVlcnk
 
+## eieiDNS
+
+DNS-over-HTTPS server. Blocks ad and Tracking, DNSSEC, Hosted in Thailand
+
+sdns://AgAAAAAAAAAADDEwMy44Ni40OS4zMQAUZG9oMS5laWVpZG5zLmNvbTo0NDMKL2Rucy1xdWVyeQ
+
 ## ev-us
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
@@ -595,26 +601,12 @@ Maintained by publicarray - https://dns.seby.io
 
 sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
 
-## publicarray-au2
-
-DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
-Maintained by publicarray
-
-sdns://AQcAAAAAAAAAEjM1LjIwMS4yMC4xNzk6ODQ0MyDbu252PopUsAoQmpOFc8eYC4rkr2nWINwVQPMlc8lN8xsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
-
 ## publicarray-au-doh
 
 DNSSEC • OpenNic • Non-logging • Uncensored - hosted on vultr.com
-Maintained by publicarray
+Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
-
-## publicarray-au2-doh
-
-DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
-Maintained by publicarray
-
-sdns://AgcAAAAAAAAADTM1LjIwMS4yMC4xNzkgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPZG9oLnNlYnkuaW86NDQzCi9kbnMtcXVlcnk
 
 ## qag.me
 
@@ -658,11 +650,10 @@ sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC
 
 ## qualityology.com
 
-Non-logging, non-filtering, DNSSEC validating server in Mountain View,
-California.
+Non-logging, non-filtering, DNSSEC validating server in Los Angeles, California.
 Maintained by Evan Xu (@ex-git)
 
-sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgcLFt2QLxD5rsnp4cJjYqIF5zW1C3_9jGXDkTWrwQg5UkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
+sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgQBr-sZr8SDgaSZT9CbVOxFyNeLqFNhF1XiZJX2ZDwzwkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
 
 ## scaleway-fr
 
