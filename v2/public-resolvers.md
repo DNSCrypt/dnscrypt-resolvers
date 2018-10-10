@@ -626,37 +626,69 @@ Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
 
 sdns://AQcAAAAAAAAAEjEwNi41MS4xMjguNzg6NDQzNCDrpsCqF14emkVAo_yJi9T2xxp5KmXhlGtbTL1R-5vVLhYyLmRuc2NyeXB0LWNlcnQucWFnLm1l
 
-## quad9-ip4-filter-pri
+## quad9-dnscrypt-ip4-filter-pri
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9
 sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
-## quad9-ip4-filter-alt
-Quad9 (anycast) dnssec/no-log/filter 149.112.112.112
-sdns://AQMAAAAAAAAAFDE0OS4xMTIuMTEyLjExMjo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
+## quad9-dnscrypt-ip4-filter-alt
+Quad9 (anycast) dnssec/no-log/filter 149.112.112.9
+sdns://AQMAAAAAAAAAEjE0OS4xMTIuMTEyLjk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
-## quad9-ip4-nofilter-pri
+## quad9-dnscrypt-ip4-nofilter-pri
 Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10
 sdns://AQYAAAAAAAAADTkuOS45LjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
 
-## quad9-ip4-nofilter-alt
+## quad9-dnscrypt-ip4-nofilter-alt
 Quad9 (anycast) no-dnssec/no-log/no-filter 149.112.112.10
 sdns://AQYAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
 
-## quad9-ip6-filter-pri
-Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe
-sdns://AQMAAAAAAAAAElsyNjIwOmZlOjpmZV06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
-
-## quad9-ip6-filter-alt
+## quad9-dnscrypt-ip6-filter-alt
 Quad9 (anycast) dnssec/no-log/filter 2620:fe::9
 sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
 
-## quad9-ip6-nofilter-pri
+## quad9-dnscrypt-ip6-filter-pri
+Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9
+sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
+
+## quad9-dnscrypt-ip6-nofilter-pri
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10
 sdns://AQYAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
-## quad9-ip6-nofilter-alt
+## quad9-dnscrypt-ip6-nofilter-alt
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::fe:10
 sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
+
+## quad9-doh-ip4-filter-pri
+Quad9 (anycast) dnssec/no-log/filter 9.9.9.9
+sdns://AgMAAAAAAAAABzkuOS45LjmAABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+
+## quad9-doh-ip4-filter-alt
+Quad9 (anycast) dnssec/no-log/filter 149.112.112.9
+sdns://AgMAAAAAAAAADTE0OS4xMTIuMTEyLjmAABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+
+## quad9-doh-ip4-nofilter-pri
+Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10
+sdns://AgYAAAAAAAAACDkuOS45LjEwgAASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
+
+## quad9-doh-ip4-nofilter-alt
+Quad9 (anycast) no-dnssec/no-log/no-filter 149.112.112.10
+sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEwgAASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
+
+## quad9-doh-ip6-filter-pri
+Quad9 (anycast) dnssec/no-log/filter 2620:fe::9
+sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XYAAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+
+## quad9-doh-ip6-filter-alt
+Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9
+sdns://AgMAAAAAAAAAD1syNjIwOmZlOjpmZTo5XYAAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+
+## quad9-doh-ip6-nofilter-pri
+Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10
+sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF2AABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+
+## quad9-doh-ip6-nofilter-alt
+Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::fe:10
+sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF2AABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
 
 ## qualityology.com
 
