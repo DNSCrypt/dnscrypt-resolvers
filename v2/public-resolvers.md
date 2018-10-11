@@ -170,6 +170,12 @@ Cloudflare DNS over IPv6 (anycast)
 
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NTOgENk8mGSlIfMGXMOlIlCcKvq7AVgcrZxtjon911-ep0cg63Ul-I8NlFj4GplQGb_TTLiczclX57DvMV8Q-JdjgRgSZG5zLmNsb3VkZmxhcmUuY29tCi9kbnMtcXVlcnk
 
+## commons-host
+
+DoH server by the Commons Host CDN
+
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxjb21tb25zLmhvc3QKL2Rucy1xdWVyeQ
+
 ## comodo-02
 
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
