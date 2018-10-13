@@ -426,6 +426,38 @@ https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6MmUzOmUwMDFdOjQ0MyAmJwT-OXZ9NntZ2eu_HtZeXARhCdiAynbBYcu6bArCdxsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
 
+## dnscrypt-jp-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan
+
+https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+## dnscrypt-jp-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan
+
+https://blahdns.com/
+
+sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMToxZGVkOjU0MDA6MDFmZjpmZTkwOjk0NWJdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+## dnscrypt-de-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
+
+https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEDIxNy42MS4wLjk3Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+## dnscrypt-de-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
+
+https://blahdns.com/
+
+sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM0iAE_MsSp_yvTScBtxTFBsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+
 ## doh-blahdns-de
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
