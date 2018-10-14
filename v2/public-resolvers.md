@@ -529,7 +529,6 @@ sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24O
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Hosted by: vultr.com - Location: Seattle, USA
-https://www.evilvibes.com/dnscrypt
 
 sdns://AQcAAAAAAAAADjEwNC4xNTYuMjUyLjE4ILNYRzmUAe4JezM_eiaokRdEOF7hA_jTl65AAyNMlNYQHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
