@@ -29,7 +29,7 @@ DNS-over-HTTPS proxy of aaflalo-me hosted in Google Cloud Platform.
 
 Non-logging, AD-filtering, supports DNSSEC.
 
-sdns://AgMAAAAAAAAADTM1LjIyNy4zMi4yMjcgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSZG5zLWdjcC5hYWZsYWxvLm1lCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDM1LjIzMS42OS43NyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJkbnMtZ2NwLmFhZmxhbG8ubWUKL2Rucy1xdWVyeQ
 
 ## aaflalo-me
 
