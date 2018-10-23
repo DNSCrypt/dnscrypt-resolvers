@@ -720,6 +720,22 @@ Maintained by Evan Xu (@ex-git)
 
 sdns://AQcAAAAAAAAAEzE5OC4xNDguMTA1LjIwNjo4NTMgQBr-sZr8SDgaSZT9CbVOxFyNeLqFNhF1XiZJX2ZDwzwkMi5kbnNjcnlwdC1jZXJ0LmRucy5xdWFsaXR5b2xvZ3kuY29t
 
+## rubyfish-ea
+
+Resolver in mainland China, forwarding queries for non-Chinese domains
+to upstream servers in East Asia.
+
+https://www.rubyfish.cn/
+sdns://AgQAAAAAAAAADzExNS4xNTkuMTU0LjIyNiA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
+
+## rubyfish-uw
+
+Resolver in mainland China, forwarding queries for non-Chinese domains
+to US-West.
+
+https://www.rubyfish.cn/
+sdns://AgQAAAAAAAAADDQ3Ljk5LjE2NS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
+
 ## scaleway-fr
 
 DNSSEC/Non-logged/Uncensored - ARM server donated by Scaleway.com
