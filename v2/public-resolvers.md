@@ -627,6 +627,12 @@ Public DNS server operated by TumaBox.org
 
 sdns://AQYAAAAAAAAAG1syYTAyOmUwMDpmZmZkOjEzOTo6OV06NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
 
+## powerdns-doh
+
+By PowerDNS/Open-Xchange https://powerdns.org
+
+sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2gucG93ZXJkbnMub3JnAS8
+
 ## publicarray-au
 
 DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
