@@ -448,7 +448,7 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
 
 https://blahdns.com/
 
-sdns://AQMAAAAAAAAAEDIxNy42MS4wLjk3Ojg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+sdns://AQMAAAAAAAAAEzE1OS42OS4xOTguMTAxOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 ## dnscrypt-de-blahdns-ipv6
 
@@ -456,7 +456,7 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
 
 https://blahdns.com/
 
-sdns://AQMAAAAAAAAAG1syYTAzOmExNDA6MTA6MjQ2MTo6MV06ODQ0MyDImNtJLgiBNj_Yofc1UYbQM0iAE_MsSp_yvTScBtxTFBsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0DNIgBPzLEqf8r00nAbcUxQbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 ## doh-blahdns-de
 
@@ -464,7 +464,7 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
 
 https://blahdns.com/
 
-sdns://AgMAAAAAAAAACzIxNy42MS4wLjk3ABJkb2guZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 ## doh-blahdns
 
