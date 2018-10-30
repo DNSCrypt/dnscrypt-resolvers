@@ -509,6 +509,13 @@ Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAADTEwNC4xOS4xOTguMjkgHdhQioxWWQQ5fHhkUeCPV2E888inI_bzef1MOFi2858NZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
 
+## doh-ibksturm
+
+doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
+
+sdns://AgcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OAAYaWJrc3R1cm0uc3lub2xvZ3kubWU6ODUzCi9kbnMtcXVlcnk
+
 ## eieiDNS
 
 DNS-over-HTTPS server. Blocks ad and Tracking, DNSSEC, Hosted in Thailand
@@ -555,6 +562,13 @@ Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and track
 Hosted in Digital Ocean droplet in SGP region. Upstream to 1.1.1.1.
 
 sdns://AgMAAAAAAAAADDE2Ny45OS4zMS42OSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFzZy5kbnMuZ3JpZC5pbi50aAovZG5zLXF1ZXJ5
+
+## ibksturm
+
+dnscrypt-server (dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
+
+sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCB2x0U7IXv1uDMjPD3ypxKY4xhAxu7bxJrlMs0vfeSV0BgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
 ## ipredator
 
