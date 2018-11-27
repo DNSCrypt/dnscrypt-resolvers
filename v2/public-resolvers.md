@@ -73,6 +73,13 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAEjEzOS41OS4xNi4xMzA6NTM1MyCORifHOIOoUQMIIbpa5-XQQfSq75W3gpAWy2Udh8MoyRkyLmRuc2NyeXB0LWNlcnQuYXJ2aW5kLmlv
 
+## bottlepost-dns-nl
+
+Provided by bottlepost.me
+Hosted in The Netherlands, DNSSEC / No Logs / No Filter
+
+sdns://AQcAAAAAAAAAEzE3OC4xMjguMjU1LjI4OjUzNTMgkr1k-Lp2d9IXiFlXoBAgFGZUCJSPW_x81Ec6ShkPsJYdMi5kbnNjcnlwdC1jZXJ0LmJvdHRsZXBvc3QubWU
+
 ## captnemo-in
 
 Server running out of a Digital Ocean droplet in BLR1 region.
