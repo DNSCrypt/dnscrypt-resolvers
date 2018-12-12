@@ -532,6 +532,13 @@ address when forwarding them to upstream servers.
 
 sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkb2gxLmVpZWlkbnMuY29tOjQ0MwovZG5zLXF1ZXJ5
 
+## ev-ca
+
+Non-logging, uncensored DNS resolver provided by evilvibes.com
+Hosted by: vultr.com - Location: Toronto, Canada
+
+sdns://AQcAAAAAAAAADjE0OS4yNDguNTEuMjEyIJqd7T8sjWmQU5pdBaP5FF2vX0xrz561gdeGrur3jCHfHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
+
 ## ev-us
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
