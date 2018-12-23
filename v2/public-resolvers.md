@@ -614,6 +614,13 @@ Hosted in Switzerland on a Banana Pi M64 by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCCxGSyTbKFt1Kjc-TqE-cBV5TnQ8EdVjl0yBwYh1NImjxgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
+## id-gmail
+
+DNSCrypt server located in Singapore, provided by id-gmail.
+Filters out ads, trackers and malware, supports DNSSEC and doesn't log anything.
+
+sdns://AQMAAAAAAAAADTE0OS4yOC4xNTIuODEg75aAZujZlPBl2D7d0xru7fVthldGPkrKR83X_pfD1PYcMi5kbnNjcnlwdC1jZXJ0LmRucy50aWFyLmFwcA
+
 ## ipredator
 
 Public DNSCrypt server in Sweden provided by Ipredator.se
