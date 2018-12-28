@@ -621,6 +621,13 @@ Filters out ads, trackers and malware, supports DNSSEC and doesn't log anything.
 
 sdns://AQMAAAAAAAAADTE0OS4yOC4xNTIuODEg75aAZujZlPBl2D7d0xru7fVthldGPkrKR83X_pfD1PYcMi5kbnNjcnlwdC1jZXJ0LmRucy50aWFyLmFwcA
 
+## id-gmail-doh
+
+DNS-over-HTTPS server located in Singapore, provided by id-gmail.
+Filters out ads, trackers and malware, supports DNSSEC and doesn't log anything.
+
+sdns://AgMAAAAAAAAACzQ1LjMyLjEwNS40ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5
+
 ## ipredator
 
 Public DNSCrypt server in Sweden provided by Ipredator.se
