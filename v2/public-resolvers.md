@@ -80,6 +80,18 @@ Hosted in The Netherlands, DNSSEC / No Logs / No Filter
 
 sdns://AQcAAAAAAAAAEzE3OC4xMjguMjU1LjI4OjUzNTMgkr1k-Lp2d9IXiFlXoBAgFGZUCJSPW_x81Ec6ShkPsJYdMi5kbnNjcnlwdC1jZXJ0LmJvdHRsZXBvc3QubWU
 
+## brasil.dnscrypt-tupi.org
+
+DNSSEC validation, caching, no IPv6, non-logging, non-filtering, uncensored DNS server in Brazil. DNSCrypt, DoH, DoT protocols. More info https://dnscrypt-tupi.org/
+
+sdns://AQcAAAAAAAAADjE5MS4yNTIuMTAwLjM1IHz_72B2AuG2R6iJW0MgDEMXbgQXOhBOjCOgt4bnycsvKDIuZG5zY3J5cHQtY2VydC5icmFzaWwuZG5zY3J5cHQtdHVwaS5vcmc
+
+## brasil.dnscrypt-tupi.org-doh
+
+DNSSEC validation, caching, no IPv6, non-logging, non-filtering, uncensored DNS server in Brazil. DNSCrypt, DoH, DoT protocols. More info https://dnscrypt-tupi.org/
+
+sdns://AgcAAAAAAAAADjE5MS4yNTIuMTAwLjM1ABVkbnMuZG5zY3J5cHQtdHVwaS5vcmcKL2Rucy1xdWVyeQ
+
 ## captnemo-in
 
 Server running out of a Digital Ocean droplet in BLR1 region.
