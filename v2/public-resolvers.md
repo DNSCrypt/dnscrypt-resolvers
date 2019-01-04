@@ -90,7 +90,7 @@ sdns://AQcAAAAAAAAADjE5MS4yNTIuMTAwLjM1IHz_72B2AuG2R6iJW0MgDEMXbgQXOhBOjCOgt4bny
 
 DNSSEC validation, caching, no IPv6, non-logging, non-filtering, uncensored DNS server in Brazil. DNSCrypt, DoH, DoT protocols. More info https://dnscrypt-tupi.org/
 
-sdns://AQcAAAAAAAAAEzE5MS4yNTIuMTAwLjM1OjgwODAgfP_vYHYC4bZHqIlbQyAMQxduBBc6EE6MI6C3hufJyy8oMi5kbnNjcnlwdC1jZXJ0LmJyYXNpbC5kbnNjcnlwdC10dXBpLm9yZw
+sdns://AgcAAAAAAAAADjE5MS4yNTIuMTAwLjM1ABVkbnMuZG5zY3J5cHQtdHVwaS5vcmcKL2Rucy1xdWVyeQ
 
 ## captnemo-in
 
