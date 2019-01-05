@@ -33,10 +33,10 @@ sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2T
 
 ## ibksturm
 
-dnscrypt-server (dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+dnscrypt-server (nginx-dnscrypt-wrapper-unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCCxGSyTbKFt1Kjc-TqE-cBV5TnQ8EdVjl0yBwYh1NImjxgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
+sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCD3f8HgokWtd5JfO0look5L3C_Muon2vqbF33rx0-LmDBgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
 ## opennic-ethservices
 
