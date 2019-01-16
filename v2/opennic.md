@@ -46,26 +46,6 @@ By ethservices.
 
 sdns://AQUAAAAAAAAAEjk0LjI0Ny40My4yNTQ6NTM1MyDUQmYmXRg576Roac_42Ue6uQtQ664-FvA20PgVt_UIfigyLmRuc2NyeXB0LWNlcnQub3Blbm5pYzEuZXRoLXNlcnZpY2VzLmRl
 
-## opennic-famicoman
-
-OpenNIC • NoLogs • NoFilters
-Location: Amsterdam, Netherlands
-By famicoman.phillymesh.net
-
-sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
-
-## opennic-tumabox
-
-Public DNS server operated by TumaBox.org
-
-sdns://AQYAAAAAAAAAEjEzMC4yNTUuNzMuOTA6NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
-
-## opennic-tumabox-ipv6
-
-Public DNS server operated by TumaBox.org
-
-sdns://AQYAAAAAAAAAG1syYTAyOmUwMDpmZmZkOjEzOTo6OV06NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
-
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
@@ -90,12 +70,6 @@ Second public DNS server in Canada operated by Luggs (IPv6)
 
 sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
 
-## opennic-onic
-
-Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
-
-sdns://AQcAAAAAAAAADjEyOC41Mi4xMzAuMjA5IBKNsb3hDHyh1SsJH2M-mcGTfRT1-BKwy1s89cvMBHJyIjIuZG5zY3J5cHQtY2VydC5vbmljLmNzYWlsLm1pdC5lZHU
-
 ## publicarray-au
 
 DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
@@ -115,12 +89,6 @@ sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24O
 Non-logging OpenNIC resolver in Melbourne, Australia - https://userspace.com.au
 
 sdns://AQYAAAAAAAAAEzEwMy4yMzYuMTYyLjExOTo0NDMgrAN5npeaXgUs0qL88HYBouapH6Vl2B3wcbQae5_HZYgpMi5kbnNjcnlwdC1jZXJ0Lm5zMDMubWVsLnVzZXJzcGFjZS5jb20uYXU
-
-## opennic-userspace-ipv6
-
-Non-logging OpenNIC resolver in Melbourne, Australia - https://userspace.com.au
-
-sdns://AQYAAAAAAAAAJ1syNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTM1MyCsA3mel5peBSzSovzwdgGi5qkfpWXYHfBxtBp7n8dliCkyLmRuc2NyeXB0LWNlcnQubnMwMy5tZWwudXNlcnNwYWNlLmNvbS5hdQ
 
 ## opennic-bongobow
 

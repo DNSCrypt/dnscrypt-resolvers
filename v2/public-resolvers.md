@@ -92,12 +92,6 @@ Hosted in The Netherlands, DNSSEC / No Logs / No Filter
 
 sdns://AQcAAAAAAAAAEzE3OC4xMjguMjU1LjI4OjUzNTMgkr1k-Lp2d9IXiFlXoBAgFGZUCJSPW_x81Ec6ShkPsJYdMi5kbnNjcnlwdC1jZXJ0LmJvdHRsZXBvc3QubWU
 
-## brasil.dnscrypt-tupi.org
-
-DNSSEC validation, caching, no IPv6, non-logging, non-filtering, uncensored DNS server in Brazil. DNSCrypt, DoH, DoT protocols. More info https://dnscrypt-tupi.org/
-
-sdns://AQcAAAAAAAAADjE5MS4yNTIuMTAwLjM1IHz_72B2AuG2R6iJW0MgDEMXbgQXOhBOjCOgt4bnycsvKDIuZG5zY3J5cHQtY2VydC5icmFzaWwuZG5zY3J5cHQtdHVwaS5vcmc
-
 ## brasil.dnscrypt-tupi.org-doh
 
 DNSSEC validation, caching, no IPv6, non-logging, non-filtering, uncensored DNS server in Brazil. DNSCrypt, DoH, DoT protocols. More info https://dnscrypt-tupi.org/
@@ -231,18 +225,6 @@ provided by cryptostorm.is
 
 sdns://AQIAAAAAAAAADzE2Mi4yMjEuMjA3LjIyOCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
-## cs-cfi
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADTIxMi44My4xNzUuMzEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-## cs-ch
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADTE4NS42MC4xNDcuNzcgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
 ## cs-de
 
 provided by cryptostorm.is
@@ -267,12 +249,6 @@ provided by cryptostorm.is
 
 sdns://AQIAAAAAAAAADjE4NS4xMTcuMTE4LjIwIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
-## cs-fr
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADTIxMi4xMjkuNDYuODYgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
 ## cs-fr2
 
 provided by cryptostorm.is
@@ -284,12 +260,6 @@ sdns://AQIAAAAAAAAADTIxMi4xMjkuNDYuMzIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 provided by cryptostorm.is
 
 sdns://AQIAAAAAAAAADTgwLjIzMy4xMzQuNTIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-## cs-nl
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADjIxMy4xNjMuNjQuMjA4IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 ## cs-pl
 
@@ -327,12 +297,6 @@ provided by cryptostorm.is
 
 sdns://AQIAAAAAAAAADjE3My4yMzQuNTYuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
-## cs-ussouth2
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADTEwOC42Mi4xOS4xMzEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
 ## cs-uswest
 
 provided by cryptostorm.is
@@ -345,23 +309,11 @@ provided by cryptostorm.is
 
 sdns://AQIAAAAAAAAADzEwNC4yMzguMTk1LjEzOSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
-## cs-uswest5
-
-provided by cryptostorm.is
-
-sdns://AQIAAAAAAAAADTE3My4yMDguOTUuNzUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
 ## d0wn-is-ns2
 
 Server provided by Martin 'd0wn' Albus
 
 sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
-
-## d0wn-nl-ns4
-
-Server provided by Martin 'd0wn' Albus
-
-sdns://AQcAAAAAAAAADTMxLjIyMC40My4xMDUgKk9DiVzmMjC0xXalrDhkGE0SaUmxYP2wkWartM7GBnIcMi5kbnNjcnlwdC1jZXJ0Lm5sNC5kMHduLmJpeg
 
 ## d0wn-tz-ns1
 
@@ -673,14 +625,6 @@ By ethservices.
 
 sdns://AQUAAAAAAAAAEjk0LjI0Ny40My4yNTQ6NTM1MyDUQmYmXRg576Roac_42Ue6uQtQ664-FvA20PgVt_UIfigyLmRuc2NyeXB0LWNlcnQub3Blbm5pYzEuZXRoLXNlcnZpY2VzLmRl
 
-## opennic-famicoman
-
-OpenNIC • NoLogs • NoFilters
-Location: Amsterdam, Netherlands
-By famicoman.phillymesh.net
-
-sdns://AQYAAAAAAAAAEzE0Ni4xODUuMTc2LjM2OjUzNTMguI9IYFUXNpaj0r_g7MdhdRmP4BLhAbT-hpwenEw15082Mi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMucGVlcjMuZmFtaWNvbWFuLnBoaWxseW1lc2gubmV0
-
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
@@ -704,24 +648,6 @@ sdns://AQYAAAAAAAAAEDE0Mi40LjIwNS40Nzo0NDMgvL-34FDBPaJCLACwsaya1kjFwmS8thcLiD1xi
 Second public DNS server in Canada operated by Luggs (IPv6)
 
 sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
-
-## opennic-onic
-
-Public DNS server hosted at MIT (Cambridge, MA, USA) operated by jproulx
-
-sdns://AQcAAAAAAAAADjEyOC41Mi4xMzAuMjA5IBKNsb3hDHyh1SsJH2M-mcGTfRT1-BKwy1s89cvMBHJyIjIuZG5zY3J5cHQtY2VydC5vbmljLmNzYWlsLm1pdC5lZHU
-
-## opennic-tumabox
-
-Public DNS server operated by TumaBox.org
-
-sdns://AQYAAAAAAAAAEjEzMC4yNTUuNzMuOTA6NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
-
-## opennic-tumabox-ipv6
-
-Public DNS server operated by TumaBox.org
-
-sdns://AQYAAAAAAAAAG1syYTAyOmUwMDpmZmZkOjEzOTo6OV06NTM1MyDVkXsRajUxFMI4qpmm6wwofPdoBUGsXb-ooCOeIoxbBg0yLnR1bWFib3gub3Jn
 
 ## powerdns-doh
 
@@ -915,12 +841,6 @@ sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8g
 Non-logging OpenNIC resolver in Melbourne, Australia - https://userspace.com.au
 
 sdns://AQYAAAAAAAAAEzEwMy4yMzYuMTYyLjExOTo0NDMgrAN5npeaXgUs0qL88HYBouapH6Vl2B3wcbQae5_HZYgpMi5kbnNjcnlwdC1jZXJ0Lm5zMDMubWVsLnVzZXJzcGFjZS5jb20uYXU
-
-## opennic-userspace-ipv6
-
-Non-logging OpenNIC resolver in Melbourne, Australia - https://userspace.com.au
-
-sdns://AQYAAAAAAAAAJ1syNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTM1MyCsA3mel5peBSzSovzwdgGi5qkfpWXYHfBxtBp7n8dliCkyLmRuc2NyeXB0LWNlcnQubnMwMy5tZWwudXNlcnNwYWNlLmNvbS5hdQ
 
 ## opennic-bongobow
 
