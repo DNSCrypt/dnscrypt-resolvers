@@ -471,7 +471,7 @@ Blocks ads, trackers, phishing and malware sites. DNSSEC enabled and no query lo
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzBjOjQyYjI6OjFdABJkb2gxLmRuc3dhcmRlbi5jb20BLw
 
-## doh-blahdns-de
+## doh-de-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany
 
@@ -479,13 +479,13 @@ https://blahdns.com/
 
 sdns://AgMAAAAAAAAADjE1OS42OS4xOTguMTAxABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
-## doh-blahdns
+## doh-jp-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan
 
 https://blahdns.com/
 
-sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5AA9kb2guYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjEwOC42MS4yMDEuMTE5ABJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 ## doh-cleanbrowsing-adult
 
