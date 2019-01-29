@@ -36,7 +36,7 @@ sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2T
 dnscrypt-server (nginx-dnscrypt-wrapper-unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCCDqbk-RaofnMFcPfds4pwWaf-s4542cUr-GlEE-pR-uBkyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0u
+sdns://AQcAAAAAAAAADDE3OC44Mi4xMDMuNSAQWlN-03SCllKMte1MEQTvTc3H1t6w2Psni5lZfdRWPxkyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0u
 
 ## opennic-ethservices
 
