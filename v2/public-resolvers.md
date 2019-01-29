@@ -522,7 +522,7 @@ Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAADTEwNC4xOS4xOTguMjkgHdhQioxWWQQ5fHhkUeCPV2E888inI_bzef1MOFi2858NZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
 
-## doh-ibksturm
+## doh-sturm
 
 doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
@@ -588,7 +588,7 @@ sdns://AgMAAAAAAAAADDE2Ny45OS4zMS42OSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24O
 dnscrypt-server (nginx - dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjE3OCCDqbk-RaofnMFcPfds4pwWaf-s4542cUr-GlEE-pR-uBkyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0u
+sdns://AQcAAAAAAAAADDE3OC44Mi4xMDMuNSAQWlN-03SCllKMte1MEQTvTc3H1t6w2Psni5lZfdRWPxkyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0u
 
 ## id-gmail
 
