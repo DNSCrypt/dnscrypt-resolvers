@@ -571,6 +571,46 @@ Fusl's public secondary OpenNIC Tier2 Anycast DNS Resolver
 
 sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
 
+## geekdns-doh-east
+
+GeekDNS in eastern China (Shanghai).
+
+GeekDNS is a non-logging public DNS service located in mainland china,
+that also blocks ads and trackers. Queries are cached locally, and,
+for some domains, resolved by servers located in Taiwan.
+
+sdns://AgMAAAAAAAAADTQ3LjEwMS4xMzYuMzcgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgOZWRucy4yMzNweS5jb20KL2Rucy1xdWVyeQ
+
+## geekdns-doh-west
+
+GeekDNS in western China (Chongqing).
+
+GeekDNS is a non-logging public DNS service located in mainland china,
+that also blocks ads and trackers. Queries are cached locally, and,
+for some domains, resolved by servers located in Taiwan.
+
+sdns://AgMAAAAAAAAADjExOC4yNC4yMDguMTk3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DndkbnMuMjMzcHkuY29tCi9kbnMtcXVlcnk
+
+## geekdns-doh-south
+
+GeekDNS in southern China (Guangzhou).
+
+GeekDNS is a non-logging public DNS service located in mainland china,
+that also blocks ads and trackers. Queries are cached locally, and,
+for some domains, resolved by servers located in Taiwan.
+
+sdns://AgMAAAAAAAAADTExOS4yOS4xMDcuODUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgOc2Rucy4yMzNweS5jb20KL2Rucy1xdWVyeQ
+
+## geekdns-doh-north
+
+GeekDNS in northern China (Beijing).
+
+GeekDNS is a non-logging public DNS service located in mainland china,
+that also blocks ads and trackers. Queries are cached locally, and,
+for some domains, resolved by servers located in Taiwan.
+
+sdns://AgMAAAAAAAAADzExNC4xMTUuMjQwLjE3NSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA5uZG5zLjIzM3B5LmNvbQovZG5zLXF1ZXJ5
+
 ## google
 
 Google DNS (anycast)
@@ -866,3 +906,4 @@ sdns://AQYAAAAAAAAAETE1MS44MC4yMjIuNzk6NDQzIO4Y9lZnORlvodxu39dnm6mFruwTRnlmovbEg
 Non-logging OpenNIC resolver in France
 
 sdns://AQYAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyDuGPZWZzkZb6Hcbt_XZ5upha7sE0Z5ZqL2xIGuBcsN0yAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
+
