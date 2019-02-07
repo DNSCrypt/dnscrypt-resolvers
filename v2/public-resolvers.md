@@ -559,18 +559,6 @@ Non-logged/Uncensored provided by freetsa.org
 
 sdns://AQcAAAAAAAAAEzIwNS4xODUuMTE2LjExNjo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
 
-## fvz-anyone
-
-Fusl's public primary OpenNIC Tier2 Anycast DNS Resolver
-
-sdns://AQYAAAAAAAAAFDE4NS4xMjEuMTc3LjE3Nzo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
-
-## fvz-anytwo
-
-Fusl's public secondary OpenNIC Tier2 Anycast DNS Resolver
-
-sdns://AQYAAAAAAAAAFDE2OS4yMzkuMjAyLjIwMjo1MzUzIBpq0KMrTFphppXRU2cNaasWkD-ew_f2TxPlNaMYsiilHTIuZG5zY3J5cHQtY2VydC5kbnNyZWMubWVvLndz
-
 ## geekdns-doh-east
 
 GeekDNS in eastern China (Shanghai).
