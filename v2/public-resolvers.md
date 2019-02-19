@@ -546,13 +546,6 @@ Hosted by: vultr.com - Location: Toronto, Canada
 
 sdns://AQcAAAAAAAAADjE0OS4yNDguNTEuMjEyIJqd7T8sjWmQU5pdBaP5FF2vX0xrz561gdeGrur3jCHfHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
-## ev-us
-
-Non-logging, uncensored DNS resolver provided by evilvibes.com
-Hosted by: vultr.com - Location: Seattle, USA
-
-sdns://AQcAAAAAAAAADjEwNC4xNTYuMjUyLjE4ILNYRzmUAe4JezM_eiaokRdEOF7hA_jTl65AAyNMlNYQHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
-
 ## freetsa.org
 
 Non-logged/Uncensored provided by freetsa.org
