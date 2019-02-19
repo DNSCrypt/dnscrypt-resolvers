@@ -840,6 +840,15 @@ Public DNSCrypt server in Poland
 
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
 
+## suami
+
+A non-censoring, non-logging, non-censoring, DNSSEC-capable,
+DNSCrypt-enabled DNS resolver, using the official Docker image.
+
+Hosted in France on Scaleway.
+
+sdns://AQcAAAAAAAAAETUxLjE1OC43MC4xNTk6NDQzIIwP1sE7UXuXPsWPLGHCvvdSuthA7MIsMQ09yO4bVnZjGTIuZG5zY3J5cHQtY2VydC5zdWFtaS5jb20
+
 ## trashvpn.de
 
 dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
