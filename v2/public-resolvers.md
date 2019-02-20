@@ -529,6 +529,12 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAADDE3OC44Mi4xMDMuNQAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
+## edociccio
+
+Public DNSCrypt server in Italy. DNSSEC, no logs, no filter.
+Maintained by @lucenera
+
+sdns://AQcAAAAAAAAAEDgwLjIxMS44NS41MTo0NDMgVlvIU4uMbrMcCK-Z2BFcNuOY7bA-foVglnx9mfukn0AgMi5kbnNjcnlwdC1jZXJ0Lml0LmVkb2NpY2Npby5jb20
 
 ## eieiDNS
 
@@ -639,6 +645,13 @@ sdns://AgMAAAAAAAAACzQ1LjMyLjEwNS40ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D
 Public DNSCrypt server in Sweden provided by Ipredator.se
 
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
+
+## kenshiro
+
+Public DNSCrypt server in Amsterdam. DNSSEC, no logs, no filter.
+Maintained by @lucenera
+
+sdns://AQcAAAAAAAAAETk1LjE3OS4xODQuNDI6NDQzIEwMaXrAHpHJshPm0pdTOBgIuscld9eWasZAuEIoQzeRHzIuZG5zY3J5cHQtY2VydC5hbS5rZW5zaGlyby5uZXQ
 
 ## nawala-childprotection
 
@@ -844,6 +857,7 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 
 A non-censoring, non-logging, non-censoring, DNSSEC-capable,
 DNSCrypt-enabled DNS resolver, using the official Docker image.
+Maintained by @lucenera
 
 Hosted in France on Scaleway.
 
