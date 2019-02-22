@@ -648,10 +648,10 @@ sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOeke
 
 ## kenshiro
 
-Public DNSCrypt server in Amsterdam. DNSSEC, no logs, no filter.
+Public DNSCrypt server in Germany. DNSSEC, no logs, no filter.
 Maintained by @lucenera
 
-sdns://AQcAAAAAAAAAETk1LjE3OS4xODQuNDI6NDQzIEwMaXrAHpHJshPm0pdTOBgIuscld9eWasZAuEIoQzeRHzIuZG5zY3J5cHQtY2VydC5hbS5rZW5zaGlyby5uZXQ
+sdns://AQcAAAAAAAAADzg2LjEwNS41MS43OjQ0MyBtR6d6WOPiChlf4G7hoeeXt_lqQaMnFje9HVyedB8vjB8yLmRuc2NyeXB0LWNlcnQuZGUua2Vuc2hpcm8uY29t
 
 ## nawala-childprotection
 
@@ -856,12 +856,10 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 ## suami
 
 A non-censoring, non-logging, non-censoring, DNSSEC-capable,
-DNSCrypt-enabled DNS resolver, using the official Docker image.
+DNSCrypt-enabled DNS resolver in Czech Republic, using the official Docker image.
 Maintained by @lucenera
 
-Hosted in France on Scaleway.
-
-sdns://AQcAAAAAAAAAETUxLjE1OC43MC4xNTk6NDQzIIwP1sE7UXuXPsWPLGHCvvdSuthA7MIsMQ09yO4bVnZjGTIuZG5zY3J5cHQtY2VydC5zdWFtaS5jb20
+sdns://AQcAAAAAAAAAEjE5NC4xODIuNjYuMTM1OjQ0MyBs6XoJJGAtOCbPFpgQhF1edKnCR7BGqXoThb940iaawxwyLmRuc2NyeXB0LWNlcnQuY3ouc3VhbWkuY29t
 
 ## trashvpn.de
 
