@@ -80,12 +80,6 @@ Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
 
-## opennic-userspace
-
-Non-logging OpenNIC resolver in Melbourne, Australia - https://userspace.com.au
-
-sdns://AQYAAAAAAAAAEzEwMy4yMzYuMTYyLjExOTo0NDMgrAN5npeaXgUs0qL88HYBouapH6Vl2B3wcbQae5_HZYgpMi5kbnNjcnlwdC1jZXJ0Lm5zMDMubWVsLnVzZXJzcGFjZS5jb20uYXU
-
 ## opennic-bongobow
 
 Non-logging OpenNIC resolver in Munich, Germany
