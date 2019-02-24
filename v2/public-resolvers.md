@@ -334,6 +334,13 @@ Hosted by vultr.com (Frankfurt Germany)
 
 sdns://AQcAAAAAAAAAEzIwOS4yNTAuMjM1LjE3MDo0NDMgz0wbvISl_NVCSe0wDJMS79BAFZoWth1djmhuzv_n3KAiMi5kbnNjcnlwdC1jZXJ0LmRlLmRuc21hc2NoaW5lLm5ldA
 
+## denise
+
+Public DNSCrypt server in Czech Republic. DNSSEC, no logs, no filter.
+Maintained by @lucenera
+
+sdns://AQcAAAAAAAAAETgwLjIxMS4yNDQuNTI6NDQzIABIuBTlNsk95Z8pu3jdALv_P-xLFK03X5GMFHfrpNhtHTIuZG5zY3J5cHQtY2VydC5wbC5kZW5pc2UuY29t
+
 ## dnscrypt.ca-1
 
 Uncensored DNSSEC validating and log-free
