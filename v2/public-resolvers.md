@@ -660,6 +660,13 @@ Maintained by @lucenera
 
 sdns://AQcAAAAAAAAADzg2LjEwNS41MS43OjQ0MyBtR6d6WOPiChlf4G7hoeeXt_lqQaMnFje9HVyedB8vjB8yLmRuc2NyeXB0LWNlcnQuZGUua2Vuc2hpcm8uY29t
 
+## lucenera
+
+Public DNSCrypt server in Italy. DNSSEC, no logs, no filter.
+Maintained by @lucenera
+
+sdns://AQcAAAAAAAAAETIxMi4yMzcuMzguMTU6NDQzIJA89roKfn8cBGMnIrfpWVdHmtl5b8IbtSxx2gamVIS5HzIuZG5zY3J5cHQtY2VydC5pdC5sdWNlbmVyYS5jb20
+
 ## nawala-childprotection
 
 Internet filtering system (anycast), protecting child from inappropriate websites and abusive contents.
