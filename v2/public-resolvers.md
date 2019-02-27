@@ -564,6 +564,8 @@ sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMTYgm7NXpUn0viJrTFfNOS7kOq1fgoZXoT6fEkxr8m8Dq
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Toronto , Canada
 
+sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYg-RMyUtlGr8IDnm5uKu4pAY59AmAxLG7cNFI5eLEG2NgjMi5kbnNjcnlwdC1jZXJ0LmV2LXRvLmV2aWx2aWJlcy5jb20
+
 ## freetsa.org
 
 Non-logged/Uncensored provided by freetsa.org
