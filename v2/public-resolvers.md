@@ -552,12 +552,17 @@ address when forwarding them to upstream servers.
 
 sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkb2gxLmVpZWlkbnMuY29tOjQ0MwovZG5zLXF1ZXJ5
 
-## ev-ca
+## ev-va
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
-Hosted by: vultr.com - Location: Toronto, Canada
+Location: Vancouver, Canada
 
-sdns://AQcAAAAAAAAADjE0OS4yNDguNTEuMjEyIJqd7T8sjWmQU5pdBaP5FF2vX0xrz561gdeGrur3jCHfHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
+sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMTYgm7NXpUn0viJrTFfNOS7kOq1fgoZXoT6fEkxr8m8DqH4jMi5kbnNjcnlwdC1jZXJ0LmV2LXZhLmV2aWx2aWJlcy5jb20
+
+## ev-to
+
+Non-logging, uncensored DNS resolver provided by evilvibes.com
+Location: Toronto , Canada
 
 ## freetsa.org
 
