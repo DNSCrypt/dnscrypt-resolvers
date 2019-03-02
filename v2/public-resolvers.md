@@ -626,12 +626,33 @@ Google DNS (anycast)
 
 sdns://AgUAAAAAAAAAACAe9iTP_15r07rd8_3b_epWVGfjdymdx-5mdRZvMAzBuQ5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
 
+## gridns-jp
+
+Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
+Hosted at Linode in Tokyo. Upstream to 1.1.1.1. No EDNS Client Subnet.
+
+sdns://AgcAAAAAAAAADjE3Mi4xMDUuMjQxLjkzAA1qcC5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
+
+## gridns-jp-ipv6
+
+Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
+Hosted at Linode in Tokyo. Upstream to 1.1.1.1. No EDNS Client Subnet. IPv6-enabled.
+
+sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWVkOjIyMGJdAA1qcC5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
+
 ## gridns-sg
 
 Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
-Hosted in Digital Ocean droplet in SGP region. Upstream to 1.1.1.1.
+Hosted at Linode in Singapore. Upstream to 1.1.1.1. No EDNS Client Subnet.
 
-sdns://AgMAAAAAAAAADDE2Ny45OS4zMS42OSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFzZy5kbnMuZ3JpZC5pbi50aAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTEzOS4xNjIuMy4xMjMADXNnLmdyaWRucy54eXoKL2Rucy1xdWVyeQ
+
+## gridns-sg-ipv6
+
+Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
+Hosted at Linode in Singapore. Upstream to 1.1.1.1. No EDNS Client Subnet. IPv6-enabled.
+
+sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
 
 ## ibksturm
 
