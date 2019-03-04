@@ -961,3 +961,18 @@ Non-logging OpenNIC resolver in France
 
 sdns://AQYAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyDuGPZWZzkZb6Hcbt_XZ5upha7sE0Z5ZqL2xIGuBcsN0yAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
 
+## dnsforfamily
+
+DNSCrypt v2 servers with filtering of ads, adult sites, gambling sites. No Logs.
+Provided by: https://dnsforfamily.com
+
+sdns://AQIAAAAAAAAADjk0LjEzMC4xODAuMjI1ILtn1Ada3rLi6VNcj4pB-I5eHBqFzFbs_XFRHG-6KenTEGRuc2ZvcmZhbWlseS5jb20
+
+## dnsforfamily-ipv6
+
+DNSCrypt v2 servers with filtering of ads, adult sites, gambling sites. No Logs.
+Provided by: https://dnsforfamily.com
+
+sdns://AQIAAAAAAAAAF1syYTAxOjRmODoxYzBjOjQwZGI6OjFdIKeNqJacdMufL_kvUDGFm5-J2r4yS94vn4S5ie-o8MCMEGRuc2ZvcmZhbWlseS5jb20
+
+
