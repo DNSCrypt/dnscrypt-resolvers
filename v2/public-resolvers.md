@@ -963,14 +963,14 @@ sdns://AQYAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyDuGPZWZzkZb6Hcbt_XZ5uph
 
 ## dnsforfamily
 
-DNSCrypt v2 servers with filtering of ads, adult sites, gambling sites. No Logs.
+Protect your kids from adult websites, it also blocks ads. No logs are preserved at all. As of 4th March 2019 2.1million websites are being blocked.
 Provided by: https://dnsforfamily.com
 
 sdns://AQIAAAAAAAAADjk0LjEzMC4xODAuMjI1ILtn1Ada3rLi6VNcj4pB-I5eHBqFzFbs_XFRHG-6KenTEGRuc2ZvcmZhbWlseS5jb20
 
 ## dnsforfamily-ipv6
 
-DNSCrypt v2 servers with filtering of ads, adult sites, gambling sites. No Logs.
+Protect your kids from adult websites, it also blocks ads. No logs are preserved at all. As of 4th March 2019 2.1million websites are being blocked.
 Provided by: https://dnsforfamily.com
 
 sdns://AQIAAAAAAAAAF1syYTAxOjRmODoxYzBjOjQwZGI6OjFdIKeNqJacdMufL_kvUDGFm5-J2r4yS94vn4S5ie-o8MCMEGRuc2ZvcmZhbWlseS5jb20
