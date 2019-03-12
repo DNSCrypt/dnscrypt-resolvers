@@ -847,7 +847,8 @@ Resolver in mainland China, forwarding queries for non-Chinese domains
 to upstream servers in East Asia.
 
 https://www.rubyfish.cn/
-sdns://AgUAAAAAAAAADzExNS4xNTkuMTU0LjIyNiA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
+
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJlYS1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
 
 ## rubyfish-uw
 
@@ -855,7 +856,8 @@ Resolver in mainland China, forwarding queries for non-Chinese domains
 to US-West.
 
 https://www.rubyfish.cn/
-sdns://AgUAAAAAAAAADDQ3Ljk5LjE2NS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
+
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJ1dy1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
 
 ## scaleway-fr
 
