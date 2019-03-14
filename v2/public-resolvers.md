@@ -552,15 +552,6 @@ Maintained by @lucenera
 
 sdns://AQcAAAAAAAAAEDgwLjIxMS44NS41MTo0NDMgVlvIU4uMbrMcCK-Z2BFcNuOY7bA-foVglnx9mfukn0AgMi5kbnNjcnlwdC1jZXJ0Lml0LmVkb2NpY2Npby5jb20
 
-## eieiDNS
-
-DNS-over-HTTPS server. Blocks ad and Tracking, DNSSEC, Hosted in Thailand
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to upstream servers.
-
-sdns://AgEAAAAAAAAADDEwMy44Ni40OS4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkb2gxLmVpZWlkbnMuY29tOjQ0MwovZG5zLXF1ZXJ5
-
 ## ev-va
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
