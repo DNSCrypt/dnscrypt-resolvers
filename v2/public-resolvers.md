@@ -388,7 +388,7 @@ sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRh
 DNSSEC / no logs / uncensored, Germany
 https://dnscrypt.me
 
-sdns://AQcAAAAAAAAADjk0LjE5OS4yMTMuMTcyIGBM5f1Wb-7SLs4vAJ7gc4hyFSmM5OOLWOvI3Hu5gRVOGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5tZQ
+sdns://AQcAAAAAAAAADTE2Ny44Ni45MC4xMDMgMl9Yy8VDXd8tCI8yLU4p0i_BmnLn4H77n36t4BqPm8UbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm1l
 
 ## dnscrypt.nl-ns0
 
