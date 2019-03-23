@@ -557,14 +557,14 @@ sdns://AQcAAAAAAAAAEDgwLjIxMS44NS41MTo0NDMgVlvIU4uMbrMcCK-Z2BFcNuOY7bA-foVglnx9m
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Vancouver, Canada
 
-sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMTYgm7NXpUn0viJrTFfNOS7kOq1fgoZXoT6fEkxr8m8DqH4jMi5kbnNjcnlwdC1jZXJ0LmV2LXZhLmV2aWx2aWJlcy5jb20
+sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMTYg3_NERwhF2C4tPlnR0CSeIAmRC3wwXtucNhKMVoW_prQjMi5kbnNjcnlwdC1jZXJ0LmV2LXZhLmV2aWx2aWJlcy5jb20
 
 ## ev-to
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Toronto, Canada
 
-sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYg-RMyUtlGr8IDnm5uKu4pAY59AmAxLG7cNFI5eLEG2NgjMi5kbnNjcnlwdC1jZXJ0LmV2LXRvLmV2aWx2aWJlcy5jb20
+sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYgTvUHn_uZRDf0m10w-HJPpAVY7_UcoDKNuXpXcWJSVwsjMi5kbnNjcnlwdC1jZXJ0LmV2LXRvLmV2aWx2aWJlcy5jb20
 
 ## freetsa.org
 
