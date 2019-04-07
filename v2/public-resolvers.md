@@ -107,6 +107,13 @@ If you are within India, this might be a nice DNS server to use.
 
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
+## caris
+
+Public DNSCrypt server in Amsterdam. DNSSEC, no logs, no filter.
+Maintained by @lucenera
+
+sdns://AQcAAAAAAAAAETUxLjE1LjEwNi4xNzY6NDQzIHoBq-npX9jLHUm1YOumKcmBtXIPQSxVHB8ngzhYAgIRHjIuZG5zY3J5cHQtY2VydC5hbXMuY2hhcmlzLmNvbQ
+
 ## cisco
 
 Remove your DNS blind spot
