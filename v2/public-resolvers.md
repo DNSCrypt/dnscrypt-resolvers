@@ -107,7 +107,7 @@ If you are within India, this might be a nice DNS server to use.
 
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
-## caris
+## charis
 
 Public DNSCrypt server in Amsterdam. DNSSEC, no logs, no filter.
 Maintained by @lucenera
