@@ -425,13 +425,6 @@ Hosted by vultr.com (Frankfurt Germany)
 
 sdns://AQcAAAAAAAAAEzIwOS4yNTAuMjM1LjE3MDo0NDMgz0wbvISl_NVCSe0wDJMS79BAFZoWth1djmhuzv_n3KAiMi5kbnNjcnlwdC1jZXJ0LmRlLmRuc21hc2NoaW5lLm5ldA
 
-## denise
-
-Public DNSCrypt server in Czech Republic. DNSSEC, no logs, no filter.
-Maintained by @lucenera
-
-sdns://AQcAAAAAAAAAETgwLjIxMS4yNDQuNTI6NDQzIABIuBTlNsk95Z8pu3jdALv_P-xLFK03X5GMFHfrpNhtHTIuZG5zY3J5cHQtY2VydC5wbC5kZW5pc2UuY29t
-
 ## dnscrypt.ca-1
 
 Uncensored DNSSEC validating and log-free
@@ -643,13 +636,6 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAADDE3OC44Mi4xMDMuNQAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
-## edociccio
-
-Public DNSCrypt server in Italy. DNSSEC, no logs, no filter.
-Maintained by @lucenera
-
-sdns://AQcAAAAAAAAAEDgwLjIxMS44NS41MTo0NDMgVlvIU4uMbrMcCK-Z2BFcNuOY7bA-foVglnx9mfukn0AgMi5kbnNjcnlwdC1jZXJ0Lml0LmVkb2NpY2Npby5jb20
-
 ## ev-va
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
@@ -778,20 +764,6 @@ sdns://AgMAAAAAAAAACzQ1LjMyLjEwNS40ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D
 Public DNSCrypt server in Sweden provided by Ipredator.se
 
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
-
-## kenshiro
-
-Public DNSCrypt server in Germany. DNSSEC, no logs, no filter.
-Maintained by @lucenera
-
-sdns://AQcAAAAAAAAADzg2LjEwNS41MS43OjQ0MyBtR6d6WOPiChlf4G7hoeeXt_lqQaMnFje9HVyedB8vjB8yLmRuc2NyeXB0LWNlcnQuZGUua2Vuc2hpcm8uY29t
-
-## lucenera
-
-Public DNSCrypt server in Italy. DNSSEC, no logs, no filter.
-Maintained by @lucenera
-
-sdns://AQcAAAAAAAAAETIxMi4yMzcuMzguMTU6NDQzIJA89roKfn8cBGMnIrfpWVdHmtl5b8IbtSxx2gamVIS5HzIuZG5zY3J5cHQtY2VydC5pdC5sdWNlbmVyYS5jb20
 
 ## nawala-childprotection
 
@@ -1006,10 +978,10 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 ## suami
 
 A non-censoring, non-logging, non-censoring, DNSSEC-capable,
-DNSCrypt-enabled DNS resolver in Czech Republic, using the official Docker image.
+DNSCrypt-enabled DNS resolver in France, using the official Docker image.
 Maintained by @lucenera
 
-sdns://AQcAAAAAAAAAEjE5NC4xODIuNjYuMTM1OjQ0MyBs6XoJJGAtOCbPFpgQhF1edKnCR7BGqXoThb940iaawxwyLmRuc2NyeXB0LWNlcnQuY3ouc3VhbWkuY29t
+sdns://AQcAAAAAAAAAETUxLjE1OC4xMDYuNDI6NDQzIF_Fc4XhzA13UNWqYsy2Uc5kQPn_oJ_N0lfFPVHeicOrHDIuZG5zY3J5cHQtY2VydC5mci5zdWFtaS5jb20
 
 ## trashvpn.de
 
