@@ -76,6 +76,15 @@ Remove ads and protect your computer from malware
 
 sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzIcthOFYqII5APf3FXpQiMi5kbnNjcnlwdC5kZWZhdWx0Lm5zMi5hZGd1YXJkLmNvbQ
 
+## doh.appliedprivacy.net
+
+Public DoH resolver operated by the Foundation for Applied Privacy (https://appliedprivacy.net).
+Hosted in Vienna, Austria.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAAAAWZG9oLmFwcGxpZWRwcml2YWN5Lm5ldAYvcXVlcnk
+
 ## arvind-io
 
 Public resolver by EnKrypt (https://arvind.io).
