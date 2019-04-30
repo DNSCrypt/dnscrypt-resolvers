@@ -756,17 +756,31 @@ sdns://AQcAAAAAAAAADzIxNy4xNjIuMjA2LjIyMCAbkeo7E6QrYUfz_2_40sQSRfXIf4wu2U1aexB1d
 
 ## id-gmail
 
-DNSCrypt server located in Singapore, provided by id-gmail.
-Filters out ads, trackers and malware, supports DNSSEC and doesn't log anything.
+Non-Logging DNSCrypt server located in Singapore.
+Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
 sdns://AQMAAAAAAAAADTE0OS4yOC4xNTIuODEg75aAZujZlPBl2D7d0xru7fVthldGPkrKR83X_pfD1PYcMi5kbnNjcnlwdC1jZXJ0LmRucy50aWFyLmFwcA
 
+## id-gmail-ipv6
+
+Non-Logging DNSCrypt (IPv6) server located in Singapore.
+Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
+
+sdns://AQMAAAAAAAAAKFsyNDAxOmMwODA6MTQwMDo0ZmU2OjU0MDA6MWZmOmZlZDA6MmFlM10g75aAZujZlPBl2D7d0xru7fVthldGPkrKR83X_pfD1PYcMi5kbnNjcnlwdC1jZXJ0LmRucy50aWFyLmFwcA
+
 ## id-gmail-doh
 
-DNS-over-HTTPS server located in Singapore, provided by id-gmail.
-Filters out ads, trackers and malware, supports DNSSEC and doesn't log anything.
+Non-Logging DNS-over-HTTPS server located in Singapore.
+Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
 sdns://AgMAAAAAAAAACzQ1LjMyLjEwNS40ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5
+
+## id-gmail-doh-ipv6
+
+Non-Logging DNS-over-HTTPS (IPv6) server located in Singapore.
+Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
+
+sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo3YmNjOjU0MDA6MWZmOmZlZDE6ODU5OV0ADGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5
 
 ## ipredator
 
