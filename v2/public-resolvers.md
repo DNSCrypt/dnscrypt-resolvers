@@ -780,7 +780,7 @@ sdns://AgMAAAAAAAAACzQ1LjMyLjEwNS40ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D
 Non-Logging DNS-over-HTTPS (IPv6) server located in Singapore.
 Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
-sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo3YmNjOjU0MDA6MWZmOmZlZDE6ODU5OV0ADGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo3YmNjOjU0MDA6MWZmOmZlZDE6ODU5OV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgMZG9oLnRpYXIuYXBwCi9kbnMtcXVlcnk
 
 ## ipredator
 
