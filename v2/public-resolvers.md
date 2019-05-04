@@ -130,10 +130,10 @@ sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham
 
 ## charis
 
-Public DNSCrypt server in Amsterdam. DNSSEC, no logs, no filter.
+Public DNSCrypt server in France. DNSSEC, no logs, no filter.
 Maintained by @lucenera
 
-sdns://AQcAAAAAAAAAETUxLjE1LjEwNi4xNzY6NDQzIHoBq-npX9jLHUm1YOumKcmBtXIPQSxVHB8ngzhYAgIRHjIuZG5zY3J5cHQtY2VydC5hbXMuY2hhcmlzLmNvbQ
+sdns://AQcAAAAAAAAAEzE2My4xNzIuMTY5LjE5Mjo0NDMgkS2BMokRHYm5_PjDZOxk1956VHBkRFMez6BqG7gIVhQaMi5kbnNjcnlwdC1jZXJ0LmZyLmVkby5jb20
 
 ## cisco
 
