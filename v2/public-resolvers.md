@@ -867,14 +867,6 @@ Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
 
-## qag.me
-
-Plain Vanilla setup of dnscrypt-server-docker on a headless box. Upstream to 1.1.1.1.
-Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
-Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
-
-sdns://AQcAAAAAAAAAEjEwNi41MS4xMjguNzg6NDQzNCDrpsCqF14emkVAo_yJi9T2xxp5KmXhlGtbTL1R-5vVLhYyLmRuc2NyeXB0LWNlcnQucWFnLm1l
-
 ## quad9-dnscrypt-ip4-filter-pri
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9
 sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -1044,29 +1036,11 @@ Hosted in Germany
 
 sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6YjoyMjM6OjFdOjg0NDMgcrQcuGXx2fhX6rmtaP6aPXj8gumVIrn4GIrn6aTB1fUfMi5kbnNjcnlwdC1jZXJ0Lnplcm9haW0uZGUtaXB2Ng
 
-## opennic-bongobow
-
-Non-logging OpenNIC resolver in Munich, Germany
-
-sdns://AQYAAAAAAAAAEjUuMTg5LjE3MC4xOTY6NTM1MyBUNSxVQDuC7pPEB_3CNESXDZpW7yK_z_nskJzNMiQyaygyLmRuc2NyeXB0LWNlcnQubnMxNi5kZS5kbnMub3Blbm5pYy5nbHVl
-
-## opennic-bongobow-ipv6
-
-Non-logging OpenNIC resolver in Munich, Germany
-
-sdns://AQYAAAAAAAAAIFsyYTAyOmMyMDc6MjAwODoyNTIwOjUzOjoxXTo1MzUzIFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
-
 ## opennic-R4SAS
 
 Non-logging OpenNIC resolver in France
 
 sdns://AQYAAAAAAAAAETE1MS44MC4yMjIuNzk6NDQzIO4Y9lZnORlvodxu39dnm6mFruwTRnlmovbEga4Fyw3TIDIuZG5zY3J5cHQtY2VydC5vcGVubmljLmkycGQueHl6
-
-## opennic-R4SAS-ipv6
-
-Non-logging OpenNIC resolver in France
-
-sdns://AQYAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyDuGPZWZzkZb6Hcbt_XZ5upha7sE0Z5ZqL2xIGuBcsN0yAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
 
 ## dnsforfamily
 
