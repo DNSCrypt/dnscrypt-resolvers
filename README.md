@@ -1,4 +1,4 @@
-[![Travis Status](https://travis-ci.org/DNSCrypt/dnscrypt-resolvers.svg?branch=master)](https://travis-ci.org/DNSCrypt/dnscrypt-resvolers/builds/)
+[![Travis Status](https://travis-ci.org/DNSCrypt/dnscrypt-resolvers.svg?branch=master)](https://travis-ci.org/DNSCrypt/dnscrypt-resolvers/builds/)
 
 Lists of public DNSCrypt-enabled resolvers.
 
