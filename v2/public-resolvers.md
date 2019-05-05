@@ -960,7 +960,6 @@ sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJ1dy1kbnMucnVie
 
 DNSSEC/Non-logged/Uncensored - ARM server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
-This server used to be called `dnscrypt.org-fr`.
 
 sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
 
