@@ -10,6 +10,6 @@ install:
 
 script:
  - ./dnscrypt-proxy -list-all
- - ./dnscrypt-proxy -pidfile /tmp/dnscrypt-proxy.pid &
+ - env DEBUG=1 ./dnscrypt-proxy -pidfile /tmp/dnscrypt-proxy.pid -loglevel 0 &
  - sleep 60
  - kill $(cat /tmp/dnscrypt-proxy.pid)
