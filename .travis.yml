@@ -7,9 +7,9 @@ install:
  - cd linux-x86_64
  - cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
  - sed -i -e 's/listen_addresses.*/listen_addresses = ["127.0.0.1:5300"]/' dnscrypt-proxy.toml
- - sed -i -e 's/require_dnssec.*/require_dnssec = "false"/' dnscrypt-proxy.toml
- - sed -i -e 's/require_nolog.*/require_nolog = "false"/' dnscrypt-proxy.toml
- - sed -i -e 's/require_nofilter.*/require_nofilter = "false"/' dnscrypt-proxy.toml
+ - sed -i -e 's/require_dnssec.*/require_dnssec = false/' dnscrypt-proxy.toml
+ - sed -i -e 's/require_nolog.*/require_nolog = false/' dnscrypt-proxy.toml
+ - sed -i -e 's/require_nofilter.*/require_nofilter = false/' dnscrypt-proxy.toml
 
 script:
  - ./dnscrypt-proxy -list-all
