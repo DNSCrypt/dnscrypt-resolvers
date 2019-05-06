@@ -11,7 +11,7 @@ The servers below are not accessible without Tor.
 To use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
 
-    [sources.'public-resolvers']
+    [sources.'onion-services']
     urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v2/onion-services.md', 'https://download.dnscrypt.info/resolvers-list/v2/onion-services.md']
     minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
     cache_file = 'onion-services.md'
