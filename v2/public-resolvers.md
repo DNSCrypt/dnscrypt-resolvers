@@ -777,6 +777,24 @@ By http://nawala.id in Indonesia.
 
 sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIHdOzLhkyLmRuc2NyeXB0LWNlcnQubmF3YWxhLmlk
 
+## opendns-1a
+
+OpenDNS IPv4 Server 1 | 208.67.222.222
+sdns://AQYAAAAAAAAADjIwOC42Ny4yMjIuMjIyABVPcGVuRE5TIElQdjQgU2VydmVyIDE
+
+## opendns-1b
+OpenDNS IPv4 Server 2 | 208.67.220.220
+sdns://AQYAAAAAAAAADjIwOC42Ny4yMjAuMjIwABVPcGVuRE5TIElQdjQgU2VydmVyIDI
+
+## opendns-2a
+
+OpenDNS IPv6 DNS server 1 | 2620:119:35::35
+sdns://AQYAAAAAAAAADzI2MjA6MTE5OjM1OjozNQAVT3BlbkROUyBJUHY2IFNlcnZlciAx
+
+## opendns-2b 
+OpenDNS IPv6 DNS server 2 | 2620:119:53::53
+sdns://AQYAAAAAAAAADzI2MjA6MTE5OjUzOjo1MwAVT3BlbkROUyBJUHY2IFNlcnZlciAy
+
 ## opennic-ethservices
 
 OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
