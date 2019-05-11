@@ -627,6 +627,13 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
+## encrypt-town
+
+Non-logging, non-censoring, DNSSEC-capable DNSCrypt server located in Northern California.
+By https://encrypt.town
+
+sdns://AQcAAAAAAAAAETEzLjUyLjEzOC4yMTc6ODg4IBBFTcFTuQTe-sR5uokPA7FcM00RRnHKBZylyElKcwT2HDIuZG5zY3J5cHQtY2VydC5lbmNyeXB0LnRvd24
+
 ## ev-va
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
