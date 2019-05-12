@@ -824,6 +824,22 @@ Second public DNS server in Canada operated by Luggs (IPv6)
 
 sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
 
+## oszx
+
+Secure DNS Project by PumpleX - Hosted in the UK by OVH
+No Logging / Ad-Blocking
+Information at https://dns.oszx.co
+
+sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL1V5bwEjFzIuZG5zY3J5cHQtY2VydC5vc3p4LmNv
+
+## oszx-ipv6
+
+Secure DNS Project by PumpleX - Hosted in the UK by OVH - IPv6
+No Logging / Ad-Blocking
+Information at https://dns.oszx.co
+
+sdns://AQIAAAAAAAAAHDIwMDE6NDFkMDo4MDE6MjAwMDo6ZDY0OjUzNTMgzCb3-hjDbo_gkhWgOEn_mQUN03FfWR7h8TMvVXlvASMXMi5kbnNjcnlwdC1jZXJ0Lm9zenguY28
+
 ## powerdns-doh
 
 By PowerDNS/Open-Xchange https://powerdns.org
