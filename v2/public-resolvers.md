@@ -778,6 +778,13 @@ Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
 sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo3YmNjOjU0MDA6MWZmOmZlZDE6ODU5OV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgMZG9oLnRpYXIuYXBwCi9kbnMtcXVlcnk
 
+## iij
+
+DoH server operated by Internet Initiative Japan in Tokyo.
+https://www.iij.ad.jp/
+
+sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgs2lfGAQCPrV0DPQqOkPci0Jei0GhMK_ne-QHwPbfn4oRcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
+
 ## ipredator
 
 Public DNSCrypt server in Sweden provided by Ipredator.se
