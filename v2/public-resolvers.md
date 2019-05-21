@@ -552,7 +552,7 @@ sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjZiNGI6OjFdOjg0NDMgyJjbSS4IgTY_2KH3NVGG0
 
 ## dns.sb
 
-Non-logging, no clientsubnet, DNSSEC-enabled DoH server by https://xtom.com/
+No clientsubnet, DNSSEC-enabled DoH server by https://xtom.com/
 Using Cloudflare as a frontend.
 
 https://dns.sb
