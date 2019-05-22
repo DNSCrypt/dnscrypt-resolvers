@@ -68,17 +68,31 @@ sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9o
 
 ## publicarray-au
 
-DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
 
 ## publicarray-au-doh
 
-DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
+
+## publicarray-au2
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
+Maintained by publicarray - https://dns.seby.io
+
+sdns://AQcAAAAAAAAADTEzOS45OS4yMjIuNzIgCwVoTw0L4dgal5LC1FbZUtHtLR_rVuV6rVnxO95e4GUbMi5kbnNjcnlwdC1jZXJ0LmRucy5zZWJ5Lmlv
+
+## publicarray-au2-doh
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
+Maintained by publicarray - https://dns.seby.io
+
+sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
 
 ## opennic-R4SAS
 
