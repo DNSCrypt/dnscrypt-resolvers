@@ -115,12 +115,21 @@ sdns://AQcAAAAAAAAAEzE3OC4xMjguMjU1LjI4OjUzNTMgkr1k-Lp2d9IXiFlXoBAgFGZUCJSPW_x81
 
 ## captnemo-in
 
-Server running out of a Digital Ocean droplet in BLR1 region.
+Server running out of a Digital Ocean droplet in Bangalore.
 Maintained by Abhay Rana aka Nemo.
 
-If you are within India, this might be a nice DNS server to use.
+If you are within India, this might be a nice DNS server to use. See [Privacy Policy](https://captnemo.in/dns/privacy/).
 
-sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
+sdns://AQcAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
+
+## captnemo-in-doh
+
+Server running out of a Digital Ocean droplet in Bangalore.
+Maintained by Abhay Rana aka Nemo.
+
+If you are within India, this might be a nice DoH server to use. See [Privacy Policy](https://captnemo.in/dns/privacy/).
+
+sdns://AgcAAAAAAAAADTEzOS41OS40OC4yMjIgJYR9Zo608E_dQLErawdAxWfafQJDCOtsLJb-QdneIY0PZG9oLmNhcHRuZW1vLmluCi9kbnMtcXVlcnk
 
 ## charis
 
