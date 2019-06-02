@@ -655,6 +655,12 @@ Location: Toronto, Canada
 
 sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYgTvUHn_uZRDf0m10w-HJPpAVY7_UcoDKNuXpXcWJSVwsjMi5kbnNjcnlwdC1jZXJ0LmV2LXRvLmV2aWx2aWJlcy5jb20
 
+## faelix
+
+An open DoH resolver in Wales, operated by https://faelix.net/
+
+sdns://AgQAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQKL2Rucy1xdWVyeQ
+
 ## freetsa.org
 
 Non-logged/Uncensored provided by freetsa.org
