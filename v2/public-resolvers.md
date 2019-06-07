@@ -797,6 +797,8 @@ sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIH
 NextDNS is a cloud-based private DNS service that gives you full control
 over what is allowed and what is blocked on the Internet.
 
+DNSSEC, Anycast.
+
 https://www.nextdns.io/
 
 sdns://AgUAAAAAAAAACzUuMTgyLjIwOC4wID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5uZXh0ZG5zLmlvDy9kbnNjcnlwdC1wcm94eQ
