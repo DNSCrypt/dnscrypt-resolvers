@@ -792,6 +792,15 @@ By http://nawala.id in Indonesia.
 
 sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIHdOzLhkyLmRuc2NyeXB0LWNlcnQubmF3YWxhLmlk
 
+## nextdns
+
+NextDNS is a cloud-based private DNS service that gives you full control
+over what is allowed and what is blocked on the Internet.
+
+https://www.nextdns.io/
+
+sdns://AgUAAAAAAAAACzUuMTgyLjIwOC4wID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5uZXh0ZG5zLmlvDy9kbnNjcnlwdC1wcm94eQ
+
 ## opennic-ethservices
 
 OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
