@@ -893,6 +893,14 @@ Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
 
+## qag.me
+
+Plain Vanilla setup of dnscrypt-server-docker on a headless box. Upstream to 1.1.1.1.
+Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
+Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
+
+sdns://AQcAAAAAAAAAETEwNi41MS40NC41MTo0NDM0ICt-NxN6TQakhymLGnye9T-Vn_qHinPHPu3ci8a66wawFjIuZG5zY3J5cHQtY2VydC5xYWcubWU
+
 ## quad101
 
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
