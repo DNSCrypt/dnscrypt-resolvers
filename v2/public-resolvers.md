@@ -896,7 +896,7 @@ sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 ## quad101
 
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
-https://twnic.net.tw/
+https://101.101.101.101/index_en.html
 
 sdns://AgcAAAAAAAAAACAoPxWWFWiOuUdTdn7SvYpzbNqr_iDmmJrktihy4wca5gxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
 
