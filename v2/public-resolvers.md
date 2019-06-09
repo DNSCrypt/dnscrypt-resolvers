@@ -104,7 +104,7 @@ Hosted in Bangalore, India.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjEzOS41OS4xNi4xMzA6NTM1MyCORifHOIOoUQMIIbpa5-XQQfSq75W3gpAWy2Udh8MoyRkyLmRuc2NyeXB0LWNlcnQuYXJ2aW5kLmlv
+sdns://AQcAAAAAAAAAFDIwNi4xODkuMTQyLjE3OTo1MzUzII5GJ8c4g6hRAwghulrn5dBB9KrvlbeCkBbLZR2HwyjJGTIuZG5zY3J5cHQtY2VydC5hcnZpbmQuaW8
 
 ## bottlepost-dns-nl
 
