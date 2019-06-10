@@ -113,6 +113,15 @@ Hosted in The Netherlands, DNSSEC / No Logs / No Filter
 
 sdns://AQcAAAAAAAAAEzE3OC4xMjguMjU1LjI4OjUzNTMgkr1k-Lp2d9IXiFlXoBAgFGZUCJSPW_x81Ec6ShkPsJYdMi5kbnNjcnlwdC1jZXJ0LmJvdHRsZXBvc3QubWU
 
+## brahma-world
+
+DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
+
+Non-logging, supports DNSSEC.
+Hosted in Bengaluru, India. (https://dns.brahma.world)
+
+sdns://AgMAAAAAAAAADjEzNC4yMDkuMTQ2LjE2ICWEfWaOtPBP3UCxK2sHQMVn2n0CQwjrbCyW_kHZ3iGNEGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+
 ## captnemo-in
 
 Server running out of a Digital Ocean droplet in BLR1 region.
