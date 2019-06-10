@@ -120,7 +120,7 @@ DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malw
 Non-logging, supports DNSSEC.
 Hosted in Bengaluru, India. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAADjEzNC4yMDkuMTQ2LjE2ICWEfWaOtPBP3UCxK2sHQMVn2n0CQwjrbCyW_kHZ3iGNEGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjEzNC4yMDkuMTQ2LjE2oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
 
 ## captnemo-in
 
