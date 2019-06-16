@@ -904,11 +904,11 @@ sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 
 ## qag.me
 
-Ad-blocking DNS cache; upstreams to 1.1.1.1.
+Ad-blocking DNS cache.
 Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
 Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
 
-sdns://AQMAAAAAAAAAETEwNi41MS40NC41MTo0NDM0ICt-NxN6TQakhymLGnye9T-Vn_qHinPHPu3ci8a66wawFjIuZG5zY3J5cHQtY2VydC5xYWcubWU
+sdns://AQcAAAAAAAAAETEwNi41MS40NC41MTo0NDM0IG3wywgyGRGSs4tM2V60HntwJ0jYAm1-DShnajBjvujtFjIuZG5zY3J5cHQtY2VydC5xYWcubWU
 
 ## quad101
 
