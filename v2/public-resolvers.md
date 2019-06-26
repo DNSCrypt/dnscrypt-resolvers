@@ -704,7 +704,7 @@ sdns://AgMAAAAAAAAADzExNC4xMTUuMjQwLjE3NSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 
 Google DNS (anycast)
 
-sdns://AgUAAAAAAAAAAKAe9iTP_15r07rd8_3b_epWVGfjdymdx-5mdRZvMAzBuSB2gCRHoBmTGj8AQwTFP9xsGyw3jcS-j3Ozn9nJad-0RQ5kbnMuZ29vZ2xlLmNvbQ0vZXhwZXJpbWVudGFs
+sdns://AgUAAAAAAAAABzguOC44LjigHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR6AZkxo_AEMExT_cbBssN43Evo9zs5_ZyWnftEUKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
 
 ## gridns-jp
 
