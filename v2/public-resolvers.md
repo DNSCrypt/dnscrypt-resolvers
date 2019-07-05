@@ -618,9 +618,9 @@ sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYgTvUHn_uZRDf0m10w-HJPpAVY7_UcoDKNuXpXcWJSV
 
 ## faelix
 
-An open DoH resolver in Wales, operated by https://faelix.net/
+An open DoH resolver operated by https://faelix.net/ with nodes in UK and CH.
 
-sdns://AgQAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQBLw
 
 ## freetsa.org
 
