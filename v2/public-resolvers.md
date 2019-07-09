@@ -280,12 +280,6 @@ Poland DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAACzUuMTMzLjguMTg3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
-## cs-dk
-
-Denmark DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADzE4NS4yMTIuMTY5LjEzOSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
 ## cs-it
 
 Italy DNSCrypt server provided by https://cryptostorm.is/
@@ -369,12 +363,6 @@ sdns://AQYAAAAAAAAADzE3My4yMzQuMTU5LjIzNSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkM
 US - IL DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADjE3My4yMzQuNTYuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-## cs-usnv
-
-US - NV DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADzEwNC4yMzguMTk1LjEzOSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 ## cs-uswa
 
@@ -824,14 +812,6 @@ Information at https://dns.oszx.co
 
 sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL1V5bwEjFzIuZG5zY3J5cHQtY2VydC5vc3p4LmNv
 
-## oszx-ipv6
-
-Secure DNS Project by PumpleX - Hosted in the UK by OVH - IPv6
-No Logging / Ad-Blocking
-Information at https://dns.oszx.co
-
-sdns://AQIAAAAAAAAAHDIwMDE6NDFkMDo4MDE6MjAwMDo6ZDY0OjUzNTMgzCb3-hjDbo_gkhWgOEn_mQUN03FfWR7h8TMvVXlvASMXMi5kbnNjcnlwdC1jZXJ0Lm9zenguY28
-
 ## powerdns-doh
 
 By PowerDNS/Open-Xchange https://powerdns.org
@@ -1016,13 +996,6 @@ DNSCrypt-enabled DNS resolver in Italy, using the official Docker image.
 Maintained by @lucenera
 
 sdns://AQcAAAAAAAAAETgwLjIxMS4xODAuMzY6NDQzIA_7uKat5C0D4VmeWRnLmQAWdXjKhklxdfsdwcuOJY1IHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
-
-## trashvpn.de
-
-dnscrypt-server Docker image : DNSSEC/Non-logged/Uncensored
-Hosted in Germany
-
-sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTUuMTgxOjQ0MyAl_sppDIKYr4Er_QKZ1ee96Xy_f5ZZs5Dxo0EvV22IoBsyLmRuc2NyeXB0LWNlcnQudHJhc2h2cG4uZGU
 
 ## ventricle.us
 
