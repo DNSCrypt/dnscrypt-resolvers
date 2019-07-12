@@ -503,6 +503,16 @@ https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6MmUzOmUwMDFdOjQ0MyAmJwT-OXZ9NntZ2eu_HtZeXARhCdiAynbBYcu6bArCdxsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
 
+## dnscrypt-01.adsnomore.io
+
+DNSCrypt server hosted with Hetzner in Nuremberg, Germany. No logging, DNSSEC.
+
+It has full disk encryption, Canonical Livepatch for less downtime and full
+monitoring using a combination of Uptime Robot, Monit and Statping.
+Uses the official Docker image. Operated by @jamesponddotco
+
+sdns://AQcAAAAAAAAAETk0LjEzMC4xNzguNTY6NDQzIIxpj-7XPoT_79rA9pnvVGz0bIQRuEL-eI-0NlYJaGcpJjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC0wMS5tYWRwb255Lmlv
+
 ## dnscrypt-jp-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
