@@ -297,28 +297,54 @@ sdns://AQcAAAAAAAAAHFsyNjA3OjUzMDA6NjA6NGFhODo6NzAwXTo0NDMgmHxwqJfb2hUaNK1LVeqAD
 
 ## dnswarden-dc1
 
-DnsCrypt protocol , Non-logging, supports DNSSEC. By https://dnswarden.com
+DnsCrypt protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
 
 sdns://AQcAAAAAAAAAEzExNi4yMDMuNzAuMTU2Ojg0NDMgenKjVeH-LU7Opsyq1ljKZz14fHsngOK8OOeQ-cR2mAskMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0xLXVuY2Vuc29y
 
 ## dnswarden-dc1-ipv6
 
-DnsCrypt protocol , Non-logging,supports DNSSEC. By https://dnswarden.com
+DnsCrypt protocol . Non-logging,supports DNSSEC. By https://dnswarden.com
 
 sdns://AQcAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjc1YjQ6OjFdOjg0NDMgenKjVeH-LU7Opsyq1ljKZz14fHsngOK8OOeQ-cR2mAskMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0xLXVuY2Vuc29y
 
 
 ## dnswarden-dc2
 
-DnsCrypt protocol , Non-logging, supports DNSSEC. By https://dnswarden.com
+DnsCrypt protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
 
 sdns://AQcAAAAAAAAAEzExNi4yMDMuMzUuMjU1Ojg0NDMg-IlTTFFgMuUntnNV78COzbhJN9_OEOVWNgHhdg4BNXwkMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0yLXVuY2Vuc29y
 
 ## dnswarden-dc2-ipv6
 
-DnsCrypt protocol , Non-logging,supports DNSSEC. By https://dnswarden.com
+DnsCrypt protocol . Non-logging,supports DNSSEC. By https://dnswarden.com
 
 sdns://AQcAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjVlNzc6OjFdOjg0NDMg-IlTTFFgMuUntnNV78COzbhJN9_OEOVWNgHhdg4BNXwkMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0yLXVuY2Vuc29y
+
+
+## dnswarden-doh1
+
+Dns-over-HTTPS protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
+
+sdns://AgcAAAAAAAAADjExNi4yMDMuNzAuMTU2ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tCy91bmNlbnNvcmVk
+
+## dnswarden-doh1-ipv6
+
+Dns-over-HTTPS protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
+
+sdns://AgcAAAAAAAAAF1syYTAxOjRmODoxYzFjOjc1YjQ6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tCy91bmNlbnNvcmVk
+
+## dnswarden-doh2
+
+Dns-over-HTTPS protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
+
+sdns://AgcAAAAAAAAADjExNi4yMDMuMzUuMjU1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tCy91bmNlbnNvcmVk
+
+## dnswarden-doh2-ipv6
+
+Dns-over-HTTPS protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
+
+sdns://AgcAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tCy91bmNlbnNvcmVk
+
 
 
 ## doh-cleanbrowsing-security
