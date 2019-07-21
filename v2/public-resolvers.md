@@ -865,7 +865,8 @@ sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMue
 dnscrypt-server (nginx - dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADjE3OC44Mi4xMDIuMTkwIBuR6jsTpCthR_P_b_jSxBJF9ch_jC7ZTVp7EHV2YgLaGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+sdns://AQcAAAAAAAAADjE3OC44Mi4xMDIuMTkwICG1vO2oUWbbSwNRSztStNhK7r9K4xTPE13zEsybQ19dGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+
 
 ## id-gmail
 
