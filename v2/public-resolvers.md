@@ -22,14 +22,15 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
+## aaflalo-me-nyc
 
-## aaflalo-me-gcp
-
-DNS-over-HTTPS proxy of aaflalo-me hosted in Google Cloud Platform.
+DNS-over-HTTPS proxy of aaflalo-me hosted with Ramnode.
 
 Non-logging, AD-filtering, supports DNSSEC.
+Hosted in Netherlands on a RamNode Cloud Instance.
 
-sdns://AgMAAAAAAAAADDM1LjIzMS42OS43NyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJkbnMtZ2NwLmFhZmxhbG8ubWUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
+
 
 ## aaflalo-me
 
