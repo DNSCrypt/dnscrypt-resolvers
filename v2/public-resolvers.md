@@ -24,17 +24,25 @@ To use that list, add this to the `[sources]` section of your
 
 ## aaflalo-me-nyc
 
-DNS-over-HTTPS proxy of aaflalo-me hosted with Ramnode.
+DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
 
 Non-logging, AD-filtering, supports DNSSEC.
-Hosted in Netherlands on a RamNode Cloud Instance.
+Hosted in New York on a RamNode Cloud Instance.
+
+sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
+
+## aaflalo-me-gcp
+
+Same as aaflalo-me-nyc. Use aaflalo-me-nyc.
+
+Kept for backward compatibility with people use this server.
 
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
 
 ## aaflalo-me
 
-DNS-over-HTTPS server running rust-doh with PiHole for Adblocking.
+DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NL.
 
 Non-logging, AD-filtering, supports DNSSEC.
 Hosted in Netherlands on a RamNode VPS.
