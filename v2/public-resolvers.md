@@ -917,6 +917,34 @@ Public DNSCrypt server in Sweden provided by Ipredator.se
 
 sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
 
+## jp.tiar.app
+
+Non-Logging, Non-Filtering DNSCrypt server in Japan.
+No ECS, Support DNSSEC
+
+sdns://AQcAAAAAAAAAEjE3Mi4xMDQuOTMuODA6MTQ0MyAyuHY-8b9lNqHeahPAzW9IoXnjiLaZpTeNbVs8TN9UUxsyLmRuc2NyeXB0LWNlcnQuanAudGlhci5hcHA
+
+## jp.tiar.app-ipv6
+
+Non-Logging, Non-Filtering DNSCrypt (IPv6) server in Japan.
+No ECS, Support DNSSEC
+
+sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw
+
+## jp.tiar.app-doh
+
+Non-Logging, Non-Filtering DNS-over-HTTPS server in Japan.
+No ECS, Support DNSSEC
+
+sdns://AgcAAAAAAAAADTE3Mi4xMDQuOTMuODAgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgLanAudGlhci5hcHAKL2Rucy1xdWVyeQ
+
+## jp.tiar.app-doh-ipv6
+
+Non-Logging, Non-Filtering DNS-over-HTTPS (IPv6) server in Japan.
+No ECS, Support DNSSEC
+
+sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk
+
 ## nawala-childprotection
 
 Internet filtering system (anycast), protecting child from inappropriate websites and abusive contents.
