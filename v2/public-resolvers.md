@@ -196,7 +196,7 @@ sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham
 Public DNSCrypt server in Germany. DNSSEC, no logs, no filter.
 Maintained by @lucenera
 
-sdns://AQcAAAAAAAAAEjk0LjE3Ny4yMjcuMjAwOjQ0MyBII8p7sOohfM9fGMhqivxO1KZ_Q1JEHS55nI2Ou2k4nBoyLmRuc2NyeXB0LWNlcnQuZGUuZWRvLmNvbQ
+sdns://AQcAAAAAAAAAETUxLjE1LjEwNi4xNzY6NDQzIGcUiAnFqewnNLjh8DUYpcePX07pXc3sDOf2U-vpI55WHjIuZG5zY3J5cHQtY2VydC5hbXMuY2hhcmlzLmNvbQ
 
 ## cisco
 
@@ -1191,10 +1191,10 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 ## suami
 
 A non-censoring, non-logging, non-censoring, DNSSEC-capable,
-DNSCrypt-enabled DNS resolver in Italy, using the official Docker image.
+DNSCrypt-enabled DNS resolver in France, using the official Docker image.
 Maintained by @lucenera
 
-sdns://AQcAAAAAAAAAETgwLjIxMS4xODAuMzY6NDQzIA_7uKat5C0D4VmeWRnLmQAWdXjKhklxdfsdwcuOJY1IHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
+sdns://AQcAAAAAAAAAEjE2My4xNzIuMTM1LjkxOjQ0MyAa1c2tko5PA1_fBzSXfz3pIB-3QKK04gA99gF7D_ePqBwyLmRuc2NyeXB0LWNlcnQuZnIuc3VhbWkuY29t
 
 ## ventricle.us
 
