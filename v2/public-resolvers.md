@@ -833,18 +833,6 @@ Non-logged/Uncensored provided by freetsa.org
 
 sdns://AQcAAAAAAAAAEzIwNS4xODUuMTE2LjExNjo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
 
-## geekdns-east
-
-GeekDNS in eastern China (Shanghai).
-
-GeekDNS is a non-logging public DNS service located in mainland China.
-Queries are cached locally, and, for some domains, resolved by servers located
-in Taiwan.
-
-https://dns.233py.com/
-
-sdns://AQMAAAAAAAAAEDQ3LjEwMS4xMzYuMzc6MjIgCRIqxqrF-npxg2-xjGLKvzuxvS7hCGgXx_x_4K85yHYZMi5kbnNjcnlwdC1jZXJ0LjIzM3B5LmNvbQ
-
 ## geekdns-west
 
 GeekDNS in western China (Chongqing).
@@ -892,18 +880,6 @@ in Taiwan.
 https://dns.233py.com/
 
 sdns://AQcAAAAAAAAAETE1MC4xMDkuNzQuMTY0OjIyIPcEBXJOU2jQys6br08P8yyn132SuDixQ8Oek3lhoRQoGTIuZG5zY3J5cHQtY2VydC4yMzNweS5jb20
-
-## geekdns-us
-
-GeekDNS in the United States.
-
-GeekDNS is a non-logging public DNS service..
-Queries are cached locally, and, for some domains, resolved by servers located
-in Taiwan.
-
-https://dns.233py.com/
-
-sdns://AQMAAAAAAAAAETEwNy4xNTUuNzkuMTIwOjIyIDzxhAPcjkUtLFGDWuU9rLKuuRzz2iKEoeO7TqqSpXkqGTIuZG5zY3J5cHQtY2VydC4yMzNweS5jb20
 
 ## geekdns-doh-east
 
