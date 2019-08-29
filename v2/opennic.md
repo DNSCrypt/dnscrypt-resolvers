@@ -114,7 +114,7 @@ DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
 Location: Gravelines, France.
 Maintained by piraces - https://developer.li
 
-sdns://AQcAAAAAAAAAFzIwMDE6NDFkMDozMDI6MjIwMDo6NzM1IOORyBsbVECZjBLtBBPcvz4BX6KqFLyBHOgRFnPjDc91IDIuZG5zY3J5cHQtY2VydC5uczEuZGV2ZWxvcGVyLmxp
+sdns://AQcAAAAAAAAAHVsyMDAxOjQxZDA6MzAyOjIyMDA6OjczNV06NDQzIOORyBsbVECZjBLtBBPcvz4BX6KqFLyBHOgRFnPjDc91IDIuZG5zY3J5cHQtY2VydC5uczEuZGV2ZWxvcGVyLmxp
 
 ## developerli-de
 
@@ -130,7 +130,7 @@ DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
 Location: Limburg, Germany.
 Maintained by piraces - https://developer.li
 
-sdns://AQcAAAAAAAAAGDIwMDE6NDFkMDo3MDE6MTEwMDo6MjFiNSBF27xjwGrNk7IfBlWNxDMfThgQaJl-G-B6V-ORq6ZblSAyLmRuc2NyeXB0LWNlcnQubnMyLmRldmVsb3Blci5saQ
+sdns://AQcAAAAAAAAAHlsyMDAxOjQxZDA6NzAxOjExMDA6OjIxYjVdOjQ0MyBF27xjwGrNk7IfBlWNxDMfThgQaJl-G-B6V-ORq6ZblSAyLmRuc2NyeXB0LWNlcnQubnMyLmRldmVsb3Blci5saQ
 
 ## developerli-fr-doh
 
@@ -146,7 +146,7 @@ DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
 Location: Gravelines, France.
 Maintained by piraces - https://developer.li
 
-sdns://AgcAAAAAAAAAFzIwMDE6NDFkMDozMDI6MjIwMDo6NzM1ABVkbnMuZGV2ZWxvcGVyLmxpOjg0NDMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAHlsyMDAxOjQxZDA6MzAyOjIyMDA6OjczNV06ODQ0MwAVZG5zLmRldmVsb3Blci5saTo4NDQzCi9kbnMtcXVlcnk
 
 ## developerli-de-doh
 
@@ -162,4 +162,4 @@ DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
 Location: Limburg, Germany.
 Maintained by piraces - https://developer.li
 
-sdns://AgcAAAAAAAAAGDIwMDE6NDFkMDo3MDE6MTEwMDo6MjFiNQAWZG5zMi5kZXZlbG9wZXIubGk6ODQ0MwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAH1syMDAxOjQxZDA6NzAxOjExMDA6OjIxYjVdOjg0NDMAFmRuczIuZGV2ZWxvcGVyLmxpOjg0NDMKL2Rucy1xdWVyeQ
