@@ -352,7 +352,7 @@ sdns://AQcAAAAAAAAAEjE5Mi45OS4xODMuMTMyOjQ0MyAaU6PJUHicvdELGTOkaJtshGpA8bc9F1Kuy
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
 DNS service for your pleasure.
 
-sdns://AQcAAAAAAAAAEjE5Mi45OS4xODMuMTMzOjQ0MyABCFSrO1an7vnTkVj-9oIL_5OiNXyJFgjbnhXTu-ARhR0yLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMg
+sdns://AQcAAAAAAAAAETE0OS41Ni4yMjguNDU6NDQzIAEIVKs7Vqfu-dORWP72ggv_k6I1fIkWCNueFdO74BGFHTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0y
 
 ## dnscrypt.ca-1-ipv6
 
@@ -366,7 +366,7 @@ sdns://AQcAAAAAAAAAHFsyNjA3OjUzMDA6NjA6NGFhODo6NjAwXTo0NDMgINkZ1Ow8UAjNxwpR6itPy
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
 DNS service for your pleasure.
 
-sdns://AQcAAAAAAAAAHFsyNjA3OjUzMDA6NjA6NGFhODo6NzAwXTo0NDMgmHxwqJfb2hUaNK1LVeqADvVhzASq1cV90sPYYfwX9CkiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTItaXB2Ng
+sdns://AQcAAAAAAAAAHFsyNjA3OjUzMDA6MTIwOmI5Yjo6MjAwXTo0NDMgmHxwqJfb2hUaNK1LVeqADvVhzASq1cV90sPYYfwX9CkiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTItaXB2Ng
 
 ## dnswarden-dc1
 
