@@ -900,7 +900,7 @@ sdns://AgYAAAAAAAAADDE5NS4zMC45NC4yOAANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
 
-sdns://AgYAAAAAAAAADzIwMDE6NjA4OmEwMTo6MwANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAAEVsyMDAxOjYwODphMDE6OjNdAA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 ## freetsa.org
 
