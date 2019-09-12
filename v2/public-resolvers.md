@@ -889,18 +889,19 @@ sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYgTvUHn_uZRDf0m10w-HJPpAVY7_UcoDKNuXpXcWJSV
 
 An open DoH resolver operated by https://faelix.net/ with nodes in UK and CH.
 
-sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQBLw
+sdns://AgcAAAAAAAAADDE5NS4zMC45NC4yOCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 ## doh.ffmuc.net
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
 
 sdns://AgcAAAAAAAAADDE5NS4zMC45NC4yOAANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
+
 ## doh.ffmuc.net-v6
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
 
-sdns://AgcAAAAAAAAAEVsyMDAxOjYwODphMDE6OjNdAA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFVsyMDAxOjYwODphMDE6OjNdOjQ0MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 ## freetsa.org
 
