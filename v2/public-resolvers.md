@@ -895,13 +895,12 @@ sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpe
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
 
-sdns://AgYAAAAAAAAADDE5NS4zMC45NC4yOAANZG9oLmZmbXVjLm5ldAEv
-
+sdns://AgYAAAAAAAAADDE5NS4zMC45NC4yOAANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 ## doh.ffmuc.net-v6
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
 
-sdns://AgYAAAAAAAAADzIwMDE6NjA4OmEwMTo6MwANZG9oLmZmbXVjLm5ldAEv
+sdns://AgYAAAAAAAAADzIwMDE6NjA4OmEwMTo6MwANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 
 ## freetsa.org
 
