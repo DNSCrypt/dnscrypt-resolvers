@@ -878,13 +878,6 @@ Location: Vancouver, Canada
 
 sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMTYg3_NERwhF2C4tPlnR0CSeIAmRC3wwXtucNhKMVoW_prQjMi5kbnNjcnlwdC1jZXJ0LmV2LXZhLmV2aWx2aWJlcy5jb20
 
-## ev-to
-
-Non-logging, uncensored DNS resolver provided by evilvibes.com
-Location: Toronto, Canada
-
-sdns://AQcAAAAAAAAADTIzLjExMS42OS4xMjYgTvUHn_uZRDf0m10w-HJPpAVY7_UcoDKNuXpXcWJSVwsjMi5kbnNjcnlwdC1jZXJ0LmV2LXRvLmV2aWx2aWJlcy5jb20
-
 ## faelix
 
 An open DoH resolver operated by https://faelix.net/ with nodes in UK and CH.
