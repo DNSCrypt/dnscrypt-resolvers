@@ -22,6 +22,12 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
+## 42l
+
+DNS resolver of the associative French ISP FDN accessible over DoH.
+DNSSEC-enabled. https://42l.fr/
+sdns://AgcAAAAAAAAADjE4NS4yMTYuMjcuMTQyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4CmRvaC40MmwuZnIKL2Rucy1xdWVyeQ
+
 ## aaflalo-me-nyc
 
 DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
