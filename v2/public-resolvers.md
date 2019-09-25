@@ -1349,7 +1349,7 @@ Uses deep learning to block adult websites. Free, DNSSEC, no logs.
 Hosted in Paris, running on a 1-XS server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
-sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
+sdns://AQMAAAAAAAAAEjEzNy43NC4yMjMuMjM0OjQ0MyDh-pkPNrNd6pYsMvYmsH9px3h3lXD6xySF4dHAvA_9mRcyLmRuc2NyeXB0LWNlcnQuc2Z3Lm92aA
 
 ## soltysiak
 
