@@ -17,7 +17,7 @@ To use that list, add this to the `[sources]` section of your
 doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland on by ibksturm, aka Andreas Ziegler
 
-sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFpYmtzdHVybS5kZWR5bi5pbwovZG5zLXF1ZXJ5
 
 ## ibksturm
 
