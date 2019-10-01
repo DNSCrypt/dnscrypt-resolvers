@@ -857,12 +857,15 @@ Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAAF1syNjA2OjQ3MDA6MzA6OjY4MWM6NmFdIB3YUIqMVlkEOXx4ZFHgj1dhPPPIpyP283n9TDhYtvOfEmRvaC1pcHY2LmNyeXB0by5zeAovZG5zLXF1ZXJ5
 
+
+
 ## doh-ibksturm
 
 doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
-Hosted in Switzerland by ibksturm, aka Andreas Ziegler
+Hosted in Switzerland on by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+
 
 ## encrypt-town
 
@@ -1032,12 +1035,15 @@ Hosted at Linode in Singapore. Upstream to 1.1.1.1. No EDNS Client Subnet. IPv6-
 
 sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
 
+
 ## ibksturm
 
-dnscrypt-server (nginx - dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+dnscrypt-server (nginx-dnscrypt-wrapper-unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADjE3OC44Mi4xMDIuMTkwIBuR6jsTpCthR_P_b_jSxBJF9ch_jC7ZTVp7EHV2YgLaGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+sdns://AQcAAAAAAAAACzg1LjcuMTM5LjI4IBuR6jsTpCthR_P_b_jSxBJF9ch_jC7ZTVp7EHV2YgLaGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+
+
 
 ## id-gmail
 
