@@ -26,7 +26,6 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAACzg1LjcuMTM5LjI4IBuR6jsTpCthR_P_b_jSxBJF9ch_jC7ZTVp7EHV2YgLaGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
 
-
 ## opennic-ethservices
 
 OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
