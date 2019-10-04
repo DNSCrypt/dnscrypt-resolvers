@@ -22,6 +22,15 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
+## a-and-a
+
+Non-logging DoH server in the UK operated by Andrews & Arnold Ltd, a
+company providing Internet connectivity and VoIP in the UK.
+
+https://www.aa.net.uk/legal/dohdot-disclaimer/
+
+sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
+
 ## aaflalo-me-nyc
 
 DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
