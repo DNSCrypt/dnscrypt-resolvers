@@ -1143,6 +1143,15 @@ By http://nawala.id in Indonesia.
 
 sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIHdOzLhkyLmRuc2NyeXB0LWNlcnQubmF3YWxhLmlk
 
+## netweaver
+
+Non-logging DoH server in the UK provided by the Netweaver cloud web
+hosting company.
+
+https://www.netweaver.uk/dns-over-https/
+
+sdns://AgcAAAAAAAAADjE4NS4xNTcuMjMzLjkyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRvaC5uZXR3ZWF2ZXIudWsKL2Rucy1xdWVyeQ
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
