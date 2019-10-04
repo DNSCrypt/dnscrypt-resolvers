@@ -157,6 +157,20 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OKBoo-sB-l8CxNNfOhHQBMrwiyJL7qfXnFiMfxPIYTNgLqDvR4Wu5wydV1_nM4MG2T6nlhHl_tzvU2LdZsmLYLstvSAcVDa2UaK1QVwWz9ltGpcJ_ZyPJ-73XPlz2YL_5o5Y8BZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
 
+## doh.tiarap.org
+
+Non-Logging DNS-over-HTTPS server, cached via Cloudflare.
+Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
+
+sdns://AgMAAAAAAAAADDEwNC4yOC4yOC4zNCBPtWwTIp4-T40ZbjCdyCfeStS1-WkKW8w_WWEQubJpyQ5kb2gudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
+
+## doh.tiarap.org-ipv6
+
+Non-Logging DNS-over-HTTPS server (IPv6), cached via Cloudflare.
+Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
+
+sdns://AgMAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
+
 ## arvind-io
 
 Public resolver by EnKrypt (https://arvind.io).
@@ -1107,6 +1121,20 @@ Non-Logging, Non-Filtering DNS-over-HTTPS (IPv6) server in Japan.
 No ECS, Support DNSSEC
 
 sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk
+
+## jp.tiarap.org
+
+DNS-over-HTTPS Server. Non-Logging, Non-Filtering, No ECS, Support DNSSEC.
+Cached via Cloudflare.
+
+sdns://AgcAAAAAAAAADDEwNC4yOC4yOC4zNCBPtWwTIp4-T40ZbjCdyCfeStS1-WkKW8w_WWEQubJpyQ1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk
+
+## jp.tiarap.org-ipv6
+
+DNS-over-HTTPS Server (IPv6). Non-Logging, Non-Filtering, No ECS, Support DNSSEC.
+Cached via Cloudflare.
+
+sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 ## nawala-childprotection
 
