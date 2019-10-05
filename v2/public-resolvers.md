@@ -484,7 +484,7 @@ Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled
 Multiple nodes in China Mainland, Japan and Germany.
 Maintained by CPI-tech-Group
 
-sdns://AgMAAAAAAAAAJzIwMDE6MTlmMDo3MDAxOjU1NTQ6NTQwMDowMmZmOmZlNTc6MzA3NyBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYtxNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAALVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddOjQ0MyBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYtxNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
 
 ## commons-host
 
