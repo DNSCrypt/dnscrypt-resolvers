@@ -470,22 +470,6 @@ Cloudflare DNS over IPv6 (anycast)
 
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NTOgENk8mGSlIfMGXMOlIlCcKvq7AVgcrZxtjon911-ep0cg63Ul-I8NlFj4GplQGb_TTLiczclX57DvMV8Q-JdjgRgSZG5zLmNsb3VkZmxhcmUuY29tCi9kbnMtcXVlcnk
 
-## containerpi
-
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled. 
-Multiple nodes in China Mainland, Japan and Germany.
-Maintained by CPI-tech-Group
-
-sdns://AgEAAAAAAAAADDQ1Ljc3LjE4MC4xMCBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYtxNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
-
-## containerpi-ipv6
-
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled. 
-Multiple nodes in China Mainland, Japan and Germany.
-Maintained by CPI-tech-Group
-
-sdns://AgEAAAAAAAAAJzIwMDE6MTlmMDo3MDAxOjU1NTQ6NTQwMDowMmZmOmZlNTc6MzA3NyBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYtxNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
-
 ## commons-host
 
 DoH server by the Commons Host CDN
