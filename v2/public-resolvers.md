@@ -1171,13 +1171,6 @@ Cached via Cloudflare.
 
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
-## nawala-childprotection
-
-Internet filtering system (anycast), protecting child from inappropriate websites and abusive contents.
-By http://nawala.id in Indonesia.
-
-sdns://AQAAAAAAAAAADzE4MC4xMzEuMTQ0LjE0NCDGC-b_38Dj4-ikI477AO1GXcLPfETOFpE36KZIHdOzLhkyLmRuc2NyeXB0LWNlcnQubmF3YWxhLmlk
-
 ## netweaver
 
 Non-logging DoH server in the UK provided by the Netweaver cloud web
