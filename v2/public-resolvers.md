@@ -498,12 +498,6 @@ Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
 
 sdns://AQAAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
 
-## cpunks-ru
-
-Cypherpunks.ru public DNS server
-
-sdns://AQYAAAAAAAAAEjc3LjUxLjE4MS4yMDk6NTM1MyAYOMyj2VMKZjQzXVAFvTdYROOXfuhoK2xVKBK9p40umR4yLmRuc2NyeXB0LWNlcnQuY3lwaGVycHVua3MucnU
-
 ## cs-ch
 
 Switzerland DNSCrypt server provided by https://cryptostorm.is/
@@ -1122,12 +1116,6 @@ DoH server operated by Internet Initiative Japan in Tokyo.
 https://www.iij.ad.jp/
 
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgs2lfGAQCPrV0DPQqOkPci0Jei0GhMK_ne-QHwPbfn4oRcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
-
-## ipredator
-
-Public DNSCrypt server in Sweden provided by Ipredator.se
-
-sdns://AQcAAAAAAAAADTE5NC4xMzIuMzIuMzIgxExWaqjWRsQysQT1PQCWGzLccc8cBL2esBPkgOekeCgcMi5kbnNjcnlwdC1jZXJ0LmlwcmVkYXRvci5zZQ
 
 ## jp.tiar.app
 
