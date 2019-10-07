@@ -709,12 +709,6 @@ DNSCrypt v2 server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, r
 
 sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKyh8yLmRuc2NyeXB0LWNlcnQubnMwLmRuc2NyeXB0Lm5s
 
-## dnscrypt.nl-ns0-doh
-
-DNS-over-HTTPS server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, recursive DNS. https://dnscrypt.nl
-
-sdns://AgcAAAAAAAAADjEwOC42MS4xOTkuMTcwID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D2RvaC5kbnNjcnlwdC5ubAovZG5zLXF1ZXJ5
-
 ## dnscrypt.uk-ipv4
 
 DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK by Digital Ocean
