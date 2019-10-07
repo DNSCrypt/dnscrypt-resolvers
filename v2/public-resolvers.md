@@ -785,12 +785,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://bl
 
 sdns://AQMAAAAAAAAAJVsyYTBhOmU1YzA6MjoyOjA6YzhmZjpmZTY4OmJmNDhdOjg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
-## dnscrypt-jp-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAADjEwOC42MS4yMDEuMTE5IFOE6BRDFCk-Vt0bFAoe8XKtR726F5nIlXKUlT0DTrXHGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
 ## dnscrypt-jp-blahdns-ipv6
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
@@ -890,13 +884,6 @@ doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Unce
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
-
-## encrypt-town
-
-Non-logging, non-censoring, DNSSEC-capable DNSCrypt server located in Northern California.
-By https://encrypt.town
-
-sdns://AQcAAAAAAAAAETEzLjUyLjEzOC4yMTc6ODg4IBBFTcFTuQTe-sR5uokPA7FcM00RRnHKBZylyElKcwT2HDIuZG5zY3J5cHQtY2VydC5lbmNyeXB0LnRvd24
 
 ## ev-va
 
@@ -1074,13 +1061,6 @@ Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
 sdns://AQMAAAAAAAAADjE3NC4xMzguMjEuMTI4IO-WgGbo2ZTwZdg-3dMa7u31bYZXRj5KykfN1_6Xw9T2HDIuZG5zY3J5cHQtY2VydC5kbnMudGlhci5hcHA
 
-## id-gmail-ipv6
-
-Non-Logging DNSCrypt (IPv6) server located in Singapore.
-Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
-
-sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9W2GV0Y-SspHzdf-l8PU9hwyLmRuc2NyeXB0LWNlcnQuZG5zLnRpYXIuYXBw
-
 ## id-gmail-doh
 
 Non-Logging DNS-over-HTTPS server located in Singapore.
@@ -1108,13 +1088,6 @@ Non-Logging, Non-Filtering DNSCrypt server in Japan.
 No ECS, Support DNSSEC
 
 sdns://AQcAAAAAAAAAEjE3Mi4xMDQuOTMuODA6MTQ0MyAyuHY-8b9lNqHeahPAzW9IoXnjiLaZpTeNbVs8TN9UUxsyLmRuc2NyeXB0LWNlcnQuanAudGlhci5hcHA
-
-## jp.tiar.app-ipv6
-
-Non-Logging, Non-Filtering DNSCrypt (IPv6) server in Japan.
-No ECS, Support DNSSEC
-
-sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw
 
 ## jp.tiar.app-doh
 
@@ -1231,13 +1204,6 @@ DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
-
-## publicarray-au2
-
-DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
-Maintained by publicarray - https://dns.seby.io
-
-sdns://AQcAAAAAAAAADTEzOS45OS4yMjIuNzIgCwVoTw0L4dgal5LC1FbZUtHtLR_rVuV6rVnxO95e4GUbMi5kbnNjcnlwdC1jZXJ0LmRucy5zZWJ5Lmlv
 
 ## publicarray-au2-doh
 
