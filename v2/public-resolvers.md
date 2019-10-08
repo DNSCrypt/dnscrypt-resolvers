@@ -1138,6 +1138,16 @@ Cached via Cloudflare.
 
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
+## mkkaran
+
+Public DNSCrypt Server hosted in Bengaluru, India on a tiny Digital
+Ocean droplet. It supports DNSSEC validation, the DNSCrypt protocol
+and has caching enabled for faster responses.
+
+https://mrkaran.dev/dnscrypt/
+
+sdns://AQcAAAAAAAAAETEzOS41OS41NS4xMzo0MzQzIMI_cHfgQzHFYUiS8m2ghR8Ij9nb88EQZXAYDlOhBGhmHzIuZG5zY3J5cHQtY2VydC5kbnMubXJrYXJhbi5kZXY
+
 ## netweaver
 
 Non-logging DoH server in the UK provided by the Netweaver cloud web
