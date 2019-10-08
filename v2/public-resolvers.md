@@ -878,6 +878,14 @@ Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAADDEwNC4yOC4wLjEwNiAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
+## doh-crypto-sx-ipv6
+
+DNS-over-HTTPS server accessible over IPv6. Anycast, no logs, no censorship, DNSSEC.
+Backend hosted by Scaleway, globally cached via Cloudflare.
+Maintained by Frank Denis.
+
+sdns://AgcAAAAAAAAAF1syNjA2OjQ3MDA6MzA6OjY4MWM6NmFdIB3YUIqMVlkEOXx4ZFHgj1dhPPPIpyP283n9TDhYtvOfEmRvaC1pcHY2LmNyeXB0by5zeAovZG5zLXF1ZXJ5
+
 ## doh-ibksturm
 
 doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
@@ -1053,13 +1061,19 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADDE4OC42MS4xOC4zNCAxpVWjP-w5DRPkAkNBcR25Umjp1eT36lwLXK5vOTfehhgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
-
 ## id-gmail
 
 Non-Logging DNSCrypt server located in Singapore.
 Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
 sdns://AQMAAAAAAAAADjE3NC4xMzguMjEuMTI4IO-WgGbo2ZTwZdg-3dMa7u31bYZXRj5KykfN1_6Xw9T2HDIuZG5zY3J5cHQtY2VydC5kbnMudGlhci5hcHA
+
+## id-gmail-ipv6
+
+Non-Logging DNSCrypt (IPv6) server located in Singapore.
+Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
+
+sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9W2GV0Y-SspHzdf-l8PU9hwyLmRuc2NyeXB0LWNlcnQuZG5zLnRpYXIuYXBw
 
 ## id-gmail-doh
 
@@ -1088,6 +1102,13 @@ Non-Logging, Non-Filtering DNSCrypt server in Japan.
 No ECS, Support DNSSEC
 
 sdns://AQcAAAAAAAAAEjE3Mi4xMDQuOTMuODA6MTQ0MyAyuHY-8b9lNqHeahPAzW9IoXnjiLaZpTeNbVs8TN9UUxsyLmRuc2NyeXB0LWNlcnQuanAudGlhci5hcHA
+
+## jp.tiar.app-ipv6
+
+Non-Logging, Non-Filtering DNSCrypt (IPv6) server in Japan.
+No ECS, Support DNSSEC
+
+sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw
 
 ## jp.tiar.app-doh
 
