@@ -1138,7 +1138,7 @@ Cached via Cloudflare.
 
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
-## mkkaran
+## mrkaran
 
 Public DNSCrypt Server hosted in Bengaluru, India on a tiny Digital
 Ocean droplet. It supports DNSSEC validation, the DNSCrypt protocol
