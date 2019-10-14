@@ -1236,6 +1236,13 @@ Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
 
+## publicarray-au2
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
+Maintained by publicarray - https://dns.seby.io
+
+sdns://AQcAAAAAAAAAEjEzOS45OS4yMjIuNzI6ODQ0MyALBWhPDQvh2BqXksLUVtlS0e0tH-tW5XqtWfE73l7gZRsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+
 ## publicarray-au2-doh
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
