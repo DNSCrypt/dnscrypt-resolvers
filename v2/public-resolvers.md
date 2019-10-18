@@ -1061,7 +1061,7 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAAETE4OC42MC4yNTIuMTY6NDQzIDGlVaM_7DkNE-QCQ0FxHblSaOnV5PfqXAtcrm85N96GGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
 
-DNS Stamp for Anonymized DNS relaying: sdns://gRExODguNjAuMjUyLjE2OjQ0M
+DNS Stamp for Anonymized DNS relaying: sdns://gRExODguNjAuMjUyLjE2OjQ0Mw
 
 ## id-gmail
 
