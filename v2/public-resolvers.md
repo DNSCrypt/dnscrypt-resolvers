@@ -1063,7 +1063,6 @@ sdns://AQcAAAAAAAAAETE4OC42MC4yNTIuMTY6NDQzIDGlVaM_7DkNE-QCQ0FxHblSaOnV5PfqXAtcr
 
 DNS Stamp for Anonymized DNS relaying: sdns://gRExODguNjAuMjUyLjE2OjQ0M
 
-
 ## id-gmail
 
 Non-Logging DNSCrypt server located in Singapore.
