@@ -23,3 +23,15 @@ sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 Anonymized DNS relay hosted in Germany, maintained by @lucenera
 
 sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
+
+## anon-tiarap
+
+Anonymized DNS relay hosted in Singapore
+
+sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
+
+## anon-tiarap-ipv6
+
+Anonymized IPv6 DNS relay hosted in Singapore
+
+sdns://gSBbMjQwMDo2MTgwOjA6ZDA6OjVmNzM6NDAwMV06MTQ0Mw
