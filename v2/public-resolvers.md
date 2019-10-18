@@ -888,7 +888,7 @@ sdns://AgcAAAAAAAAAF1syNjA2OjQ3MDA6MzA6OjY4MWM6NmFdIB3YUIqMVlkEOXx4ZFHgj1dhPPPIp
 
 ## doh-ibksturm
 
-doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+doh-server (nginx - dnsproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
@@ -1056,10 +1056,13 @@ sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMue
 
 ## ibksturm
 
-dnscrypt-server (nginx - dnscrypt-wrapper - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADDE4OC42MS4xOC4zNCAxpVWjP-w5DRPkAkNBcR25Umjp1eT36lwLXK5vOTfehhgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
+sdns://AQcAAAAAAAAAETE4OC42MC4yNTIuMTY6NDQzIDGlVaM_7DkNE-QCQ0FxHblSaOnV5PfqXAtcrm85N96GGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+
+DNS Stamp for Anonymized DNS relaying: sdns://gRExODguNjAuMjUyLjE2OjQ0M
+
 
 ## id-gmail
 
