@@ -35,3 +35,9 @@ sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
 Anonymized IPv6 DNS relay hosted in Singapore
 
 sdns://gSBbMjQwMDo2MTgwOjA6ZDA6OjVmNzM6NDAwMV06MTQ0Mw
+
+## anon-ev-va
+
+Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
+
+sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
