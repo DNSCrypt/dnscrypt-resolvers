@@ -20,3 +20,9 @@ More DNS server sources:
 Anonymized DNS relays:
 - https://download.dnscrypt.info/dnscrypt-resolvers/v2/relays.md
 - https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v2/relays.md
+
+# Minisign public key
+
+```text
+RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3
+```
