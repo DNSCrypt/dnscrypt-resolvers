@@ -16,13 +16,13 @@ sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 
 Anonymized DNS relay hosted in France, maintained by @lucenera
 
-sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
+sdns://gRE1MS4xNTguMTA2LjQyOjQ0Mw
 
 ## anon-charis
 
 Anonymized DNS relay hosted in Germany, maintained by @lucenera
 
-sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
+sdns://gRE1MS4xNS4xMDYuMTc2OjQ0Mw
 
 ## anon-tiarap
 
