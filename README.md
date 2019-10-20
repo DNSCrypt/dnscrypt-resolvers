@@ -10,6 +10,7 @@ https://dnscrypt.info/map
 
 Stable download URLs:
 https://download.dnscrypt.info/dnscrypt-resolvers/v2/
+https://github.com/DNSCrypt/dnscrypt-resolvers/tree/master/v2
 
 More DNS server sources:
 https://github.com/jedisct1/dnscrypt-proxy/wiki/DNS-server-sources
@@ -17,4 +18,5 @@ https://github.com/jedisct1/dnscrypt-proxy/wiki/DNS-server-sources
 # List of DNS relays.
 
 Anonymized DNS relays:
+https://download.dnscrypt.info/dnscrypt-resolvers/v2/relays.md
 https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v2/relays.md
