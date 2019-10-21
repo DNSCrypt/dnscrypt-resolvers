@@ -41,3 +41,9 @@ sdns://gSBbMjQwMDo2MTgwOjA6ZDA6OjVmNzM6NDAwMV06MTQ0Mw
 Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
 sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
+
+## anon-publicarray
+
+Anonymized DNS relay hosted in Sydney, Australia and maintained by Sebastian Schmidt (@publicarray)
+
+sdns://gRIxMzkuOTkuMjIyLjcyOjg0NDM
