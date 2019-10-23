@@ -1058,9 +1058,9 @@ sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMue
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAAETE4OC42MC4yNTIuMTY6NDQzIDGlVaM_7DkNE-QCQ0FxHblSaOnV5PfqXAtcrm85N96GGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+sdns://AQcAAAAAAAAADzgzLjc3Ljg1Ljc6ODQ0MyC33sjOthdoqrx-so3KV8EGejv9ZmHp1Y8ogm7dvAAKpRgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
-DNS Stamp for Anonymized DNS relaying: sdns://gRExODguNjAuMjUyLjE2OjQ0Mw
+DNS Stamp for Anonymized DNS relaying: sdns://gQ84My43Ny44NS43Ojg0NDM
 
 ## id-gmail
 
