@@ -4,7 +4,7 @@
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gRExODguNjAuMjUyLjE2OjQ0Mw
+sdns://gQ84My43Ny44NS43Ojg0NDM
 
 ## anon-kama
 
