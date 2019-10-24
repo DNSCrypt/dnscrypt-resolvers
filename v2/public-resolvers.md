@@ -778,11 +778,29 @@ Uses the official Docker image.
 
 sdns://AQcAAAAAAAAAEjEzOS4xODAuMjE2LjgzOjQ0MyBPxDlEgU5vJPp0n-Zh505hgFMSBQj8CQc7p9uUaIWigSkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQtMDcubWFkcG9ueS5zcGFjZQ
 
+## dnscrypt-fi-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEzk1LjIxNi4yMTIuMTc3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+## dnscrypt-fi-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAHFsyYTAxOjRmOTpjMDEwOjQzY2U6OjFdOjg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
 ## dnscrypt-ch-blahdns-ipv6
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
 
 sdns://AQMAAAAAAAAAJVsyYTBhOmU1YzA6MjoyOjA6YzhmZjpmZTY4OmJmNDhdOjg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+## dnscrypt-jp-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEzEwOC42MS4yMDEuMTE5Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 ## dnscrypt-jp-blahdns-ipv6
 
@@ -810,6 +828,18 @@ Using Cloudflare as a frontend.
 https://dns.sb
 
 sdns://AgUAAAAAAAAAACA9pLcWNKQTwc7zSqltJaQBY01M82w7Ezx0KU5I5jcBKgpkb2guZG5zLnNiCi9kbnMtcXVlcnk
+
+## doh-fi-blahdns-v6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+## doh-fi-blahdns
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEzk1LjIxNi4yMTIuMTc3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 ## doh-ch-blahdns-v6
 
