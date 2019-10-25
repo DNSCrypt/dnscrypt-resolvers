@@ -1397,7 +1397,7 @@ sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJ1dy1kbnMucnVie
 DNSSEC/Non-logged/Uncensored - ARM server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQMAAAAAAAAAEjIxMi40Ny4yMjguMTM2OjQ0M09FODAxOkI4NEU6QTYwNjpCRkIwOkJBQzA6Q0U0Mzo0NDVCOkIxNUU6QkE2NDpCMDJGOkEzQzQ6QUEzMTpBRTEwOjYzNkE6MDc5MDozMjREHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
 
 ## securedns
 
