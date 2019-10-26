@@ -47,3 +47,10 @@ sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
 Anonymized DNS relay hosted in Sydney, Australia and maintained by Sebastian Schmidt (@publicarray)
 
 sdns://gRIxMzkuOTkuMjIyLjcyOjg0NDM
+
+## anon-scaleway
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+Running on an instance donated by https://scaleway.com
+
+sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
