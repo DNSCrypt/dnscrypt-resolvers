@@ -57,7 +57,7 @@ sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
 
 ## anon-inconnu
 
-Anonymized DNS relay hosted in Seattle (USA) running dnscrypt-server-docker on
-Vultr.
+Anonymized DNS relay hosted in Seattle, WA (USA). Running the official Docker
+image on Vultr.
 
 sdns://gRIxMDQuMjM4LjE1My40Njo0NDM
