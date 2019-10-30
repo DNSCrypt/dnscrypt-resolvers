@@ -54,3 +54,10 @@ Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 Running on an instance donated by https://scaleway.com
 
 sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
+
+## anon-inconnu
+
+Anonymized DNS relay hosted in Seattle (USA) running dnscrypt-server-docker on
+Vultr.
+
+sdns://gRIxMDQuMjM4LjE1My40Njo0NDM
