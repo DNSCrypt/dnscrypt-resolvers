@@ -158,17 +158,20 @@ Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC. By https:/
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tCC9hZGJsb2Nr
 
+
 ## ads-securedns
 
 Filter Ads and no logging (DNSCrypt protocol)
 
-sdns://AQcAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjUzNTQg9J8sc01itoYxntB-aRlDOy8ThfQe-8ovF21ZCy5FPoYcMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZWRucy5ldQ
+sdns://AQMAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjUzNTQg9J8sc01itoYxntB-aRlDOy8ThfQe-8ovF21ZCy5FPoYcMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZWRucy5ldQ
+
 
 ## ads-securedns-ipv6
 
 Filter Ads and no logging (IPv6, DNSCrypt protocol)
 
-sdns://AQcAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV06NTM1NCD0nyxzTWK2hjGe0H5pGUM7LxOF9B77yi8XbVkLLkU-hhwyLmRuc2NyeXB0LWNlcnQuc2VjdXJlZG5zLmV1
+sdns://AQMAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV06NTM1NCD0nyxzTWK2hjGe0H5pGUM7LxOF9B77yi8XbVkLLkU-hhwyLmRuc2NyeXB0LWNlcnQuc2VjdXJlZG5zLmV1
+
 
 ## ads-securedns-doh
 
