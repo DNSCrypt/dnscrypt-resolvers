@@ -158,6 +158,17 @@ Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC. By https:/
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tCC9hZGJsb2Nr
 
+## ads-securedns
+
+Filter Ads and no logging (DNSCrypt protocol)
+
+sdns://AQcAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjUzNTQg9J8sc01itoYxntB-aRlDOy8ThfQe-8ovF21ZCy5FPoYcMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZWRucy5ldQ
+
+## ads-securedns-ipv6
+
+Filter Ads and no logging (IPv6, DNSCrypt protocol)
+
+sdns://AQcAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV06NTM1NCD0nyxzTWK2hjGe0H5pGUM7LxOF9B77yi8XbVkLLkU-hhwyLmRuc2NyeXB0LWNlcnQuc2VjdXJlZG5zLmV1
 
 ## ads-securedns-doh
 
@@ -523,7 +534,7 @@ sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NTOgENk8mGSlIfMGXMOlIlCcKvq7A
 
 ## containerpi
 
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled. 
+Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
 Multiple nodes in China Mainland, Japan and Germany.
 Maintained by CPI-tech-Group
 
@@ -532,7 +543,7 @@ sdns://AgMAAAAAAAAADDQ1Ljc3LjE4MC4xMCBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYt
 
 ## containerpi-ipv6
 
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled. 
+Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
 Multiple nodes in China Mainland, Japan and Germany.
 Maintained by CPI-tech-Group
 
@@ -1579,6 +1590,11 @@ Uncensored and no logging (DNSCrypt protocol)
 
 sdns://AQcAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjUzNTMg9J8sc01itoYxntB-aRlDOy8ThfQe-8ovF21ZCy5FPoYcMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZWRucy5ldQ
 
+## securedns-ipv6
+
+Uncensored and no logging (DNSCrypt protocol)
+
+sdns://AQcAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV06NTM1MyD0nyxzTWK2hjGe0H5pGUM7LxOF9B77yi8XbVkLLkU-hhwyLmRuc2NyeXB0LWNlcnQuc2VjdXJlZG5zLmV1
 
 ## securedns-doh
 
