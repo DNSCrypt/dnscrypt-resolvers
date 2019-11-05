@@ -292,3 +292,31 @@ sdns://gRA2NC4xMjAuNS4yNTE6NDQz
 Anonymized DNS relay hosted in US - Las Vegas, NV provided by https://cryptostorm.is/
 
 sdns://gRAzNy4xMjAuMTQ3LjI6NDQz
+
+
+## anon-dnscrypt.uk-ipv4
+
+Anonymized DNS relay hosted in UK on DigitalOcean
+
+sdns://gRIxMzkuNTkuMjAwLjExNjo0NDM
+
+
+## anon-dnscrypt.uk-ipv6
+
+Anonymized DNS relay hosted in UK on DigitalOcean
+
+sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
+
+
+## anon-v.dnscrypt.uk-ipv4
+
+Anonymized DNS relay hosted in UK on Vultr
+
+sdns://gRMxMDQuMjM4LjE4Ni4xOTI6NDQz
+
+
+## anon-v.dnscrypt.uk-ipv6
+
+Anonymized DNS relay hosted in UK on Vultr
+
+sdns://gSxbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZdOjQ0Mw
