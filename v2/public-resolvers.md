@@ -1009,6 +1009,14 @@ Location: Vancouver, Canada
 sdns://AQcAAAAAAAAADjEwNC4zNi4xNDkuMTc3INRzo8srd84NzJJs_OGLkPMBC2jBNVH_U4US4ca7DXRXHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
 
+## ev-to
+
+Non-logging, uncensored DNS resolver provided by evilvibes.com
+Location: Toronto, Canada
+
+sdns://AQcAAAAAAAAADDEwNy42LjI3LjEyNiBKEpoRbQZH3zIeBpcBNAV1uYi0-KeRAKZXwmaT1K3YkB0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
+
+
 ## faelix
 
 An open DoH resolver operated by https://faelix.net/ with nodes in UK and CH.
