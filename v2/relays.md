@@ -60,6 +60,11 @@ Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
 sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
 
+## anon-ev-to
+
+Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
+
+sdns://gQwxMDcuNi4yNy4xMjY
 
 ## anon-publicarray
 
