@@ -393,6 +393,34 @@ DNS service for your pleasure.
 sdns://AQcAAAAAAAAAHFsyNjA3OjUzMDA6MTIwOmI5Yjo6MjAwXTo0NDMgmHxwqJfb2hUaNK1LVeqADvVhzASq1cV90sPYYfwX9CkiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTItaXB2Ng
 
 
+## dnscrypt.ca-1-doh
+
+Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
+
+sdns://AgcAAAAAAAAADjE5Mi45OS4xODMuMTMyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FGRuczEuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
+
+
+## dnscrypt.ca-2-doh
+
+Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
+
+sdns://AgcAAAAAAAAADTE0OS41Ni4yMjguNDUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgUZG5zMi5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+
+
+## dnscrypt.ca-1-ipv6-doh
+
+Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
+
+sdns://AgcAAAAAAAAAGFsyNjA3OjUzMDA6NjA6NGFhODo6NjAwXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
+
+
+## dnscrypt.ca-2-ipv6-doh
+
+Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
+
+sdns://AgcAAAAAAAAAGFsyNjA3OjUzMDA6MTIwOmI5Yjo6MjAwXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkbnMyLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
+
+
 ## dnswarden-dc1
 
 DnsCrypt protocol . Non-logging, supports DNSSEC. By https://dnswarden.com
