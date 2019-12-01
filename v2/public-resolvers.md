@@ -315,14 +315,6 @@ If you are within India, this might be a nice DNS server to use.
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
 
-## charis
-
-Public DNSCrypt server in Germany. DNSSEC, no logs, no filter.
-Maintained by @lucenera
-
-sdns://AQcAAAAAAAAAETUxLjE1LjEwNi4xNzY6NDQzIEvW6V2Vu6gTWx8Go_PTrPTAjz1-d_Gd9A8KsOPx5NcRGjIuZG5zY3J5cHQtY2VydC5pdC5lZG8uY29t
-
-
 ## cisco
 
 Remove your DNS blind spot
@@ -1712,15 +1704,6 @@ sdns://AQMAAAAAAAAAEzE2My4xNzIuMTgwLjEyNTo0NDMg32Jzv8dSGSqLWjm8DIWsP_lkRdc2RPZic
 Public DNSCrypt server in Poland
 
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
-
-
-## suami
-
-A non-censoring, non-logging, non-censoring, DNSSEC-capable,
-DNSCrypt-enabled DNS resolver in France, using the official Docker image.
-Maintained by @lucenera
-
-sdns://AQcAAAAAAAAAETUxLjE1OC4xMDYuNDI6NDQzIPl5tBLA7XTAdkyZG0P642dOwlivYit19hW0I1yxtPMBHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
 
 
 ## ventricle.us
