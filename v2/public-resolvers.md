@@ -648,25 +648,11 @@ Latvia DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADzEwOS4yNDguMTQ5LjEzMyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-uk
-
-England DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADTgyLjE2My43Mi4xMjMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-de
 
 Germany DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADDg0LjE2LjI0MC40MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-de2
-
-Secondary Germany DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADjg5LjE2My4yMTQuMTc0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-ca
@@ -681,13 +667,6 @@ sdns://AQYAAAAAAAAADzE2Mi4yMjEuMjA3LjIyOCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkM
 Secondary Canada DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADjE2Ny4xMTQuODQuMTMyIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-usny
-
-US - NY DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADzE3My4yMzQuMTU5LjIzNSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-usil
