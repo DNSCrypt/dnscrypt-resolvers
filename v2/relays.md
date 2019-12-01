@@ -26,20 +26,6 @@ Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 
 
-## anon-suami
-
-Anonymized DNS relay hosted in France, maintained by @lucenera
-
-sdns://gRE1MS4xNTguMTA2LjQyOjQ0Mw
-
-
-## anon-charis
-
-Anonymized DNS relay hosted in Germany, maintained by @lucenera
-
-sdns://gRE1MS4xNS4xMDYuMTc2OjQ0Mw
-
-
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
@@ -236,13 +222,6 @@ sdns://gRMxNjIuMjIxLjIwNy4yMjg6NDQz
 Anonymized DNS relay hosted in US - Chicago, IL provided by https://cryptostorm.is/
 
 sdns://gRIxNzMuMjM0LjU2LjExNTo0NDM
-
-
-## anon-cs-usny
-
-Anonymized DNS relay hosted in US - New York City, NY provided by https://cryptostorm.is/
-
-sdns://gRMxNzMuMjM0LjE1OS4yMzU6NDQz
 
 
 ## anon-cs-usca
