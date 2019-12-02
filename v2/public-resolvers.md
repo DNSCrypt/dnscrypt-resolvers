@@ -1269,7 +1269,7 @@ sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMue
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAADzgzLjc3Ljg1Ljc6ODQ0MyC33sjOthdoqrx-so3KV8EGejv9ZmHp1Y8ogm7dvAAKpRgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
+sdns://AQcAAAAAAAAADzgzLjc3Ljg1Ljc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
 DNS Stamp for Anonymized DNS relaying: sdns://gQ84My43Ny44NS43Ojg0NDM
 
