@@ -768,6 +768,20 @@ DNSCrypt v2 server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, r
 sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKyh8yLmRuc2NyeXB0LWNlcnQubnMwLmRuc2NyeXB0Lm5s
 
 
+## dnscrypt.one
+
+DNSSEC / no logs / uncensored, Germany
+
+sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBCc4nfqRWGkg4g1vk6yPqtIdsD5Ub4y3sDEKYnQ2vN3BwyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25l
+
+
+## dnscrypt.one-ipv6
+
+DNSSEC / no logs / uncensored, Germany
+
+sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MzAwNDo1ODYyOjoxXTo0NDMgQnOJ36kVhpIOINb5Osj6rSHbA-VG-Mt7AxCmJ0NrzdwcMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm9uZQ
+
+
 ## dnscrypt.uk-ipv4
 
 DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
