@@ -1114,9 +1114,26 @@ An open DoH resolver operated by https://faelix.net/ with nodes in UK and CH.
 sdns://AgcAAAAAAAAADDE5NS4zMC45NC4yOCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 
+## ffmuc.net
+
+An open DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
+https://ffmuc.net/
+
+sdns://AQcAAAAAAAAAETE5NS4zMC45NC4yODo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZcJ0J2x5HK71rvO5DEb6GTIuZG5zY3J5cHQtY2VydC5mZm11Yy5uZXQ
+
+
+## ffmuc.net-v6
+
+An open DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
+https://ffmuc.net/
+
+sdns://AQcAAAAAAAAAFlsyMDAxOjYwODphMDE6OjNdOjg0NDMgB9B68c_cXZl2nT8CZpCnBEllwnQnbHkcrvWu87kMRvoZMi5kbnNjcnlwdC1jZXJ0LmZmbXVjLm5ldA
+
+
 ## doh.ffmuc.net
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
+https://ffmuc.net/
 
 sdns://AgcAAAAAAAAADDE5NS4zMC45NC4yOAANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 
@@ -1124,6 +1141,7 @@ sdns://AgcAAAAAAAAADDE5NS4zMC45NC4yOAANZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 ## doh.ffmuc.net-v6
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
+https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjYwODphMDE6OjNdOjQ0MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
