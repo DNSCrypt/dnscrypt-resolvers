@@ -1647,6 +1647,14 @@ Maintained by Frank Denis - https://fr.dnscrypt.info
 sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
 
 
+## scaleway-fr-ipv6
+
+DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - ARM server donated by Scaleway.com
+Maintained by Frank Denis - https://fr.dnscrypt.info
+
+sdns://AQcAAAAAAAAAGlsyMDAxOmJjODo0N2MwOjgwOTo6MV06NDQzIOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+
+
 ## scaleway-ams
 
 DNSSEC/Non-logged/Uncensored in Amsterdam - ARM server donated by Scaleway.com
