@@ -1641,10 +1641,26 @@ sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJ1dy1kbnMucnVie
 
 ## scaleway-fr
 
-DNSSEC/Non-logged/Uncensored - ARM server donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Paris - ARM server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
 sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+
+
+## scaleway-ams
+
+DNSSEC/Non-logged/Uncensored in Amsterdam - ARM server donated by Scaleway.com
+Maintained by Frank Denis - https://fr.dnscrypt.info
+
+sdns://AQcAAAAAAAAAETUxLjE1LjEyMi4yNTA6NDQzIOkN2X2qXGx4Ihyixe0BaJYtE8tVbM90V7NUVG8VK8GQHDIuZG5zY3J5cHQtY2VydC5zY2FsZXdheS1hbXM
+
+
+## scaleway-ams-ipv6
+
+DNSSEC/Non-logged/Uncensored in Amsterdam - IPv6 only - ARM server donated by Scaleway.com
+Maintained by Frank Denis - https://fr.dnscrypt.info
+
+sdns://AQcAAAAAAAAAHlsyMDAxOmJjODo0NzAwOjI1MDA6OjEzN2RdOjQ0MyDpDdl9qlxseCIcosXtAWiWLRPLVWzPdFezVFRvFSvBkBwyLmRuc2NyeXB0LWNlcnQuc2NhbGV3YXktYW1z
 
 
 ## securedns

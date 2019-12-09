@@ -69,6 +69,22 @@ Running on an instance donated by https://scaleway.com
 sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
 
 
+## anon-scaleway-ams
+
+Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
+IPv6 only. Running on an instance donated by https://scaleway.com
+
+sdns://gRE1MS4xNS4xMjIuMjUwOjQ0Mw
+
+
+## anon-scaleway-ams-ipv6
+
+Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
+IPv6 only. Running on an instance donated by https://scaleway.com
+
+sdns://gR5bMjAwMTpiYzg6NDcwMDoyNTAwOjoxMzdkXTo0NDM
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
