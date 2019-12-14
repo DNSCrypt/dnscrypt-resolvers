@@ -814,69 +814,6 @@ https://www.dnscrypt.uk
 sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl06NDQzIO1JPYzq15BmTwY8R7eVmiNpLXyQNjyeQ8y1kXvltB7lHTIuZG5zY3J5cHQtY2VydC52LmRuc2NyeXB0LnVr
 
 
-## dnscrypt-01.adsnomore.io
-
-DNSCrypt server located in Nuremberg, Germany.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAETk0LjEzMC4xNzguNTY6NDQzIIxpj-7XPoT_79rA9pnvVGz0bIQRuEL-eI-0NlYJaGcpJjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC0wMS5tYWRwb255Lmlv
-
-
-## dnscrypt-02.adsnomore.io
-
-DNSCrypt server located in Miami, USA.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAETE0MC44Mi4yNi4xMDM6NDQzIE15px_otxEaCZ20DybtbfMu92IH3Ritg83ibv6LeizTKTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC0wMi5tYWRwb255LnNwYWNl
-
-
-## dnscrypt-03.adsnomore.io
-
-DNSCrypt server located in São Paulo, Brazil.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAEDUuMTg4LjIzOC42ODo0NDMg1uv1UTjfRdCF1XDI3T10v4EXWcdK6x8qM5Qut7bwb_gpMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LTAzLm1hZHBvbnkuc3BhY2U
-
-
-## dnscrypt-04.adsnomore.io
-
-DNSCrypt server located in Tokyo, Japan.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAEDQ1LjMyLjMxLjIzMTo0NDMgmk18Se_bsOdRNFJ64Lrw5MJ83y_au6WNrh3lZOceiqgpMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LTA0Lm1hZHBvbnkuc3BhY2U
-
-
-## dnscrypt-05.adsnomore.io
-
-DNSCrypt server located in Sydney, Australia.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAETE0OS4yOC4xNjguNjI6NDQzIENfI6UCxKdNccBA9YW-OhkV-HB_b_Yj5nQbq-gM1TAMKTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC0wNS5tYWRwb255LnNwYWNl
-
-
-## dnscrypt-06.adsnomore.io
-
-DNSCrypt server located in Amsterdam, Netherlands.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAEjk1LjE3OS4xNzguMTAwOjQ0MyCzDTlSDfD9-UOciubW46-f6tsh8o60Rt1m4i7XH5hBqykyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQtMDYubWFkcG9ueS5zcGFjZQ
-
-
-## dnscrypt-07.adsnomore.io
-
-DNSCrypt server located in Singapore.
-No logging, DNSSEC, disk encryption, Canonical Livepatch and monitored 24/7.
-Uses the official Docker image.
-
-sdns://AQcAAAAAAAAAEjEzOS4xODAuMjE2LjgzOjQ0MyBPxDlEgU5vJPp0n-Zh505hgFMSBQj8CQc7p9uUaIWigSkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQtMDcubWFkcG9ueS5zcGFjZQ
-
-
 ## dnscrypt-fi-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
