@@ -770,14 +770,14 @@ sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKy
 
 ## dnscrypt.one
 
-DNSSEC / no logs / uncensored, Germany
+DNSSEC / no logs / uncensored, Germany (Nuremberg)
 
 sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBCc4nfqRWGkg4g1vk6yPqtIdsD5Ub4y3sDEKYnQ2vN3BwyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25l
 
 
 ## dnscrypt.one-ipv6
 
-DNSSEC / no logs / uncensored, Germany
+DNSSEC / no logs / uncensored, Germany (Nuremberg)
 
 sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MzAwNDo1ODYyOjoxXTo0NDMgQnOJ36kVhpIOINb5Osj6rSHbA-VG-Mt7AxCmJ0NrzdwcMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm9uZQ
 
