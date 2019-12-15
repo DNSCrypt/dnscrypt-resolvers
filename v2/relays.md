@@ -298,14 +298,14 @@ sdns://gRAzNy4xMjAuMTQ3LjI6NDQz
 
 ## anon-dnscrypt.one
 
-Anonymized DNS relay hosted in Germany
+Anonymized DNS relay hosted in Germany (Nuremberg)
 
 sdns://gRIxNDQuOTEuMTA2LjIyNzo0NDM
 
 
 ## anon-dnscrypt.one-ipv6
 
-Anonymized DNS relay hosted in Germany
+Anonymized DNS relay hosted in Germany (Nuremberg)
 
 sdns://gRxbMmEwMjpjMjA3OjMwMDQ6NTg2Mjo6MV06NDQz
 
