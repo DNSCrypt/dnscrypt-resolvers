@@ -1642,6 +1642,13 @@ Public DNSCrypt server in Poland
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
 
 
+## t53
+
+Deutsche Telekom experimental DoH server.
+
+sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OApkbnMudDUzLmRlBi9xdWVyeQ
+
+
 ## ventricle.us
 
 Public DNSCrypt resolver provided by Jacob Henner
