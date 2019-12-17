@@ -230,6 +230,14 @@ Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, en
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5kbnN3YXJkZW4uY29tDS9hZHVsdC1maWx0ZXI
 
 
+## ams-dnscrypt-nl
+
+Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
+Operated by @koki-es
+
+sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyADjE4mkpovrUv1ECTHll_wW3kmiOLAbXmBfNW_jRUzlx8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
+
+
 ## arvind-io
 
 Public resolver by EnKrypt (https://arvind.io).
