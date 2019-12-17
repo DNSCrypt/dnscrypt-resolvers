@@ -927,6 +927,22 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdn
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## doh-fi-snopyta
+
+Snopyta non-logging DoH Server in Finland
+run by Noah Seefried - https://snopyta.org
+
+sdns://AgcAAAAAAAAADjk1LjIxNi4yMjkuMTUzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FmZpLmRvaC5kbnMuc25vcHl0YS5vcmcKL2Rucy1xdWVyeQ
+
+
+## doh-fi-snopyta-ipv6
+
+Snopyta non-logging DoH Server in Finland - IPv6 only
+run by Noah Seefried - https://snopyta.org
+
+sdns://AgcAAAAAAAAAFlsyYTAxOjRmOToyYToxOTE5OjoyMV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgWZmkuZG9oLmRucy5zbm9weXRhLm9yZwovZG5zLXF1ZXJ5
+
+
 ## doh-ibksturm
 
 doh-server (nginx - dnsproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
