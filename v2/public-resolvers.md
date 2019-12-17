@@ -1685,7 +1685,7 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 
 Deutsche Telekom experimental DoH server.
 
-sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OApkbnMudDUzLmRlBi9xdWVyeQ
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OApkbnMudDUzLmRlBi9xdWVyeQ
 
 
 ## v.dnscrypt.uk-ipv4
