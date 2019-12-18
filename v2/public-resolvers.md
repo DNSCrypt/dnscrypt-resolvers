@@ -1393,11 +1393,11 @@ sdns://AgcAAAAAAAAADjE4NS4xNTcuMjMzLjkyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 NextDNS is a cloud-based private DNS service that gives you full control
 over what is allowed and what is blocked on the Internet.
 
-DNSSEC, Anycast.
+DNSSEC, Anycast, Non-logging, NoFilters
 
 https://www.nextdns.io/
 
-sdns://AgUAAAAAAAAACzUuMTgyLjIwOC4wID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5uZXh0ZG5zLmlvDy9kbnNjcnlwdC1wcm94eQ
+sdns://AgcAAAAAAAAACzUuMTgyLjIwOC4wID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5uZXh0ZG5zLmlvDy9kbnNjcnlwdC1wcm94eQ
 
 
 ## opennic-R4SAS
