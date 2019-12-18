@@ -11,6 +11,10 @@ See the link below for more information:
 
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
+## anon-cs-ams
+
+Anonymized DNS relay hosted in Netherlands - Amsterdam
+sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
 
 ## anon-cs-ca
 
