@@ -221,14 +221,14 @@ sdns://gRA2NC4xMjAuNS4yNTE6NDQz
 
 ## anon-dnscrypt.one
 
-Anonymized DNS relay hosted in Germany (Nuremberg)
+Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one/
 
 sdns://gRIxNDQuOTEuMTA2LjIyNzo0NDM
 
 
 ## anon-dnscrypt.one-ipv6
 
-Anonymized DNS relay hosted in Germany (Nuremberg)
+Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one/
 
 sdns://gRxbMmEwMjpjMjA3OjMwMDQ6NTg2Mjo6MV06NDQz
 
