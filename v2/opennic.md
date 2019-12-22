@@ -47,24 +47,6 @@ Maintained by R4SAS.
 sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyCp1jI6TyWACSYZdRUCziMeH3bZ3ndsh8a7sooO_9sOTiAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
 
 
-## opennic-ethservices
-
-OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
-Location: Frankfurt, Germany
-By ethservices.
-
-sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBxvcGVubmljMi5ldGgtc2VydmljZXMuZGU6ODUzAS8
-
-
-## opennic-ethservices2
-
-OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
-Location: Frankfurt, Germany
-By ethservices.
-
-sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBxvcGVubmljMi5ldGgtc2VydmljZXMuZGU6ODUzAS8
-
-
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
