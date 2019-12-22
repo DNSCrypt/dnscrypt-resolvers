@@ -29,6 +29,7 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADzgzLjc3Ljg1Ljc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
+
 ## opennic-R4SAS
 
 DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
@@ -45,6 +46,22 @@ Location: Gravelines, France.
 Maintained by R4SAS.
 
 sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyCp1jI6TyWACSYZdRUCziMeH3bZ3ndsh8a7sooO_9sOTiAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
+
+
+## opennic-bongobow
+
+OpenNIC • Non-logging • No DNSSEC
+Location: Munich, Germany
+
+sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
+
+
+## opennic-eleix
+
+OpenNIC • 24-hour Logs • No DNSSEC
+Location: Montreal, QC, Canada
+
+sdns://AQQAAAAAAAAAEzE5OC4xMDAuMTQ4LjIyNDo0NDMg-I9_7aXj72-YfDvHJRG_Q3zhfU3m33yuKPcfqYpr_VYkMi5kbnNjcnlwdC1jZXJ0LmpvbHRlb24uYm9vdGhsYWJzLm1l
 
 
 ## opennic-luggs
@@ -73,6 +90,14 @@ sdns://AQYAAAAAAAAAEDE0Mi40LjIwNS40Nzo0NDMgvL-34FDBPaJCLACwsaya1kjFwmS8thcLiD1xi
 Second public DNS server in Canada operated by Luggs (IPv6)
 
 sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
+
+
+## opennic-rico4514
+
+OpenNIC • Non-logging • No DNSSEC
+Location: Texas, 13, MX
+
+sdns://AQYAAAAAAAAAETE0Mi40LjIwNC4xMTE6NDQzIBwZeTMb6CPMzwiaeQaTflw0ECpWrH9icOBGJbLt2wTjHzIuZG5zY3J5cHQtY2VydC5uczMuY2EubHVnZ3MuY28
 
 
 ## publicarray-au
@@ -105,24 +130,3 @@ DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
-
-
-## opennic-Eleix
-OpenNIC • 24-hour Logs • No DNSSEC
-Location: Montreal, QC, Canada
-
-sdns://AQQAAAAAAAAAEzE5OC4xMDAuMTQ4LjIyNDo0NDMg-I9_7aXj72-YfDvHJRG_Q3zhfU3m33yuKPcfqYpr_VYkMi5kbnNjcnlwdC1jZXJ0LmpvbHRlb24uYm9vdGhsYWJzLm1l
-
-
-## opennic-bongobow
-OpenNIC • Non-logging • No DNSSEC
-Location: Munich, Germany
-
-sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
-
-
-## opennic-Rico4514
-OpenNIC • Non-logging • No DNSSEC
-Location: Texas, 13, MX
-
-sdns://AQYAAAAAAAAAETE0Mi40LjIwNC4xMTE6NDQzIBwZeTMb6CPMzwiaeQaTflw0ECpWrH9icOBGJbLt2wTjHzIuZG5zY3J5cHQtY2VydC5uczMuY2EubHVnZ3MuY28
