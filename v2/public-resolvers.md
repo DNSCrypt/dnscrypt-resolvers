@@ -237,11 +237,13 @@ Operated by @koki-es
 
 sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyADjE4mkpovrUv1ECTHll_wW3kmiOLAbXmBfNW_jRUzlx8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
+
 ## ams-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
+
 
 ## arvind-io
 
@@ -1446,6 +1448,20 @@ sdns://AQYAAAAAAAAAEzE5NS4xMC4xOTUuMTk1OjUzNTMg8hbE05QkH0WdwNiGcxtcLvFewNj3USVp1
 Public DNS server in Canada operated by Luggs
 
 sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
+
+
+## opennic-luggs
+
+Public DNS server in Canada operated by Luggs
+
+sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
+
+
+## opennic-luggs-ipv6
+
+Public DNS server in Canada operated by Luggs (IPv6)
+
+sdns://AQYAAAAAAAAAIVsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDQ6MTExXSAcGXkzG-gjzM8ImnkGk35cNBAqVqx_YnDgRiWy7dsE4x8yLmRuc2NyeXB0LWNlcnQubnMzLmNhLmx1Z2dzLmNv
 
 
 ## opennic-luggs-ipv6
