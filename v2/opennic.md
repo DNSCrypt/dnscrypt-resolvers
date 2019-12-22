@@ -105,3 +105,24 @@ DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
+
+
+## opennic-Eleix
+OpenNIC • 24-hour Logs • No DNSSEC
+Location: Montreal, QC, Canada
+
+sdns://AQQAAAAAAAAAEzE5OC4xMDAuMTQ4LjIyNDo0NDMg-I9_7aXj72-YfDvHJRG_Q3zhfU3m33yuKPcfqYpr_VYkMi5kbnNjcnlwdC1jZXJ0LmpvbHRlb24uYm9vdGhsYWJzLm1l
+
+
+## opennic-bongobow
+OpenNIC • Non-logging • No DNSSEC
+Location: Munich, Germany
+
+sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
+
+
+## opennic-Rico4514
+OpenNIC • Non-logging • No DNSSEC
+Location: Texas, 13, MX
+
+sdns://AQYAAAAAAAAAETE0Mi40LjIwNC4xMTE6NDQzIBwZeTMb6CPMzwiaeQaTflw0ECpWrH9icOBGJbLt2wTjHzIuZG5zY3J5cHQtY2VydC5uczMuY2EubHVnZ3MuY28
