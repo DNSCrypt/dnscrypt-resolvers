@@ -53,7 +53,7 @@ OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
 Location: Frankfurt, Germany
 By ethservices.
 
-sdns://AQUAAAAAAAAAEjk0LjI0Ny40My4yNTQ6NTM1MyDUQmYmXRg576Roac_42Ue6uQtQ664-FvA20PgVt_UIfigyLmRuc2NyeXB0LWNlcnQub3Blbm5pYzEuZXRoLXNlcnZpY2VzLmRl
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBxvcGVubmljMi5ldGgtc2VydmljZXMuZGU6ODUzAS8
 
 
 ## opennic-ethservices2
@@ -62,7 +62,7 @@ OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
 Location: Frankfurt, Germany
 By ethservices.
 
-sdns://AQYAAAAAAAAAEzE5NS4xMC4xOTUuMTk1OjUzNTMg8hbE05QkH0WdwNiGcxtcLvFewNj3USVp1A-VL0P77HIoMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMyLmV0aC1zZXJ2aWNlcy5kZQ
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBxvcGVubmljMi5ldGgtc2VydmljZXMuZGU6ODUzAS8
 
 
 ## opennic-luggs
