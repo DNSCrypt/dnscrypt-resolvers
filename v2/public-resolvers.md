@@ -1385,16 +1385,6 @@ https://mrkaran.dev/dnscrypt/
 sdns://AQcAAAAAAAAAETEzOS41OS41NS4xMzo0MzQzIMI_cHfgQzHFYUiS8m2ghR8Ij9nb88EQZXAYDlOhBGhmHzIuZG5zY3J5cHQtY2VydC5kbnMubXJrYXJhbi5kZXY
 
 
-## netweaver
-
-Non-logging DoH server in the UK provided by the Netweaver cloud web
-hosting company.
-
-https://www.netweaver.uk/dns-over-https/
-
-sdns://AgcAAAAAAAAADjE4NS4xNTcuMjMzLjkyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRvaC5uZXR3ZWF2ZXIudWsKL2Rucy1xdWVyeQ
-
-
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
