@@ -25,8 +25,8 @@ To use that list, add this to the `[sources]` section of your
 
 ## 36c3-ffmuc
 
-DNSCrypt resolver for the 36th Chaos Communication Congress (CCC)
-by https://ffmuc.net - Will be online starting December 27th.
+DNSCrypt resolver fore the 36th Chaos Communication Congress (CCC)
+by https://ffmuc.net
 
 sdns://AQcAAAAAAAAAEjE1MS4yMTcuMTc4LjY6ODQ0MyDP8nQX-JrLW-3vXKz-7rBig9Kqj5uBZSWN4yvdmPd28h4yLmRuc2NyeXB0LWNlcnQuMzZjMy5mZm11Yy5uZXQ
 
@@ -34,7 +34,7 @@ sdns://AQcAAAAAAAAAEjE1MS4yMTcuMTc4LjY6ODQ0MyDP8nQX-JrLW-3vXKz-7rBig9Kqj5uBZSWN4
 ## 36c3-ffmuc-ipv6
 
 IPv6 DNSCrypt resolver for the 36th Chaos Communication Congress (CCC)
-by https://ffmuc.net - Will be online starting December 27th.
+by https://ffmuc.net
 
 sdns://AQcAAAAAAAAALVsyMDAxOjY3YzoyMGExOjExNzY6YTIyYjpiOGZmOmZlMWY6NWFjNF06ODQ0MyDP8nQX-JrLW-3vXKz-7rBig9Kqj5uBZSWN4yvdmPd28h4yLmRuc2NyeXB0LWNlcnQuMzZjMy5mZm11Yy5uZXQ
 
