@@ -1245,22 +1245,6 @@ Hosted at Linode in Tokyo. Upstream to 1.1.1.1. No EDNS Client Subnet. IPv6-enab
 sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWVkOjIyMGJdAA1qcC5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
 
 
-## gridns-sg
-
-Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
-Hosted at Linode in Singapore. Upstream to 1.1.1.1. No EDNS Client Subnet.
-
-sdns://AgcAAAAAAAAADTEzOS4xNjIuMy4xMjMADXNnLmdyaWRucy54eXoKL2Rucy1xdWVyeQ
-
-
-## gridns-sg-ipv6
-
-Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
-Hosted at Linode in Singapore. Upstream to 1.1.1.1. No EDNS Client Subnet. IPv6-enabled.
-
-sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTFmZjpmZWVkOjhkNDddAA1zZy5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
-
-
 ## ibksturm
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
