@@ -199,6 +199,67 @@ Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC. By https:/
 
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NjJhNzo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLmRuc3dhcmRlbi5jb20IL2FkYmxvY2s
 
+## ads-dnswarden-dc1-ecs
+DnsCrypt protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAFDExNi4yMDMuNzAuMTU2OjE1MzUzIHpyo1Xh_i1OzqbMqtZYymc9eHx7J4DivDjnkPnEdpgLJzIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tMS1hZGJsb2NrLWVjcw
+
+## ads-dnswarden-dc1-ipv6-ecs
+DnsCrypt protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAHVsyYTAxOjRmODoxYzFjOjc1YjQ6OjFdOjE1MzUzIHpyo1Xh_i1OzqbMqtZYymc9eHx7J4DivDjnkPnEdpgLJzIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tMS1hZGJsb2NrLWVjcw
+
+## ads-dnswarden-dc2-ecs
+DnsCrypt protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAFDExNi4yMDMuMzUuMjU1OjE1MzUzIPiJU0xRYDLlJ7ZzVe_Ajs24STffzhDlVjYB4XYOATV8JzIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tMi1hZGJsb2NrLWVjcw
+
+## ads-dnswarden-dc2-ipv6-ecs
+DnsCrypt protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAHVsyYTAxOjRmODoxYzFjOjVlNzc6OjFdOjE1MzUzIPiJU0xRYDLlJ7ZzVe_Ajs24STffzhDlVjYB4XYOATV8JzIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tMi1hZGJsb2NrLWVjcw
+
+## ads-dnswarden-dc3-ecs
+DnsCrypt protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAEjg4LjE5OC4xNjEuODoxNTM1MyAXP3t4-gG2h6HCR6iVc36We8YtqbgJurS-cWU0azEz2ycyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLTMtYWRibG9jay1lY3M
+
+## ads-dnswarden-dc3-ipv6-ecs
+DnsCrypt protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAHFsyYTAxOjRmODpjMGM6NjJhNzo6MV06MTUzNTMgFz97ePoBtoehwkeolXN-lnvGLam4Cbq0vnFlNGsxM9snMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0zLWFkYmxvY2stZWNz
+
+## ads-dnswarden-doh1-ecs
+Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAADjExNi4yMDMuNzAuMTU2ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbQwvYWRibG9jay1lY3M
+
+## ads-dnswarden-doh1-ipv6-ecs
+Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjc1YjQ6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbQwvYWRibG9jay1lY3M
+
+## ads-dnswarden-doh2-ecs
+Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAADjExNi4yMDMuMzUuMjU1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbQwvYWRibG9jay1lY3M
+
+## ads-dnswarden-doh2-ipv6-ecs
+Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbQwvYWRibG9jay1lY3M
+
+## ads-dnswarden-doh3-ecs
+Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAADDg4LjE5OC4xNjEuOCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVlY3MtZG9oLmRuc3dhcmRlbi5jb20ML2FkYmxvY2stZWNz
+
+## ads-dnswarden-doh3-ipv6-ecs
+Dns-over-HTTPS protocol . Non-logging, AD-filtering, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NjJhNzo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgVZWNzLWRvaC5kbnN3YXJkZW4uY29tDC9hZGJsb2NrLWVjcw
+
+
 ## ads-securedns-doh
 
 Filter Ads and no logging (DoH protocol)
@@ -291,6 +352,67 @@ sdns://AgMAAAAAAAAADDg4LjE5OC4xNjEuOCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24O
 Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC. By https://dnswarden.com
 
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NjJhNzo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLmRuc3dhcmRlbi5jb20NL2FkdWx0LWZpbHRlcg
+
+## af-dnswarden-dc1-ecs
+DnsCrypt protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAEzExNi4yMDMuNzAuMTU2OjU0NDMgenKjVeH-LU7Opsyq1ljKZz14fHsngOK8OOeQ-cR2mAssMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0xLWFkdWx0LWZpbHRlci1lY3M
+
+## af-dnswarden-dc1-ipv6-ecs
+DnsCrypt protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjc1YjQ6OjFdOjU0NDMgenKjVeH-LU7Opsyq1ljKZz14fHsngOK8OOeQ-cR2mAssMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0xLWFkdWx0LWZpbHRlci1lY3M
+
+## af-dnswarden-dc2-ecs
+DnsCrypt protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAEzExNi4yMDMuMzUuMjU1OjU0NDMg-IlTTFFgMuUntnNV78COzbhJN9_OEOVWNgHhdg4BNXwsMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0yLWFkdWx0LWZpbHRlci1lY3M
+
+## af-dnswarden-dc2-ipv6-ecs
+DnsCrypt protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAHFsyYTAxOjRmODoxYzFjOjVlNzc6OjFdOjU0NDMg-IlTTFFgMuUntnNV78COzbhJN9_OEOVWNgHhdg4BNXwsMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi0yLWFkdWx0LWZpbHRlci1lY3M
+
+## af-dnswarden-dc3-ecs
+DnsCrypt protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAETg4LjE5OC4xNjEuODo1NDQzIBc_e3j6AbaHocJHqJVzfpZ7xi2puAm6tL5xZTRrMTPbLDIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tMy1hZHVsdC1maWx0ZXItZWNz
+
+## af-dnswarden-dc3-ipv6-ecs
+DnsCrypt protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMGM6NjJhNzo6MV06NTQ0MyAXP3t4-gG2h6HCR6iVc36We8YtqbgJurS-cWU0azEz2ywyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLTMtYWR1bHQtZmlsdGVyLWVjcw
+
+## af-dnswarden-doh1-ecs
+Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAADjExNi4yMDMuNzAuMTU2ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbREvYWR1bHQtZmlsdGVyLWVjcw
+
+## af-dnswarden-doh1-ipv6-ecs
+Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjc1YjQ6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbREvYWR1bHQtZmlsdGVyLWVjcw
+
+## af-dnswarden-doh2-ecs
+Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAADjExNi4yMDMuMzUuMjU1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbREvYWR1bHQtZmlsdGVyLWVjcw
+
+## af-dnswarden-doh2-ipv6-ecs
+Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjVlNzc6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWVjcy1kb2guZG5zd2FyZGVuLmNvbREvYWR1bHQtZmlsdGVyLWVjcw
+
+## af-dnswarden-doh3-ecs
+Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAADDg4LjE5OC4xNjEuOCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVlY3MtZG9oLmRuc3dhcmRlbi5jb20RL2FkdWx0LWZpbHRlci1lY3M
+
+## af-dnswarden-doh3-ipv6-ecs
+Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, enforces force safe search for search engines and youtube, supports DNSSEC, ECS is enabled and self resolves as of now. By https://dnswarden.com
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NjJhNzo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgVZWNzLWRvaC5kbnN3YXJkZW4uY29tES9hZHVsdC1maWx0ZXItZWNz
+
 
 ## ams-dnscrypt-nl
 
