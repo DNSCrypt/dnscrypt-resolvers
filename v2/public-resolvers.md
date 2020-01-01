@@ -438,6 +438,13 @@ Operated by @koki-es
 sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyADjE4mkpovrUv1ECTHll_wW3kmiOLAbXmBfNW_jRUzlx8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
 
+## ams-doh-nl
+
+Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
+
+
 ## arvind-io
 
 Public resolver by EnKrypt (https://arvind.io).
