@@ -1860,6 +1860,14 @@ Maintained by Frank Denis - https://fr.dnscrypt.info
 sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
 
 
+## sea-dnscrypt-us
+
+Resolver in Seattle (USA). DNSCrypt protocol. Non-logging, DNSSEC.
+Remove ads and protect your computer from malware, phishing, ransomware and spam.
+
+sdns://AQMAAAAAAAAAFDEwNC4xNjguMjQ3LjEzODo0MzQzIAOMTiaSmi-tS_UQJMeWX_BbeSaI4sBteYF81b-NFTOXHzIuZG5zY3J5cHQtY2VydC5zZWEtZG5zY3J5cHQtdXM
+
+
 ## securedns
 
 Uncensored and no logging (DNSCrypt protocol)
