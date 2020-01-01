@@ -430,6 +430,13 @@ Dns-over-HTTPS protocol . Adult content filtering, Non-logging, AD-filtering, en
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NjJhNzo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgVZWNzLWRvaC5kbnN3YXJkZW4uY29tES9hZHVsdC1maWx0ZXItZWNz
 
 
+## ams-doh-nl
+
+Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
+
+
 ## ams-dnscrypt-nl
 
 Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
