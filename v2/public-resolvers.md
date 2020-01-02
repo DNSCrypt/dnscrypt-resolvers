@@ -846,14 +846,14 @@ sdns://AQMAAAAAAAAALlsyMDAxOjE5ZjA6NzAwMTozMjU5OjU0MDA6MDJmZjpmZTcxOjBiYzldOjg0N
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
 DNS service for your pleasure.
 
-sdns://AQcAAAAAAAAAEjE5Mi45OS4xODMuMTMyOjQ0MyAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCnst84h0yLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMQ
+sdns://AQcAAAAAAAAAEzE2Ny4xMTQuMjIwLjEyNTo0NDMgGlOjyVB4nL3RCxkzpGibbIRqQPG3PRdSrsrJgp7LfOIdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTE
 
 
 ## dnscrypt.ca-1-doh
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
 
-sdns://AgcAAAAAAAAADjE5Mi45OS4xODMuMTMyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FGRuczEuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
 
 
 ## dnscrypt.ca-1-ipv6
@@ -861,14 +861,14 @@ sdns://AgcAAAAAAAAADjE5Mi45OS4xODMuMTMyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
 DNS service for your pleasure.
 
-sdns://AQcAAAAAAAAAHFsyNjA3OjUzMDA6NjA6NGFhODo6NjAwXTo0NDMgINkZ1Ow8UAjNxwpR6itPy_6KmTxkMdDsaB1epzhFq4AiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTEtaXB2Ng
+sdns://AQcAAAAAAAAAKlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldOjQ0MyAg2RnU7DxQCM3HClHqK0_L_oqZPGQx0OxoHV6nOEWrgCIyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMS1pcHY2
 
 
 ## dnscrypt.ca-1-ipv6-doh
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
 
-sdns://AgcAAAAAAAAAGFsyNjA3OjUzMDA6NjA6NGFhODo6NjAwXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAJlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FGRuczEuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
 
 
 ## dnscrypt.ca-2
