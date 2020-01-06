@@ -1868,6 +1868,13 @@ Remove ads and protect your computer from malware, phishing, ransomware and spam
 sdns://AQMAAAAAAAAAFDEwNC4xNjguMjQ3LjEzODo0MzQzIAOMTiaSmi-tS_UQJMeWX_BbeSaI4sBteYF81b-NFTOXHzIuZG5zY3J5cHQtY2VydC5zZWEtZG5zY3J5cHQtdXM
 
 
+## sea-doh-us
+
+Resolver in Seattle (USA). DoH protocol. Non-logging, DNSSEC, No-filter.
+
+sdns://AgcAAAAAAAAAEzEwNC4xNjguMjQ3LjEzODo0NDMAFWRuczIuYWxla2JlcmcubmV0OjQ0MwEv
+
+
 ## securedns
 
 Uncensored and no logging (DNSCrypt protocol)
