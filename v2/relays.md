@@ -259,7 +259,7 @@ sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
 
 Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
 
-sdns://gQwxMDcuNi4yNy4xMjY
+sdns://gQ0yMy4xMTEuNjkuMjM4
 
 
 ## anon-ev-va
