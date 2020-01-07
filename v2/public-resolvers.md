@@ -1296,7 +1296,7 @@ sdns://AgMAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUt
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Toronto, Canada
 
-sdns://AQcAAAAAAAAADDEwNy42LjI3LjEyNiBKEpoRbQZH3zIeBpcBNAV1uYi0-KeRAKZXwmaT1K3YkB0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
+sdns://AQcAAAAAAAAADTIzLjExMS42OS4yMzggdOCmaDjs4MgSiTXowm5ae9FetLivEu9dl9QbbruylMcdMi5kbnNjcnlwdC1jZXJ0LmV2aWx2aWJlcy5jb20
 
 
 ## ev-va
