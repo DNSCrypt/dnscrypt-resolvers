@@ -275,6 +275,8 @@ Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
 sdns://gQ84My43Ny44NS43Ojg0NDM
 
+IPv6 sdns://gS5bMmEwMjoxMjA1OjM0ZDU6NTA3MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
+
 
 ## anon-inconnu
 
