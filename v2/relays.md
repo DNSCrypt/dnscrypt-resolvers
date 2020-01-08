@@ -276,6 +276,13 @@ Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 sdns://gQ84My43Ny44NS43Ojg0NDM
 
 
+## anon-ibksturm-ipv6
+
+Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
+
+sdns://gS5bMmEwMjoxMjA1OjM0ZDU6NTA3MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
