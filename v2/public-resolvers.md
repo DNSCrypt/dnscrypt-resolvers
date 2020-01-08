@@ -1471,6 +1471,9 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADzgzLjc3Ljg1Ljc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
+IPv6 Stamp: 
+sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6MzRkNTo1MDcwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
 DNS Stamp for Anonymized DNS relaying: sdns://gQ84My43Ny44NS43Ojg0NDM
 
 
