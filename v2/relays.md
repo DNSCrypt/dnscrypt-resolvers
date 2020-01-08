@@ -269,11 +269,16 @@ Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
 
 
-## anon-ibksturm
+## anon-ibksturm-ipv4
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
 sdns://gQ84My43Ny44NS43Ojg0NDM
+
+## anon-ibksturm-ipv6
+
+Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
+
 
 IPv6 sdns://gS5bMmEwMjoxMjA1OjM0ZDU6NTA3MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
 
