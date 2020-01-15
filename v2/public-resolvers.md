@@ -1934,7 +1934,7 @@ Maintained by tuttimann
 sdns://AQcAAAAAAAAADzUxLjE1LjYyLjY1OjQ0MyDRa9y0Ck5_qrri1JzXpTlOfz7vsOpqOvgepY6nL5iXmyIyLmRuc2NyeXB0LWNlcnQuc2t5ZmlnaHRlci1kbnMuY29t
 
 
-# skyfighter-dns-ipv6
+## skyfighter-dns-ipv6
 
 Uncensored, DNSSEC, no logging DNSCrypt server (IPv6) in Netherlands by Scaleway.com
 Maintained by tuttimann
