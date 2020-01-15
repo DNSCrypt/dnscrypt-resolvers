@@ -329,6 +329,21 @@ IPv6 only. Running on an instance donated by https://scaleway.com
 sdns://gR5bMjAwMTpiYzg6NDcwMDoyNTAwOjoxMzdkXTo0NDM
 
 
+## anon-skyfighter
+
+Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained by @tuttimann.
+
+sdns://gQ81MS4xNS42Mi42NTo0NDM
+
+
+## anon-skyfighter-ipv6
+
+Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained by @tuttimann.
+IPv6 only.
+
+sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
+
+
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
