@@ -1926,6 +1926,22 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQMAAAAAAAAAEzE2My4xNzIuMTgwLjEyNTo0NDMg32Jzv8dSGSqLWjm8DIWsP_lkRdc2RPZicoJdNVjxof8fMi5kbnNjcnlwdC1jZXJ0LnNmdy5zY2FsZXdheS1mcg
 
 
+## skyfighter-dns
+
+Uncensored, DNSSEC, no logging DNSCrypt server in Netherlands by Scaleway.com
+Maintained by tuttimann
+
+sdns://AQcAAAAAAAAADzUxLjE1LjYyLjY1OjQ0MyDRa9y0Ck5_qrri1JzXpTlOfz7vsOpqOvgepY6nL5iXmyIyLmRuc2NyeXB0LWNlcnQuc2t5ZmlnaHRlci1kbnMuY29t
+
+
+# skyfighter-dns-ipv6
+
+Uncensored, DNSSEC, no logging DNSCrypt server (IPv6) in Netherlands by Scaleway.com
+Maintained by tuttimann
+
+sdns://AQcAAAAAAAAAG1syMDAxOmJjODoxODI0OjE3MGY6OjFdOjQ0MyDRa9y0Ck5_qrri1JzXpTlOfz7vsOpqOvgepY6nL5iXmyIyLmRuc2NyeXB0LWNlcnQuc2t5ZmlnaHRlci1kbnMuY29t
+
+
 ## soltysiak
 
 Public DNSCrypt server in Poland
