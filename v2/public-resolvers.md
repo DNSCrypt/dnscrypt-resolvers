@@ -445,6 +445,13 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
 
 
+## ams-doh-noads-nl
+
+Resolver in Amsterdam. DoH protocol. Non-logging, ADS-Filtering, DNSSEC.
+
+sdns://AgMAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwYvbm9hZHM
+
+
 ## arvind-io
 
 Public resolver by EnKrypt (https://arvind.io).
