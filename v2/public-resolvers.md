@@ -446,7 +446,7 @@ sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
 
 ## ams-doh-noads-nl
 
-Resolver in Amsterdam. DoH protocol. Non-logging, filtering, DNSSEC.
+Resolver in Amsterdam. DoH protocol. Non-logging, ads-filtering, DNSSEC.
 sdns://AgMAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwYvbm9hZHM
 
 
