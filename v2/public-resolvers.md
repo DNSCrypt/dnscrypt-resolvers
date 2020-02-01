@@ -1103,7 +1103,7 @@ DNS-over-HTTPS server. Anycast, no logs, no censorship, DNSSEC.
 Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
-sdns://AgcAAAAAAAAADDEwNC4yOC4wLjEwNiAd2FCKjFZZBDl8eGRR4I9XYTzzyKcj9vN5_Uw4WLbznw1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDEwNC4yOC4wLjEwNiA9pLcWNKQTwc7zSqltJaQBY01M82w7Ezx0KU5I5jcBKg1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
 ## doh-crypto-sx-ipv6
