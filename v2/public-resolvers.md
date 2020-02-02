@@ -765,7 +765,7 @@ sdns://AQYAAAAAAAAADDY0LjEyMC41LjI1MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupW
 
 ## cz.nic
 
-CZ.NIC's open DNSSEC validating resolvers.
+CZ.NIC's open DNSSEC validating resolvers in Prague, Czech Republic.
 CZ.NIC resolvers neither collect any personal data nor gather
 information on pages where your computer sends personal data.
 https://www.nic.cz/odvr/
