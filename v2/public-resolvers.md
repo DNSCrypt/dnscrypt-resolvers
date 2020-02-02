@@ -763,6 +763,16 @@ US - WA DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADDY0LjEyMC41LjI1MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## cz.nic
+
+CZ.NIC's open DNSSEC validating resolvers.
+CZ.NIC resolvers neither collect any personal data nor gather
+information on pages where your computer sends personal data.
+https://www.nic.cz/odvr/
+
+sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6wtvZHZyLm5pYy5jegQvZG9o
+
+
 ## d0wn-is-ns2
 
 Server provided by Martin 'd0wn' Albus
