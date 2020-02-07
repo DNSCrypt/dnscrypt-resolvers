@@ -316,7 +316,7 @@ sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
 ## anon-scaleway-ams
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
-IPv6 only. Running on an instance donated by https://scaleway.com
+Running on an instance donated by https://scaleway.com
 
 sdns://gRE1MS4xNS4xMjIuMjUwOjQ0Mw
 
