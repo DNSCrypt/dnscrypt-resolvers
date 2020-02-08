@@ -433,9 +433,8 @@ sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NjJhNzo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXq
 ## ams-dnscrypt-nl
 
 Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
-Operated by @koki-es
 
-sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyADjE4mkpovrUv1ECTHll_wW3kmiOLAbXmBfNW_jRUzlx8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
+sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyBDDB6-43avQdFO1qQ6P6gvJHxMRtvEs-Y-StYvUKvtah8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
 
 ## ams-doh-nl
