@@ -18,12 +18,6 @@ Anonymized DNS relay hosted in Seattle - US
 sdns://gRQxMDQuMTY4LjI0Ny4xMzg6NDM0Mw
 
 
-## anon-cs-ams
-
-Anonymized DNS relay hosted in Netherlands - Amsterdam
-sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
-
-
 ## anon-cs-ca
 
 Anonymized DNS relay hosted in CA - Montreal provided by https://cryptostorm.is/
@@ -253,6 +247,12 @@ sdns://gRIxMzkuNTkuMjAwLjExNjo0NDM
 Anonymized DNS relay hosted in UK on DigitalOcean
 
 sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
+
+
+## anon-eu-ams
+
+Anonymized DNS relay hosted in Netherlands - Amsterdam
+sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
 
 
 ## anon-ev-to
