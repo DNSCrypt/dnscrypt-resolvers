@@ -1153,16 +1153,16 @@ sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjZiNGI6OjFdABJkb2gtZGUuYmxhaGRucy5jb20KL
 
 ## doh-eastus-pi-dns
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in New York. By https://pi-dns.com/
-Server status can be seen at: https://eastus.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in New York, USA. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAADjE4NS4yMTMuMjYuMTg3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWRvaC5lYXN0dXMucGktZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## doh-eastus-pi-dns-ipv6
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in New York. By https://pi-dns.com/
-Server status can be seen at: https://eastus.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in New York, USA. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAAFlsyYTBkOjU2MDA6MzM6Mzo6YWJjZF0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgVZG9oLmVhc3R1cy5waS1kbnMuY29tCi9kbnMtcXVlcnk
 
@@ -1221,48 +1221,48 @@ sdns://AgMAAAAAAAAAKVsyMDAxOjE5ZjA6NzAwMTozMjU5OjU0MDA6MDJmZjpmZTcxOjBiYzldABJkb
 
 ## doh-northeu-pi-dns
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Helsinki. By https://pi-dns.com/
-Server status can be seen at: https://northeu.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Helsinki, Finland. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAADjk1LjIxNi4xODEuMjI4ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FmRvaC5ub3J0aGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh-northeu-pi-dns-ipv6
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Helsinki. By https://pi-dns.com/
-Server status can be seen at: https://northeu.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Helsinki, Finland. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDFmOjQ6OmFiY2RdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FmRvaC5ub3J0aGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
-## doh-westeu-pi-dns
+## doh-centraleu-pi-dns
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Netherlands. By https://pi-dns.com/
-Server status can be seen at: https://westeu.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
-sdns://AgMAAAAAAAAADDMxLjIyMC40Mi42NSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVkb2gud2VzdGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADTg4LjE5OC45MS4xODcgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG9oLmNlbnRyYWxldS5waS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
-## doh-westeu-pi-dns-ipv6
+## doh-centraleu-pi-dns-ipv6
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Netherlands. By https://pi-dns.com/
-Server status can be seen at: https://westeu.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
-sdns://AgMAAAAAAAAAGFsyYTAxOjZmMDpmZmZmOjQ5OjphYmNkXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVkb2gud2VzdGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzBjOjgyMzM6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4GGRvaC5jZW50cmFsZXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## doh-westus-pi-dns
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Los Angeles. By https://pi-dns.com/
-Server status can be seen at: https://westus.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Los Angeles, USA. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAADTQ1LjY3LjIxOS4yMDggPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgVZG9oLndlc3R1cy5waS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## doh-westus-pi-dns-ipv6
 
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Los Angeles. By https://pi-dns.com/
-Server status can be seen at: https://westus.pi-dns.com/
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Los Angeles, USA. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAAGFsyYTA0OmJkYzc6MTAwOjcwOjphYmNkXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVkb2gud2VzdHVzLnBpLWRucy5jb20KL2Rucy1xdWVyeQ
 
