@@ -53,13 +53,6 @@ Anonymized DNS relay hosted in Frankfurt, Germany provided by https://cryptostor
 sdns://gRA4NC4xNi4yNDAuNDM6NDQz
 
 
-## anon-cs-dk
-
-Anonymized DNS relay hosted in Copenhagen, Denmark provided by https://cryptostorm.is/
-
-sdns://gRMxODUuMjEyLjE2OS4xMzk6NDQz
-
-
 ## anon-cs-fi
 
 Anonymized DNS relay hosted in Helsinki, Finland provided by https://cryptostorm.is/
