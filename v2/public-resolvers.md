@@ -787,6 +787,7 @@ sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTM
 ## dnsforge.de
 
 Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
+
 Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 
 sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OAALZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ
