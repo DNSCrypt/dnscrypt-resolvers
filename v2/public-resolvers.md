@@ -784,6 +784,12 @@ Server provided by Martin 'd0wn' Albus
 
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
+## dnsforge.de
+
+Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
+Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
+
+sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OAALZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ
 
 ## dns.digitale-gesellschaft.ch
 
