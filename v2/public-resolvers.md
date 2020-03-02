@@ -103,6 +103,7 @@ Remove ads and protect your computer from malware
 
 sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzIcthOFYqII5APf3FXpQiMi5kbnNjcnlwdC5kZWZhdWx0Lm5zMi5hZGd1YXJkLmNvbQ
 
+
 ## ads-securedns-doh
 
 Filter Ads and no logging (DoH protocol)
@@ -115,6 +116,7 @@ sdns://AgMAAAAAAAAADjE0Ni4xODUuMTY3LjQzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 Filter Ads and no logging (IPv6, DoH protocol)
 
 sdns://AgMAAAAAAAAAHFsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgUYWRzLWRvaC5zZWN1cmVkbnMuZXUKL2Rucy1xdWVyeQ
+
 
 ## ams-dnscrypt-nl
 
@@ -668,6 +670,23 @@ Provided by: https://dnsforfamily.com
 
 sdns://AQIAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIGN4CrSY4fb2hK8voFJL3GKiM7xQNwkKGH4b0k7LmMPxEGRuc2ZvcmZhbWlseS5jb20
 
+
+## doh-centraleu-pi-dns
+
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
+
+sdns://AgMAAAAAAAAADTg4LjE5OC45MS4xODcgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG9oLmNlbnRyYWxldS5waS1kbnMuY29tCi9kbnMtcXVlcnk
+
+
+## doh-centraleu-pi-dns-ipv6
+
+Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
+Server status can be seen at: https://pi-dns.com/
+
+sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzBjOjgyMzM6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4GGRvaC5jZW50cmFsZXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
 ## doh-cleanbrowsing-adult
 
 Blocks access to all adult, pornographic and explicit sites. It does
@@ -813,22 +832,6 @@ Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs
 Server status can be seen at: https://pi-dns.com/
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDFmOjQ6OmFiY2RdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FmRvaC5ub3J0aGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-centraleu-pi-dns
-
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
-Server status can be seen at: https://pi-dns.com/
-
-sdns://AgMAAAAAAAAADTg4LjE5OC45MS4xODcgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG9oLmNlbnRyYWxldS5waS1kbnMuY29tCi9kbnMtcXVlcnk
-
-
-## doh-centraleu-pi-dns-ipv6
-
-Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
-Server status can be seen at: https://pi-dns.com/
-
-sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzBjOjgyMzM6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4GGRvaC5jZW50cmFsZXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## doh-westus-pi-dns
@@ -1598,4 +1601,3 @@ sdns://AgUAAAAAAAAAEjk2LjExMy4xNTEuMTQzOjQ0M6Ax_Wo8PCx8I5Gkl1qfoqes0mp4xMrk1W5GI
 Yandex public DNS server (anycast)
 
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
-
