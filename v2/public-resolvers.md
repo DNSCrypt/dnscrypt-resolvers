@@ -472,13 +472,6 @@ Server provided by Martin 'd0wn' Albus
 
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
-## dnsforge.de
-
-Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
-
-Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
-
-sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OAALZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ
 
 ## dns.digitale-gesellschaft.ch
 
@@ -676,6 +669,15 @@ Block adult websites, gambling websites and advertisements. No DNS queries are l
 Provided by: https://dnsforfamily.com
 
 sdns://AQIAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIGN4CrSY4fb2hK8voFJL3GKiM7xQNwkKGH4b0k7LmMPxEGRuc2ZvcmZhbWlseS5jb20
+
+
+## dnsforge.de
+
+Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
+
+Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
+
+sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## doh-centraleu-pi-dns
