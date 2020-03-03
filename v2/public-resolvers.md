@@ -1177,6 +1177,12 @@ Cached via Cloudflare.
 
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
+## lelux.fi
+
+DoH server in France. No logging, no filtering, DNSSEC support.
+https://lelux.fi/resolver/
+
+sdns://AgcAAAAAAAAADTUxLjE1OC4xNDcuNTAAFHJlc29sdmVyLWV1LmxlbHV4LmZpCi9kbnMtcXVlcnk
 
 ## libredns
 
