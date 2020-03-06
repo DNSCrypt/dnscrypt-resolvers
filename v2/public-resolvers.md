@@ -630,13 +630,6 @@ non-logging, non-filtering and non-censoring, DNSSEC. Germany (Nuremberg), https
 sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBCc4nfqRWGkg4g1vk6yPqtIdsD5Ub4y3sDEKYnQ2vN3BwyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25l
 
 
-## dnscrypt.one-ipv6
-
-non-logging, non-filtering and non-censoring, DNSSEC. Germany (Nuremberg), https://dnscrypt.one
-
-sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MzAwNDo1ODYyOjoxXTo0NDMgQnOJ36kVhpIOINb5Osj6rSHbA-VG-Mt7AxCmJ0NrzdwcMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm9uZQ
-
-
 ## dnscrypt.uk-ipv4
 
 DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean

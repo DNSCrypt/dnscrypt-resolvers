@@ -221,13 +221,6 @@ Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one/
 sdns://gRIxNDQuOTEuMTA2LjIyNzo0NDM
 
 
-## anon-dnscrypt.one-ipv6
-
-Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one/
-
-sdns://gRxbMmEwMjpjMjA3OjMwMDQ6NTg2Mjo6MV06NDQz
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
