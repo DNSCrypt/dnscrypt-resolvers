@@ -330,6 +330,13 @@ IPv6 only.
 sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
 
 
+## anon-sth-se
+
+Anonymized DNS relay hosted in Sweden.
+
+sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
+
+
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
