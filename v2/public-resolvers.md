@@ -1169,17 +1169,6 @@ no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hos
 sdns://AgIAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2gubGlicmVkbnMuZ3IEL2Fkcw
 
 
-## mrkaran
-
-Public DNSCrypt Server hosted in Bengaluru, India on a tiny Digital
-Ocean droplet. It supports DNSSEC validation, the DNSCrypt protocol
-and has caching enabled for faster responses.
-
-https://mrkaran.dev/dnscrypt/
-
-sdns://AQcAAAAAAAAAETEzOS41OS41NS4xMzo0MzQzIMI_cHfgQzHFYUiS8m2ghR8Ij9nb88EQZXAYDlOhBGhmHzIuZG5zY3J5cHQtY2VydC5kbnMubXJrYXJhbi5kZXY
-
-
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
