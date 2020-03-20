@@ -173,7 +173,8 @@ DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malw
 
 Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAAEjk0LjEzMC4yMjQuMTE0OjQ0MwAUZG5zLmJyYWhtYS53b3JsZDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjk0LjEzMC4yMjQuMTE0ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+
 
 ## brahma-world-ipv6
 
@@ -181,7 +182,7 @@ DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malw
 
 Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAAGDJhMDE6NGY4OmMwYzo5MjU1OjoxOjQ0MwAUZG5zLmJyYWhtYS53b3JsZDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6OTI1NTo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
 
 
 ## captnemo-in
