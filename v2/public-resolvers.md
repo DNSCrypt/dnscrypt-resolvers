@@ -171,9 +171,17 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
 
-Hosted in Bengaluru, India. (https://dns.brahma.world)
+Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAADjEzNC4yMDkuMTQ2LjE2oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAEjk0LjEzMC4yMjQuMTE0OjQ0MwAUZG5zLmJyYWhtYS53b3JsZDo0NDMKL2Rucy1xdWVyeQ
+
+## brahma-world-ipv6
+
+DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
+
+Hosted in Nuremberg, Germany. (https://dns.brahma.world)
+
+sdns://AgMAAAAAAAAAGDJhMDE6NGY4OmMwYzo5MjU1OjoxOjQ0MwAUZG5zLmJyYWhtYS53b3JsZDo0NDMKL2Rucy1xdWVyeQ
 
 
 ## captnemo-in
