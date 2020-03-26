@@ -229,9 +229,9 @@ Currently incompatible with DNS anonymization.
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
 
-## cisco-familyshield-doh
+## cisco-familyshield-ipv6
 
-Block websites not suitable for children (DoH protocol)
+Block websites not suitable for children (IPv6)
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
