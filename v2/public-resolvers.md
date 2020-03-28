@@ -1320,7 +1320,7 @@ Ad-blocking DNS cache.
 Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
 Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
 
-sdns://AQMAAAAAAAAAETEwNi41MS40NC41MTo0NDM0ING7Nd6ynAGtsN3sIyHYjkWg7pcKTGvRz4dOe0sbDZjcFjIuZG5zY3J5cHQtY2VydC5xYWcubWU
+sdns://AQcAAAAAAAAAEzQ5LjIwNS4yMTYuMjI5OjQ0MzQgVA4O8EaSji8bhEUMuB3uK3lZ4RmvU_32RaiVq-7x9JQWMi5kbnNjcnlwdC1jZXJ0LnFhZy5tZQ
 
 
 ## quad101
