@@ -954,12 +954,14 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 
 sdns://AgMAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
+
 ## edoardo
 
 Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS
 by lucenera
 
 sdns://AQcAAAAAAAAAEDUxLjE1LjcxLjE0Nzo0NDMgu2uyBfHQB7I65s0VVTSmpqTfqPGjRxaBHveht3-R8KseMi5kbnNjcnlwdC1jZXJ0Lml0LmVkb2FyZG8uY29t
+
 
 ## ev-to
 
@@ -1558,12 +1560,14 @@ Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC. F
 
 sdns://AgcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzABZkbnNzZS5hbGVrYmVyZy5uZXQ6NDQzBC9kbnM
 
+
 ## suami
 
 Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS
 by lucenera
 
 sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIGIdhHiVkkpVjTI1HOUi_aHa_Ho_yIJpIB_BC7rfH8GNHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
+
 
 ## t53
 
