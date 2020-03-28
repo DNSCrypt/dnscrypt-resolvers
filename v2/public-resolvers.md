@@ -668,13 +668,6 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
-## dnscrypt.nl-ns0
-
-DNSCrypt v2 server in Amsterdam, the Netherlands. DNSSEC, no logs, uncensored, recursive DNS. https://dnscrypt.nl
-
-sdns://AQcAAAAAAAAADDQ1Ljc2LjM1LjIxMiBMhPuMBRFd-l-Xxe0DKRNwx4q81k4V3VOrCN5y-4RKyh8yLmRuc2NyeXB0LWNlcnQubnMwLmRuc2NyeXB0Lm5s
-
-
 ## dnscrypt.one
 
 non-logging, non-filtering and non-censoring, DNSSEC. Germany (Nuremberg), https://dnscrypt.one
