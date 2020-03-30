@@ -266,3 +266,16 @@ sdns://gRMxMDQuMjM4LjE4Ni4xOTI6NDQz
 Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gSxbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZdOjQ0Mw
+
+## anon-edoardo
+
+Anonymized DNS relay by lucenera
+
+sdns://gRA1MS4xNS43MS4xNDc6NDQz
+
+
+## anon-suami
+
+Anonymized DNS relay by lucenera
+
+sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
