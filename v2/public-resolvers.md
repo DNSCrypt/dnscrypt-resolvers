@@ -1559,7 +1559,7 @@ sdns://AgcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzABZkbnNzZS5hbGVrYmVyZy5uZXQ6NDQzBC9kb
 Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS
 by lucenera
 
-sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIGIdhHiVkkpVjTI1HOUi_aHa_Ho_yIJpIB_BC7rfH8GNHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
+sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIAL8QKvniJdWHGxS-Zt9vqJRX4ArGMryzyd77TQwOAzhHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
 
 
 ## t53
