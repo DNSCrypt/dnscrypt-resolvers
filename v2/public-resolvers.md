@@ -1179,6 +1179,86 @@ no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hos
 sdns://AgIAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2gubGlicmVkbnMuZ3IEL2Fkcw
 
 
+## nixnet-adblock-anycast
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgMAAAAAAAAADTE5OC4yNTEuOTAuODkAGmFkYmxvY2suYW55LmRucy5uaXhuZXQueHl6Ci9kbnMtcXVlcnk'
+
+
+## nixnet-uncensored-anycast
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgcAAAAAAAAADjE5OC4yNTEuOTAuMTE0AB11bmNlbnNvcmVkLmFueS5kbnMubml4bmV0Lnh5egovZG5zLXF1ZXJ5'
+
+
+## nixnet-adblock-new-york
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgMAAAAAAAAADjE5OS4xOTUuMjUxLjg0ABphZGJsb2NrLm55MS5kbnMubml4bmV0Lnh5egovZG5zLXF1ZXJ5'
+
+
+## nixnet-uncensored-new-york
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgcAAAAAAAAADjE5OS4xOTUuMjUxLjg0AB11bmNlbnNvcmVkLm55MS5kbnMubml4bmV0Lnh5egovZG5zLXF1ZXJ5'
+
+
+## nixnet-adblock-las-vegas
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgMAAAAAAAAADTIwOS4xNDEuMzQuOTUAGmFkYmxvY2subHYxLmRucy5uaXhuZXQueHl6Ci9kbnMtcXVlcnk'
+
+
+## nixnet-uncensored-las-vegas
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgcAAAAAAAAADTIwOS4xNDEuMzQuOTUAHXVuY2Vuc29yZWQubHYxLmRucy5uaXhuZXQueHl6Ci9kbnMtcXVlcnk'
+
+
+## nixnet-adblock-luxembourg
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgMAAAAAAAAADjEwNC4yNDQuNzguMjMxABthZGJsb2NrLmx1eDEuZG5zLm5peG5ldC54eXoKL2Rucy1xdWVyeQ'
+
+
+## nixnet-uncensored-luxembourg
+
+NixNet is a collection of open source and privacy-focused services maintained by Amolith. No logging, QNAME minimisation, DNSSEC, and optional adblocking. https://nixnet.services/
+
+Documentation: https://docs.nixnet.services/DNS
+Privacy policy: https://docs.nixnet.services/DNS/Privacy
+
+stamp = 'sdns://AgcAAAAAAAAADjEwNC4yNDQuNzguMjMxAB51bmNlbnNvcmVkLmx1eDEuZG5zLm5peG5ldC54eXoKL2Rucy1xdWVyeQ'
+
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
