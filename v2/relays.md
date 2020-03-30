@@ -151,6 +151,13 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
 
 
+## anon-edoardo
+
+Anonymized DNS relay by lucenera
+
+sdns://gRA1MS4xNS43MS4xNDc6NDQz
+
+
 ## anon-ev-to
 
 Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
@@ -240,6 +247,13 @@ IPv6 only.
 sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
 
 
+## anon-suami
+
+Anonymized DNS relay by lucenera
+
+sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
+
+
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
@@ -266,16 +280,3 @@ sdns://gRMxMDQuMjM4LjE4Ni4xOTI6NDQz
 Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gSxbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZdOjQ0Mw
-
-## anon-edoardo
-
-Anonymized DNS relay by lucenera
-
-sdns://gRA1MS4xNS43MS4xNDc6NDQz
-
-
-## anon-suami
-
-Anonymized DNS relay by lucenera
-
-sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
