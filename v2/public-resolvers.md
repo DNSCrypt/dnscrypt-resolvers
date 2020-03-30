@@ -123,15 +123,7 @@ sdns://AgMAAAAAAAAAHFsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV0gPhoaD2xT8-l6SS1XCEtbm
 Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 Forward DNS to anoymized DNS servers.
 
-sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
-
-
-## ams-dnscrypt-noads-nl
-
-Resolver in Amsterdam. DNSCrypt protocol. Non-logging, AD-filtering, DNSSEC.
-Forward DNS to anoymized DNS servers.
-
-sdns://AQMAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDQ0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYiUyLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5vYWRzLW5s
+sdns://AQcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzILwTiPV2Pj3sdfHJD8kVv7aK6t_rHEX2mFGAY5xg5_FiHzIuZG5zY3J5cHQtY2VydC5hbXMtZG5zY3J5cHQtbmw
 
 
 ## ams-doh-nl
@@ -140,14 +132,6 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 Forward DNS to anoymized DNS servers.
 
 sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwEv
-
-
-## ams-doh-noads-nl
-
-Resolver in Amsterdam. DoH protocol. Non-logging, ads-filtering, DNSSEC.
-Forward DNS to anoymized DNS servers.
-
-sdns://AgMAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABRkbnMuYWxla2JlcmcubmV0OjQ0MwYvbm9hZHM
 
 
 ## arvind-io
