@@ -930,13 +930,6 @@ Warning: provides EDNS Client Subnet information to upstream servers.
 sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAZkb2gubGkKL2Rucy1xdWVyeQ
 
 
-## doh.nsa.gov
-
-DoH server provided free of charge by the National Security Agency.
-
-sdns://AgcAAAAAAAAACTEyNy4wLjAuMSCBBy2iCSLxl4tn6lHt3_wTqXRBuaBxATU2sFSHUB4w1Atkb2gubnNhLmdvdgovZG5zLXF1ZXJ5
-
-
 ## doh.tiarap.org
 
 Non-Logging DNS-over-HTTPS server, cached via Cloudflare.
