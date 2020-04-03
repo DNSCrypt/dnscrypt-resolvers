@@ -322,7 +322,7 @@ sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1Z
 
 ## cloudflare-family
 
-Cloudflare DNS (anycast) with malware parental control
+Cloudflare DNS (anycast) with malware protection and parental control
 
 sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 

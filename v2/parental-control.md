@@ -97,7 +97,7 @@ sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 
 ## cloudflare-family
 
-Cloudflare DNS (anycast) with malware parental control
+Cloudflare DNS (anycast) with malware protection and parental control
 
 sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
