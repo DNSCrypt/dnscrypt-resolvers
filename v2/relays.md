@@ -18,6 +18,13 @@ Anonymized DNS relay hosted in Seattle - US
 sdns://gRQxMDQuMTY4LjI0Ny4xMzg6NDM0Mw
 
 
+## anon-ams-nl
+
+Anonymized DNS relay hosted in Netherlands - NL
+
+sdns://gRE1MS4xNS4xMjQuMjA4OjQ0Mw
+
+
 ## anon-cs-ca2
 
 Anonymized DNS relay hosted in CA - Vancouver provided by https://cryptostorm.is/
@@ -245,6 +252,12 @@ Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained
 IPv6 only.
 
 sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
+
+## anon-sth-se
+
+Anonymized DNS relay hosted in Sweden - SE
+
+sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
 
 
 ## anon-suami
