@@ -25,6 +25,13 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRE1MS4xNS4xMjQuMjA4OjQ0Mw
 
 
+## anon-charis
+
+Anonymized DNS relay by lucenera
+
+sdns://gRMxOTIuMjQxLjE1NC4xMzY6NDQz
+
+
 ## anon-cs-ca2
 
 Anonymized DNS relay hosted in CA - Vancouver provided by https://cryptostorm.is/
