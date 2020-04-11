@@ -676,7 +676,7 @@ sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRh
 
 Free, non-logged, uncensored. Hosted by RamNode.
 
-sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmE2Ruc2NyeXB0LmV1LW5sLWlwdjY
+sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmIzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5ldS1ubC1pcHY2
 
 
 ## dnscrypt.one
