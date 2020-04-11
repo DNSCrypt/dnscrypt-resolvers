@@ -672,6 +672,13 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
+## dnscrypt.eu-nl-ipv6
+
+Free, non-logged, uncensored. Hosted by RamNode.
+
+sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmE2Ruc2NyeXB0LmV1LW5sLWlwdjY
+
+
 ## dnscrypt.one
 
 non-logging, non-filtering and non-censoring, DNSSEC. Germany (Nuremberg), https://dnscrypt.one
