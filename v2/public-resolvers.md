@@ -1,4 +1,4 @@
-# public-resolvers
+v2/public-resolvers.md.minisig# public-resolvers
 
 This is an extensive list of public DNS resolvers supporting the
 DNSCrypt and DNS-over-HTTP2 protocols.
@@ -670,6 +670,13 @@ sdns://AQcAAAAAAAAAFFsyMDAxOjE0NDg6MjQzOjpkYzJdIDdIVYXjudCI_SWtNrA3AfVSDNZInprdU
 Free, non-logged, uncensored. Hosted by RamNode.
 
 sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
+
+
+## dnscrypt.eu-nl-ipv6
+
+Free, non-logged, uncensored. Hosted by RamNode.
+
+sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmE2Ruc2NyeXB0LmV1LW5sLWlwdjY
 
 
 ## dnscrypt.one
