@@ -1,4 +1,4 @@
-v2/public-resolvers.md.minisig# public-resolvers
+# public-resolvers
 
 This is an extensive list of public DNS resolvers supporting the
 DNSCrypt and DNS-over-HTTP2 protocols.
