@@ -309,7 +309,7 @@ sdns://AQMAAAAAAAAAEjE4NS4yMjguMTY4Ljk6ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3
 
 Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
 
-sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAABzEuMS4xLjEgKSuRcnA2MM_hchL0ZJ7FEqZPzVRgCT9UlgxyXqDXa84SY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## cloudflare-family
@@ -323,7 +323,7 @@ sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVye
 
 Cloudflare DNS over IPv6 (anycast)
 
-sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NTMAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0gKSuRcnA2MM_hchL0ZJ7FEqZPzVRgCT9UlgxyXqDXa84SY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## cloudflare-security
