@@ -1046,6 +1046,13 @@ Google DNS (anycast)
 sdns://AgUAAAAAAAAABzguOC44LjigHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR6AZkxo_AEMExT_cbBssN43Evo9zs5_ZyWnftEUKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
 
 
+## google-ipv6
+
+Google DNS (anycast)
+
+sdns://AgMAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF0g3JaddGty-fYHs8w9EK0yjge0B80qF2oTxjiB8GlrOocKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
+
+
 ## gridns-jp
 
 Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
