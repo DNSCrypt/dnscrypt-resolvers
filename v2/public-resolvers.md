@@ -505,7 +505,7 @@ CZ.NIC resolvers neither collect any personal data nor gather
 information on pages where your computer sends personal data.
 https://www.nic.cz/odvr/
 
-sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6wtvZHZyLm5pYy5jegQvZG9o
+sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtvZHZyLm5pYy5jegQvZG9o
 
 
 ## d0wn-is-ns2
