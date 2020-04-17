@@ -115,7 +115,7 @@ sdns://AQMAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjU0NDMg9J8sc01itoYxntB-aRlDOy8ThfQe-8ovF
 
 Filter Ads and no logging (DoH protocol)
 
-sdns://AgMAAAAAAAAADjE0Ni4xODUuMTY3LjQzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FGFkcy1kb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADjE0Ni4xODUuMTY3LjQzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FGFkcy1kb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
 
 
 ## ads-securedns-ipv6
