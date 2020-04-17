@@ -104,6 +104,13 @@ Remove ads and protect your computer from malware
 sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzIcthOFYqII5APf3FXpQiMi5kbnNjcnlwdC5kZWZhdWx0Lm5zMi5hZGd1YXJkLmNvbQ
 
 
+## ads-securedns
+
+Filter Ads and no logging (DNSCrypt protocol)
+
+sdns://AQMAAAAAAAAAEzE0Ni4xODUuMTY3LjQzOjU0NDMg9J8sc01itoYxntB-aRlDOy8ThfQe-8ovF21ZCy5FPoYcMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZWRucy5ldQ
+
+
 ## ads-securedns-doh
 
 Filter Ads and no logging (DoH protocol)
@@ -111,11 +118,18 @@ Filter Ads and no logging (DoH protocol)
 sdns://AgMAAAAAAAAADjE0Ni4xODUuMTY3LjQzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FGFkcy1kb2guc2VjdXJlZG5zLmV1Ci9kbnMtcXVlcnk
 
 
+## ads-securedns-ipv6
+
+Filter Ads and no logging (IPv6, DNSCrypt protocol)
+
+sdns://AQMAAAAAAAAAIVsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV06NTQ0MyD0nyxzTWK2hjGe0H5pGUM7LxOF9B77yi8XbVkLLkU-hhwyLmRuc2NyeXB0LWNlcnQuc2VjdXJlZG5zLmV1
+
+
 ## ads-securedns-ipv6-doh
 
 Filter Ads and no logging (IPv6, DoH protocol)
 
-sdns://AgMAAAAAAAAAHFsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgUYWRzLWRvaC5zZWN1cmVkbnMuZXUKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAHFsyYTAzOmIwYzA6MDoxMDEwOjplOWE6MzAwMV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgUYWRzLWRvaC5zZWN1cmVkbnMuZXUKL2Rucy1xdWVyeQ
 
 
 ## ams-dnscrypt-nl
