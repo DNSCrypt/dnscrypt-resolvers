@@ -1442,7 +1442,7 @@ sdns://AgcAAAAAAAAADzExNi4yMDMuMTc5LjI0OCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 
 ## scaleway-ams
 
-DNSSEC/Non-logged/Uncensored in Amsterdam - ARM server donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
 sdns://AQcAAAAAAAAAETUxLjE1LjEyMi4yNTA6NDQzIOkN2X2qXGx4Ihyixe0BaJYtE8tVbM90V7NUVG8VK8GQHDIuZG5zY3J5cHQtY2VydC5zY2FsZXdheS1hbXM
@@ -1450,18 +1450,26 @@ sdns://AQcAAAAAAAAAETUxLjE1LjEyMi4yNTA6NDQzIOkN2X2qXGx4Ihyixe0BaJYtE8tVbM90V7NUV
 
 ## scaleway-ams-ipv6
 
-DNSSEC/Non-logged/Uncensored in Amsterdam - IPv6 only - ARM server donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Amsterdam - IPv6 only - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAAHlsyMDAxOmJjODo0NzAwOjI1MDA6OjEzN2RdOjQ0MyDpDdl9qlxseCIcosXtAWiWLRPLVWzPdFezVFRvFSvBkBwyLmRuc2NyeXB0LWNlcnQuc2NhbGV3YXktYW1z
+sdns://AQcAAAAAAAAAGlsyMDAxOmJjODoxODIwOjUwZDo6MV06NDQzIOkN2X2qXGx4Ihyixe0BaJYtE8tVbM90V7NUVG8VK8GQHDIuZG5zY3J5cHQtY2VydC5zY2FsZXdheS1hbXM
 
 
 ## scaleway-fr
 
-DNSSEC/Non-logged/Uncensored in Paris - ARM server donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Paris - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
 sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+
+
+## scaleway-fr-ipv6
+
+DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - DEV1-S instance donated by Scaleway.com
+Maintained by Frank Denis - https://fr.dnscrypt.info
+
+sdns://AQcAAAAAAAAAG1syMDAxOmJjODo0N2IwOjFhMDE6OjFdOjQ0MyDoAbhOpga_sLrAzkNEW7FeumSwL6PEqjGuEGNqB5AyTR8yLmRuc2NyeXB0LWNlcnQuZnIuZG5zY3J5cHQub3Jn
 
 
 ## sea-dnscrypt-us
