@@ -236,7 +236,7 @@ sdns://gRE1MS4xNS4xMjIuMjUwOjQ0Mw
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
 IPv6 only. Running on an instance donated by https://scaleway.com
 
-sdns://gR5bMjAwMTpiYzg6NDcwMDoyNTAwOjoxMzdkXTo0NDM
+sdns://gRpbMjAwMTpiYzg6MTgyMDo1MGQ6OjFdOjQ0Mw
 
 
 ## anon-skyfighter
