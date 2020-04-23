@@ -1176,6 +1176,16 @@ no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hos
 sdns://AgIAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2gubGlicmVkbnMuZ3IEL2Fkcw
 
 
+## meganerd
+
+Public DNSCrypt resolver by MegaNerd.nl - https://meganerd.nl/dnscrypt-server
+Hosted in Amsterdam, The Netherlands
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AQcAAAAAAAAAEjk1LjE3OS4xNDMuMTQ4OjQ0MyCRc5XOuPXQ5FthNhR6lEIYy8f11UsLdIyDe227fhlKwRsyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQtbmw
+
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
