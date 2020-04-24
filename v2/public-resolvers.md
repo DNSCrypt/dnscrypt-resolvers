@@ -1183,7 +1183,7 @@ Hosted in Amsterdam, The Netherlands
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjk1LjE3OS4xNDMuMTQ4OjQ0MyCRc5XOuPXQ5FthNhR6lEIYy8f11UsLdIyDe227fhlKwRsyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQtbmw
+sdns://AQcAAAAAAAAAETk1LjE3OS4xNTEuNzk6NDQzIONiyU20rYTFN03ugFOveObckVeUIN5qGhCFFvOU2QDvGzIuZG5zY3J5cHQtY2VydC5tZWdhbmVyZC1ubA
 
 
 ## nextdns
