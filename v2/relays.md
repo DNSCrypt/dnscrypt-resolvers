@@ -208,6 +208,13 @@ Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 
 
+## anon-meganerd
+
+Anonymized DNS relay hosted by MegaNerd.nl in Amsterdam, The Netherlands
+
+sdns://gRE5NS4xNzkuMTUxLjc5OjQ0Mw
+
+
 ## anon-publicarray
 
 Anonymized DNS relay hosted in Sydney, Australia and maintained by Sebastian Schmidt (@publicarray)
