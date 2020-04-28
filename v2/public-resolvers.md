@@ -170,6 +170,24 @@ sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham
 Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS by lucenera
 sdns://AQcAAAAAAAAAEzE5Mi4yNDEuMTU0LjEzNjo0NDMgiFQg4cYWLz6SB3hbrmd1gKwY-ewAWzFwFKGv6azCcmAdMi5kbnNjcnlwdC1jZXJ0Lml0LmNoYXJpcy5jb20
 
+## cira-private
+official canadian TLD registrator. Blocks pages that are not allowed in CA. DNSSEC. DNS resolution only
+
+sdns://AgEAAAAAAAAAAAAmaHR0cHM6Ly9wcml2YXRlLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+
+## cira-Protected
+official canadian TLD registrator. Blocks pages that are not allowed in CA. DNSSEC. Malware and phishing protection
+
+sdns://AgEAAAAAAAAAAAAoaHR0cHM6Ly9wcm90ZWN0ZWQuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
+
+## cira-Family
+
+official canadian TLD registrator. Blocks pages that are not allowed in CA. DNSSEC. Protected + blocking pornographic content
+
+sdns://AgEAAAAAAAAAAAAlaHR0cHM6Ly9mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
+
 
 ## cisco
 
