@@ -728,7 +728,7 @@ Non-logging DoH server in Amsterdam, Frankfurt, London, New York, Silicon Valley
 
 https://www.dnslify.com/
 
-sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2guZG5zbGlmeS5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDE4NS4yMzUuODEuMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2guZG5zbGlmeS5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh-centraleu-pi-dns
