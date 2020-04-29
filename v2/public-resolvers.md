@@ -722,6 +722,15 @@ Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
+## dnslify-doh
+
+Non-logging DoH server in Amsterdam, Frankfurt, London, New York, Silicon Valley and Singapore.
+
+https://www.dnslify.com/
+
+sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2guZG5zbGlmeS5jb20KL2Rucy1xdWVyeQ
+
+
 ## doh-centraleu-pi-dns
 
 Public Pi-hole DNS with DoH support. Blocks ads and trackers. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
