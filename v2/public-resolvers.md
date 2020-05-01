@@ -522,7 +522,37 @@ Hosted in Zurich, Switzerland.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OKBoo-sB-l8CxNNfOhHQBMrwiyJL7qfXnFiMfxPIYTNgLqDvR4Wu5wydV1_nM4MG2T6nlhHl_tzvU2LdZsmLYLstvSAcVDa2UaK1QVwWz9ltGpcJ_ZyPJ-73XPlz2YL_5o5Y8BxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAETE4NS45NS4yMTguNDI6NDQzoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4oGij6wH6XwLE0186EdAEyvCLIkvup9ecWIx_E8hhM2AuoO9Hha7nDJ1XX-czgwbZPqeWEeX-3O9TYt1myYtguy29IBxUNrZRorVBXBbP2W0alwn9nI8n7vdc-XPZgv_mjljwHGRucy5kaWdpdGFsZS1nZXNlbGxzY2hhZnQuY2gKL2Rucy1xdWVyeQ
+
+
+## dns.digitale-gesellschaft.ch-2
+
+Public DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
+Hosted in Zurich, Switzerland.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAETE4NS45NS4yMTguNDM6NDQzoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4oGij6wH6XwLE0186EdAEyvCLIkvup9ecWIx_E8hhM2AuoO9Hha7nDJ1XX-czgwbZPqeWEeX-3O9TYt1myYtguy29IBxUNrZRorVBXBbP2W0alwn9nI8n7vdc-XPZgv_mjljwHGRucy5kaWdpdGFsZS1nZXNlbGxzY2hhZnQuY2gKL2Rucy1xdWVyeQ
+
+
+## dns.digitale-gesellschaft.ch-ipv6
+
+Public IPv6 DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
+Hosted in Zurich, Switzerland.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAE1syYTA1OmZjODQ6OjQyXTo0NDOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDigaKPrAfpfAsTTXzoR0ATK8IsiS-6n15xYjH8TyGEzYC6g70eFrucMnVdf5zODBtk-p5YR5f7c71Ni3WbJi2C7Lb0gHFQ2tlGitUFcFs_ZbRqXCf2cjyfu91z5c9mC_-aOWPAcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+
+
+## dns.digitale-gesellschaft.ch-ipv6-2
+
+Public IPv6 DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
+Hosted in Zurich, Switzerland.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAE1syYTA1OmZjODQ6OjQzXTo0NDOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDigaKPrAfpfAsTTXzoR0ATK8IsiS-6n15xYjH8TyGEzYC6g70eFrucMnVdf5zODBtk-p5YR5f7c71Ni3WbJi2C7Lb0gHFQ2tlGitUFcFs_ZbRqXCf2cjyfu91z5c9mC_-aOWPAcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
 
 ## dns.sb
