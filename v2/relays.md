@@ -169,14 +169,14 @@ sdns://gRA1MS4xNS43MS4xNDc6NDQz
 
 Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
 
-sdns://gQ0yMy4xMTEuNjkuMjM4
+sdns://gQw2Ni44NS4zMC4xMTU
 
 
 ## anon-ev-va
 
 Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
-sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
+sdns://gQ0yMy4xMTEuNzQuMjA1
 
 
 ## anon-ibksturm
