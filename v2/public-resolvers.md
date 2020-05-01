@@ -293,7 +293,14 @@ sdns://AQMAAAAAAAAAEjE4NS4yMjguMTY4Ljk6ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3
 
 ## cloudflare
 
-Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
+Cloudflare DNS (anycast) - aka 1.1.1.1 
+
+sdns://AgcAAAAAAAAABzEuMS4xLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
+
+
+## cloudflare-2
+
+Cloudflare DNS (anycast) - aka 1.0.0.1
 
 sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
 
@@ -312,12 +319,36 @@ Cloudflare DNS over IPv6 (anycast)
 sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NTMAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
 
 
+## cloudflare-ipv6-2
+
+Cloudflare DNS over IPv6 (anycast)
+
+sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6NDcwMDo6MTAwMV06NTMAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
+
+
 ## cloudflare-security
+
+Cloudflare DNS (anycast) with malware blocking
+
+sdns://AgMAAAAAAAAABzEuMS4xLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+
+## cloudflare-security-2
 
 Cloudflare DNS (anycast) with malware blocking
 
 sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
+## cloudflare-security-ipv6
+
+Cloudflare DNS over IPv6 (anycast) with malware blocking
+
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+
+## cloudflare-security-ipv6-2
+
+Cloudflare DNS over IPv6 (anycast) with malware blocking
+
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 ## commons-host
 
