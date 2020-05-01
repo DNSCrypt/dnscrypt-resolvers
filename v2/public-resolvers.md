@@ -297,14 +297,6 @@ Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
 
 sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
 
-
-## cloudflare-family
-
-Cloudflare DNS (anycast) with malware protection and parental control
-
-sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
 ## cloudflare-ipv6
 
 Cloudflare DNS over IPv6 (anycast)
