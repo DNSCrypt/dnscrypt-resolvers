@@ -1215,12 +1215,22 @@ sdns://AgIAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2gubGlicmVkb
 
 ## meganerd
 
-Public DNSCrypt resolver by MegaNerd.nl - https://meganerd.nl/dnscrypt-server
-Hosted in Amsterdam, The Netherlands
+Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAETk1LjE3OS4xNTEuNzk6NDQzIONiyU20rYTFN03ugFOveObckVeUIN5qGhCFFvOU2QDvGzIuZG5zY3J5cHQtY2VydC5tZWdhbmVyZC1ubA
+sdns://AQcAAAAAAAAAEjIwOS4yNTAuMjQxLjI1OjQ0MyD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
+
+
+## meganerd-ipv6
+
+Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam, The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
 
 
 ## nextdns
