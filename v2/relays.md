@@ -210,9 +210,16 @@ sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 
 ## anon-meganerd
 
-Anonymized DNS relay hosted by MegaNerd.nl in Amsterdam, The Netherlands
+Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands
 
-sdns://gRE5NS4xNzkuMTUxLjc5OjQ0Mw
+sdns://gRIyMDkuMjUwLjI0MS4yNTo0NDM
+
+
+## anon-meganerd-ipv6
+
+Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands
+
+sdns://gStbMmEwNTpmNDgwOjE0MDA6NDM2OjU0MDA6MmZmOmZlYjg6OGQxY106NDQz
 
 
 ## anon-publicarray
