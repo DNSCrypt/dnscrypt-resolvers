@@ -328,6 +328,13 @@ Cloudflare DNS (anycast) with malware blocking
 sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
+## cloudflare-security-ipv6
+
+Cloudflare DNS over IPv6 (anycast) with malware blocking
+
+sdns://AgMAAAAAAAAAGlsyNjA2OjQ3MDA6NDcwMDo6MTExMl06NDQzABtzZWN1cml0eS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## commons-host
 
 DoH server by the Commons Host CDN
