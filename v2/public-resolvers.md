@@ -106,11 +106,11 @@ sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzI
 
 ## alidns-doh
 
-A public DNS resolver that support DoH/DoT in mainland China, provided by Alibaba-Cloud
+A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud
 
 Homepage: https://alidns.com/
 
-sdns://AgQAAAAAAAAACTIyMy41LjUuNQAOZG5zLmFsaWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgQAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## ams-dnscrypt-nl
