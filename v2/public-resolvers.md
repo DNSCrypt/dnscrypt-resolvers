@@ -104,6 +104,15 @@ Remove ads and protect your computer from malware
 sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzIcthOFYqII5APf3FXpQiMi5kbnNjcnlwdC5kZWZhdWx0Lm5zMi5hZGd1YXJkLmNvbQ
 
 
+## alidns-doh
+
+A public DNS resolver that support DoH/DoT in mainland China, provided by Alibaba-Cloud
+
+Homepage: https://alidns.com/
+
+sdns://AgQAAAAAAAAACTIyMy41LjUuNQAOZG5zLmFsaWRucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## ams-dnscrypt-nl
 
 Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
