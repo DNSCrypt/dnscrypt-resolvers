@@ -110,7 +110,7 @@ A public DNS resolver that supports DoH/DoT in mainland China, provided by Aliba
 
 Homepage: https://alidns.com/
 
-sdns://AgQAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## ams-dnscrypt-nl
