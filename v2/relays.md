@@ -12,11 +12,6 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-## anon-am-us
-
-Anonymized DNS relay hosted in Seattle - US
-sdns://gRQxMDQuMTY4LjI0Ny4xMzg6NDM0Mw
-
 
 ## anon-ams-nl
 
