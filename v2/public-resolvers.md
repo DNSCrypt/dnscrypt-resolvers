@@ -61,13 +61,15 @@ Hosted in New York on a RamNode Cloud Instance.
 
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
+
 ## adfree.usableprivacy.net
 
 Public non-logging DoH server with advertising and tracker filtering.
 
 Hosted in Austria/Europe, details see: [docs.usableprivacy.com](https://docs.usableprivacy.com)
 
-sdns://AgMAAAAAAAAADzE0OS4xNTQuMTUzLjE1MwAYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADzE0OS4xNTQuMTUzLjE1MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBhhZGZyZWUudXNhYmxlcHJpdmFjeS5uZXQKL2Rucy1xdWVyeQ
+
 
 ## adguard-dns
 
@@ -1573,7 +1575,6 @@ DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - DEV1-S instance donated by S
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
 sdns://AQcAAAAAAAAAG1syMDAxOmJjODo0N2IwOjFhMDE6OjFdOjQ0MyDoAbhOpga_sLrAzkNEW7FeumSwL6PEqjGuEGNqB5AyTR8yLmRuc2NyeXB0LWNlcnQuZnIuZG5zY3J5cHQub3Jn
-
 
 
 ## sfw.scaleway-fr
