@@ -61,6 +61,13 @@ Hosted in New York on a RamNode Cloud Instance.
 
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
+## adfree.usableprivacy.net
+
+Public non-logging DoH server with advertising and tracker filtering.
+
+Hosted in Austria/Europe, details see: [docs.usableprivacy.com](https://docs.usableprivacy.com)
+
+sdns://AgMAAAAAAAAADzE0OS4xNTQuMTUzLjE1MwAYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 ## adguard-dns
 
