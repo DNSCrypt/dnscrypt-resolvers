@@ -1126,22 +1126,6 @@ Google DNS (anycast)
 sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF2gHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR6AZkxo_AEMExT_cbBssN43Evo9zs5_ZyWnftEUKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
 
 
-## gridns-jp
-
-Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
-Hosted at Linode in Tokyo. Upstream to 1.1.1.1. No EDNS Client Subnet.
-
-sdns://AgcAAAAAAAAADjE3Mi4xMDUuMjQxLjkzAA1qcC5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
-
-
-## gridns-jp-ipv6
-
-Gridth's public filtering non-logging DNS-over-HTTPS server. Block ads and tracking.
-Hosted at Linode in Tokyo. Upstream to 1.1.1.1. No EDNS Client Subnet. IPv6-enabled.
-
-sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWVkOjIyMGJdAA1qcC5ncmlkbnMueHl6Ci9kbnMtcXVlcnk
-
-
 ## ibksturm
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
