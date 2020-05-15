@@ -1273,6 +1273,26 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
 
 
+## meganerd-DoH
+
+Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam, The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAADjIwOS4yNTAuMjQxLjI1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4Emphcmphci5tZWdhbmVyZC5ubAQvZG9o
+
+
+## meganerd-DoH-ipv6
+
+Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam, The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAJTJhMDU6ZjQ4MDoxNDAwOjQzNjo1NDAwOjJmZjpmZWI4OjhkMWMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSamFyamFyLm1lZ2FuZXJkLm5sBC9kb2g
+
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
