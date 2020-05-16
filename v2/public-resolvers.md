@@ -1275,7 +1275,7 @@ sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_
 
 ## meganerd-doh
 
-Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Public DoH server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
 Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
@@ -1285,7 +1285,7 @@ sdns://AgcAAAAAAAAADjIwOS4yNTAuMjQxLjI1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 
 ## meganerd-doh-ipv6
 
-Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Public DoH server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
 Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
