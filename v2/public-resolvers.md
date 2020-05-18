@@ -1133,7 +1133,6 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAAEDg1LjUuOTMuMjMwOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
-
 ## ibksturm-ipv6
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
@@ -1264,6 +1263,16 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAEjIwOS4yNTAuMjQxLjI1OjQ0MyD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
+## meganerd-ipv6
+
+Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam, The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
+
+
 ## meganerd-doh
 
 Public DoH server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
@@ -1282,16 +1291,6 @@ Hosted in Amsterdam, The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAAJTJhMDU6ZjQ4MDoxNDAwOjQzNjo1NDAwOjJmZjpmZWI4OjhkMWMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSamFyamFyLm1lZ2FuZXJkLm5sBC9kb2g
-
-
-## meganerd-ipv6
-
-Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam, The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
 
 
 ## nextdns
