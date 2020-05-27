@@ -1133,6 +1133,7 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAAEDg1LjUuOTMuMjMwOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
+
 ## ibksturm-ipv6
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
@@ -1283,6 +1284,20 @@ DNSSEC, Anycast, Non-logging, NoFilters
 https://www.nextdns.io/
 
 sdns://AgcAAAAAAAAACjQ1LjkwLjI4LjAgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
+
+
+## nextdns-ipv6
+
+Connects to NextDNS over IPv6.
+
+NextDNS is a cloud-based private DNS service that gives you full control
+over what is allowed and what is blocked on the Internet.
+
+DNSSEC, Anycast, Non-logging, NoFilters
+
+https://www.nextdns.io/
+
+sdns://AgcAAAAAAAAADVsyYTA3OmE4YzA6Ol0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
 
 
 ## opennic-R4SAS
