@@ -20,13 +20,6 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRE1MS4xNS4xMjQuMjA4OjQ0Mw
 
 
-## anon-charis
-
-Anonymized DNS relay by lucenera
-
-sdns://gRMxOTIuMjQxLjE1NC4xMzY6NDQz
-
-
 ## anon-cs-ca2
 
 Anonymized DNS relay hosted in CA - Vancouver provided by https://cryptostorm.is/
@@ -153,13 +146,6 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
 
 
-## anon-edoardo
-
-Anonymized DNS relay by lucenera
-
-sdns://gRA1MS4xNS43MS4xNDc6NDQz
-
-
 ## anon-ev-to
 
 Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
@@ -266,13 +252,6 @@ sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
 Anonymized DNS relay hosted in Sweden - SE
 
 sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
-
-
-## anon-suami
-
-Anonymized DNS relay by lucenera
-
-sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
 
 
 ## anon-tiarap

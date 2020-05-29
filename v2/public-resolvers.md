@@ -185,12 +185,6 @@ If you are within India, this might be a nice DNS server to use.
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
 
-## charis
-
-Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS by lucenera
-sdns://AQcAAAAAAAAAEzE5Mi4yNDEuMTU0LjEzNjo0NDMgiFQg4cYWLz6SB3hbrmd1gKwY-ewAWzFwFKGv6azCcmAdMi5kbnNjcnlwdC1jZXJ0Lml0LmNoYXJpcy5jb20
-
-
 ## cisco
 
 Remove your DNS blind spot (DNSCrypt protocol)
@@ -1025,14 +1019,6 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 sdns://AgMAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0gT7VsEyKePk-NGW4wncgn3krUtflpClvMP1lhELmyackOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
 
-## edoardo
-
-Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS
-by lucenera
-
-sdns://AQcAAAAAAAAAEDUxLjE1LjcxLjE0Nzo0NDMgu2uyBfHQB7I65s0VVTSmpqTfqPGjRxaBHveht3-R8KseMi5kbnNjcnlwdC1jZXJ0Lml0LmVkb2FyZG8uY29t
-
-
 ## ev-to
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
@@ -1610,14 +1596,6 @@ sdns://AQcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzILwTiPV2Pj3sdfHJD8kVv7aK6t_rHEX2mFGAY
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC. Forward DNS to anoymized DNS servers
 
 sdns://AgcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzABZkbnNzZS5hbGVrYmVyZy5uZXQ6NDQzBC9kbnM
-
-
-## suami
-
-Caching, non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled, Anonymized DNS
-by lucenera
-
-sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIAL8QKvniJdWHGxS-Zt9vqJRX4ArGMryzyd77TQwOAzhHDIuZG5zY3J5cHQtY2VydC5pdC5zdWFtaS5jb20
 
 
 ## t53
