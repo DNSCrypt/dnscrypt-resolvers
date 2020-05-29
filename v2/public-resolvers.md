@@ -766,6 +766,13 @@ Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OCA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
+## dnshome-doh
+
+https://www.dnshome.de/ public resolver in Germany
+
+sdns://AgYAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
+
+
 ## dnslify-doh
 
 Non-logging DoH server in Amsterdam, Frankfurt, London, New York, Silicon Valley and Singapore.
@@ -1103,6 +1110,15 @@ sdns://AgUAAAAAAAAABzguOC44LjigHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR
 Google DNS (anycast)
 
 sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF2gHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR6AZkxo_AEMExT_cbBssN43Evo9zs5_ZyWnftEUKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
+
+
+## he
+
+Hurricane Electric DoH server (anycast)
+
+Unknown logging policy.
+
+sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
 ## ibksturm

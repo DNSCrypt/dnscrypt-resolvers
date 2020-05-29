@@ -12,7 +12,6 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-
 ## anon-ams-nl
 
 Anonymized DNS relay hosted in Netherlands - NL
@@ -166,11 +165,13 @@ Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
 sdns://gRA4NS41LjkzLjIzMDo4NDQz
 
+
 ## anon-ibksturm-ipv6
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
 sdns://gS5bMmEwMjoxMjA1OjUwNTU6ZGU2MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
+
 
 ## anon-inconnu
 
