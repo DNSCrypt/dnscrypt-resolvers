@@ -1296,14 +1296,6 @@ Location: Munich, Germany
 sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
 
 
-## opennic-eleix
-
-OpenNIC • 24-hour Logs • No DNSSEC
-Location: Montreal, QC, Canada
-
-sdns://AQQAAAAAAAAAEzE5OC4xMDAuMTQ4LjIyNDo0NDMg-I9_7aXj72-YfDvHJRG_Q3zhfU3m33yuKPcfqYpr_VYkMi5kbnNjcnlwdC1jZXJ0LmpvbHRlb24uYm9vdGhsYWJzLm1l
-
-
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
