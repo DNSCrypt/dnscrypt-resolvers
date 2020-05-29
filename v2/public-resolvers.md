@@ -434,13 +434,6 @@ Latvia DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADzEwOS4yNDguMTQ5LjEzMyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-mo
-
-Moldova DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADzE3OC4xNzUuMTM5LjIxMSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-nl2
 
 Secondary Netherlands DNSCrypt server provided by https://cryptostorm.is/
