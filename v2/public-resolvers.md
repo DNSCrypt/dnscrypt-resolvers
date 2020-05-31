@@ -64,74 +64,74 @@ sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 
 ## abmb-sg-dnscrypt-ipv4
 
-Non-logging and Non-filter DNSCrypt server. Support DNSSEC.
+Non-logging and non-filtering DNSCrypt server. Supports DNSSEC.
 
-Hosted in Singapore. 
+Hosted in Singapore.
 
 sdns://AQcAAAAAAAAADjMuMC41OS40ODo4NDQzIK7NeNpL3tlNbQ-2libXcbi3EVijBxCA9FX-jhg2civxGzIuZG5zY3J5cHQtY2VydC5zZy5hYm1iLndpbg
 
 
 ## abmb-sg-dnscrypt-ipv6
 
-Non-logging and Non-filter DNSCrypt server. Support DNSSEC.
+Non-logging and non-filtering DNSCrypt server. Supports DNSSEC.
 
-Hosted in Singapore. 
+Hosted in Singapore.
 
 sdns://AQcAAAAAAAAALVsyNDA2OmRhMTg6OTUxOjg1ODY6YWNmZTo1ODQ5OmI0NmM6N2VlMl06ODQ0MyCuzXjaS97ZTW0PtpYm13G4txFYowcQgPRV_o4YNnIr8RsyLmRuc2NyeXB0LWNlcnQuc2cuYWJtYi53aW4
-
-
-## abmb-sg2-dnscrypt-ipv4
-
-Non-logging and Non-filter DNSCrypt server. Support DNSSEC.
-
-Hosted in Singapore. 
-
-sdns://AQcAAAAAAAAAEzU0LjE2OS4xMDMuMjQ0Ojg0NDMgH6uTUA9n4od4ExMqFv88sNQIXYomyfix_T_Qa9jChB8cMi5kbnNjcnlwdC1jZXJ0LnNnMi5hYm1iLndpbg
-
-
-## abmb-sg2-dnscrypt-ipv6
-
-Non-logging and Non-filter DNSCrypt server. Support DNSSEC.
-
-Hosted in Singapore. 
-
-sdns://AQcAAAAAAAAAK1syNDA2OmRhMTg6OTUxOjg1ODY6Y2E2NDo2ZDVhOjFiOmYzY2VdOjg0NDMgH6uTUA9n4od4ExMqFv88sNQIXYomyfix_T_Qa9jChB8cMi5kbnNjcnlwdC1jZXJ0LnNnMi5hYm1iLndpbg
 
 
 ## abmb-sg-doh-ipv4
 
 Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
-Hosted in Singapore. 
+Hosted in Singapore.
 
 sdns://AgcAAAAAAAAACTMuMC41OS40OAAMZG9oLmFibWIud2luCi9kbnMtcXVlcnk
-
-
-## abmb-sg2-doh-ipv4
-
-Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
-
-Hosted in Singapore. 
-
-sdns://AgcAAAAAAAAADjU0LjE2OS4xMDMuMjQ0AA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
 
 
 ## abmb-sg-doh-ipv6
 
 Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
-Hosted in Singapore. 
+Hosted in Singapore.
 
-sdns://AgcAAAAAAAAAJjI0MDY6ZGExODo5NTE6ODU4NjphY2ZlOjU4NDk6YjQ2Yzo3ZWUyAAxkb2guYWJtYi53aW4KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAALFsyNDA2OmRhMTg6OTUxOjg1ODY6YWNmZTo1ODQ5OmI0NmM6N2VlMl06NDQzAAxkb2guYWJtYi53aW4KL2Rucy1xdWVyeQ
+
+
+## abmb-sg2-dnscrypt-ipv4
+
+Non-logging and non-filtering DNSCrypt server. Supports DNSSEC.
+
+Hosted in Singapore.
+
+sdns://AQcAAAAAAAAAEzU0LjE2OS4xMDMuMjQ0Ojg0NDMgH6uTUA9n4od4ExMqFv88sNQIXYomyfix_T_Qa9jChB8cMi5kbnNjcnlwdC1jZXJ0LnNnMi5hYm1iLndpbg
+
+
+## abmb-sg2-dnscrypt-ipv6
+
+Non-logging and non-filtering DNSCrypt server. Supports DNSSEC.
+
+Hosted in Singapore.
+
+sdns://AQcAAAAAAAAAK1syNDA2OmRhMTg6OTUxOjg1ODY6Y2E2NDo2ZDVhOjFiOmYzY2VdOjg0NDMgH6uTUA9n4od4ExMqFv88sNQIXYomyfix_T_Qa9jChB8cMi5kbnNjcnlwdC1jZXJ0LnNnMi5hYm1iLndpbg
+
+
+## abmb-sg2-doh-ipv4
+
+Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Singapore.
+
+sdns://AgcAAAAAAAAADjU0LjE2OS4xMDMuMjQ0AA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
 
 
 ## abmb-sg2-doh-ipv6
 
 Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
-Hosted in Singapore. 
+Hosted in Singapore.
 
-sdns://AgcAAAAAAAAAJDI0MDY6ZGExODo5NTE6ODU4NjpjYTY0OjZkNWE6MWI6ZjNjZQANZG9oMi5hYm1iLndpbgovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAJlsyNDA2OmRhMTg6OTUxOjg1ODY6Y2E2NDo2ZDVhOjFiOmYzY2VdAA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
 
 
 ## adfree.usableprivacy.net
