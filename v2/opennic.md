@@ -23,11 +23,17 @@ sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5ze
 
 ## ibksturm
 
-dnscrypt-server (nginx-dnscrypt-wrapper-unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
+sdns://AQcAAAAAAAAAEDg1LjUuOTMuMjMwOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
-sdns://AQcAAAAAAAAADzgzLjc3Ljg1Ljc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
+## ibksturm-ipv6
+
+dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+Hosted in Switzerland by ibksturm, aka Andreas Ziegler
+
+sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6NTA1NTpkZTYwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## opennic-R4SAS
@@ -54,14 +60,6 @@ OpenNIC • Non-logging • No DNSSEC
 Location: Munich, Germany
 
 sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
-
-
-## opennic-eleix
-
-OpenNIC • 24-hour Logs • No DNSSEC
-Location: Montreal, QC, Canada
-
-sdns://AQQAAAAAAAAAEzE5OC4xMDAuMTQ4LjIyNDo0NDMg-I9_7aXj72-YfDvHJRG_Q3zhfU3m33yuKPcfqYpr_VYkMi5kbnNjcnlwdC1jZXJ0LmpvbHRlb24uYm9vdGhsYWJzLm1l
 
 
 ## opennic-luggs
