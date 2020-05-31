@@ -1396,15 +1396,6 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
 
 
-## qag.me
-
-Ad-blocking DNS cache.
-Home Server running on a static IP in Bangalore / Bengaluru, INDIA.
-Maintained by Cruisemaniac (https://cruisemaniac.com) aka Ashwin Murali.
-
-sdns://AQcAAAAAAAAAEzQ5LjIwNS4yMTYuMjI5OjQ0MzQgVA4O8EaSji8bhEUMuB3uK3lZ4RmvU_32RaiVq-7x9JQWMi5kbnNjcnlwdC1jZXJ0LnFhZy5tZQ
-
-
 ## quad101
 
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
