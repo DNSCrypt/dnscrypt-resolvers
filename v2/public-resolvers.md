@@ -615,6 +615,8 @@ Servers helps you deGoogle and unGoogle by completely blocking Google tracking i
 
 Contributed by: https://decloudus.com
 
+sdns://AQMAAAAAAAAAG1syYTAxOjRmODoxNTE6MTFiMDo6M106ODQ0MyD73Ye9XeCsS7TdFu9fRP7s5k-0aL91yygulGVmeOAKLh4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q 
+
 
 ## dns.digitale-gesellschaft.ch
 
