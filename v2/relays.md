@@ -11,6 +11,7 @@ See the link below for more information:
 
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
+
 ## anon-abmb-sg1-ipv4
 
 Anonymized DNS relay hosted in Singapore - SG
