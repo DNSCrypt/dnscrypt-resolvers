@@ -12,34 +12,6 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-## anon-abmb-sg1-ipv4
-
-Anonymized DNS relay hosted in Singapore - SG
-
-sdns://gQ4zLjAuNTkuNDg6ODQ0Mw
-
-
-## anon-abmb-sg1-ipv6
-
-Anonymized DNS relay hosted in Singapore - SG
-
-sdns://gS1bMjQwNjpkYTE4Ojk1MTo4NTg2OmFjZmU6NTg0OTpiNDZjOjdlZTJdOjg0NDM
-
-
-## anon-abmb-sg2-ipv4
-
-Anonymized DNS relay hosted in Singapore - SG
-
-sdns://gRM1NC4xNjkuMTAzLjI0NDo4NDQz
-
-
-## anon-abmb-sg2-ipv6
-
-Anonymized DNS relay hosted in Singapore - SG
-
-sdns://gStbMjQwNjpkYTE4Ojk1MTo4NTg2OmNhNjQ6NmQ1YToxYjpmM2NlXTo4NDQz
-
-
 ## anon-ams-nl
 
 Anonymized DNS relay hosted in Netherlands - NL
