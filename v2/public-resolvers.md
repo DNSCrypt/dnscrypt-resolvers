@@ -64,7 +64,7 @@ sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 
 ## abmb-sg-doh-ipv4
 
-Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
@@ -73,7 +73,7 @@ sdns://AgcAAAAAAAAACTMuMC41OS40OAAMZG9oLmFibWIud2luCi9kbnMtcXVlcnk
 
 ## abmb-sg-doh-ipv6
 
-Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
@@ -82,7 +82,7 @@ sdns://AgcAAAAAAAAALFsyNDA2OmRhMTg6OTUxOjg1ODY6YWNmZTo1ODQ5OmI0NmM6N2VlMl06NDQzA
 
 ## abmb-sg2-doh-ipv4
 
-Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
@@ -91,7 +91,7 @@ sdns://AgcAAAAAAAAADjU0LjE2OS4xMDMuMjQ0AA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
 
 ## abmb-sg2-doh-ipv6
 
-Non-logging and Non-filter DoH server. Support DNSSEC. Both IPv4 & IPv6.
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
