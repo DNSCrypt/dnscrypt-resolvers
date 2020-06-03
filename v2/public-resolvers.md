@@ -62,6 +62,24 @@ Hosted in New York on a RamNode Cloud Instance.
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
 
+## abmb-jp-doh-ipv4
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Tokyo, Japan.
+
+sdns://AgcAAAAAAAAADjU0LjIzOC4xMDQuMTc5ABNkb2gtanAuYWJtYi53aW46NDQzCi9kbnMtcXVlcnk
+
+
+## abmb-jp-doh-ipv6
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Tokyo, Japan.
+
+sdns://AgcAAAAAAAAAJjI0MDY6ZGExNDo3YWY6Njk5Njo2NjI2OmFhMGM6MWU3YjpkNTliABNkb2gtanAuYWJtYi53aW46NDQzCi9kbnMtcXVlcnk
+
+
 ## abmb-sg-doh-ipv4
 
 Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
@@ -96,6 +114,24 @@ Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 Hosted in Singapore.
 
 sdns://AgcAAAAAAAAAJlsyNDA2OmRhMTg6OTUxOjg1ODY6Y2E2NDo2ZDVhOjFiOmYzY2VdAA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
+
+
+## abmb-sk-doh-ipv4
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Seoul, South Korea.
+
+sdns://AgcAAAAAAAAADDMuMzQuMTQwLjE3MQATZG9oLXNrLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
+
+
+## abmb-sk-doh-ipv6
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Seoul, South Korea.
+
+sdns://AgcAAAAAAAAAJTI0MDY6ZGExMjpjNDI6NWQxMjpkYTIyOjE1ZWM6MTVhMTpkNDUAE2RvaC1zay5hYm1iLndpbjo0NDMKL2Rucy1xdWVyeQ
 
 
 ## adfree.usableprivacy.net
