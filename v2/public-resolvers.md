@@ -62,13 +62,31 @@ Hosted in New York on a RamNode Cloud Instance.
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
 
+## abmb-jp-doh-ipv4
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Tokyo, Japan.
+
+sdns://AgcAAAAAAAAAAAATZG9oLWpwLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
+
+
+## abmb-jp-doh-ipv6
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Tokyo, Japan.
+
+sdns://AgcAAAAAAAAAAAATZG9oLWpwLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
+
+
 ## abmb-sg-doh-ipv4
 
 Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
-sdns://AgcAAAAAAAAACTMuMC41OS40OAAMZG9oLmFibWIud2luCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAAAAQZG9oLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
 
 
 ## abmb-sg-doh-ipv6
@@ -77,7 +95,7 @@ Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
-sdns://AgcAAAAAAAAALFsyNDA2OmRhMTg6OTUxOjg1ODY6YWNmZTo1ODQ5OmI0NmM6N2VlMl06NDQzAAxkb2guYWJtYi53aW4KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAAAAQZG9oLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
 
 
 ## abmb-sg2-doh-ipv4
@@ -86,7 +104,7 @@ Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
-sdns://AgcAAAAAAAAADjU0LjE2OS4xMDMuMjQ0AA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAAAARZG9oMi5hYm1iLndpbjo0NDMKL2Rucy1xdWVyeQ
 
 
 ## abmb-sg2-doh-ipv6
@@ -95,7 +113,25 @@ Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
 
 Hosted in Singapore.
 
-sdns://AgcAAAAAAAAAJlsyNDA2OmRhMTg6OTUxOjg1ODY6Y2E2NDo2ZDVhOjFiOmYzY2VdAA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAAAARZG9oMi5hYm1iLndpbjo0NDMKL2Rucy1xdWVyeQ
+
+
+## abmb-sk-doh-ipv4
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Seoul, South Korea.
+
+sdns://AgcAAAAAAAAAAAATZG9oLXNrLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
+
+
+## abmb-sk-doh-ipv6
+
+Non-logging and Non-filtering DoH server. Support DNSSEC. Both IPv4 & IPv6.
+
+Hosted in Seoul, South Korea.
+
+sdns://AgcAAAAAAAAAAAATZG9oLXNrLmFibWIud2luOjQ0MwovZG5zLXF1ZXJ5
 
 
 ## adfree.usableprivacy.net
