@@ -1175,6 +1175,15 @@ Unknown logging policy.
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## he-ipv6
+
+Hurricane Electric DoH server (anycast) over IPv6
+
+Unknown logging policy.
+
+sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
+
+
 ## ibksturm
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
