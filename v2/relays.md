@@ -281,3 +281,15 @@ sdns://gRMxMDQuMjM4LjE4Ni4xOTI6NDQz
 Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gSxbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZdOjQ0Mw
+
+## anon-acsacsar-ams-ipv4
+
+Anonymized DNS relay hosted in AMS on Scaleway
+
+sdns://gRE1MS4xNTguMTY2Ljk3OjQ0Mw
+
+## anon-acsacsar-ams-ipv6
+
+Anonymized DNS relay hosted in AMS on Scaleway
+
+sdns://gRpbMjAwMTpiYzg6MTgyNDo3Mzg6OjFdOjQ0Mw
