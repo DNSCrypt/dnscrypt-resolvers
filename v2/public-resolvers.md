@@ -98,6 +98,20 @@ Hosted in Singapore.
 sdns://AgcAAAAAAAAAJlsyNDA2OmRhMTg6OTUxOjg1ODY6Y2E2NDo2ZDVhOjFiOmYzY2VdAA1kb2gyLmFibWIud2luCi9kbnMtcXVlcnk
 
 
+## acsacsar-ams-ipv4
+
+Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
+
+sdns://AQcAAAAAAAAAETUxLjE1OC4xNjYuOTc6NDQzIAMn88-SfplfRvsjgeB8HHZO8l9dhELOSL2u5Fd6BrZRIDIuZG5zY3J5cHQtY2VydC5hY3NhY3Nhci1hbXMuY29t
+
+
+## acsacsar-ams-ipv6
+
+Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
+
+sdns://AQcAAAAAAAAAGlsyMDAxOmJjODoxODI0OjczODo6MV06NDQzIAMn88-SfplfRvsjgeB8HHZO8l9dhELOSL2u5Fd6BrZRIDIuZG5zY3J5cHQtY2VydC5hY3NhY3Nhci1hbXMuY29t
+
+
 ## adfree.usableprivacy.net
 
 Public non-logging DoH server with advertising and tracker filtering.
@@ -1702,15 +1716,3 @@ sdns://AgUAAAAAAAAAEjk2LjExMy4xNTEuMTQzOjQ0M6Ax_Wo8PCx8I5Gkl1qfoqes0mp4xMrk1W5GI
 Yandex public DNS server (anycast)
 
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
-
-## acsacsar-ams-ipv4
-
-Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
-
-sdns://AQcAAAAAAAAAETUxLjE1OC4xNjYuOTc6NDQzIAMn88-SfplfRvsjgeB8HHZO8l9dhELOSL2u5Fd6BrZRIDIuZG5zY3J5cHQtY2VydC5hY3NhY3Nhci1hbXMuY29t
-
-## acsacsar-ams-ipv6
-
-Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
-
-sdns://AQcAAAAAAAAAGlsyMDAxOmJjODoxODI0OjczODo6MV06NDQzIAMn88-SfplfRvsjgeB8HHZO8l9dhELOSL2u5Fd6BrZRIDIuZG5zY3J5cHQtY2VydC5hY3NhY3Nhci1hbXMuY29t
