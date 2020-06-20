@@ -33,23 +33,23 @@ https://www.aa.net.uk/legal/dohdot-disclaimer/
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
 
 
-## aaflalo-me-nyc
+## aaflalo-me-gcp
 
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
+Same as aaflalo-me-nyc. Use aaflalo-me-nyc.
 
-Non-logging, AD-filtering, supports DNSSEC.
-Hosted in New York on a RamNode Cloud Instance.
+Kept for backward compatibility with people using this server.
 
 https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
 
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
 
-## aaflalo-me-gcp
+## aaflalo-me-nyc
 
-Same as aaflalo-me-nyc. Use aaflalo-me-nyc.
+DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
 
-Kept for backward compatibility with people use this server.
+Non-logging, AD-filtering, supports DNSSEC.
+Hosted in New York on a RamNode Cloud Instance.
 
 https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
 
@@ -922,6 +922,7 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjZiNGI6OjFdABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
+
 ## doh-eastau-pi-dns
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Sydney, Australia. By https://pi-dns.com/
@@ -936,6 +937,7 @@ A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). B
 Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastau
 
 sdns://AgMAAAAAAAAAF1syMDAxOjE5ZjA6NTgwMTpiN2M6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWRvaC5lYXN0YXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
+
 
 ## doh-eastus-pi-dns
 
