@@ -922,6 +922,20 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOjZiNGI6OjFdABJkb2gtZGUuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
+## doh-eastas-pi-dns
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Tokyo, Japan. By https://pi-dns.com/
+Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastas
+
+sdns://AgMAAAAAAAAADDY2LjQyLjMzLjEzNSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVkb2guZWFzdGFzLnBpLWRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## doh-eastas-pi-dns-ipv6
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Tokyo, Japan. By https://pi-dns.com/
+Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastas
+
+sdns://AgMAAAAAAAAAGFsyMDAxOjE5ZjA6NzAwMToyMjVkOjoxXSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVkb2guZWFzdGFzLnBpLWRucy5jb20KL2Rucy1xdWVyeQ
 
 ## doh-eastau-pi-dns
 
