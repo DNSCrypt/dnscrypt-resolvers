@@ -33,14 +33,16 @@ https://www.aa.net.uk/legal/dohdot-disclaimer/
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
 
 
-## aaflalo-me
+## aaflalo-me-nyc
 
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NL.
+DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
 
 Non-logging, AD-filtering, supports DNSSEC.
-Hosted in Netherlands on a RamNode VPS.
+Hosted in New York on a RamNode Cloud Instance.
 
-sdns://AgMAAAAAAAAADjE3Ni41Ni4yMzYuMTc1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4DmRucy5hYWZsYWxvLm1lCi9kbnMtcXVlcnk
+https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
+
+sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
 
 ## aaflalo-me-gcp
@@ -49,15 +51,7 @@ Same as aaflalo-me-nyc. Use aaflalo-me-nyc.
 
 Kept for backward compatibility with people use this server.
 
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
-## aaflalo-me-nyc
-
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
-
-Non-logging, AD-filtering, supports DNSSEC.
-Hosted in New York on a RamNode Cloud Instance.
+https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
 
 sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
 
