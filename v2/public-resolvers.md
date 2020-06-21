@@ -1138,9 +1138,9 @@ sdns://AQcAAAAAAAAAEzE4NS4xMzQuMTk2LjU1Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwG
 
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in Switzerland:
 
-sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
+sdns://AgcAAAAAAAAADTJhMDE6OWUwMTo6NTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
 
-sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
+sdns://AgcAAAAAAAAADTJhMDE6OWUwMTo6NTUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
 
 Also offering open (non-logging, non-filtering, no ECS) DNSCrypt resolution services on the same IPv6 nodes:
 
@@ -1163,14 +1163,13 @@ sdns://AQcAAAAAAAAAEjQ2LjIyNy4yMDAuNTQ6ODQ0MyB-y-8-LwGAMo1g4OHR7CPk6HfY6gmhk3AaB
 
 sdns://AQcAAAAAAAAAEjQ2LjIyNy4yMDAuNTU6ODQ0MyB-y-8-LwGAMo1g4OHR7CPk6HfY6gmhk3AaBNazwL6L4R8yLmRuc2NyeXB0LWNlcnQucmRucy5mYWVsaXgubmV0
 
-
 ## faelix-uk-ipv6
 
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in the UK:
 
-sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
+sdns://AgcAAAAAAAAADTJhMDE6OWUwMDo6NTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
 
-sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
+sdns://AgcAAAAAAAAADTJhMDE6OWUwMDo6NTUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
 
 Also offering open (non-logging, non-filtering, no ECS) DNSCrypt resolution services on the same IPv6 nodes:
 
