@@ -24,3 +24,4 @@ To use that list, add this to the `[sources]` section of your
 Cloudflare Onion Service
 
 sdns://AgcAAAAAAAAAACC0WWFtenR5met-s8i0oiShMtYstulWSybPBq-zBUEMNT5kbnM0dG9ycG5sZnMyaWZ1ejJzMnlmM2ZjN3JkbXNiaG02cnc3NWV1ajM1cGFjNmFwMjV6Z3FhZC5vbmlvbgovZG5zLXF1ZXJ5
+

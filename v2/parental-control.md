@@ -33,6 +33,8 @@ CIRA DoH resolvers, blocking trackers, malware, phishing and pornography.
 Operated by the .CA registry. Built by Canadians for Canadians.
 https://www.cira.ca/fr/cybersecurity-services/canadian-shield
 
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
 
 ## cisco-familyshield
 
@@ -150,3 +152,4 @@ Hosted in Paris, running on a 1-XS server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
 sdns://AQMAAAAAAAAAEzE2My4xNzIuMTgwLjEyNTo0NDMg32Jzv8dSGSqLWjm8DIWsP_lkRdc2RPZicoJdNVjxof8fMi5kbnNjcnlwdC1jZXJ0LnNmdy5zY2FsZXdheS1mcg
+
