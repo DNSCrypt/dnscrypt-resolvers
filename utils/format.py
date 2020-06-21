@@ -26,7 +26,7 @@ class Entry:
     def parse(raw_entry):
         description = ""
         stamps = []
-        lines = raw_entry.strip().split("\n")
+        lines = raw_entry.strip().splitlines()
         if len(lines) < 2:
             return None
         name = lines[0].strip()
