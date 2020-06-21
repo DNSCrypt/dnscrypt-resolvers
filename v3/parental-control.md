@@ -1,23 +1,39 @@
+# parental-control
 
-# *** THIS IS A LEGACY LIST ***
+A set of resolvers blocking popular websites that may not be appropriate
+for children.
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+This is not bulletproof. In particular, websites in languages that are
+not English will require additional, local rules.
 
-If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
-of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
-and are present in the `[sources]` section).
+To use that list, add this to the `[sources]` section of your
+`dnscrypt-proxy.toml` configuration file:
 
-THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
+    [sources.'parental-control']
+    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v2/parental-control.md', 'https://download.dnscrypt.info/resolvers-list/v2/parental-control.md']
+    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+    cache_file = 'parental-control.md'
 
-If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
+In order to enforce safe search results from Google and Youtube, you may
+also want to enable cloaking (`cloaking_rules` in the configuration file).
 
 --
+
 
 ## adguard-dns-family
 
 Adguard DNS with safesearch and adult content blocking
 
 sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
+
+
+## cira-family
+
+CIRA DoH resolvers, blocking trackers, malware, phishing and pornography.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 
 ## cisco-familyshield

@@ -1,17 +1,27 @@
+# public-resolvers
 
-# *** THIS IS A LEGACY LIST ***
+This is an extensive list of public DNS resolvers supporting the
+DNSCrypt and DNS-over-HTTP2 protocols.
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+This list is maintained by Frank Denis <j @ dnscrypt [.] info>
 
-If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
-of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
-and are present in the `[sources]` section).
+Warning: it includes servers that may censor content, servers that don't
+verify DNSSEC records, and servers that will collect and monetize your
+queries.
 
-THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
+Adjust the `require_*` options in dnscrypt-proxy to filter that list
+according to your needs.
 
-If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
+To use that list, add this to the `[sources]` section of your
+`dnscrypt-proxy.toml` configuration file:
+
+    [sources.'public-resolvers']
+    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v2/public-resolvers.md', 'https://download.dnscrypt.info/resolvers-list/v2/public-resolvers.md']
+    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+    cache_file = 'public-resolvers.md'
 
 --
+
 
 ## a-and-a
 
@@ -217,6 +227,33 @@ Maintained by Abhay Rana aka Nemo.
 If you are within India, this might be a nice DNS server to use.
 
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
+
+
+## cira-family
+
+CIRA DoH resolvers, blocking trackers, malware, phishing and pornography.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
+
+## cira-private
+
+CIRA DoH resolvers, blocking trackers.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x5wcml2YXRlLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+
+
+## cira-protected
+
+CIRA DoH resolvers, blocking trackers, malware and phishing.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6yBwcm90ZWN0ZWQuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 
 ## cisco
@@ -1131,6 +1168,7 @@ sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMDUg_0RyX8kcAcMdtRk5SAX5RKs3yiLLS6kdJlnsUpVbn
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
 
 sdns://AQcAAAAAAAAAEzE4NS4xMzQuMTk2LjU0Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwGgTWs8C-i-EfMi5kbnNjcnlwdC1jZXJ0LnJkbnMuZmFlbGl4Lm5ldA
+sdns://AQcAAAAAAAAAEzE4NS4xMzQuMTk2LjU1Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwGgTWs8C-i-EfMi5kbnNjcnlwdC1jZXJ0LnJkbnMuZmFlbGl4Lm5ldA
 
 
 ## faelix-ch-ipv4-doh
@@ -1138,6 +1176,7 @@ sdns://AQcAAAAAAAAAEzE4NS4xMzQuMTk2LjU0Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwG
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
 
 sdns://AgcAAAAAAAAADjE4NS4xMzQuMTk2LjU0ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D3JkbnMuZmFlbGl4Lm5ldAEv
+sdns://AgcAAAAAAAAADjE4NS4xMzQuMTk2LjU1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4D3JkbnMuZmFlbGl4Lm5ldAEv
 
 
 ## faelix-ch-ipv6
@@ -1145,6 +1184,7 @@ sdns://AgcAAAAAAAAADjE4NS4xMzQuMTk2LjU0ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aP
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in Switzerland.
 
 sdns://AQcAAAAAAAAAFFsyYTAxOjllMDE6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
+sdns://AQcAAAAAAAAAFFsyYTAxOjllMDE6OjU1XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
 
 
 ## faelix-ch-ipv6-doh
@@ -1152,6 +1192,7 @@ sdns://AQcAAAAAAAAAFFsyYTAxOjllMDE6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTc
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in Switzerland.
 
 sdns://AgcAAAAAAAAAD1syYTAxOjllMDE6OjU0XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQBLw
+sdns://AgcAAAAAAAAAD1syYTAxOjllMDE6OjU1XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQBLw
 
 
 ## faelix-uk-ipv4
@@ -1159,6 +1200,7 @@ sdns://AgcAAAAAAAAAD1syYTAxOjllMDE6OjU0XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in the UK.
 
 sdns://AQcAAAAAAAAAEjQ2LjIyNy4yMDAuNTQ6ODQ0MyB-y-8-LwGAMo1g4OHR7CPk6HfY6gmhk3AaBNazwL6L4R8yLmRuc2NyeXB0LWNlcnQucmRucy5mYWVsaXgubmV0
+sdns://AQcAAAAAAAAAEjQ2LjIyNy4yMDAuNTU6ODQ0MyB-y-8-LwGAMo1g4OHR7CPk6HfY6gmhk3AaBNazwL6L4R8yLmRuc2NyeXB0LWNlcnQucmRucy5mYWVsaXgubmV0
 
 
 ## faelix-uk-ipv4-doh
@@ -1166,6 +1208,7 @@ sdns://AQcAAAAAAAAAEjQ2LjIyNy4yMDAuNTQ6ODQ0MyB-y-8-LwGAMo1g4OHR7CPk6HfY6gmhk3AaB
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in the UK.
 
 sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
+sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgPcmRucy5mYWVsaXgubmV0AS8
 
 
 ## faelix-uk-ipv6
@@ -1173,6 +1216,7 @@ sdns://AgcAAAAAAAAADTQ2LjIyNy4yMDAuNTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in the UK.
 
 sdns://AQcAAAAAAAAAFFsyYTAxOjllMDA6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
+sdns://AQcAAAAAAAAAFFsyYTAxOjllMDA6OjU1XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
 
 
 ## faelix-uk-ipv6-doh
@@ -1180,6 +1224,7 @@ sdns://AQcAAAAAAAAAFFsyYTAxOjllMDA6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTc
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in the UK.
 
 sdns://AgcAAAAAAAAAD1syYTAxOjllMDA6OjU0XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQBLw
+sdns://AgcAAAAAAAAAD1syYTAxOjllMDA6OjU1XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9yZG5zLmZhZWxpeC5uZXQBLw
 
 
 ## ffmuc.net

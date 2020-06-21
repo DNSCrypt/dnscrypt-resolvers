@@ -5,6 +5,12 @@ import os
 import subprocess
 from glob import glob
 
+INCOMPATIBLE_WITH_LEGACY_VERSIONS = [
+    "cira-family", "cira-private", "cira-protected"
+]
+CURRENT_DIR = "v3"
+LEGACY_DIR = "v2"
+
 
 class Entry:
     name = None
@@ -49,12 +55,35 @@ class Entry:
 
         return out
 
+    def format_legacy(self):
+        out = "## " + self.name + "\n\n"
+        out = out + self.description + "\n\n"
+        out = out + self.stamps[0] + "\n"
+
+        return out
+
 
 def process(md_path, signatures_to_update):
+    md_legacy_path = LEGACY_DIR + "/" + os.path.basename(md_path)
     print("\n[" + md_path + "]")
     entries = {}
-    out = ""
     previous_content = ""
+    out = ""
+    out_legacy = """
+# *** THIS IS A LEGACY LIST ***
+
+This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+
+If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
+of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
+and are present in the `[sources]` section).
+
+THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
+
+If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
+
+--
+"""
 
     with open(md_path) as f:
         previous_content = f.read()
@@ -74,6 +103,8 @@ def process(md_path, signatures_to_update):
     for name in sorted(entries.keys()):
         entry = entries[name]
         out = out + "\n" + entry.format() + "\n"
+        if not name in INCOMPATIBLE_WITH_LEGACY_VERSIONS:
+            out_legacy = out_legacy + "\n" + entry.format_legacy() + "\n"
 
     if out == previous_content:
         print("No changes")
@@ -83,10 +114,20 @@ def process(md_path, signatures_to_update):
         os.rename(md_path + ".tmp", md_path)
         signatures_to_update.append(md_path)
 
+    with open(md_legacy_path) as f:
+        previous_content = f.read()
+    if out_legacy == previous_content:
+        print("No changes to the legacy version")
+    else:
+        with open(md_legacy_path + ".tmp", "wt") as f:
+            f.write(out_legacy)
+            os.rename(md_legacy_path + ".tmp", md_legacy_path)
+            signatures_to_update.append(md_legacy_path)
+
 
 signatures_to_update = []
 
-for md_path in glob("v2/*.md"):
+for md_path in glob(CURRENT_DIR + "/*.md"):
     process(md_path, signatures_to_update)
 
 if signatures_to_update:
