@@ -27,6 +27,13 @@ Adguard DNS with safesearch and adult content blocking
 sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
 
 
+## cira-family
+
+CIRA DoH resolvers, blocking trackers, malware, phishing and pornography.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+
 ## cisco-familyshield
 
 Block websites not suitable for children (DNSCrypt protocol)
