@@ -106,9 +106,17 @@ sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 
 ## cloudflare-family
 
-Cloudflare DNS (anycast) with malware protection and parental control
+Cloudflare DNS (anycast) with malware protection and parental control - aka 1.1.1.3 / 1.0.0.3
 
 sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## cloudflare-family-ipv6
+
+Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
+
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily
