@@ -1466,16 +1466,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAADjIwOS4yNTAuMjQxLjI1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4Emphcmphci5tZWdhbmVyZC5ubAQvZG9o
 
 
-## meganerd-doh-ipv6
-
-Public DoH server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam, The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAAJTJhMDU6ZjQ4MDoxNDAwOjQzNjo1NDAwOjJmZjpmZWI4OjhkMWMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSamFyamFyLm1lZ2FuZXJkLm5sBC9kb2g
-
-
 ## meganerd-ipv6
 
 Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
