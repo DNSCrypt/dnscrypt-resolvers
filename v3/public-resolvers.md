@@ -383,18 +383,19 @@ Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
 sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
 
 
-## cloudflare-security
-
-Cloudflare DNS (anycast) with malware blocking - aka 1.1.1.2 / 1.0.0.2
-
-sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
 ## cloudflare-family
 
 Cloudflare DNS (anycast) with malware protection and parental control - aka 1.1.1.3 / 1.0.0.3
 
 sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## cloudflare-family-ipv6
+
+Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
+
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## cloudflare-ipv6
@@ -405,20 +406,19 @@ sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0AIDFkb3QxZG90MWRvdDEuY2xvdWRmb
 sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMV0AIDFkb3QxZG90MWRvdDEuY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
+## cloudflare-security
+
+Cloudflare DNS (anycast) with malware blocking - aka 1.1.1.2 / 1.0.0.2
+
+sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
 ## cloudflare-security-ipv6
 
 Cloudflare DNS over IPv6 (anycast) with malware blocking
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
-## cloudflare-family-ipv6
-
-Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
-
-sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## commons-host
@@ -1456,16 +1456,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAEjIwOS4yNTAuMjQxLjI1OjQ0MyD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
-## meganerd-ipv6
-
-Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam, The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
-
-
 ## meganerd-doh-ipv4
 
 Public DoH server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
@@ -1484,6 +1474,16 @@ Hosted in Amsterdam, The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAAJTJhMDU6ZjQ4MDoxNDAwOjQzNjo1NDAwOjJmZjpmZWI4OjhkMWMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSamFyamFyLm1lZ2FuZXJkLm5sBC9kb2g
+
+
+## meganerd-ipv6
+
+Public DNSCrypt server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam, The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
 
 
 ## nextdns
