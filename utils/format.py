@@ -10,6 +10,7 @@ INCOMPATIBLE_WITH_LEGACY_VERSIONS = [
 ]
 CURRENT_DIR = "v3"
 LEGACY_DIR = "v2"
+MINISIGN_PK = "RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3"
 
 
 class Entry:
@@ -112,6 +113,11 @@ If you want to contribute changes to a resolvers list, only edit files from the 
         with open(md_path + ".tmp", "wt") as f:
             f.write(out)
         os.rename(md_path + ".tmp", md_path)
+
+    try:
+        subprocess.run(["minisign", "-V", "-P", MINISIGN_PK,
+                        "-m", md_path], check=True)
+    except subprocess.CalledProcessError:
         signatures_to_update.append(md_path)
 
     with open(md_legacy_path) as f:
