@@ -567,6 +567,16 @@ https://www.nic.cz/odvr/
 sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtvZHZyLm5pYy5jegQvZG9o
 
 
+## cz.nic-ipv6
+
+CZ.NIC's open DNSSEC validating resolvers in Prague, Czech Republic (IPv6 only).
+CZ.NIC resolvers neither collect any personal data nor gather
+information on pages where your computer sends personal data.
+https://www.nic.cz/odvr/
+
+sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZTo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgLb2R2ci5uaWMuY3oEL2RvaA
+
+
 ## d0wn-is-ns2
 
 Server provided by Martin 'd0wn' Albus
