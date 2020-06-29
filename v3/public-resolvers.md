@@ -184,6 +184,24 @@ Forward DNS to anoymized DNS servers.
 sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABZkbnNubC5hbGVrYmVyZy5uZXQ6NDQzCi9kbnMtcXVlcnk
 
 
+## arapurayil-dnscrypt
+
+Hosted in Mumbai, India (https://www.dns.arapurayil.com)
+Non-logging | Filtering | DNSSEC | QNAME Minimization | No EDNS Client-Subnet
+Blocks ads, trackers, resource-abusers, malware, and phishing.
+
+sdns://AQMAAAAAAAAAEDMuNy4xNTYuMTI4Ojg0NDMgDXD9OSDJDwe2q9bi836PURTP14NLYS03RbDq6j891ZciMi5kbnNjcnlwdC1jZXJ0LmRucy5hcmFwdXJheWlsLmNvbQ
+
+
+## arapurayil-doh
+
+Hosted in Mumbai, India (https://www.dns.arapurayil.com)
+Non-logging | Filtering | DNSSEC | QNAME Minimization | No EDNS Client-Subnet
+Blocks ads, trackers, resource-abusers, malware, and phishing.
+
+sdns://AgMAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
+
+
 ## arvind-io
 
 Public resolver by EnKrypt (https://arvind.io).
