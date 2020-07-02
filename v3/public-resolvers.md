@@ -16,7 +16,7 @@ To use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
 
     [sources.'public-resolvers']
-    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v2/public-resolvers.md', 'https://download.dnscrypt.info/resolvers-list/v2/public-resolvers.md']
+    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md', 'https://download.dnscrypt.info/resolvers-list/v3/public-resolvers.md']
     minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
     cache_file = 'public-resolvers.md'
 
@@ -171,7 +171,7 @@ sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kb
 ## ams-dnscrypt-nl
 
 Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
-Forward DNS to anoymized DNS servers.
+Forward DNS to anonymized DNS servers.
 
 sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
@@ -179,7 +179,7 @@ sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRg
 ## ams-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
-Forward DNS to anoymized DNS servers.
+Forward DNS to anonymized DNS servers.
 
 sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABZkbnNubC5hbGVrYmVyZy5uZXQ6NDQzCi9kbnMtcXVlcnk
 
@@ -226,6 +226,20 @@ DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malw
 Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 
 sdns://AgMAAAAAAAAADjk0LjEzMC4yMjQuMTE0ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+
+
+## bcn-dnscrypt
+
+Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC. Anonymized.
+
+sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
+
+
+## bcn-doh
+
+Resolver in Barcelona, Spain. DoH protocol. Non-logging, non-filtering, DNSSEC. Anonymized.
+
+sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABZkbnNubC5hbGVrYmVyZy5uZXQ6NDQzCi9kbnMtcXVlcnk
 
 
 ## brahma-world-ipv6
@@ -1864,14 +1878,14 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 
 ## sth-dnscrypt-se
 
-Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC. Forward DNS to anoymized DNS servers
+Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC. Forward DNS to anonymized DNS servers
 
 sdns://AQcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzILwTiPV2Pj3sdfHJD8kVv7aK6t_rHEX2mFGAY5xg5_FiHzIuZG5zY3J5cHQtY2VydC5zdGgtZG5zY3J5cHQtc2U
 
 
 ## sth-doh-se
 
-Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC. Forward DNS to anoymized DNS servers
+Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC. Forward DNS to anonymized DNS servers
 
 sdns://AgcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzABZkbnNzZS5hbGVrYmVyZy5uZXQ6NDQzBC9kbnM
 
