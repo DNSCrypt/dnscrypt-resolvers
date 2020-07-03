@@ -34,6 +34,13 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRE1MS4xNS4xMjQuMjA4OjQ0Mw
 
 
+## anon-bcn
+
+Anonymized DNS relay hosted in Barcelona, Spain.
+
+sdns://gRMxODUuMjUzLjE1NC42Njo0MzQz
+
+
 ## anon-cs-ca2
 
 Anonymized DNS relay hosted in CA - Vancouver provided by https://cryptostorm.is/
