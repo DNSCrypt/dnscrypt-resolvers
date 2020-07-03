@@ -1605,116 +1605,60 @@ https://101.101.101.101/index_en.html
 sdns://AgcAAAAAAAAAACAoPxWWFWiOuUdTdn7SvYpzbNqr_iDmmJrktihy4wca5gxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
 
 
-## quad9-dnscrypt-ip4-filter-alt
+## quad9-dnscrypt-ip4-filter
 
-Quad9 (anycast) dnssec/no-log/filter 149.112.112.9
-
-sdns://AQMAAAAAAAAAEjE0OS4xMTIuMTEyLjk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
-
-
-## quad9-dnscrypt-ip4-filter-pri
-
-Quad9 (anycast) dnssec/no-log/filter 9.9.9.9
+Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 / 149.112.112.9
 
 sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
 
-## quad9-dnscrypt-ip4-nofilter-alt
+## quad9-dnscrypt-ip4-nofilter
 
-Quad9 (anycast) no-dnssec/no-log/no-filter 149.112.112.10
-
-sdns://AQYAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
-
-
-## quad9-dnscrypt-ip4-nofilter-pri
-
-Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10
+Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10 / 149.112.112.10
 
 sdns://AQYAAAAAAAAADTkuOS45LjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
 
 
-## quad9-dnscrypt-ip6-filter-alt
+## quad9-dnscrypt-ip6-filter
 
-Quad9 (anycast) dnssec/no-log/filter 2620:fe::9
+Quad9 (anycast) dnssec/no-log/filter 2620:fe::9 / 2620:fe::fe:9
 
 sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
 
 
-## quad9-dnscrypt-ip6-filter-pri
+## quad9-dnscrypt-ip6-nofilter
 
-Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9
-
-sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
-
-
-## quad9-dnscrypt-ip6-nofilter-alt
-
-Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::fe:10
-
-sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
-
-
-## quad9-dnscrypt-ip6-nofilter-pri
-
-Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10
+Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
 sdns://AQYAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
 
-## quad9-doh-ip4-filter-alt
+## quad9-doh-ip4-filter
 
-Quad9 (anycast) dnssec/no-log/filter 149.112.112.9
+Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 / 149.112.112.9
 
-sdns://AgMAAAAAAAAADTE0OS4xMTIuMTEyLjmAABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
-
-
-## quad9-doh-ip4-filter-pri
-
-Quad9 (anycast) dnssec/no-log/filter 9.9.9.9
-
-sdns://AgMAAAAAAAAABzkuOS45LjmAABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAABzkuOS45LjkAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
-## quad9-doh-ip4-nofilter-alt
+## quad9-doh-ip4-nofilter
 
-Quad9 (anycast) no-dnssec/no-log/no-filter 149.112.112.10
+Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10 / 149.112.112.10
 
-sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEwgAASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
-
-
-## quad9-doh-ip4-nofilter-pri
-
-Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10
-
-sdns://AgYAAAAAAAAACDkuOS45LjEwgAASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
+sdns://AgYAAAAAAAAACDkuOS45LjEwAA9kbnMxMC5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
 
 
-## quad9-doh-ip6-filter-alt
+## quad9-doh-ip6-filter
 
-Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9
+Quad9 (anycast) dnssec/no-log/filter 2620:fe::9 / 2620:fe::fe:9
 
-sdns://AgMAAAAAAAAAD1syNjIwOmZlOjpmZTo5XYAAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-
-
-## quad9-doh-ip6-filter-pri
-
-Quad9 (anycast) dnssec/no-log/filter 2620:fe::9
-
-sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XYAAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XQAOZG5zOS5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
 
 
-## quad9-doh-ip6-nofilter-alt
+## quad9-doh-ip6-nofilter
 
-Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::fe:10
+Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
-sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF2AABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
-
-
-## quad9-doh-ip6-nofilter-pri
-
-Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10
-
-sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF2AABJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AD2RuczEwLnF1YWQ5Lm5ldAovZG5zLXF1ZXJ5
 
 
 ## qualityology.com
