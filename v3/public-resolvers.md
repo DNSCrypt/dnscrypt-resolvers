@@ -1885,3 +1885,19 @@ Yandex public DNS server (anycast)
 
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
+
+## yofiji-se-ipv4
+
+Uncensored, DNSSEC, no logging DNSCrypt server (IPv4) hosted in Sweden
+Maintained by yofiji
+
+sdns://AQcAAAAAAAAAEzE4NS4xOTMuMTI3LjI0NDo0NDMgsaZZTbc7aLZjQQ6dtvkke4mmYRS49ry5rk1sdSV-1dYZMi5kbnNjcnlwdC1jZXJ0LnlvZmlqaS1zZQ
+
+
+## yofiji-se-ipv6
+
+Uncensored, DNSSEC, no logging DNSCrypt server (IPv6) hosted in Sweden
+Maintained by yofiji
+
+sdns://AQcAAAAAAAAAKVsyYTBhOjM4NDA6MTMzNzoxMjc6MDpiOWMxOjdmZjQ6MTMzN106NDQzILGmWU23O2i2Y0EOnbb5JHuJpmEUuPa8ua5NbHUlftXWGTIuZG5zY3J5cHQtY2VydC55b2Zpamktc2U
+
