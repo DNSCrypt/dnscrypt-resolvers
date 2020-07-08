@@ -1582,13 +1582,6 @@ Second public DNS server in Canada operated by Luggs
 sdns://AQYAAAAAAAAAEDE0Mi40LjIwNS40Nzo0NDMgvL-34FDBPaJCLACwsaya1kjFwmS8thcLiD1xishuugkfMi5kbnNjcnlwdC1jZXJ0Lm5zNC5jYS5sdWdncy5jbw
 
 
-## opennic-luggs2-ipv6
-
-Second public DNS server in Canada operated by Luggs (IPv6)
-
-sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
-
-
 ## opennic-rico4514
 
 OpenNIC • Non-logging • No DNSSEC
