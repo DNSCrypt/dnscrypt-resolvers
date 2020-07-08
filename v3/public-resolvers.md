@@ -168,22 +168,6 @@ Homepage: https://alidns.com/
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## ams-dnscrypt-nl
-
-Resolver in Amsterdam. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
-Forward DNS to anonymized DNS servers.
-
-sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
-
-
-## ams-doh-nl
-
-Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
-Forward DNS to anonymized DNS servers.
-
-sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABZkbnNubC5hbGVrYmVyZy5uZXQ6NDQzCi9kbnMtcXVlcnk
-
-
 ## arapurayil-dnscrypt
 
 Hosted in Mumbai, India (https://www.dns.arapurayil.com)
