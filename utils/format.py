@@ -114,12 +114,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
             f.write(out)
         os.rename(md_path + ".tmp", md_path)
 
-    try:
-        subprocess.run(["minisign", "-V", "-P", MINISIGN_PK,
-                        "-m", md_path], check=True)
-    except subprocess.CalledProcessError:
-        signatures_to_update.append(md_path)
-
     with open(md_legacy_path) as f:
         previous_content = f.read()
     if out_legacy == previous_content:
@@ -128,7 +122,13 @@ If you want to contribute changes to a resolvers list, only edit files from the 
         with open(md_legacy_path + ".tmp", "wt") as f:
             f.write(out_legacy)
             os.rename(md_legacy_path + ".tmp", md_legacy_path)
-            signatures_to_update.append(md_legacy_path)
+
+    for path in [md_path, md_legacy_path]:
+        try:
+            subprocess.run(["minisign", "-V", "-P", MINISIGN_PK,
+                            "-m", path], check=True)
+        except subprocess.CalledProcessError:
+            signatures_to_update.append(path)
 
 
 signatures_to_update = []
