@@ -168,6 +168,20 @@ Homepage: https://alidns.com/
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
+## ams-doh-nl
+
+Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MwAXZG5zbmwuYWxla2JlcmcubmV0OjQzNDMKL2Rucy1xdWVyeQ
+
+
+## ams-dnscrypt-nl
+
+Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
+
+
 ## arapurayil-dnscrypt
 
 Hosted in Mumbai, India (https://www.dns.arapurayil.com)
@@ -205,16 +219,16 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 ## bcn-dnscrypt
 
-Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC. Anonymized.
+Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMg_IlDWhFp1tL1VycXVO3QTEiQIKG_1OwG4tNTAD-nLj0cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
 
 
 ## bcn-doh
 
-Resolver in Barcelona, Spain. DoH protocol. Non-logging, non-filtering, DNSSEC. Anonymized.
+Resolver in Barcelona, Spain. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAEjE4NS4yNTMuMTU0LjY2OjQ0MwAWZG5zZXMuYWxla2JlcmcubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMAF2Ruc2VzLmFsZWtiZXJnLm5ldDo0MzQzCi9kbnMtcXVlcnk
 
 
 ## brahma-world
@@ -1807,16 +1821,17 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdU
 
 ## sth-dnscrypt-se
 
-Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC. Forward DNS to anonymized DNS servers
+Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzILwTiPV2Pj3sdfHJD8kVv7aK6t_rHEX2mFGAY5xg5_FiHzIuZG5zY3J5cHQtY2VydC5zdGgtZG5zY3J5cHQtc2U
+sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
 
 
 ## sth-doh-se
 
-Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC. Forward DNS to anonymized DNS servers
+Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzABZkbnNzZS5hbGVrYmVyZy5uZXQ6NDQzBC9kbnM
+sdns://AgcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MwAXZG5zc2UuYWxla2JlcmcubmV0OjQzNDMKL2Rucy1xdWVyeQ
+
 
 
 ## t53
