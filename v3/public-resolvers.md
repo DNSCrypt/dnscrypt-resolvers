@@ -168,18 +168,18 @@ Homepage: https://alidns.com/
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## ams-doh-nl
-
-Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AgcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MwAXZG5zbmwuYWxla2JlcmcubmV0OjQzNDMKL2Rucy1xdWVyeQ
-
-
 ## ams-dnscrypt-nl
 
 Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
+
+
+## ams-doh-nl
+
+Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MwAXZG5zbmwuYWxla2JlcmcubmV0OjQzNDMKL2Rucy1xdWVyeQ
 
 
 ## arapurayil-dnscrypt
@@ -1831,7 +1831,6 @@ sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRg
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MwAXZG5zc2UuYWxla2JlcmcubmV0OjQzNDMKL2Rucy1xdWVyeQ
-
 
 
 ## t53
