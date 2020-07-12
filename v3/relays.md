@@ -273,7 +273,7 @@ sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
 
 Anonymized DNS relay hosted in Sweden - SE
 
-sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
+sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 
 ## anon-tiarap
