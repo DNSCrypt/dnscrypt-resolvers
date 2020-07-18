@@ -221,6 +221,24 @@ Resolver in Barcelona, Spain. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMAF2Ruc2VzLmFsZWtiZXJnLm5ldDo0MzQzCi9kbnMtcXVlcnk
 
 
+## bortzmeyer
+
+Non-logging DoH server in France operated by Stéphane Bortzmeyer.
+
+https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
+
+sdns://AgcAAAAAAAAADDE5My43MC44NS4xMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFkb2guYm9ydHptZXllci5mcgEv
+
+
+## bortzmeyer-ipv6
+
+Non-logging DoH server in France operated by Stéphane Bortzmeyer.
+
+https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
+
+sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLmJvcnR6bWV5ZXIuZnIBLw
+
+
 ## brahma-world
 
 DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
