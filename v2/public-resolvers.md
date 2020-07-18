@@ -232,7 +232,7 @@ sdns://AgcAAAAAAAAADDE5My43MC44NS4xMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24O
 
 ## bortzmeyer-ipv6
 
-Non-logging DoH server in France operated by Stéphane Bortzmeyer.
+Non-logging DoH server in France operated by Stéphane Bortzmeyer (IPv6 only).
 
 https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 
@@ -441,6 +441,22 @@ sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAxjb21tb25zLmhvc
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
 
 sdns://AQUAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
+
+
+## comss.one
+
+DNS server in Lithuania filtering phishing and ads.
+https://www.comss.ru/page.php?id=7315
+
+sdns://AQMAAAAAAAAAETk0LjE3Ni4yMzMuOTM6NDQzIBVpyAOGbSSr5yLPYOsmU-FiMj2_q0BAdu6WiMTPzpMTHTIuZG5zY3J5cHQtY2VydC5kbnMuY29tc3Mub25l
+
+
+## comss.one-ipv6
+
+DNS server in Lithuania filtering phishing and ads (IPv6 only).
+https://www.comss.ru/page.php?id=7315
+
+sdns://AQMAAAAAAAAAETk0LjE3Ni4yMzMuOTM6NDQzIBVpyAOGbSSr5yLPYOsmU-FiMj2_q0BAdu6WiMTPzpMTHTIuZG5zY3J5cHQtY2VydC5kbnMuY29tc3Mub25l
 
 
 ## containerpi
