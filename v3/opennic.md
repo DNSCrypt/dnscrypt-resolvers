@@ -55,6 +55,44 @@ Maintained by R4SAS.
 sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyCp1jI6TyWACSYZdRUCziMeH3bZ3ndsh8a7sooO_9sOTiAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
 
 
+## opennic-fische
+
+OpenNIC • Non-logging • DNSSEC
+Location: Nurnberg, Germany
+
+Supports DNS over DTLS & TLS on port 853
+
+sdns://AQcAAAAAAAAAEjYyLjIxMC4xODAuNzE6MTA1MyBxLWt8kNHoMqM7vKXCkuZ3PnB32c0qV2I3KGQYtlDKSB8yLmRuc2NyeXB0LWNlcnQubnMyLmlyaXNlZGVuLmZy
+
+
+## opennic-fische-ipv6
+
+OpenNIC • Non-logging • DNSSEC
+Location: Nurnberg, Germany
+
+Supports DNS over DTLS & TLS on port 853
+
+sdns://AQcAAAAAAAAAEzYyLjIxMC4xNzcuMTg5OjEwNTMgW8vytBGk6u3kvCpl4q88XjqW-w6JJiJ7QBObcFV7gYAfMi5kbnNjcnlwdC1jZXJ0Lm5zMS5pcmlzZWRlbi5mcg
+
+
+## opennic-iriseden
+
+OpenNIC • Non-logging • DNSSEC
+Location: Paris, France
+Maintained by iriseden.
+
+sdns://AQcAAAAAAAAAHVsyMDAxOmJjODozMmQ3OjMwODo6MjAxXToxMDUzIEUAcwKTPY6tyEQxtfO3rIzEyqN9w7WGPLz7ZsHsx5EGHzIuZG5zY3J5cHQtY2VydC5uczEuaXJpc2VkZW4uZnI
+
+
+## opennic-iriseden-ipv6
+
+OpenNIC • Non-logging • DNSSEC
+Location: Paris, France
+Maintained by iriseden.
+
+sdns://AQcAAAAAAAAAHVsyMDAxOmJjODozMmQ3OjMwNzo6MzAxXToxMDUzIJjeEela3WTzMuuZTskr7aOchIg2llSDNRsHfcggITn6HzIuZG5zY3J5cHQtY2VydC5uczIuaXJpc2VkZW4uZnI
+
+
 ## opennic-bongobow
 
 OpenNIC • Non-logging • No DNSSEC
