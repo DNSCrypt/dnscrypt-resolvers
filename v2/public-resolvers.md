@@ -915,6 +915,15 @@ https://www.dnslify.com/
 sdns://AgcAAAAAAAAADDE4NS4yMzUuODEuMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA9kb2guZG5zbGlmeS5jb20KL2Rucy1xdWVyeQ
 
 
+## dnspod-doh
+
+A public DNS resolver in mainland China provided by DNSPod (Tencent Cloud).
+
+https://www.dnspod.cn/Products/Public.DNS?lang=en
+
+sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kbnMtcXVlcnk
+
+
 ## doh-centraleu-pi-dns
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
