@@ -1559,8 +1559,6 @@ sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQn
 OpenNIC • Non-logging • DNSSEC
 Location: Nurnberg, Germany
 
-Supports DNS over DTLS & TLS on port 853
-
 sdns://AQcAAAAAAAAAEjYyLjIxMC4xODAuNzE6MTA1MyBxLWt8kNHoMqM7vKXCkuZ3PnB32c0qV2I3KGQYtlDKSB8yLmRuc2NyeXB0LWNlcnQubnMyLmlyaXNlZGVuLmZy
 
 
@@ -1569,9 +1567,7 @@ sdns://AQcAAAAAAAAAEjYyLjIxMC4xODAuNzE6MTA1MyBxLWt8kNHoMqM7vKXCkuZ3PnB32c0qV2I3K
 OpenNIC • Non-logging • DNSSEC
 Location: Nurnberg, Germany
 
-Supports DNS over DTLS & TLS on port 853
-
-sdns://AQcAAAAAAAAAEzYyLjIxMC4xNzcuMTg5OjEwNTMgW8vytBGk6u3kvCpl4q88XjqW-w6JJiJ7QBObcFV7gYAfMi5kbnNjcnlwdC1jZXJ0Lm5zMS5pcmlzZWRlbi5mcg
+sdns://AQcAAAAAAAAAHFsyYTAxOjRmODoxYzBjOjgwYzk6OjFdOjEwNTMgcmZXgMxIKLKAtkLUX7t6Lhw7j4-PIqXir5hMytnM-W8dMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
 
 
 ## opennic-iriseden
