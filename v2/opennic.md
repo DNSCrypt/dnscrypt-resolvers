@@ -104,13 +104,6 @@ Public DNS server in Canada operated by Luggs
 sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
 
 
-## opennic-luggs-ipv6
-
-Public DNS server in Canada operated by Luggs (IPv6)
-
-sdns://AQYAAAAAAAAAIVsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDQ6MTExXSAcGXkzG-gjzM8ImnkGk35cNBAqVqx_YnDgRiWy7dsE4x8yLmRuc2NyeXB0LWNlcnQubnMzLmNhLmx1Z2dzLmNv
-
-
 ## opennic-luggs2
 
 Second public DNS server in Canada operated by Luggs
