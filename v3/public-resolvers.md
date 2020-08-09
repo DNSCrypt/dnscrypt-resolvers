@@ -455,14 +455,6 @@ https://www.comss.ru/page.php?id=7315
 sdns://AQMAAAAAAAAAETk0LjE3Ni4yMzMuOTM6NDQzIBVpyAOGbSSr5yLPYOsmU-FiMj2_q0BAdu6WiMTPzpMTHTIuZG5zY3J5cHQtY2VydC5kbnMuY29tc3Mub25l
 
 
-## comss.one-ipv6
-
-DNS server in Lithuania filtering phishing and ads (IPv6 only).
-https://www.comss.ru/page.php?id=7315
-
-sdns://AQMAAAAAAAAAHFsyYTAyOjdiNDA6NWViMDplOTVkOjoxXTo0NDMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_OkxMdMi5kbnNjcnlwdC1jZXJ0LmRucy5jb21zcy5vbmU
-
-
 ## containerpi
 
 Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
