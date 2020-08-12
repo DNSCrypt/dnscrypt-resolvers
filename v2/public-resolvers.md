@@ -205,20 +205,20 @@ sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0gPhoaD2xT8-l6SS1XCEtbmAcFn
 
 ## brahma-world
 
-DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
+DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
 
-Hosted in Nuremberg, Germany. (https://dns.brahma.world)
+Hosted in Frankfurt, Germany. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAADjk0LjEzMC4yMjQuMTE0ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADTk0LjIzNy44MC4yMTEgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
 
 
 ## brahma-world-ipv6
 
-DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware.
+DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
 
-Hosted in Nuremberg, Germany. (https://dns.brahma.world)
+Hosted in Frankfurt, Germany. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6OTI1NTo6MV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAKFsyYTA0OjM1NDI6MTAwMDo5MTA6MzA1Yzo3NGZmOmZlMjk6N2MyNl0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
 
 
 ## captnemo-in
