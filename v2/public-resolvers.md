@@ -611,6 +611,14 @@ Contributed by: https://decloudus.com
 sdns://AQMAAAAAAAAAG1syYTAxOjRmODoxNTE6MTFiMDo6M106ODQ0MyD73Ye9XeCsS7TdFu9fRP7s5k-0aL91yygulGVmeOAKLh4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q
 
 
+## deffer-dns.au
+
+DNSSEC/Non-logged/Uncensored in Sydney (AWS).
+Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
+
+sdns://AQcAAAAAAAAAETUyLjY1LjIzNS4xMjk6NDQzIOUNNEQwwZMMd31GmtP3rY8-Ih95SwTqrIPeW2A5ldOzHTIuZG5zY3J5cHQtY2VydC5kZWZmZXItZG5zLmF1
+
+
 ## dns.digitale-gesellschaft.ch
 
 Public DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
