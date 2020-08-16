@@ -658,6 +658,12 @@ Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
 
 sdns://AQcAAAAAAAAAETUyLjY1LjIzNS4xMjk6NDQzIOUNNEQwwZMMd31GmtP3rY8-Ih95SwTqrIPeW2A5ldOzHTIuZG5zY3J5cHQtY2VydC5kZWZmZXItZG5zLmF1
 
+## dnscrypt.be
+
+Resolver in Leuven, Belgium (UCLL Campus Proximus). Non-logging/DNSSEC/Uncensored. https://dnscrypt.be
+Maintained by Sigfried (https://sigfried.be) hosted by ISW Leuven (https://iswleuven.be).
+
+sdns://AQcAAAAAAAAAEzE5My4xOTEuMTg3LjEwNzo0NDMgM1plzk_yPJNgSic8SCf4mKF0UEVnEdENRRcqyVrb6IMbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmJl
 
 ## dns.digitale-gesellschaft.ch
 
