@@ -658,12 +658,6 @@ Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
 
 sdns://AQcAAAAAAAAAETUyLjY1LjIzNS4xMjk6NDQzIOUNNEQwwZMMd31GmtP3rY8-Ih95SwTqrIPeW2A5ldOzHTIuZG5zY3J5cHQtY2VydC5kZWZmZXItZG5zLmF1
 
-## dnscrypt.be
-
-Resolver in Leuven, Belgium (UCLL Campus Proximus). Non-logging/DNSSEC/Uncensored. https://dnscrypt.be
-Maintained by Sigfried (https://sigfried.be) hosted by ISW Leuven (https://iswleuven.be).
-
-sdns://AQcAAAAAAAAAEzE5My4xOTEuMTg3LjEwNzo0NDMgM1plzk_yPJNgSic8SCf4mKF0UEVnEdENRRcqyVrb6IMbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmJl
 
 ## dns.digitale-gesellschaft.ch
 
@@ -769,6 +763,14 @@ sdns://AQMAAAAAAAAAEzEzOS4xODAuMTQxLjU3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVc
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
 sdns://AQMAAAAAAAAALVsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV06ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVylJU9A061xxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+
+
+## dnscrypt.be
+
+Resolver in Leuven, Belgium (UCLL Campus Proximus). Non-logging/DNSSEC/Uncensored. https://dnscrypt.be
+Maintained by Sigfried (https://sigfried.be) hosted by ISW Leuven (https://iswleuven.be).
+
+sdns://AQcAAAAAAAAAEzE5My4xOTEuMTg3LjEwNzo0NDMgM1plzk_yPJNgSic8SCf4mKF0UEVnEdENRRcqyVrb6IMbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmJl
 
 
 ## dnscrypt.ca-1

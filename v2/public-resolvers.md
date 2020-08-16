@@ -725,6 +725,14 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blah
 sdns://AQMAAAAAAAAALVsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV06ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVylJU9A061xxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 
+## dnscrypt.be
+
+Resolver in Leuven, Belgium (UCLL Campus Proximus). Non-logging/DNSSEC/Uncensored. https://dnscrypt.be
+Maintained by Sigfried (https://sigfried.be) hosted by ISW Leuven (https://iswleuven.be).
+
+sdns://AQcAAAAAAAAAEzE5My4xOTEuMTg3LjEwNzo0NDMgM1plzk_yPJNgSic8SCf4mKF0UEVnEdENRRcqyVrb6IMbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmJl
+
+
 ## dnscrypt.ca-1
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
