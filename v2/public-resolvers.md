@@ -821,6 +821,13 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
+## dnscrypt.one
+
+Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted in Germany (Nuremberg)
+
+sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBdoGNCA_IFO3Mx7f02CSF8RLhU8bAqxq52ha2jxuDc3xwyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25l
+
+
 ## dnscrypt.uk-ipv4
 
 DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
