@@ -143,7 +143,7 @@ sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRg
 
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAETUxLjE1LjEyNC4yMDg6NDQzABZkbnNubC5hbGVrYmVyZy5uZXQ6NDQzCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTUxLjE1LjEyNC4yMDggPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSZG5zbmwuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
 ## arapurayil-dnscrypt
@@ -192,7 +192,7 @@ sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMg_IlDWhFp1tL1VycXVO3QTEiQIKG_1OwG4
 
 Resolver in Barcelona, Spain. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAEjE4NS4yNTMuMTU0LjY2OjQ0MwAWZG5zZXMuYWxla2JlcmcubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRuc2VzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## bortzmeyer
@@ -1872,7 +1872,7 @@ sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRg
 
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAETQ1LjE1My4xODcuOTY6NDQzABZkbnNzZS5hbGVrYmVyZy5uZXQ6NDQzCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTYgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
 ## t53
