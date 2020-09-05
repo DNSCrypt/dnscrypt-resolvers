@@ -1169,7 +1169,7 @@ sdns://AgMAAAAAAAAADDEwNC4yOC4yOC4zNCDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9
 Non-Logging DNS-over-HTTPS server (IPv6), cached via Cloudflare.
 Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 
-sdns://AgMAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0g5XzlLRUQbaTs_Z4R_aX9HR4Ka-ASJBiE02LqHUr0ZPcOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6YWM0MzpiNjZhXSDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9w5kb2gudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
 ## ev-to
@@ -1426,7 +1426,7 @@ sdns://AgcAAAAAAAAADDEwNC4yOC4yOC4zNCDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9
 DNS-over-HTTPS Server (IPv6). Non-Logging, Non-Filtering, No ECS, Support DNSSEC.
 Cached via Cloudflare.
 
-sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzA6OjY4MWM6MWQyMl0g5XzlLRUQbaTs_Z4R_aX9HR4Ka-ASJBiE02LqHUr0ZPcNanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXSDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9w1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk
 
 
 ## lelux.fi
