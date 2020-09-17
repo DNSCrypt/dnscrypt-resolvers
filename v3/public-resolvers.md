@@ -454,7 +454,7 @@ Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled
 Multiple nodes in China Mainland, Japan and Germany.
 Maintained by CPI-tech-Group
 
-sdns://AgMAAAAAAAAADDQ1Ljc3LjE4MC4xMCBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYtxNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDQ1Ljc3LjE4MC4xMCA59q74zeUV4xVJXPXvLw0G1pi3YdoaF4FskwSxGJjS1BNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
 
 
 ## containerpi-ipv6
@@ -463,7 +463,7 @@ Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled
 Multiple nodes in China Mainland, Japan and Germany.
 Maintained by CPI-tech-Group
 
-sdns://AgMAAAAAAAAALVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddOjQ0MyBsA2QQ3lR1Nl9Ygfr8FdBIpL-doxmHECRx3T5NIXYYtxNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAALVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddOjQ0MyA59q74zeUV4xVJXPXvLw0G1pi3YdoaF4FskwSxGJjS1BNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
 
 
 ## cs-ca
