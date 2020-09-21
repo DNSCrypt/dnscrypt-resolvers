@@ -1317,7 +1317,7 @@ sdns://AQcAAAAAAAAAEzIwNS4xODUuMTE2LjExNjo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9a
 
 ## geekdns-doh
 
-GeekDNS for users in China
+GeekDNS for users in China, via Cloudflare
 
 GeekDNS is a non-logging public DNS service located in mainland China.
 Queries are cached locally, and, for some domains, resolved by servers located
@@ -1325,7 +1325,7 @@ in Taiwan.
 
 https://www.nextrt.com/s/dns
 
-sdns://AgcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_AtpLjIzM3B5LmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAAAALaS4yMzNweS5jb20KL2Rucy1xdWVyeQ
 
 
 ## geekdns-doh-ext
