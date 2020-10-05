@@ -699,6 +699,14 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAAE1syYTA1OmZjODQ6OjQzXTo0NDOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDigaKPrAfpfAsTTXzoR0ATK8IsiS-6n15xYjH8TyGEzYC6g70eFrucMnVdf5zODBtk-p5YR5f7c71Ni3WbJi2C7Lb0gHFQ2tlGitUFcFs_ZbRqXCf2cjyfu91z5c9mC_-aOWPAcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
 
+## dns.flatty.co
+
+An open Non-logging, Non-filtering DNSCrypt resolver operated by @cruisemaniac in Bengaluru, IN.
+https://dns.flatty.co
+
+sdns://AQcAAAAAAAAAEjQ5LjIwNS4yMTcuMjEyOjQ0MyB-88D9eF8V-CII5iNAP1yxrAdTwX8SrBbPeU89cgviWh0yLmRuc2NyeXB0LWNlcnQuZG5zLmZsYXR0eS5jbw
+
+
 ## dns.sb
 
 DNSSEC-enabled DoH server by https://xtom.com/
