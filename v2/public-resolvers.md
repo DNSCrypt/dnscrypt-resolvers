@@ -1336,7 +1336,7 @@ sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP
 
 DNS Crypt resolver operated as a hobby by Jitender in Hyderabad, India. It blocks ads/trackers/analytics domains, provides a clean browsin experience
 
-sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIK2hyZO-WlXWOAdO2v8QTj_lliig84bFkIuaUWaUc3QyHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
+sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIAUG5so4Jeb8szQnu7OllyXJPWWUeNufjcwwD-t14o-QHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
 
 ## ibksturm
 
