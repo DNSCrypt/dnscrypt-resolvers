@@ -1396,7 +1396,7 @@ DNSCrypt resolver in Hyderabad, India, Oracle Cloud
 Operated by Jitender (@coolquasar) in Hyderabad, India.
 Blocks ads/trackers/analytics domains and provides a clean browsing experience.
 
-sdns://AQMAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIAUG5so4Jeb8szQnu7OllyXJPWWUeNufjcwwD-t14o-QHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
+sdns://AQMAAAAAAAAADTE1Mi42Ny4xNjUuMjYgBQbmyjgl5vyzNCe7s6WXJck9ZZR425-NzDAP63Xij5AcMi5kbnNjcnlwdC1jZXJ0LmppdC5kZG5zLm5ldA
 
 
 ## jp.tiar.app
