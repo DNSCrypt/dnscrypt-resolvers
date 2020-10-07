@@ -1332,11 +1332,6 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
 
-## DNS Crypt resolver in Hyderabad, India, Oracle Cloud
-
-DNS Crypt resolver operated as a hobby by Jitender in Hyderabad, India. It blocks ads/trackers/analytics domains, provides a clean browsin experience
-
-sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIAUG5so4Jeb8szQnu7OllyXJPWWUeNufjcwwD-t14o-QHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
 
 ## ibksturm
 
@@ -1392,6 +1387,16 @@ DoH server operated by Internet Initiative Japan in Tokyo.
 https://www.iij.ad.jp/
 
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgs2lfGAQCPrV0DPQqOkPci0Jei0GhMK_ne-QHwPbfn4oRcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
+
+
+## jitender
+
+DNSCrypt resolver in Hyderabad, India, Oracle Cloud
+
+Operated by Jitender (@coolquasar) in Hyderabad, India.
+Blocks ads/trackers/analytics domains and provides a clean browsing experience.
+
+sdns://AQMAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIAUG5so4Jeb8szQnu7OllyXJPWWUeNufjcwwD-t14o-QHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
 
 
 ## jp.tiar.app
