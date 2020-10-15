@@ -1621,15 +1621,7 @@ sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQn
 OpenNIC • Non-logging • DNSSEC
 Location: Nurnberg, Germany
 
-sdns://AQcAAAAAAAAAEjYyLjIxMC4xODAuNzE6MTA1MyBxLWt8kNHoMqM7vKXCkuZ3PnB32c0qV2I3KGQYtlDKSB8yLmRuc2NyeXB0LWNlcnQubnMyLmlyaXNlZGVuLmZy
-
-
-## opennic-fische-ipv6
-
-OpenNIC • Non-logging • DNSSEC
-Location: Nurnberg, Germany
-
-sdns://AQcAAAAAAAAAHFsyYTAxOjRmODoxYzBjOjgwYzk6OjFdOjEwNTMgcmZXgMxIKLKAtkLUX7t6Lhw7j4-PIqXir5hMytnM-W8dMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
+sdns://AQcAAAAAAAAAEDc4LjQ3LjI0My4zOjEwNTMgN4CAbUDR-b3uJJMVzfCdL9ivVV7s8wRhifLRPWBfSmQdMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
 
 
 ## opennic-iriseden
@@ -1638,16 +1630,7 @@ OpenNIC • Non-logging • DNSSEC
 Location: Paris, France
 Maintained by iriseden.
 
-sdns://AQcAAAAAAAAAHVsyMDAxOmJjODozMmQ3OjMwODo6MjAxXToxMDUzIEUAcwKTPY6tyEQxtfO3rIzEyqN9w7WGPLz7ZsHsx5EGHzIuZG5zY3J5cHQtY2VydC5uczEuaXJpc2VkZW4uZnI
-
-
-## opennic-iriseden-ipv6
-
-OpenNIC • Non-logging • DNSSEC
-Location: Paris, France
-Maintained by iriseden.
-
-sdns://AQcAAAAAAAAAHVsyMDAxOmJjODozMmQ3OjMwNzo6MzAxXToxMDUzIJjeEela3WTzMuuZTskr7aOchIg2llSDNRsHfcggITn6HzIuZG5zY3J5cHQtY2VydC5uczIuaXJpc2VkZW4uZnI
+sdns://AQcAAAAAAAAAEzYyLjIxMC4xNzcuMTg5OjEwNTMgW8vytBGk6u3kvCpl4q88XjqW-w6JJiJ7QBObcFV7gYAfMi5kbnNjcnlwdC1jZXJ0Lm5zMS5pcmlzZWRlbi5mcg
 
 
 ## opennic-luggs
