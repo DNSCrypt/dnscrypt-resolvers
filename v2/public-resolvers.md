@@ -1199,7 +1199,7 @@ sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6YWM0MzpiNjZhXSDlfOUtFRBtpOz9nhH9pf0dH
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Toronto, Canada
 
-sdns://AQcAAAAAAAAADDY2Ljg1LjMwLjExNSDaDhJ4Dk4cHSiJstKoSd4DcSH8xm16_TSA1PBuamRNzB0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
+sdns://AQcAAAAAAAAADDY2Ljg1LjMwLjEwNSC6QJn8-PJkNi53ujMYD7pwvWcnj5l2xmuli-9JvEvMQR0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
 
 
 ## ev-va
@@ -1207,7 +1207,7 @@ sdns://AQcAAAAAAAAADDY2Ljg1LjMwLjExNSDaDhJ4Dk4cHSiJstKoSd4DcSH8xm16_TSA1PBuamRNz
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Vancouver, Canada
 
-sdns://AQcAAAAAAAAADTIzLjExMS43NC4yMDUg_0RyX8kcAcMdtRk5SAX5RKs3yiLLS6kdJlnsUpVbnOEdMi5kbnNjcnlwdC1jZXJ0LmV2aWx2aWJlcy5jb20
+sdns://AQcAAAAAAAAADjEwNC4zNi4xNDguMjIxIAIoavPDlz8aNzmlyqJLOWl_jbGqbpvdqCK-D_qVG5YCHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
 
 
 ## faelix-ch-ipv4

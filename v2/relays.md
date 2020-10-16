@@ -178,14 +178,14 @@ sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
 
 Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
 
-sdns://gQw2Ni44NS4zMC4xMTU
+sdns://gQw2Ni44NS4zMC4xMDU
 
 
 ## anon-ev-va
 
 Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
-sdns://gQ0yMy4xMTEuNzQuMjA1
+sdns://gQ4xMDQuMzYuMTQ4LjIyMQ
 
 
 ## anon-ibksturm
