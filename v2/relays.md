@@ -231,6 +231,13 @@ Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dn
 sdns://gStbMmEwNTpmNDgwOjE0MDA6NDM2OjU0MDA6MmZmOmZlYjg6OGQxY106NDQz
 
 
+## anon-plan9-dns
+
+Anonymized DNS relay hosted in New Jersey, USA. Running the official Docker image on Vultr by @jlongua1
+
+sdns://gRIxNzMuMTk5LjEyNi4zNTo0NDM
+
+
 ## anon-publicarray
 
 Anonymized DNS relay hosted in Sydney, Australia and maintained by Sebastian Schmidt (@publicarray)
