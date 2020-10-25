@@ -191,14 +191,14 @@ sdns://gQ4xMDQuMzYuMTQ4LjIyMQ
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gRA4NS41LjkzLjIzMDo4NDQz
+sdns://gRI4My43OC4xMjAuMjI3Ojg0NDM
 
 
 ## anon-ibksturm-ipv6
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gS5bMmEwMjoxMjA1OjUwNTU6ZGU2MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
+sdns://gS5bMmEwMjoxMjA1OjM0ZTc6OGUzMDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
 
 
 ## anon-inconnu
