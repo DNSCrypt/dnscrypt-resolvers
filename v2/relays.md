@@ -192,14 +192,14 @@ sdns://gQ4xMDQuMzYuMTQ4LjIyMQ
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gRA4NS41LjkzLjIzMDo4NDQz
+sdns://gRI4My43OC4xMjAuMjI3Ojg0NDM
 
 
 ## anon-ibksturm-ipv6
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gS5bMmEwMjoxMjA1OjUwNTU6ZGU2MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
+sdns://gS5bMmEwMjoxMjA1OjM0ZTc6OGUzMDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
 
 
 ## anon-inconnu
@@ -221,14 +221,14 @@ sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 
 Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands
 
-sdns://gRIyMDkuMjUwLjI0MS4yNTo0NDM
+sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
 
 
 ## anon-meganerd-ipv6
 
 Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands
 
-sdns://gStbMmEwNTpmNDgwOjE0MDA6NDM2OjU0MDA6MmZmOmZlYjg6OGQxY106NDQz
+sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
 
 
 ## anon-plan9-dns

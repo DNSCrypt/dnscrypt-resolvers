@@ -1402,6 +1402,7 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6MzRlNzo4ZTMwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
+
 ## id-gmail
 
 Non-Logging DNSCrypt server located in Singapore.

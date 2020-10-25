@@ -36,6 +36,7 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6MzRlNzo4ZTMwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
+
 ## opennic-R4SAS
 
 DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com

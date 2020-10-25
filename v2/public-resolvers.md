@@ -1352,7 +1352,7 @@ sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAAEDg1LjUuOTMuMjMwOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEjgzLjc4LjEyMC4yMjc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
 
 ## ibksturm-ipv6
@@ -1360,7 +1360,7 @@ sdns://AQcAAAAAAAAAEDg1LjUuOTMuMjMwOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyD
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
 Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
-sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6NTA1NTpkZTYwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6MzRlNzo4ZTMwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## id-gmail
@@ -1492,7 +1492,7 @@ Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjIwOS4yNTAuMjQxLjI1OjQ0MyD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
+sdns://AQcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
 ## meganerd-doh-ipv4
@@ -1502,7 +1502,7 @@ Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjIwOS4yNTAuMjQxLjI1ID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4Emphcmphci5tZWdhbmVyZC5ubAQvZG9o
+sdns://AgcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBVjaGV3YmFjY2EubWVnYW5lcmQubmwEL2RvaA
 
 
 ## meganerd-doh-ipv6
@@ -1512,7 +1512,7 @@ Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAKFsyYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDowMmZmOmZlYjg6OGQxY10gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgSamFyamFyLm1lZ2FuZXJkLm5sBC9kb2g
+sdns://AgcAAAAAAAAALFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF06NDQzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4FWNoZXdiYWNjYS5tZWdhbmVyZC5ubAQvZG9o
 
 
 ## meganerd-ipv6
@@ -1522,7 +1522,7 @@ Hosted in Amsterdam, The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAK1syYTA1OmY0ODA6MTQwMDo0MzY6NTQwMDoyZmY6ZmViODo4ZDFjXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
+sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
 
 
 ## nextdns
