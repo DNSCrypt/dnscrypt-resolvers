@@ -155,7 +155,7 @@ sdns://gREyMDkuNTguMTQ3LjM2OjQ0Mw
 
 ## anon-dnscrypt.one
 
-Anonymized DNS relay hosted in Germany (Nuremberg)
+Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one
 
 sdns://gRIxNDQuOTEuMTA2LjIyNzo0NDM
 

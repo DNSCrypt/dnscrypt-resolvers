@@ -845,7 +845,7 @@ sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrl
 
 ## dnscrypt.one
 
-Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted in Germany (Nuremberg)
+Non-logging, non-censoring, DNSSEC-capable DNSCrypt resolver hosted in Germany (Nuremberg), https://dnscrypt.one
 
 sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBdoGNCA_IFO3Mx7f02CSF8RLhU8bAqxq52ha2jxuDc3xwyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25l
 
