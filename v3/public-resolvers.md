@@ -1,17 +1,27 @@
+# public-resolvers
 
-# *** THIS IS A LEGACY LIST ***
+This is an extensive list of public DNS resolvers supporting the
+DNSCrypt and DNS-over-HTTP2 protocols.
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+This list is maintained by Frank Denis <j @ dnscrypt [.] info>
 
-If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
-of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
-and are present in the `[sources]` section).
+Warning: it includes servers that may censor content, servers that don't
+verify DNSSEC records, and servers that will collect and monetize your
+queries.
 
-THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
+Adjust the `require_*` options in dnscrypt-proxy to filter that list
+according to your needs.
 
-If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
+To use that list, add this to the `[sources]` section of your
+`dnscrypt-proxy.toml` configuration file:
+
+    [sources.'public-resolvers']
+    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md', 'https://download.dnscrypt.info/resolvers-list/v3/public-resolvers.md']
+    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+    cache_file = 'public-resolvers.md'
 
 --
+
 
 ## a-and-a
 
@@ -231,6 +241,33 @@ If you are within India, this might be a nice DNS server to use.
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
 
+## cira-family
+
+CIRA DoH resolvers, blocking trackers, malware, phishing and pornography.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
+
+## cira-private
+
+CIRA DoH resolvers, blocking trackers.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6x5wcml2YXRlLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+
+
+## cira-protected
+
+CIRA DoH resolvers, blocking trackers, malware and phishing.
+Operated by the .CA registry. Built by Canadians for Canadians.
+https://www.cira.ca/fr/cybersecurity-services/canadian-shield
+
+sdns://AgEAAAAAAAAAACA_4zhjTgUQYz3kU8o1CxXOwzmz3Li6nyot0k0QqDj-6yBwcm90ZWN0ZWQuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
+
 ## cisco
 
 Remove your DNS blind spot (DNSCrypt protocol)
@@ -370,6 +407,7 @@ sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVye
 Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## cloudflare-ipv6
@@ -377,6 +415,7 @@ sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRuc
 Cloudflare DNS over IPv6 (anycast)
 
 sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0AIDFkb3QxZG90MWRvdDEuY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMV0AIDFkb3QxZG90MWRvdDEuY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## cloudflare-security
@@ -391,6 +430,7 @@ sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1Z
 Cloudflare DNS over IPv6 (anycast) with malware blocking
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## commons-host
@@ -1668,6 +1708,7 @@ sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 / 149.112.112.9
 
 sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
+sdns://AQMAAAAAAAAAEjE0OS4xMTIuMTEyLjk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
 
 ## quad9-dnscrypt-ip4-nofilter-pri
@@ -1675,6 +1716,7 @@ sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GP
 Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10 / 149.112.112.10
 
 sdns://AQYAAAAAAAAADTkuOS45LjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
+sdns://AQYAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
 
 
 ## quad9-dnscrypt-ip6-filter-pri
@@ -1682,6 +1724,7 @@ sdns://AQYAAAAAAAAADTkuOS45LjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idh
 Quad9 (anycast) dnssec/no-log/filter 2620:fe::9 / 2620:fe::fe:9
 
 sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
+sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
 
 
 ## quad9-dnscrypt-ip6-nofilter-pri
@@ -1689,6 +1732,7 @@ sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDa
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
 sdns://AQYAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
+sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 
 
 ## quad9-doh-ip4-filter-pri
@@ -1696,6 +1740,7 @@ sdns://AQYAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 / 149.112.112.9
 
 sdns://AgMAAAAAAAAABzkuOS45LjkAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTE0OS4xMTIuMTEyLjkAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
 ## quad9-doh-ip4-nofilter-pri
@@ -1703,6 +1748,7 @@ sdns://AgMAAAAAAAAABzkuOS45LjkAEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10 / 149.112.112.10
 
 sdns://AgYAAAAAAAAACDkuOS45LjEwAA9kbnMxMC5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEwAA9kbnMxMC5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
 
 
 ## quad9-doh-ip6-filter-pri
@@ -1710,6 +1756,7 @@ sdns://AgYAAAAAAAAACDkuOS45LjEwAA9kbnMxMC5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
 Quad9 (anycast) dnssec/no-log/filter 2620:fe::9 / 2620:fe::fe:9
 
 sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XQAOZG5zOS5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAD1syNjIwOmZlOjpmZTo5XQAOZG5zOS5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
 
 
 ## quad9-doh-ip6-nofilter-pri
@@ -1717,6 +1764,7 @@ sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XQAOZG5zOS5xdWFkOS5uZXQKL2Rucy1xdWVyeQ
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AD2RuczEwLnF1YWQ5Lm5ldAovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0AD2RuczEwLnF1YWQ5Lm5ldAovZG5zLXF1ZXJ5
 
 
 ## qualityology.com
@@ -1763,6 +1811,7 @@ Free to use, paid for customizing blocking for more categories+sites and viewing
 usage, data never sold - https://safesurfer.io
 
 sdns://AQMAAAAAAAAADjEwNC4xOTcuMjguMTIxICcgf9USBOg2e0g0AF35_9HTC74qnDNjnm7b-K7ZHUDYIDIuZG5zY3J5cHQtY2VydC5zYWZlc3VyZmVyLmNvLm56
+sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
 ## scaleway-ams

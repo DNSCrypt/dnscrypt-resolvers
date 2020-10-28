@@ -1,9 +1,7 @@
-sudo: false
-
 language: minimal
 
 install:
- - curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.25/dnscrypt-proxy-linux_x86_64-2.0.25.tar.gz | tar xzvf -
+ - curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.44/dnscrypt-proxy-linux_x86_64-2.0.44.tar.gz | tar xzvf -
  - cd linux-x86_64
  - cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
  - sed -i -e 's/listen_addresses.*/listen_addresses = ["127.0.0.1:5300"]/' dnscrypt-proxy.toml

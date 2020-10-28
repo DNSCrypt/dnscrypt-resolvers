@@ -1,17 +1,17 @@
+# opennic
 
-# *** THIS IS A LEGACY LIST ***
+Resolvers from the [OpenNIC](https://www.opennic.org/) project.
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+To use that list, add this to the `[sources]` section of your
+`dnscrypt-proxy.toml` configuration file:
 
-If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
-of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
-and are present in the `[sources]` section).
-
-THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
-
-If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
+    [sources.'opennic']
+    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/opennic.md', 'https://download.dnscrypt.info/resolvers-list/v3/opennic.md']
+    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+    cache_file = 'opennic.md'
 
 --
+
 
 ## doh-ibksturm
 

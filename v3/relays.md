@@ -1,17 +1,16 @@
+# Anonymized DNS relays
 
-# *** THIS IS A LEGACY LIST ***
+Anonymized DNS is a lightweight alternative to Tor and SOCKS proxies,
+dedicated to DNS traffic. They hide the client IP address to DNS resolvers,
+providing anonymity in addition to confidentiality and integrity.
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+DNS Anonymization is only compatible with servers supporting the
+DNSCrypt protocol.
 
-If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
-of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
-and are present in the `[sources]` section).
+See the link below for more information:
 
-THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
+https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
-If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
-
---
 
 ## anon-acsacsar-ams-ipv4
 

@@ -1,4 +1,5 @@
-[![Travis Status](https://travis-ci.org/DNSCrypt/dnscrypt-resolvers.svg?branch=master)](https://travis-ci.org/DNSCrypt/dnscrypt-resolvers/builds/)
+[![Travis Status](https://travis-ci.com/DNSCrypt/dnscrypt-resolvers.svg?branch=master)](https://travis-ci.com/DNSCrypt/dnscrypt-resolvers/builds/)
+[![Gitter chat](https://badges.gitter.im/gitter.svg)](https://gitter.im/dnscrypt-operators/Lobby)
 
 # Lists of public DNSCrypt and DoH servers
 
@@ -9,8 +10,8 @@ Interactive map of public DNS servers:
 - https://dnscrypt.info/map
 
 Stable download URLs:
-- https://github.com/DNSCrypt/dnscrypt-resolvers/tree/master/v2
-- https://download.dnscrypt.info/dnscrypt-resolvers/v2/
+- https://github.com/DNSCrypt/dnscrypt-resolvers/tree/master/v3
+- https://download.dnscrypt.info/dnscrypt-resolvers/v3/
 
 More DNS server sources:
 - https://github.com/jedisct1/dnscrypt-proxy/wiki/DNS-server-sources
@@ -18,8 +19,8 @@ More DNS server sources:
 # List of DNS relays
 
 Anonymized DNS relays:
-- https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v2/relays.md
-- https://download.dnscrypt.info/dnscrypt-resolvers/v2/relays.md
+- https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/relays.md
+- https://download.dnscrypt.info/dnscrypt-resolvers/v3/relays.md
 
 # Minisign public key
 
