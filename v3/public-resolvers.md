@@ -887,7 +887,7 @@ sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrl
 
 Non-logging, non-censoring, DNSSEC-capable DNSCrypt resolver hosted in Germany (Nuremberg), https://dnscrypt.one
 
-sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBdoGNCA_IFO3Mx7f02CSF8RLhU8bAqxq52ha2jxuDc3xwyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQub25l
+sdns://AQcAAAAAAAAAETE2MS45Ny4xMDEuNTE6NDQzIAoyujLMUVbenTQcjXIJnLrRr3Vu9cmmFZ1JUTOAzeoeHDIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5vbmU
 
 
 ## dnscrypt.uk-ipv4
