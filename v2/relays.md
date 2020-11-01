@@ -164,14 +164,14 @@ sdns://gRIxNDQuOTEuMTA2LjIyNzo0NDM
 
 Anonymized DNS relay hosted in UK on DigitalOcean
 
-sdns://gRIxMzkuNTkuMjAwLjExNjo0NDM
+sdns://gRExNjUuMjMyLjMyLjk1OjQ0Mw
 
 
 ## anon-dnscrypt.uk-ipv6
 
 Anonymized DNS relay hosted in UK on DigitalOcean
 
-sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
+sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXTo0NDM
 
 
 ## anon-ev-to

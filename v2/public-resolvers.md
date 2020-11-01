@@ -852,18 +852,18 @@ sdns://AQcAAAAAAAAAEjE0NC45MS4xMDYuMjI3OjQ0MyBdoGNCA_IFO3Mx7f02CSF8RLhU8bAqxq52h
 
 ## dnscrypt.uk-ipv4
 
-DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
 https://www.dnscrypt.uk
 
-sdns://AQcAAAAAAAAAEjEzOS41OS4yMDAuMTE2OjQ0MyBxkKwJmxhDAMvj-aF2TcFOK16cSI5EpMxBJG3Ze0lRvBsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
+sdns://AQcAAAAAAAAAETE2NS4yMzIuMzIuOTU6NDQzIAHTDugOIE3aGHHToQ8oUVRnZb8UtNpEBKT_BG19qWg8GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC51aw
 
 
 ## dnscrypt.uk-ipv6
 
-DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
 https://www.dnscrypt.uk
 
-sdns://AQcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6MmUzOmUwMDFdOjQ0MyBxkKwJmxhDAMvj-aF2TcFOK16cSI5EpMxBJG3Ze0lRvBsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
+sdns://AQcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdOjQ0MyAB0w7oDiBN2hhx06EPKFFUZ2W_FLTaRASk_wRtfaloPBsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQudWs
 
 
 ## dnsforfamily
