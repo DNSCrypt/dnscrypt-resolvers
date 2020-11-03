@@ -1200,12 +1200,14 @@ https://ffmuc.net/
 
 sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 
+
 ## doh.ffmuc.net-v6
 
 An open DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+
 
 ## doh.li
 
