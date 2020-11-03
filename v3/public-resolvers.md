@@ -1195,7 +1195,7 @@ sdns://AgcAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OKBoo-sB-l8CxNNfO
 
 ## doh.ffmuc.net
 
-An open DoH resolver operated by Freifunk Munich with nodes in DE.
+An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
 sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
@@ -1203,7 +1203,7 @@ sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgNZ
 
 ## doh.ffmuc.net-v6
 
-An open DoH resolver operated by Freifunk Munich with nodes in DE.
+An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
@@ -1308,18 +1308,18 @@ sdns://AgcAAAAAAAAAD1syYTAxOjllMDA6OjU0XSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 
 ## ffmuc.net
 
-An open DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
+An open (non-logging, non-filtering, non-censoring) DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AQcAAAAAAAAAETE5NS4zMC45NC4yODo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZcJ0J2x5HK71rvO5DEb6GTIuZG5zY3J5cHQtY2VydC5mZm11Yy5uZXQ
+sdns://AQcAAAAAAAAADzUuMS42Ni4yNTU6ODQ0MyAH0Hrxz9xdmXadPwJmkKcESWXCdCdseRyu9a7zuQxG-hkyLmRuc2NyeXB0LWNlcnQuZmZtdWMubmV0
 
 
 ## ffmuc.net-v6
 
-An open DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
+An open (non-logging, non-filtering, non-censoring) DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AQcAAAAAAAAAFlsyMDAxOjYwODphMDE6OjNdOjg0NDMgB9B68c_cXZl2nT8CZpCnBEllwnQnbHkcrvWu87kMRvoZMi5kbnNjcnlwdC1jZXJ0LmZmbXVjLm5ldA
+sdns://AQcAAAAAAAAAGlsyMDAxOjY3ODplNjg6ZjAwMDo6XTo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZcJ0J2x5HK71rvO5DEb6GTIuZG5zY3J5cHQtY2VydC5mZm11Yy5uZXQ
 
 
 ## freetsa.org
