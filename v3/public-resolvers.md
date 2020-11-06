@@ -1931,17 +1931,13 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 
 ## yepdns-doh
 
-Filtering | DNSSEC | No-logs | Singapore
-https://get.yepdns.com/
-Operated by arapurayil
+Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
 sdns://AgMAAAAAAAAAAAAKeWVwZG5zLmNvbQovZG5zLXF1ZXJ5
 
 ## yepdns-dot
 
-Filtering | DNSSEC | No-logs | Singapore
-https://get.yepdns.com/
-Operated by arapurayil
+Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
 sdns://AwMAAAAAAAAAAAAKeWVwZG5zLmNvbQ
 
