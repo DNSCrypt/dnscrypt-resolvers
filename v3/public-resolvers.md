@@ -1929,6 +1929,19 @@ Yandex public DNS server (anycast)
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
 
+## yepdns-doh
+
+Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
+
+sdns://AgMAAAAAAAAAAAAKeWVwZG5zLmNvbQovZG5zLXF1ZXJ5
+
+## yepdns-dot
+
+Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
+
+sdns://AwMAAAAAAAAAAAAKeWVwZG5zLmNvbQ
+
+
 ## yofiji-se-ipv4
 
 Uncensored, DNSSEC, no logging DNSCrypt server (IPv4) hosted in Sweden
