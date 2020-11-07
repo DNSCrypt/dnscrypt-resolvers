@@ -1933,13 +1933,7 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
-sdns://AgMAAAAAAAAAAAAKeWVwZG5zLmNvbQovZG5zLXF1ZXJ5
-
-## yepdns-dot
-
-Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
-
-sdns://AwMAAAAAAAAAAAAKeWVwZG5zLmNvbQ
+sdns://AgMAAAAAAAAADjk1LjExMS4xOTQuMTMzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4CnllcGRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## yofiji-se-ipv4
