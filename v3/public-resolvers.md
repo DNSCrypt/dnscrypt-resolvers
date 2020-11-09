@@ -1775,6 +1775,15 @@ Maintained by Evan Xu (@ex-git)
 sdns://AQcAAAAAAAAAEjE3My44Mi4yMzIuMjMyOjg1MyCPlK_22Cu9WRVyKgl-CZp2GXezsRDWizG-BHIzChok4iAyLmRuc2NyeXB0LWNlcnQucXVhbGl0eW9sb2d5LmNvbQ
 
 
+## quickline
+
+Public DNS servers in Switzerland, by the Quickline AG service provider.
+https://quickline.ch
+
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFkbnMxLnF1aWNrbGluZS5jaAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFkbnMyLnF1aWNrbGluZS5jaAovZG5zLXF1ZXJ5
+
+
 ## rubyfish-ea
 
 Resolver in mainland China, forwarding queries for non-Chinese domains
