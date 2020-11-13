@@ -1590,6 +1590,7 @@ https://www.nextdns.io/
 
 sdns://AgcAAAAAAAAADVsyYTA3OmE4YzA6Ol0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
 
+
 ## njalla-doh
 
 Non-logging DoH server in Sweden operated by Njalla.
@@ -1597,6 +1598,7 @@ Non-logging DoH server in Sweden operated by Njalla.
 https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
+
 
 ## opennic-R4SAS
 
