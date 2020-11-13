@@ -268,6 +268,13 @@ IPv6 only. Running on an instance donated by https://scaleway.com
 sdns://gRpbMjAwMTpiYzg6MTgyMDo1MGQ6OjFdOjQ0Mw
 
 
+## anon-serbica
+
+Anonymized DNS relay hosted in Netherlands by https://litepay.ch
+
+sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
+
+
 ## anon-skyfighter
 
 Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained by @tuttimann.
