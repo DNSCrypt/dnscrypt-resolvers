@@ -1590,6 +1590,13 @@ https://www.nextdns.io/
 
 sdns://AgcAAAAAAAAADVsyYTA3OmE4YzA6Ol0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
 
+## njalla-doh
+
+Non-logging DoH server in Sweden operated by Njalla.
+
+https://dns.njal.la/
+
+sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41MyA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 ## opennic-R4SAS
 
@@ -1950,20 +1957,4 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
 sdns://AgMAAAAAAAAADjk1LjExMS4xOTQuMTMzID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4CnllcGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## yofiji-se-ipv4
-
-Uncensored, DNSSEC, no logging DNSCrypt server (IPv4) hosted in Sweden
-Maintained by yofiji
-
-sdns://AQcAAAAAAAAAEzE4NS4xOTMuMTI3LjI0NDo0NDMgsaZZTbc7aLZjQQ6dtvkke4mmYRS49ry5rk1sdSV-1dYZMi5kbnNjcnlwdC1jZXJ0LnlvZmlqaS1zZQ
-
-
-## yofiji-se-ipv6
-
-Uncensored, DNSSEC, no logging DNSCrypt server (IPv6) hosted in Sweden
-Maintained by yofiji
-
-sdns://AQcAAAAAAAAAKVsyYTBhOjM4NDA6MTMzNzoxMjc6MDpiOWMxOjdmZjQ6MTMzN106NDQzILGmWU23O2i2Y0EOnbb5JHuJpmEUuPa8ua5NbHUlftXWGTIuZG5zY3J5cHQtY2VydC55b2Zpamktc2U
 
