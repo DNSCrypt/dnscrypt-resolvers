@@ -1,4 +1,3 @@
-[![Travis Status](https://travis-ci.com/DNSCrypt/dnscrypt-resolvers.svg?branch=master)](https://travis-ci.com/DNSCrypt/dnscrypt-resolvers/builds/)
 [![Gitter chat](https://badges.gitter.im/gitter.svg)](https://gitter.im/dnscrypt-operators/Lobby)
 
 # Lists of public DNSCrypt and DoH servers
