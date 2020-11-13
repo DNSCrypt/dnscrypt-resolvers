@@ -1012,6 +1012,7 @@ Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAADDEwNC4yOC4wLjEwNgANZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADDEwNC4yOC4xLjEwNgANZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
 
 
 ## doh-crypto-sx-ipv6
@@ -1020,7 +1021,8 @@ DNS-over-HTTPS server accessible over IPv6. Anycast, no logs, no censorship, DNS
 Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
-sdns://AgcAAAAAAAAAF1syNjA2OjQ3MDA6MzA6OjY4MWM6NmFdABJkb2gtaXB2Ni5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzAzNjo6NjgxYzo2YV0AEmRvaC1pcHY2LmNyeXB0by5zeAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyNjA2OjQ3MDA6MzAzNDo6NjgxYzoxNmFdABJkb2gtaXB2Ni5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
 
 
 ## doh-de-blahdns
