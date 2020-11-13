@@ -1855,6 +1855,13 @@ Maintained by Frank Denis - https://fr.dnscrypt.info
 sdns://AQcAAAAAAAAAG1syMDAxOmJjODo0N2IwOjFhMDE6OjFdOjQ0MyDoAbhOpga_sLrAzkNEW7FeumSwL6PEqjGuEGNqB5AyTR8yLmRuc2NyeXB0LWNlcnQuZnIuZG5zY3J5cHQub3Jn
 
 
+## serbica
+
+Public DNSCrypt server in the Netherlands
+
+sdns://AQcAAAAAAAAAEzE4NS42Ni4xNDMuMTc4OjUzNTMg-Y2MQmGOXiggAEKulN-ITGEn_Kj3TIP1UK1X2wh3o7wXMi5kbnNjcnlwdC1jZXJ0LnNlcmJpY2E
+
+
 ## sfw.scaleway-fr
 
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
