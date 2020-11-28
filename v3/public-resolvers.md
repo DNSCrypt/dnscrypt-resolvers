@@ -863,6 +863,13 @@ Non-logging, non-censoring, DNSSEC-capable DNSCrypt resolver hosted in Germany (
 sdns://AQcAAAAAAAAAETE2MS45Ny4xMDEuNTE6NDQzIAoyujLMUVbenTQcjXIJnLrRr3Vu9cmmFZ1JUTOAzeoeHDIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5vbmU
 
 
+## dnscrypt.pl
+
+Free | No filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
+
+sdns://AQcAAAAAAAAAEzE3OC4yMTYuMjAxLjEyODo0NDMgf2F8uB6lU9I0xJvCecdPe1SYBQ0dvxEa_uaZY8ZHoWkbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnBs
+
+
 ## dnscrypt.uk-ipv4
 
 DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
