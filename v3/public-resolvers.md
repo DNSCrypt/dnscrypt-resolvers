@@ -867,7 +867,7 @@ sdns://AQcAAAAAAAAAETE2MS45Ny4xMDEuNTE6NDQzIAoyujLMUVbenTQcjXIJnLrRr3Vu9cmmFZ1JU
 
 Free | No filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
 
-sdns://AQcAAAAAAAAAEzE3OC4yMTYuMjAxLjEyODo0NDMgf2F8uB6lU9I0xJvCecdPe1SYBQ0dvxEa_uaZY8ZHoWkbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnBs
+sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDUzIH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
 
 
 ## dnscrypt.uk-ipv4
