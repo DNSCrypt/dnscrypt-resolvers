@@ -151,5 +151,5 @@ Uses deep learning to block adult websites. Free, DNSSEC, no logs.
 Hosted in Paris, running on a 1-XS server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
-sdns://AQMAAAAAAAAAEzE2My4xNzIuMTgwLjEyNTo0NDMg32Jzv8dSGSqLWjm8DIWsP_lkRdc2RPZicoJdNVjxof8fMi5kbnNjcnlwdC1jZXJ0LnNmdy5zY2FsZXdheS1mcg
+sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
