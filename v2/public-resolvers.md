@@ -680,14 +680,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OKBoo-sB-l8CxNNfOhHQBMrwiyJL7qfXnFiMfxPIYTNgLqDvR4Wu5wydV1_nM4MG2T6nlhHl_tzvU2LdZsmLYLstvaAcVDa2UaK1QVwWz9ltGpcJ_ZyPJ-73XPlz2YL_5o5Y8CAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
 
 
-## dns.flatty.co
-
-An open Non-logging, Non-filtering DNSCrypt resolver operated by @cruisemaniac in Bengaluru, IN.
-https://dns.flatty.co
-
-sdns://AQcAAAAAAAAADjQ5LjIwNS4yMTcuMjEyIH7zwP14XxX4IgjmI0A_XLGsB1PBfxKsFs95Tz1yC-JaHTIuZG5zY3J5cHQtY2VydC5kbnMuZmxhdHR5LmNv
-
-
 ## dns.ryan-palmer
 
 Non-logging, non-filtering, DNSSEC DoH Server. Hosted in the UK.
@@ -1361,14 +1353,6 @@ Unknown logging policy.
 sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
 
 
-## ibksturm
-
-dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
-Hosted in Switzerland by ibksturm, aka Andreas Ziegler
-
-sdns://AQcAAAAAAAAAEjgzLjc4LjEyMC4yMjc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
-
-
 ## ibksturm-ipv6
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
@@ -1740,14 +1724,6 @@ sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XQASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-
-
-## qualityology.com
-
-Non-logging, non-filtering, DNSSEC validating server in Los Angeles, California.
-Maintained by Evan Xu (@ex-git)
-
-sdns://AQcAAAAAAAAAEjE3My44Mi4yMzIuMjMyOjg1MyCPlK_22Cu9WRVyKgl-CZp2GXezsRDWizG-BHIzChok4iAyLmRuc2NyeXB0LWNlcnQucXVhbGl0eW9sb2d5LmNvbQ
 
 
 ## quickline
