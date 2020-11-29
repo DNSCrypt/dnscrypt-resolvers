@@ -1765,14 +1765,6 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
-## qualityology.com
-
-Non-logging, non-filtering, DNSSEC validating server in Los Angeles, California.
-Maintained by Evan Xu (@ex-git)
-
-sdns://AQcAAAAAAAAAEjE3My44Mi4yMzIuMjMyOjg1MyCPlK_22Cu9WRVyKgl-CZp2GXezsRDWizG-BHIzChok4iAyLmRuc2NyeXB0LWNlcnQucXVhbGl0eW9sb2d5LmNvbQ
-
-
 ## quickline
 
 Public DNS servers in Switzerland, by the Quickline AG service provider.
