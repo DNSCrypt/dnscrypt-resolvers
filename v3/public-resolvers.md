@@ -83,6 +83,8 @@ sdns://AgMAAAAAAAAADzE0OS4xNTQuMTUzLjE1M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 
 Remove ads and protect your computer from malware
 
+Warning: This server is incompatible with anonymization.
+
 sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMDo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuUso_OQhzIjIuZG5zY3J5cHQuZGVmYXVsdC5uczEuYWRndWFyZC5jb20
 
 
@@ -96,6 +98,8 @@ sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7
 ## adguard-dns-family
 
 Adguard DNS with safesearch and adult content blocking
+
+Warning: This server is incompatible with anonymization.
 
 sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
 
@@ -111,6 +115,8 @@ sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMiD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7
 
 Adguard DNS with safesearch and adult content blocking
 
+Warning: This server is incompatible with anonymization.
+
 sdns://AQMAAAAAAAAAGlsyYTAwOjVhNjA6OmJhZDI6MGZmXTo1NDQzIIwhF6nrwVfW-2QFbwrbwRxdg2c0c8RuJY2bL1fU7jUfITIuZG5zY3J5cHQuZmFtaWx5Lm5zMi5hZGd1YXJkLmNvbQ
 
 
@@ -118,12 +124,16 @@ sdns://AQMAAAAAAAAAGlsyYTAwOjVhNjA6OmJhZDI6MGZmXTo1NDQzIIwhF6nrwVfW-2QFbwrbwRxdg
 
 Remove ads and protect your computer from malware
 
+Warning: This server is incompatible with anonymization.
+
 sdns://AQMAAAAAAAAAGVsyYTAwOjVhNjA6OmFkMjowZmZdOjU0NDMggdAC02pMpQxHO3R5ZQ_hLgKzIcthOFYqII5APf3FXpQiMi5kbnNjcnlwdC5kZWZhdWx0Lm5zMi5hZGd1YXJkLmNvbQ
 
 
 ## adguard-dns-unfiltered
 
 AdGuard public DNS servers without filters
+
+Warning: This server is incompatible with anonymization.
 
 sdns://AQcAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzNjo1NDQzILXoRNa4Oj4-EmjraB--pw3jxfpo29aIFB2_LsBmstr6JTIuZG5zY3J5cHQudW5maWx0ZXJlZC5uczEuYWRndWFyZC5jb20
 
@@ -266,10 +276,10 @@ sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham
 
 Remove your DNS blind spot (DNSCrypt protocol)
 
+Warning: This server is incompatible with anonymization.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
-
-Currently incompatible with DNS anonymization.
 
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
@@ -300,6 +310,8 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 
 Block websites not suitable for children (IPv6)
 
+Warning: This server is incompatible with anonymization.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
@@ -310,10 +322,10 @@ sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev
 
 Cisco OpenDNS over IPv6 (DNSCrypt protocol)
 
+Warning: This server is incompatible with anonymization.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
-
-Currently incompatible with DNS anonymization.
 
 sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
@@ -334,6 +346,8 @@ Blocks access to all adult, pornographic and explicit sites. It does
 not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
 are allowed. Google and Bing are set to the Safe Mode.
 
+Warning: This server is incompatible with anonymization.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
@@ -344,6 +358,8 @@ sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UG
 Blocks access to all adult, pornographic and explicit sites. It does
 not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
 are allowed. Google and Bing are set to the Safe Mode.
+
+Warning: This server is incompatible with anonymization.
 
 By https://cleanbrowsing.org/
 
@@ -357,6 +373,8 @@ blocks proxy and VPN domains that are used to bypass the filters.
 Mixed content sites (like Reddit) are also blocked. Google, Bing and
 Youtube are set to the Safe Mode.
 
+Warning: This server is incompatible with anonymization.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
@@ -369,6 +387,8 @@ blocks proxy and VPN domains that are used to bypass the filters.
 Mixed content sites (like Reddit) are also blocked. Google, Bing and
 Youtube are set to the Safe Mode.
 
+Warning: This server is incompatible with anonymization.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
@@ -378,6 +398,8 @@ sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 
 Block access to phishing, malware and malicious domains. It does not block adult content.
 By https://cleanbrowsing.org/
+
+Warning: This server is incompatible with anonymization.
 
 sdns://AQMAAAAAAAAAEjE4NS4yMjguMTY4Ljk6ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
 
@@ -513,6 +535,8 @@ sdns://AQIAAAAAAAAADTIxMi4xMjkuNDYuMzIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 
 Italy DNSCrypt server provided by https://cryptostorm.is/
 
+Warning: This server is incompatible with anonymization.
+
 sdns://AQIAAAAAAAAADjE4NS45NC4xOTMuMjM0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
@@ -533,6 +557,8 @@ sdns://AQIAAAAAAAAADTE4NS4xMDcuODAuODQgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 ## cs-ro
 
 Romania DNSCrypt server provided by https://cryptostorm.is/
+
+Warning: this server is incompatible with DNS anonymization.
 
 sdns://AQIAAAAAAAAADDUuMjU0Ljk2LjE5NSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
@@ -562,6 +588,8 @@ sdns://AQIAAAAAAAAADTY0LjQyLjE4MS4yMjcgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 
 US - IL DNSCrypt server provided by https://cryptostorm.is/
 
+Warning: this server is incompatible with DNS anonymization.
+
 sdns://AQIAAAAAAAAADjE3My4yMzQuNTYuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
@@ -589,6 +617,8 @@ sdns://AQIAAAAAAAAADTIwOS41OC4xNDcuMzYgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 ## cs-uswa
 
 US - WA DNSCrypt server provided by https://cryptostorm.is/
+
+Warning: this server is incompatible with DNS anonymization.
 
 sdns://AQIAAAAAAAAADDY0LjEyMC41LjI1MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
@@ -801,6 +831,8 @@ sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
 DNS service for your pleasure.
 
+Warning: This server is incompatible with anonymization.
+
 sdns://AQcAAAAAAAAAJlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldICDZGdTsPFAIzccKUeorT8v-ipk8ZDHQ7GgdXqc4RauAIjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0xLWlwdjY
 
 
@@ -830,6 +862,8 @@ sdns://AgcAAAAAAAAADTE0OS41Ni4yMjguNDWgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated
 DNS service for your pleasure.
+
+Warning: This server is incompatible with anonymization.
 
 sdns://AQcAAAAAAAAAGFsyNjA3OjUzMDA6NjA6NjUyZjo6MjAwXSCYfHCol9vaFRo0rUtV6oAO9WHMBKrVxX3Sw9hh_Bf0KSIyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMi1pcHY2
 
@@ -895,6 +929,8 @@ sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZ
 ## dnsforfamily
 
 Block adult websites, gambling websites and advertisements. No DNS queries are logged. As of March 2019 2.1million websites are blocked and new websites are added to blacklist daily.
+
+Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
@@ -1427,6 +1463,8 @@ sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgs2lfGAQCPrV0DPQqOkPci0Jei0GhMK_ne-QHwPbfn4oRc
 
 DNSCrypt resolver in Hyderabad, India, Oracle Cloud
 
+Warning: this server is incompatible with DNS anonymization.
+
 Operated by Jitender (@coolquasar) in Hyderabad, India.
 Blocks ads/trackers/analytics domains and provides a clean browsing experience.
 
@@ -1594,6 +1632,8 @@ sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bD
 OpenNIC • Non-logging • No DNSSEC
 Location: Munich, Germany
 
+Warning: this server is incompatible with DNS anonymization.
+
 sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
 
 
@@ -1712,6 +1752,8 @@ sdns://AQYAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMR
 
 Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9 / 2620:fe::9
 
+Warning: this server is incompatible with DNS anonymization.
+
 sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
 sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
 
@@ -1719,6 +1761,8 @@ sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDa
 ## quad9-dnscrypt-ip6-nofilter-pri
 
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
+
+Warning: this server is incompatible with DNS anonymization.
 
 sdns://AQYAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
 sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -1799,6 +1843,8 @@ sdns://AgcAAAAAAAAADzExNi4yMDMuMTc5LjI0OKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
 Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
 usage, data never sold - https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
 
 sdns://AQMAAAAAAAAADjEwNC4xOTcuMjguMTIxICcgf9USBOg2e0g0AF35_9HTC74qnDNjnm7b-K7ZHUDYIDIuZG5zY3J5cHQtY2VydC5zYWZlc3VyZmVyLmNvLm56
 sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
