@@ -1985,3 +1985,9 @@ Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
 sdns://AgMAAAAAAAAADjk1LjExMS4xOTQuMTMzoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmICnllcGRucy5jb20KL2Rucy1xdWVyeQ
 
+
+## srp-dnscrypt
+
+No-filter | No-logs | Uncensored | Public DNSCrypt resolver provided by Sarpel Guray. Hosted in Amsterdam on Scaleway.
+
+sdns://AQcAAAAAAAAAEDUxLjE1LjExMS43OTo0NDMg9SwNYguVzwHhX2mfk9Wv8Y4KhH_qKiSvlUW0dET6Jp5MMi5kbnNjcnlwdC1jZXJ0LjFmNmMwOWI3LTQ1YzUtNDc4OS1iYjdjLTUyNDVhZTY1N2NmMC5wdWIuaW5zdGFuY2VzLnNjdy5jbG91ZA
