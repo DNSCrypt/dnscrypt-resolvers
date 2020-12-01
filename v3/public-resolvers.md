@@ -1985,3 +1985,8 @@ Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
 sdns://AgMAAAAAAAAADjk1LjExMS4xOTQuMTMzoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmICnllcGRucy5jb20KL2Rucy1xdWVyeQ
 
+## sarpel-dns-istanbul
+
+No-filter | No-logs | Uncensored | Hosted in Istanbul(Turkey) on Cloudeos
+
+sdns://AQcAAAAAAAAAEzE4NS4xNTMuMjQ5LjIzOTo0NDMg5Fxr6nDDuk2iyVEpK-PYxnF74096tWcojvjsurhPuNIwMi5kbnNjcnlwdC1jZXJ0LjE4NS0xNTMtMjQ5LTIzOS5pbmYuY2xvdWRlb3MubmV0
