@@ -1403,6 +1403,14 @@ Unknown logging policy.
 sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
 
 
+## ibksturm
+
+dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
+Hosted in Switzerland by ibksturm, aka Andreas Ziegler
+
+sdns://AQcAAAAAAAAAEjgzLjc4LjEyMC4yMjc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57ghpYmtzdHVybQ
+
+
 ## ibksturm-ipv6
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy

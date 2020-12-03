@@ -1417,6 +1417,7 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
 
+
 ## ibksturm
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
