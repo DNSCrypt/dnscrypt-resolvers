@@ -1425,6 +1425,7 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAAEjgzLjc4LjEyMC4yMjc6ODQ0MyDBz1dQALBbwmxiH17PmqJWCs6_AH6-yzp_9LIN4LQ57hgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
+
 ## ibksturm-ipv6
 
 dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
@@ -1864,6 +1865,13 @@ sdns://AQMAAAAAAAAADjEwNC4xOTcuMjguMTIxICcgf9USBOg2e0g0AF35_9HTC74qnDNjnm7b-K7ZH
 sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
+## sarpel-dns-istanbul
+
+No-filter | No-logs | Uncensored | Hosted in Istanbul(Turkey) on Cloudeos
+
+sdns://AQcAAAAAAAAAEzE4NS4xNTMuMjQ5LjIzOTo0NDMg5Fxr6nDDuk2iyVEpK-PYxnF74096tWcojvjsurhPuNIwMi5kbnNjcnlwdC1jZXJ0LjE4NS0xNTMtMjQ5LTIzOS5pbmYuY2xvdWRlb3MubmV0
+
+
 ## scaleway-ams
 
 DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com
@@ -1992,8 +2000,3 @@ Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/ | @arapurayil
 
 sdns://AgMAAAAAAAAADjk1LjExMS4xOTQuMTMzoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmICnllcGRucy5jb20KL2Rucy1xdWVyeQ
 
-## sarpel-dns-istanbul
-
-No-filter | No-logs | Uncensored | Hosted in Istanbul(Turkey) on Cloudeos
-
-sdns://AQcAAAAAAAAAEzE4NS4xNTMuMjQ5LjIzOTo0NDMg5Fxr6nDDuk2iyVEpK-PYxnF74096tWcojvjsurhPuNIwMi5kbnNjcnlwdC1jZXJ0LjE4NS0xNTMtMjQ5LTIzOS5pbmYuY2xvdWRlb3MubmV0
