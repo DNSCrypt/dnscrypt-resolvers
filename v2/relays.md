@@ -34,6 +34,13 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
 
 
+## anon-ams-nl-ipv6
+
+Anonymized DNS relay hosted in Netherlands - NL
+
+sdns://gRxbMjAwMTpiYzg6MTgzMDoxZTE4OjoxXTo0MzQz
+
+
 ## anon-bcn
 
 Anonymized DNS relay hosted in Barcelona, Spain.
