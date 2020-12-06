@@ -121,13 +121,20 @@ sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRuc
 
 ## dnsforfamily
 
-Block adult websites, porn websites, gambling websites and advertisements.
-No DNS queries are logged. As of March 2019 2.1million websites are blocked and new websites are added to blacklist daily
-Completely free, no ads or any commercial motive.
+Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
 
-Provided by: https://dnsforfamily.com
+By https://dnsforfamily.com
 
 sdns://AQIAAAAAAAAADDc4LjQ3LjY0LjE2MSATJeLOABXNSYcSJIoqR5_iUYz87Y4OecMLB84aEAKPrRBkbnNmb3JmYW1pbHkuY29t
+
+
+## dnsforfamily-doh
+
+Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
+
+by https://dnsforfamily.com
+
+sdns://AgIAAAAAAAAADTk1LjIxNy4yMTMuOTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG5zLWRvaC5kbnNmb3JmYW1pbHkuY29tCi9kbnMtcXVlcnk
 
 
 ## doh-cleanbrowsing-adult
