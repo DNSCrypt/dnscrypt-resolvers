@@ -935,7 +935,7 @@ sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZ
 
 ## dnsforfamily
 
-Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
+(DNSCrypt Protocol) Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
 
 Warning: This server is incompatible with anonymization.
 
@@ -946,11 +946,20 @@ sdns://AQIAAAAAAAAADDc4LjQ3LjY0LjE2MSATJeLOABXNSYcSJIoqR5_iUYz87Y4OecMLB84aEAKPr
 
 ## dnsforfamily-v6
 
-Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
+(DNSCrypt Protocol) Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
 
 Provided by: https://dnsforfamily.com
 
 sdns://AQIAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIGN4CrSY4fb2hK8voFJL3GKiM7xQNwkKGH4b0k7LmMPxEGRuc2ZvcmZhbWlseS5jb20
+
+
+## dnsforfamily-doh
+
+(DoH Protocol) Block adult websites, gambling websites, malwares and advertisements. It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex. Social websites like Facebook and Instagram are not blocked. No DNS queries are logged. As of December 2020 2.7million websites are blocked and new websites are added to blacklist daily. Completely free, no ads or any commercial motive. Operating since 3years now.
+
+Provided by: https://dnsforfamily.com
+
+sdns://AgIAAAAAAAAADTk1LjIxNy4yMTMuOTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG5zLWRvaC5kbnNmb3JmYW1pbHkuY29tCi9kbnMtcXVlcnk
 
 
 ## dnsforge.de
