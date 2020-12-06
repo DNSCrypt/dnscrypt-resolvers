@@ -174,7 +174,7 @@ sdns://AgcAAAAAAAAADTUxLjE1LjEyNC4yMDigPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjFlMTg6OjFdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjFlMTg6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## arapurayil-dnscrypt
@@ -960,7 +960,7 @@ Completely free, no ads or any commercial motive. Operating for 3 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgIAAAAAAAAADTk1LjIxNy4yMTMuOTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG5zLWRvaC5kbnNmb3JmYW1pbHkuY29tCi9kbnMtcXVlcnk
+sdns://AgIAAAAAAAAADTk1LjIxNy4yMTMuOTSgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgYZG5zLWRvaC5kbnNmb3JmYW1pbHkuY29tCi9kbnMtcXVlcnk
 
 
 ## dnsforfamily-v6
@@ -1893,7 +1893,7 @@ sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2
 
 No-filter | No-logs | Uncensored | Hosted in Istanbul(Turkey) on Cloudeos
 
-sdns://AQcAAAAAAAAAEzE4NS4xNTMuMjQ5LjIzOTo0NDMg5Fxr6nDDuk2iyVEpK-PYxnF74096tWcojvjsurhPuNIwMi5kbnNjcnlwdC1jZXJ0LjE4NS0xNTMtMjQ5LTIzOS5pbmYuY2xvdWRlb3MubmV0
+sdns://AQcAAAAAAAAADzE4NS4xNTMuMjQ5LjIzOSDkXGvqcMO6TaLJUSkr49jGcXvjT3q1ZyiO-Oy6uE-40jAyLmRuc2NyeXB0LWNlcnQuMTg1LTE1My0yNDktMjM5LmluZi5jbG91ZGVvcy5uZXQ
 
 
 ## scaleway-ams

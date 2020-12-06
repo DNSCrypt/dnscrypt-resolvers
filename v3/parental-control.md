@@ -146,7 +146,7 @@ Completely free, no ads or any commercial motive. Operating for 3 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgIAAAAAAAAADTk1LjIxNy4yMTMuOTQgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgYZG5zLWRvaC5kbnNmb3JmYW1pbHkuY29tCi9kbnMtcXVlcnk
+sdns://AgIAAAAAAAAADTk1LjIxNy4yMTMuOTSgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgYZG5zLWRvaC5kbnNmb3JmYW1pbHkuY29tCi9kbnMtcXVlcnk
 
 
 ## dnsforfamily-v6
