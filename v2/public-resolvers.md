@@ -262,6 +262,24 @@ If you are within India, this might be a nice DNS server to use.
 sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
 
 
+## circl-doh
+
+DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
+
+Hosted in Bettembourg, Luxembourg.
+
+sdns://AgYAAAAAAAAADTE4NS4xOTQuOTQuNzEADGRucy5jaXJjbC5sdQovZG5zLXF1ZXJ5
+
+
+## circl-doh-ipv6
+
+DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
+
+Hosted in Bettembourg, Luxembourg.
+
+sdns://AgYAAAAAAAAAElsyYTAwOjU5ODA6OTQ6OjcxXQAMZG5zLmNpcmNsLmx1Ci9kbnMtcXVlcnk
+
+
 ## cisco
 
 Remove your DNS blind spot (DNSCrypt protocol)

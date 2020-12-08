@@ -280,6 +280,7 @@ Hosted in Bettembourg, Luxembourg.
 
 sdns://AgYAAAAAAAAADTE4NS4xOTQuOTQuNzEADGRucy5jaXJjbC5sdQovZG5zLXF1ZXJ5
 
+
 ## circl-doh-ipv6
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
@@ -287,6 +288,7 @@ DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
 Hosted in Bettembourg, Luxembourg.
 
 sdns://AgYAAAAAAAAAElsyYTAwOjU5ODA6OTQ6OjcxXQAMZG5zLmNpcmNsLmx1Ci9kbnMtcXVlcnk
+
 
 ## cisco
 
