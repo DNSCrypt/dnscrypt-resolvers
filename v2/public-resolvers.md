@@ -1292,15 +1292,7 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6YWM0MzpiNjZhXSDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9w5kb2gudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
-## ev-to
-
-Non-logging, uncensored DNS resolver provided by evilvibes.com
-Location: Toronto, Canada
-
-sdns://AQcAAAAAAAAADDY2Ljg1LjMwLjEwNSC6QJn8-PJkNi53ujMYD7pwvWcnj5l2xmuli-9JvEvMQR0yLmRuc2NyeXB0LWNlcnQuZXZpbHZpYmVzLmNvbQ
-
-
-## ev-va
+## ev-canada
 
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Vancouver, Canada
