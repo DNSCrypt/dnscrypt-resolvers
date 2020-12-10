@@ -180,14 +180,7 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
-## anon-ev-to
-
-Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
-
-sdns://gQw2Ni44NS4zMC4xMDU
-
-
-## anon-ev-va
+## anon-ev-canada
 
 Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
