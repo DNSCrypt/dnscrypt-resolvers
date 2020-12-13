@@ -1312,7 +1312,7 @@ sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6YWM0MzpiNjZhXSDlfOUtFRBtpOz9nhH9pf0dH
 Non-logging, uncensored DNS resolver provided by evilvibes.com
 Location: Vancouver, Canada
 
-sdns://AQcAAAAAAAAADjEwNC4zNi4xNDguMjIxIAIoavPDlz8aNzmlyqJLOWl_jbGqbpvdqCK-D_qVG5YCHTIuZG5zY3J5cHQtY2VydC5ldmlsdmliZXMuY29t
+sdns://AQcAAAAAAAAADjEwNC4zNi4xNDguMTkyICVfoDkWgfKPndAAvW1ke5CZIlsVj92u6qbBHHCZWgG9JzIuZG5zY3J5cHQtY2VydC5ldi1jYW5hZGEuZXZpbHZpYmVzLmNvbQ
 
 
 ## faelix-ch-ipv4

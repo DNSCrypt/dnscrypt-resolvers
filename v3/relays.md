@@ -184,7 +184,7 @@ sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
-sdns://gQ4xMDQuMzYuMTQ4LjIyMQ
+sdns://gQ4xMDQuMzYuMTQ4LjE5Mg
 
 
 ## anon-ibksturm
