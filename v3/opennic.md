@@ -19,7 +19,6 @@ doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Unce
 Hosted in Switzerland on by ibksturm, aka Andreas Ziegler
 
 sdns://AgcAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
-sdns://c1cf575000b05bc26c621f5ecf9aa2560acebf007ebecb3a7ff4b20de0b439eedd
 
 
 ## ibksturm
