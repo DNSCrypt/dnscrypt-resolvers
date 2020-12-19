@@ -935,6 +935,13 @@ Free | No filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnsc
 sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDUzIH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
 
 
+## dnscrypt.pl-guardian
+
+Free | Malware and phishing filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
+
+sdns://AQMAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDU0IH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
+
+
 ## dnscrypt.uk-ipv4
 
 DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
