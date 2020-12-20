@@ -244,6 +244,13 @@ Anonymized DNS relay hosted in Sydney, Australia and maintained by Sebastian Sch
 sdns://gRIxMzkuOTkuMjIyLjcyOjg0NDM
 
 
+## anon-pwoss.org
+
+Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
+
+sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
+
+
 ## anon-scaleway
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
