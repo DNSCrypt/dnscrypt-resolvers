@@ -1645,11 +1645,13 @@ Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France (Hivane) 
 
 sdns://AQcAAAAAAAAAETE5My4yMDAuNDMuMjU6NDQzIHWoRAcS1TLsAz3rlZSWzha6w8qR3awJciJuxaw4D8jIHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWZy
 
+
 ## moulticast-fr-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France (Hivane) | Operated by @herver (Github)
 
 sdns://AQcAAAAAAAAAHFsyMDAxOjY3YzoxNzQwOjkwMDU6OjI1XTo0NDMgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
+
 
 ## nextdns
 
