@@ -1639,6 +1639,18 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
+## moulticast-fr-ipv4
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France (Hivane) | Operated by @herver (Github)
+
+sdns://AQcAAAAAAAAAETE5My4yMDAuNDMuMjU6NDQzIHWoRAcS1TLsAz3rlZSWzha6w8qR3awJciJuxaw4D8jIHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWZy
+
+## moulticast-fr-ipv6
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France (Hivane) | Operated by @herver (Github)
+
+sdns://AQcAAAAAAAAAHFsyMDAxOjY3YzoxNzQwOjkwMDU6OjI1XTo0NDMgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
