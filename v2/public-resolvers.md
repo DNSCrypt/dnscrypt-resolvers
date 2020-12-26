@@ -150,7 +150,7 @@ sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRg
 
 Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAHFsyMDAxOmJjODoxODMwOjFlMTg6OjFdOjQzNDMgvBOI9XY-Pex18ckPyRW_torq3-scRfaYUYBjnGDn8WIfMi5kbnNjcnlwdC1jZXJ0LmFtcy1kbnNjcnlwdC1ubA
+sdns://AQcAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQzNDMgvBOI9XY-Pex18ckPyRW_torq3-scRfaYUYBjnGDn8WIfMi5kbnNjcnlwdC1jZXJ0LmFtcy1kbnNjcnlwdC1ubA
 
 
 ## ams-doh-nl
@@ -1624,18 +1624,74 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
+## moulticast-ca-ipv4
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAETE0OS41Ni4xNC4xNTk6NDQzIIKlTUK7MM6AnPvd4XZ6JiNFMJWAt6vNJUffu_TBAt8VHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWNh
+
+
+## moulticast-ca-ipv6
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAHlsyNjA3OjUzMDA6MjAxOjMxMDA6OjNkZmJdOjQ0MyCCpU1CuzDOgJz73eF2eiYjRTCVgLerzSVH37v0wQLfFR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1jYQ
+
+
+## moulticast-de-ipv4
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAETUxLjE5NS4xMTcuMjY6NDQzICNDdsvfl6v_uVWxeN68RertdEVeS6YQaUWk0TWbgDpwHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWRl
+
+
+## moulticast-de-ipv6
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAHlsyMDAxOjQxZDA6NzAxOjExMDA6OjVhMDNdOjQ0MyAjQ3bL35er_7lVsXjevEXq7XRFXkumEGlFpNE1m4A6cB0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1kZQ
+
+
 ## moulticast-fr-ipv4
 
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France (Hivane) | Operated by @herver (Github)
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
 sdns://AQcAAAAAAAAAETE5My4yMDAuNDMuMjU6NDQzIHWoRAcS1TLsAz3rlZSWzha6w8qR3awJciJuxaw4D8jIHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWZy
 
 
 ## moulticast-fr-ipv6
 
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France (Hivane) | Operated by @herver (Github)
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
 sdns://AQcAAAAAAAAAHFsyMDAxOjY3YzoxNzQwOjkwMDU6OjI1XTo0NDMgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
+
+
+## moulticast-sg-ipv4
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Singapore | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAETUxLjc5LjE1OC4xODM6NDQzIC-H3tskESNJYwjHtOc4UpnihmM_osylY8hNONDr6voFHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXNn
+
+
+## moulticast-sg-ipv6
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Singapore | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAHlsyNDAyOjFmMDA6ODAwMDo4MDA6OjEyYmFdOjQ0MyAvh97bJBEjSWMIx7TnOFKZ4oZjP6LMpWPITTjQ6-r6BR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1zZw
+
+
+## moulticast-uk-ipv4
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AQcAAAAAAAAAEjUxLjE5NS4yMDAuMTgyOjQ0MyDnRXuDi60f5AigvvKJhrOZsuasSMgYJJXVmaElJmLwjR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC11aw
+
+
+## moulticast-uk-ipv6
+
+Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github)
+
+sdns://AQcAAAAAAAAAHlsyMDAxOjQxZDA6ODAxOjIwMDA6OjMzYjhdOjQ0MyDnRXuDi60f5AigvvKJhrOZsuasSMgYJJXVmaElJmLwjR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC11aw
 
 
 ## nextdns
