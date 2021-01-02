@@ -752,6 +752,20 @@ https://dns.sb
 sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 
+## dnscrypt-ch-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAETQ1LjkwLjU3LjEyMTo4NDQzIFOE6BRDFCk-Vt0bFAoe8XKtR726F5nIlXKUlT0DTrXHGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
+
+
+## dnscrypt-ch-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAFVsyYTA1Ojk0MDY6OjE3NV06ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVylJU9A061xxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+
+
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -1037,6 +1051,20 @@ A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). B
 Server statistics can be seen at: https://statistics.pi-dns.com/?server=centraleu
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzBjOjgyMzM6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGGRvaC5jZW50cmFsZXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## doh-ch-blahdns
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAADDQ1LjkwLjU3LjEyMQAXZG9oLWNoLmJsYWhkbnMuY29tOjQ0NDMKL2Rucy1xdWVyeQ
+
+
+## doh-ch-blahdns-v6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAAEFsyYTA1Ojk0MDY6OjE3NV0AF2RvaC1jaC5ibGFoZG5zLmNvbTo0NDQzCi9kbnMtcXVlcnk
 
 
 ## doh-cleanbrowsing-adult
@@ -1628,70 +1656,70 @@ sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSD8qtxwT
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAETE0OS41Ni4xNC4xNTk6NDQzIIKlTUK7MM6AnPvd4XZ6JiNFMJWAt6vNJUffu_TBAt8VHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWNh
+sdns://AQcAAAAAAAAADTE0OS41Ni4xNC4xNTkggqVNQrswzoCc-93hdnomI0UwlYC3q80lR9-79MEC3xUdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtY2E
 
 
 ## moulticast-ca-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAHlsyNjA3OjUzMDA6MjAxOjMxMDA6OjNkZmJdOjQ0MyCCpU1CuzDOgJz73eF2eiYjRTCVgLerzSVH37v0wQLfFR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1jYQ
+sdns://AQcAAAAAAAAAGlsyNjA3OjUzMDA6MjAxOjMxMDA6OjNkZmJdIIKlTUK7MM6AnPvd4XZ6JiNFMJWAt6vNJUffu_TBAt8VHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWNh
 
 
 ## moulticast-de-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAETUxLjE5NS4xMTcuMjY6NDQzICNDdsvfl6v_uVWxeN68RertdEVeS6YQaUWk0TWbgDpwHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWRl
+sdns://AQcAAAAAAAAADTUxLjE5NS4xMTcuMjYgI0N2y9-Xq_-5VbF43rxF6u10RV5LphBpRaTRNZuAOnAdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZGU
 
 
 ## moulticast-de-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAHlsyMDAxOjQxZDA6NzAxOjExMDA6OjVhMDNdOjQ0MyAjQ3bL35er_7lVsXjevEXq7XRFXkumEGlFpNE1m4A6cB0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1kZQ
+sdns://AQcAAAAAAAAAGlsyMDAxOjQxZDA6NzAxOjExMDA6OjVhMDNdICNDdsvfl6v_uVWxeN68RertdEVeS6YQaUWk0TWbgDpwHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWRl
 
 
 ## moulticast-fr-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAETE5My4yMDAuNDMuMjU6NDQzIHWoRAcS1TLsAz3rlZSWzha6w8qR3awJciJuxaw4D8jIHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWZy
+sdns://AQcAAAAAAAAADTE5My4yMDAuNDMuMjUgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
 
 
 ## moulticast-fr-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAHFsyMDAxOjY3YzoxNzQwOjkwMDU6OjI1XTo0NDMgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
+sdns://AQcAAAAAAAAAGFsyMDAxOjY3YzoxNzQwOjkwMDU6OjI1XSB1qEQHEtUy7AM965WUls4WusPKkd2sCXIibsWsOA_IyB0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1mcg
 
 
 ## moulticast-sg-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Singapore | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAETUxLjc5LjE1OC4xODM6NDQzIC-H3tskESNJYwjHtOc4UpnihmM_osylY8hNONDr6voFHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXNn
+sdns://AQcAAAAAAAAADTUxLjc5LjE1OC4xODMgL4fe2yQRI0ljCMe05zhSmeKGYz-izKVjyE040Ovq-gUdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3Qtc2c
 
 
 ## moulticast-sg-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Singapore | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAHlsyNDAyOjFmMDA6ODAwMDo4MDA6OjEyYmFdOjQ0MyAvh97bJBEjSWMIx7TnOFKZ4oZjP6LMpWPITTjQ6-r6BR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1zZw
+sdns://AQcAAAAAAAAAGlsyNDAyOjFmMDA6ODAwMDo4MDA6OjEyYmFdIC-H3tskESNJYwjHtOc4UpnihmM_osylY8hNONDr6voFHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXNn
 
 
 ## moulticast-uk-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAEjUxLjE5NS4yMDAuMTgyOjQ0MyDnRXuDi60f5AigvvKJhrOZsuasSMgYJJXVmaElJmLwjR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC11aw
+sdns://AQcAAAAAAAAADjUxLjE5NS4yMDAuMTgyIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
 
 
 ## moulticast-uk-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github)
 
-sdns://AQcAAAAAAAAAHlsyMDAxOjQxZDA6ODAxOjIwMDA6OjMzYjhdOjQ0MyDnRXuDi60f5AigvvKJhrOZsuasSMgYJJXVmaElJmLwjR0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC11aw
+sdns://AQcAAAAAAAAAGlsyMDAxOjQxZDA6ODAxOjIwMDA6OjMzYjhdIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
 
 
 ## nextdns
