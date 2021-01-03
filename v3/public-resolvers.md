@@ -138,6 +138,54 @@ Warning: This server is incompatible with anonymization.
 sdns://AQcAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzNjo1NDQzILXoRNa4Oj4-EmjraB--pw3jxfpo29aIFB2_LsBmstr6JTIuZG5zY3J5cHQudW5maWx0ZXJlZC5uczEuYWRndWFyZC5jb20
 
 
+## ahadns-doh-nl
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Amsterdam, Netherlands. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=nl
+
+sdns://AgMAAAAAAAAACTUuMi43NS43NSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBFkb2gubmwuYWhhZG5zLm5ldAovZG5zLXF1ZXJ5
+
+
+## ahadns-doh-nl-ipv6
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Amsterdam, Netherlands. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=nl
+
+sdns://AgMAAAAAAAAAFlsyYTA0OjUyYzA6MTAxOjc1Ojo3NV0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLm5sLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
+## ahadns-doh-in
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Mumbai, India. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=in
+
+sdns://AgMAAAAAAAAADTQ1Ljc5LjEyMC4yMzMgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLmluLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
+## ahadns-doh-in-ipv6
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Mumbai, India. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=in
+
+sdns://AgMAAAAAAAAAF1syNDAwOjg5MDQ6ZTAwMTo0Mzo6NDNdID4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4EWRvaC5pbi5haGFkbnMubmV0Ci9kbnMtcXVlcnk
+
+
+## ahadns-doh-la
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=la
+
+sdns://AgMAAAAAAAAADTQ1LjY3LjIxOS4yMDggPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLmxhLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
+## ahadns-doh-la-ipv6
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=la
+
+sdns://AgMAAAAAAAAAFlsyYTA0OmJkYzc6MTAwOjcwOjo3MF0gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLmxhLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
 ## alidns-doh
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
@@ -1050,22 +1098,6 @@ https://www.dnspod.cn/Products/Public.DNS?lang=en
 sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kbnMtcXVlcnk
 
 
-## doh-centraleu-pi-dns
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=centraleu
-
-sdns://AgMAAAAAAAAADTg4LjE5OC45MS4xODegPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgYZG9oLmNlbnRyYWxldS5waS1kbnMuY29tCi9kbnMtcXVlcnk
-
-
-## doh-centraleu-pi-dns-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Nuremberg, Germany. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=centraleu
-
-sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzBjOjgyMzM6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGGRvaC5jZW50cmFsZXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
 ## doh-ch-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
@@ -1145,54 +1177,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6ZWM2Nzo6MV0AEmRvaC1kZS5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## doh-eastas-pi-dns
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Tokyo, Japan. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastas
-
-sdns://AgMAAAAAAAAADDY2LjQyLjMzLjEzNaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBVkb2guZWFzdGFzLnBpLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-eastas-pi-dns-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Tokyo, Japan. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastas
-
-sdns://AgMAAAAAAAAAGFsyMDAxOjE5ZjA6NzAwMToyMjVkOjoxXaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBVkb2guZWFzdGFzLnBpLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-eastau-pi-dns
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Sydney, Australia. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastau
-
-sdns://AgMAAAAAAAAADDQ1LjYzLjMwLjE2M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBVkb2guZWFzdGF1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-eastau-pi-dns-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Sydney, Australia. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastau
-
-sdns://AgMAAAAAAAAAF1syMDAxOjE5ZjA6NTgwMTpiN2M6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFWRvaC5lYXN0YXUucGktZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
-## doh-eastus-pi-dns
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in New York, USA. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastus
-
-sdns://AgMAAAAAAAAADjE4NS4yMTMuMjYuMTg3oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFWRvaC5lYXN0dXMucGktZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
-## doh-eastus-pi-dns-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in New York, USA. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=eastus
-
-sdns://AgMAAAAAAAAAFlsyYTBkOjU2MDA6MzM6Mzo6YWJjZF2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgVZG9oLmVhc3R1cy5waS1kbnMuY29tCi9kbnMtcXVlcnk
-
-
 ## doh-fi-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
@@ -1245,22 +1229,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.
 sdns://AgMAAAAAAAAAKVsyMDAxOjE5ZjA6NzAwMTozMjU5OjU0MDA6MDJmZjpmZTcxOjBiYzldABJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
-## doh-northeu-pi-dns
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Helsinki, Finland. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=northeu
-
-sdns://AgMAAAAAAAAADjk1LjIxNi4xODEuMjI4oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFmRvaC5ub3J0aGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-northeu-pi-dns-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Helsinki, Finland. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=northeu
-
-sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDFmOjQ6OmFiY2RdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFmRvaC5ub3J0aGV1LnBpLWRucy5jb20KL2Rucy1xdWVyeQ
-
-
 ## doh-sg-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
@@ -1273,22 +1241,6 @@ sdns://AgMAAAAAAAAADjEzOS4xODAuMTQxLjU3ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVye
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
 sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV0AEmRvaC1zZy5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
-## doh-westus-pi-dns
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Los Angeles, USA. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=westus
-
-sdns://AgMAAAAAAAAADTQ1LjY3LjIxOS4yMDigPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgVZG9oLndlc3R1cy5waS1kbnMuY29tCi9kbnMtcXVlcnk
-
-
-## doh-westus-pi-dns-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses and telemetry. No persistent logs, DNSSEC, Hosted in Los Angeles, USA. By https://pi-dns.com/
-Server statistics can be seen at: https://statistics.pi-dns.com/?server=westus
-
-sdns://AgMAAAAAAAAAGFsyYTA0OmJkYzc6MTAwOjcwOjphYmNkXaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBVkb2gud2VzdHVzLnBpLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh.appliedprivacy.net
