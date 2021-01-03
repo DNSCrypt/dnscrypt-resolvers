@@ -47,13 +47,6 @@ Anonymized DNS relay hosted in Barcelona, Spain.
 sdns://gRMxODUuMjUzLjE1NC42Njo0MzQz
 
 
-## anon-cs-ca2
-
-Anonymized DNS relay hosted in CA - Vancouver provided by https://cryptostorm.is/
-
-sdns://gQ8xNjIuMjIxLjIwNy4yMjg
-
-
 ## anon-cs-de2
 
 Anonymized DNS relay hosted in Frankfurt, Germany provided by https://cryptostorm.is/
@@ -108,13 +101,6 @@ sdns://gQ0xMDkuNzEuNDIuMjI4
 Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
 
 sdns://gQ8xMjguMTI3LjEwNC4xMDg
-
-
-## anon-cs-sk
-
-Anonymized DNS relay hosted in South Korea provided by https://cryptostorm.is/
-
-sdns://gQwyNy4yNTUuNzcuNTY
 
 
 ## anon-cs-usca
@@ -187,20 +173,6 @@ Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 sdns://gQ4xMDQuMzYuMTQ4LjE5Mg
 
 
-## anon-ibksturm
-
-Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
-
-sdns://gRI4My43OC4xMjAuMjI3Ojg0NDM
-
-
-## anon-ibksturm-ipv6
-
-Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
-
-sdns://gS5bMmEwMjoxMjA1OjM0ZTc6OGUzMDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
@@ -235,13 +207,6 @@ sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
 Anonymized DNS relay hosted in New Jersey, USA. Running the official Docker image on Vultr by @jlongua1
 
 sdns://gQ4xNzMuMTk5LjEyNi4zNQ
-
-
-## anon-publicarray
-
-Anonymized DNS relay hosted in Sydney, Australia and maintained by Sebastian Schmidt (@publicarray)
-
-sdns://gRIxMzkuOTkuMjIyLjcyOjg0NDM
 
 
 ## anon-pwoss.org
@@ -282,21 +247,6 @@ Anonymized DNS relay hosted in Netherlands by https://litepay.ch
 sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 
 
-## anon-skyfighter
-
-Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained by @tuttimann.
-
-sdns://gQs1MS4xNS42Mi42NQ
-
-
-## anon-skyfighter-ipv6
-
-Anonymized DNS relay hosted in Netherlands (https://scaleway.com) and maintained by @tuttimann.
-IPv6 only.
-
-sdns://gRdbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXQ
-
-
 ## anon-sth-se
 
 Anonymized DNS relay hosted in Sweden - SE
@@ -330,18 +280,4 @@ sdns://gQ8xMDQuMjM4LjE4Ni4xOTI
 Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
-
-
-## anon-yofiji-se-ipv4
-
-Anonymized DNS relay hosted in Sweden and maintained by yofiji.
-
-sdns://gQ8xODUuMTkzLjEyNy4yNDQ
-
-
-## anon-yofiji-se-ipv6
-
-Anonymized DNS relay hosted in Sweden and maintained by yofiji.
-
-sdns://gSVbMmEwYTozODQwOjEzMzc6MTI3OjA6YjljMTo3ZmY0OjEzMzdd
 
