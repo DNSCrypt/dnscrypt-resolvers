@@ -38,7 +38,7 @@ sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
 
 Anonymized DNS relay hosted in Netherlands - NL
 
-sdns://gRxbMjAwMTpiYzg6MTgzMDoxZTE4OjoxXTo0MzQz
+sdns://gRxbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXTo0MzQz
 
 
 ## anon-bcn
