@@ -1600,13 +1600,6 @@ Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operat
 sdns://AQcAAAAAAAAADTUxLjE5NS4xMTcuMjYgI0N2y9-Xq_-5VbF43rxF6u10RV5LphBpRaTRNZuAOnAdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZGU
 
 
-## moulticast-de-ipv6
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAAGlsyMDAxOjQxZDA6NzAxOjExMDA6OjVhMDNdICNDdsvfl6v_uVWxeN68RertdEVeS6YQaUWk0TWbgDpwHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWRl
-
-
 ## moulticast-fr-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
@@ -1614,11 +1607,18 @@ Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operate
 sdns://AQcAAAAAAAAADTE5My4yMDAuNDMuMjUgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
 
 
-## moulticast-fr-ipv6
+## moulticast-ipv6
 
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+Public | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAGFsyMDAxOjY3YzoxNzQwOjkwMDU6OjI1XSB1qEQHEtUy7AM965WUls4WusPKkd2sCXIibsWsOA_IyB0yLmRuc2NyeXB0LWNlcnQubW91bHRpY2FzdC1mcg
+sdns://AQcAAAAAAAAAGVsyMDAxOjY3ODpkMDg6ZmY6OjU0XTo0NDMgO9VcR9yJiEHY9-mxpgtDzW7aVicALzYmKgarRRvV73wnMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm1vdWx0aWNhc3QubmV0
+
+
+## moulticast-doh-ipv6
+
+Public DoH | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjUzXQASZG5zLm1vdWx0aWNhc3QubmV0Ci9kbnMtcXVlcnk
 
 
 ## moulticast-sg-ipv4
@@ -1640,13 +1640,6 @@ sdns://AQcAAAAAAAAAGlsyNDAyOjFmMDA6ODAwMDo4MDA6OjEyYmFdIC-H3tskESNJYwjHtOc4Upnih
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
 sdns://AQcAAAAAAAAADjUxLjE5NS4yMDAuMTgyIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
-
-
-## moulticast-uk-ipv6
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github)
-
-sdns://AQcAAAAAAAAAGlsyMDAxOjQxZDA6ODAxOjIwMDA6OjMzYjhdIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
 
 
 ## nextdns
