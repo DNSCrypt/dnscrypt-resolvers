@@ -1600,6 +1600,13 @@ Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operat
 sdns://AQcAAAAAAAAADTUxLjE5NS4xMTcuMjYgI0N2y9-Xq_-5VbF43rxF6u10RV5LphBpRaTRNZuAOnAdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZGU
 
 
+## moulticast-doh-ipv6
+
+Public DoH | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
+
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjUzXQASZG5zLm1vdWx0aWNhc3QubmV0Ci9kbnMtcXVlcnk
+
+
 ## moulticast-fr-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
@@ -1611,14 +1618,7 @@ sdns://AQcAAAAAAAAADTE5My4yMDAuNDMuMjUgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPy
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
-sdns://AQcAAAAAAAAAGVsyMDAxOjY3ODpkMDg6ZmY6OjU0XTo0NDMgO9VcR9yJiEHY9-mxpgtDzW7aVicALzYmKgarRRvV73wnMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm1vdWx0aWNhc3QubmV0
-
-
-## moulticast-doh-ipv6
-
-Public DoH | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjUzXQASZG5zLm1vdWx0aWNhc3QubmV0Ci9kbnMtcXVlcnk
+sdns://AQcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjU0XSA71VxH3ImIQdj36bGmC0PNbtpWJwAvNiYqBqtFG9XvfCcyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQubW91bHRpY2FzdC5uZXQ
 
 
 ## moulticast-sg-ipv4
