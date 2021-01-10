@@ -1002,6 +1002,11 @@ https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAADTE2NS4yMzIuMzIuOTUgAdMO6A4gTdoYcdOhDyhRVGdlvxS02kQEpP8EbX2paDwbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnVr
 
+## doh-dnscrypt.uk-ipv4
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAADTE2NS4yMzIuMzIuOTUgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgOZG8uZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
 
 ## dnscrypt.uk-ipv6
 
@@ -1010,6 +1015,40 @@ https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZb8UtNpEBKT_BG19qWg8GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC51aw
 
+## doh-dnscrypt.uk-ipv6
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdOjQ0MyAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5kby5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
+
+## v.dnscrypt.uk-ipv4
+
+DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiDtST2M6teQZk8GPEe3lZojaS18kDY8nkPMtZF75bQe5R0yLmRuc2NyeXB0LWNlcnQudi5kbnNjcnlwdC51aw
+
+## doh-v.dnscrypt.uk-ipv4
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA12LmRuc2NyeXB0LnVrCi9kbnMtcXVlcnk
+
+## v.dnscrypt.uk-ipv6
+
+DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
+
+## doh-v.dnscrypt.uk-ipv6
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAALFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl06NDQzIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDXYuZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
 
 ## dnsforfamily
 
@@ -2008,23 +2047,6 @@ sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9u
 Deutsche Telekom experimental DoH server.
 
 sdns://AgUAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiApkbnMudDUzLmRlCi9kbnMtcXVlcnk
-
-
-## v.dnscrypt.uk-ipv4
-
-DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
-https://www.dnscrypt.uk
-
-sdns://AQcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiDtST2M6teQZk8GPEe3lZojaS18kDY8nkPMtZF75bQe5R0yLmRuc2NyeXB0LWNlcnQudi5kbnNjcnlwdC51aw
-
-
-## v.dnscrypt.uk-ipv6
-
-DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
-https://www.dnscrypt.uk
-
-sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
-
 
 ## ventricle.us
 
