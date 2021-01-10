@@ -1153,6 +1153,22 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6ZWM2Nzo6MV0AEmRvaC1kZS5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
+## doh-dnscrypt.uk-ipv4
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAADTE2NS4yMzIuMzIuOTUgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgOZG8uZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
+
+
+## doh-dnscrypt.uk-ipv6
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdOjQ0MyAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5kby5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
+
+
 ## doh-fi-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
@@ -1217,6 +1233,22 @@ sdns://AgMAAAAAAAAADjEzOS4xODAuMTQxLjU3ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVye
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
 sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV0AEmRvaC1zZy5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## doh-v.dnscrypt.uk-ipv4
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA12LmRuc2NyeXB0LnVrCi9kbnMtcXVlcnk
+
+
+## doh-v.dnscrypt.uk-ipv6
+
+DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAALFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl06NDQzIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDXYuZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
 
 
 ## doh.appliedprivacy.net
