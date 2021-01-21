@@ -229,22 +229,13 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
-## arapurayil-dnscrypt
+## arapurayil-doh-in
 
-Hosted in Mumbai, India (https://www.dns.arapurayil.com)
-Non-logging | Filtering | DNSSEC | QNAME Minimization | No EDNS Client-Subnet
+DoH,DoT,DoQ server @ Mumbai, India (https://www.dns.arapurayil.com)
+Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
 Blocks ads, trackers, resource-abusers, malware, and phishing.
 
-sdns://AQMAAAAAAAAAEDMuNy4xNTYuMTI4Ojg0NDMgDXD9OSDJDwe2q9bi836PURTP14NLYS03RbDq6j891ZciMi5kbnNjcnlwdC1jZXJ0LmRucy5hcmFwdXJheWlsLmNvbQ
-
-
-## arapurayil-doh
-
-Hosted in Mumbai, India (https://www.dns.arapurayil.com)
-Non-logging | Filtering | DNSSEC | QNAME Minimization | No EDNS Client-Subnet
-Blocks ads, trackers, resource-abusers, malware, and phishing.
-
-sdns://AgMAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAACAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
 
 
 ## arvind-io
@@ -1166,7 +1157,7 @@ sdns://AgcAAAAAAAAADTE2NS4yMzIuMzIuOTUgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKli
 DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
 https://www.dnscrypt.uk
 
-sdns://AgcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdOjQ0MyAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5kby5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDmRvLmRuc2NyeXB0LnVrCi9kbnMtcXVlcnk
 
 
 ## doh-fi-blahdns
@@ -1248,7 +1239,7 @@ sdns://AgcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMw
 DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
 https://www.dnscrypt.uk
 
-sdns://AgcAAAAAAAAALFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl06NDQzIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDXYuZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNdi5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
 
 
 ## doh.appliedprivacy.net

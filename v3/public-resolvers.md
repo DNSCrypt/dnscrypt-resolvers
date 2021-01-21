@@ -245,7 +245,7 @@ DoH,DoT,DoQ server @ Mumbai, India (https://www.dns.arapurayil.com)
 Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
 Blocks ads, trackers, resource-abusers, malware, and phishing.
 
-sdns://AgMAAAAAAAAAAAASZG5zLmFyYXB1cmF5aWwuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
 
 
 ## arvind-io
@@ -1172,7 +1172,7 @@ sdns://AgcAAAAAAAAADTE2NS4yMzIuMzIuOTUgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKli
 DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
 https://www.dnscrypt.uk
 
-sdns://AgcAAAAAAAAAHlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdOjQ0MyAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5kby5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDmRvLmRuc2NyeXB0LnVrCi9kbnMtcXVlcnk
 
 
 ## doh-fi-blahdns
@@ -1254,7 +1254,7 @@ sdns://AgcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMw
 DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
 https://www.dnscrypt.uk
 
-sdns://AgcAAAAAAAAALFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl06NDQzIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDXYuZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNdi5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
 
 
 ## doh.appliedprivacy.net
