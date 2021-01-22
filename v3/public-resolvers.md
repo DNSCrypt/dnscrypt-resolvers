@@ -2033,6 +2033,15 @@ Deutsche Telekom experimental DoH server.
 sdns://AgUAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiApkbnMudDUzLmRlCi9kbnMtcXVlcnk
 
 
+## therifleman.name
+
+DoH, Dot, plain DNS Adguard Home based resolver in Mumbai, India. 24hrs logging (for debugging).
+Blocks trackers, ads. No DNS query data is shared with anybody.
+Report issues, send suggessions @ joker34 at protonmail.com
+
+sdns://AgAAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAYaHR0cHM6Ly90aGVyaWZsZW1hbi5uYW1lCi9kbnMtcXVlcnk
+sdns://AwAAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAQdGhlcmlmbGVtYW4ubmFtZQ
+
 ## v.dnscrypt.uk-ipv4
 
 DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
