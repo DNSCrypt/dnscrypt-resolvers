@@ -1884,7 +1884,7 @@ to upstream servers in East Asia.
 
 https://www.rubyfish.cn/
 
-sdns://AgUAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJlYS1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJlYS1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
 
 
 ## rubyfish-uw
@@ -1894,7 +1894,7 @@ to US-West.
 
 https://www.rubyfish.cn/
 
-sdns://AgUAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJ1dy1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJ1dy1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
 
 
 ## rumpelsepp.org
