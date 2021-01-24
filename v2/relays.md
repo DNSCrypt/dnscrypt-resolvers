@@ -41,6 +41,20 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRxbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXTo0MzQz
 
 
+## anon-arapurayil-in-ipv4
+
+Anonymized DNS relay located in Mumbai, India
+
+sdns://gRAzLjcuMTc2LjEyMzo4NDQz
+
+
+## anon-arapurayil-in-ipv6
+
+Anonymized DNS relay located in Mumbai, India
+
+sdns://gSxbMjQwNjpkYTFhOmM1OTphZTAwOjIwZjpkYmY1OmExMmM6NWFmYl06ODQ0Mw
+
+
 ## anon-bcn
 
 Anonymized DNS relay hosted in Barcelona, Spain.
@@ -281,4 +295,18 @@ sdns://gQ8xMDQuMjM4LjE4Ni4xOTI
 Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
+
+
+## anon-yepdns-sg-ipv4
+
+Anonymized DNS relay hosted in Singapore
+
+sdns://gRE5NC4yMzcuNjguODA6ODQ0Mw
+
+
+## anon-yepdns-sg-ipv6
+
+Anonymized DNS relay hosted in Singapore
+
+sdns://gS1bMmEwNDozNTQzOjEwMDA6MjMxMDo0ODMxOmMxZmY6ZmViNTo1NTY3XTo0NDM
 

@@ -238,6 +238,7 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
+
 ## arapurayil-dnscrypt-in-ipv4
 
 DNSCrypt v2 server(ipv4). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India. Visit https://www.dns.arapurayil.com for details.
@@ -245,12 +246,14 @@ Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No
 
 sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjg0NDMggyXjcEBxUFeQc2O5FaBzadiWC6vE6NTTQP84IY-Xfl8dMi5kbnNjcnlwdC1jZXJ0LmFyYXB1cmF5aWwtaW4
 
+
 ## arapurayil-dnscrypt-in-ipv6
 
 DNSCrypt v2 server(ipv6). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
 Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
 
 sdns://AQMAAAAAAAAALFsyNDA2OmRhMWE6YzU5OmFlMDA6MjBmOmRiZjU6YTEyYzo1YWZiXTo4NDQzIIMl43BAcVBXkHNjuRWgc2nYlgurxOjU00D_OCGPl35fHTIuZG5zY3J5cHQtY2VydC5hcmFwdXJheWlsLWlu
+
 
 ## arapurayil-doh-in
 
@@ -2074,17 +2077,20 @@ Yandex public DNS server (anycast)
 
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
+
 ## yepdns-dnscrypt-sg-ipv4
 
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
 
 sdns://AQMAAAAAAAAAETk0LjIzNy42OC44MDo4NDQzIHoxYc1seP38R7YSxInE5OxkqaJWgUbfncQoWRTLwvPjGTIuZG5zY3J5cHQtY2VydC55ZXBkbnMtc2c
 
+
 ## yepdns-dnscrypt-sg-ipv6
 
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
 
 sdns://AQMAAAAAAAAALVsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjU1NjddOjQ0MyB6MWHNbHj9_Ee2EsSJxOTsZKmiVoFG353EKFkUy8Lz4xkyLmRuc2NyeXB0LWNlcnQueWVwZG5zLXNn
+
 
 ## yepdns-doh-sg
 
