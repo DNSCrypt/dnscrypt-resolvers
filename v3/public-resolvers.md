@@ -830,7 +830,8 @@ DoH, Dot, plain DNS Adguard Home based resolver in Mumbai, India. 24hrs logging 
 Blocks trackers, ads. No DNS query data is shared with anybody.
 Report issues, send suggessions @ joker34 at protonmail.com
 
-sdns://AgIAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAcaHR0cHM6Ly9kbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAcaHR0cHM6Ly9kbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
+
 
 ## dot-dns.therifleman.name
 
@@ -838,7 +839,7 @@ DoH, Dot, plain DNS Adguard Home based resolver in Mumbai, India. 24hrs logging 
 Blocks trackers, ads. No DNS query data is shared with anybody.
 Report issues, send suggessions @ joker34 at protonmail.com
 
-sdns://AwIAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAUZG5zLnRoZXJpZmxlbWFuLm5hbWU
+sdns://AwMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAUZG5zLnRoZXJpZmxlbWFuLm5hbWU
 
 
 ## dnscrypt-ch-blahdns-ipv4
