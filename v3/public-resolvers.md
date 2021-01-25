@@ -828,7 +828,7 @@ sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 DoH, Dot, plain DNS Adguard Home based resolver in Mumbai, India. 24hrs logging (for debugging).
 Blocks trackers, ads. No DNS query data is shared with anybody.
-Report issues, send suggessions @ joker34 at protonmail.com
+Report issues, send suggessions @ joker349 at protonmail.com
 
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAcaHR0cHM6Ly9kbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
@@ -837,7 +837,7 @@ sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAcaHR0cHM6Ly9kbnMudGhlcmlmbGVtYW4ubmFtZ
 
 DoH, Dot, plain DNS Adguard Home based resolver in Mumbai, India. 24hrs logging (for debugging).
 Blocks trackers, ads. No DNS query data is shared with anybody.
-Report issues, send suggessions @ joker34 at protonmail.com
+Report issues, send suggessions @ joker349 at protonmail.com
 
 sdns://AwMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAUZG5zLnRoZXJpZmxlbWFuLm5hbWU
 
