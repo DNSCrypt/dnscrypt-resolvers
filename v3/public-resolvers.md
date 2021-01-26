@@ -2116,3 +2116,17 @@ Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
 
 sdns://AgMAAAAAAAAAAAANc2cueWVwZG5zLmNvbQovZG5zLXF1ZXJ5
 
+
+## zackptg5-us-il-ipv4
+
+DNSSEC/unfiltered/non-logged. Hosted on Vultr in Chicago, IL. Running the official Docker image by @zackptg5
+
+sdns://AQcAAAAAAAAAETEzNy4yMjAuNTkuNjI6NDQzIEzTIwoduzgzHk_81A0eMlfy_Ylp6l08sjLsi3gEFtHnHjIuZG5zY3J5cHQtY2VydC56YWNrcHRnNS11cy1pbA
+
+
+## zackptg5-us-il-ipv6
+
+DNSSEC/unfiltered/non-logged. Hosted on Vultr in Chicago, IL. Running the official Docker image by @zackptg5
+
+sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6NWMwMToxNDdlOjU0MDA6M2ZmOmZlMmE6M2IxZl06NDQzIEzTIwoduzgzHk_81A0eMlfy_Ylp6l08sjLsi3gEFtHnHjIuZG5zY3J5cHQtY2VydC56YWNrcHRnNS11cy1pbA
+
