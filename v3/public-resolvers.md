@@ -827,6 +827,15 @@ https://dns.sb
 sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 
+## dns.therifleman.name
+
+DNS-over-HTTPS DNS resolver from Mumbai, India. Blocks Web and Android trackers and Ads.
+Hosted on Linode instance. 24hrs logging (for debugging). No DNS query data is shared with anybody.
+Report issues, send suggestions @ joker349 at protonmail.com. Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.206.174
+
+sdns://AgEAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAUZG5zLnRoZXJpZmxlbWFuLm5hbWUKL2Rucy1xdWVyeQ
+
+
 ## dnscrypt-ch-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
