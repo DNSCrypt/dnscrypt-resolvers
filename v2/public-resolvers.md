@@ -1593,6 +1593,25 @@ no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hos
 sdns://AgIAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA9kb2gubGlicmVkbnMuZ3IEL2Fkcw
 
 
+## linuxsec-adguard
+
+Non-logging DoH with malware and ad blocker. Resolver located in the Indonesia. Operated by LinuxSec.
+
+https://doh.linuxsec.org
+
+sdns://AgcAAAAAAAAADDEwMy44NS4xNS42MCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBBkb2gubGludXhzZWMub3JnCC9hZGd1YXJk
+
+
+## linuxsec-doh
+
+Non-logging DoH server in the Indonesia operated by LinuxSec.
+Report any issues to rin@linuxsec.org
+
+https://doh.linuxsec.org
+
+sdns://AgcAAAAAAAAADDEwMy44NS4xNS42MCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBBkb2gubGludXhzZWMub3JnCi9kbnMtcXVlcnk
+
+
 ## meganerd
 
 DNSCrypt server by MegaNerd.nl (IPv4) - https://meganerd.nl/encrypted-dns-server
