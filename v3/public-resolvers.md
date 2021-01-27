@@ -824,13 +824,13 @@ https://dns.sb
 sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 
-## doh-dns.therifleman.name
+## dns.therifleman.name
 
-DoH, Dot, plain DNS Adguard Home based resolver in Mumbai, India. 24hrs logging (for debugging).
-Blocks trackers, ads. No DNS query data is shared with anybody.
-Report issues, send suggessions @ joker349 at protonmail.com
+DNS-over-HTTPS DNS resolver from Mumbai, India. Blocks Web and Android trackers and Ads.
+Hosted on Linode instance. 24hrs logging (for debugging). No DNS query data is shared with anybody.
+Report issues, send suggestions @ joker349 at protonmail.com. Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.206.174
 
-sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAcaHR0cHM6Ly9kbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAUZG5zLnRoZXJpZmxlbWFuLm5hbWUKL2Rucy1xdWVyeQ
 
 
 ## dnscrypt-ch-blahdns-ipv4
