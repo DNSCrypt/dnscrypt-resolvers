@@ -30,9 +30,8 @@ company providing Internet connectivity and VoIP in the UK.
 
 https://www.aa.net.uk/legal/dohdot-disclaimer/
 
-sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNZG5zLmFhLm5ldC51awovZG5zLXd1ZXJ5
-
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
+
 
 ## aaflalo-me-gcp
 
@@ -67,8 +66,6 @@ sdns://AQcAAAAAAAAADTUxLjE1OC4xNjYuOTcgAyfzz5J-mV9G-yOB4Hwcdk7yX12EQs5Iva7kV3oGt
 ## acsacsar-ams-ipv6
 
 Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
-
-sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQs5Iva7kV3oGtlEgMi5kbnNjcnlwdC1jZXJ0LmFjc2Fjc2FyLWFtcy5jb20
 
 sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQs5Iva7kV3oGtlEgMi5kbnNjcnlwdC1jZXJ0LmFjc2Fjc2FyLWFtcy5jb20
 
@@ -829,11 +826,12 @@ sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 ## dns.therifleman.name
 
-DNS-over-HTTPS DNS resolver from Mumbai, India. Blocks Web and Android trackers and Ads.
-Hosted on Linode instance. 24hrs logging (for debugging). No DNS query data is shared with anybody.
-Report issues, send suggestions @ joker349 at protonmail.com. Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.206.174
+DNS-over-HTTPS DNS forwarder from Mumbai, India. Blocks web and Android trackers and ads.
+Forwards queries to Linode DNS resolvers. 24hrs logging (for debugging).
+Report issues, send suggestions @ joker349 at protonmail.com.
+Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.206.174
 
-sdns://AgEAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NAAUZG5zLnRoZXJpZmxlbWFuLm5hbWUKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
 
 ## dnscrypt-ch-blahdns-ipv4
