@@ -5,7 +5,7 @@ cd linux-x86_64 || exit 1
 
 NEW_ENTRIES="new-entries.txt"
 git fetch --all
-git diff origin/master | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
+git diff origin/master -- ../v3 | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
 if [ ! -s "$NEW_ENTRIES" ]; then
     echo "No new entries found"
     exit 0
