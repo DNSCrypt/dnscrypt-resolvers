@@ -2093,7 +2093,7 @@ sdns://AQMAAAAAAAAAETk0LjIzNy42OC44MDo4NDQzIHoxYc1seP38R7YSxInE5OxkqaJWgUbfncQoW
 
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
 
-sdns://AQMAAAAAAAAALVsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjU1NjddOjQ0MyB6MWHNbHj9_Ee2EsSJxOTsZKmiVoFG353EKFkUy8Lz4xkyLmRuc2NyeXB0LWNlcnQueWVwZG5zLXNn
+sdns://AQMAAAAAAAAAKVsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjU1NjddIHoxYc1seP38R7YSxInE5OxkqaJWgUbfncQoWRTLwvPjGTIuZG5zY3J5cHQtY2VydC55ZXBkbnMtc2c
 
 
 ## yepdns-doh-sg
@@ -2107,12 +2107,12 @@ sdns://AgMAAAAAAAAAAAANc2cueWVwZG5zLmNvbQovZG5zLXF1ZXJ5
 
 DNSSEC/unfiltered/non-logged. Hosted on Vultr in Chicago, IL. Running the official Docker image by @zackptg5
 
-sdns://AQcAAAAAAAAAETEzNy4yMjAuNTkuNjI6NDQzIEzTIwoduzgzHk_81A0eMlfy_Ylp6l08sjLsi3gEFtHnHjIuZG5zY3J5cHQtY2VydC56YWNrcHRnNS11cy1pbA
+sdns://AQcAAAAAAAAADTEzNy4yMjAuNTkuNjIgTNMjCh27ODMeT_zUDR4yV_L9iWnqXTyyMuyLeAQW0eceMi5kbnNjcnlwdC1jZXJ0LnphY2twdGc1LXVzLWls
 
 
 ## zackptg5-us-il-ipv6
 
 DNSSEC/unfiltered/non-logged. Hosted on Vultr in Chicago, IL. Running the official Docker image by @zackptg5
 
-sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6NWMwMToxNDdlOjU0MDA6M2ZmOmZlMmE6M2IxZl06NDQzIEzTIwoduzgzHk_81A0eMlfy_Ylp6l08sjLsi3gEFtHnHjIuZG5zY3J5cHQtY2VydC56YWNrcHRnNS11cy1pbA
+sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NWMwMToxNDdlOjU0MDA6M2ZmOmZlMmE6M2IxZl0gTNMjCh27ODMeT_zUDR4yV_L9iWnqXTyyMuyLeAQW0eceMi5kbnNjcnlwdC1jZXJ0LnphY2twdGc1LXVzLWls
 
