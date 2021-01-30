@@ -29,11 +29,12 @@ while read -r stamp; do
     echo "* Checking resolver with stamp:"
     echo "$stamp"
     echo
-    cp example-dnscrypt-proxy.toml "$CONFIG"
-    sed -i -e 's/listen_addresses.*/listen_addresses = ["127.0.0.1:5300"]/' "$CONFIG"
-    sed -i -e 's/# *server_names.*/server_names = ["test"]/' "$CONFIG"
-    echo '[static."test"]' >>"$CONFIG"
-    echo "stamp = '${stamp}'" >>"$CONFIG"
+    {
+        echo 'listen_addresses = ["127.0.0.1:5300"]'
+        echo 'server_names = ["test"]'
+        echo '[static."test"]'
+        echo "stamp = '${stamp}'"
+    } >"$CONFIG"
     ./dnscrypt-proxy -config "$CONFIG" -pidfile "$PIDFILE" -logfile "$LOGFILE" -loglevel 1 &
     sleep 5
     if grep -q 'ERROR.*\[.*:.*]:' "$LOGFILE"; then
