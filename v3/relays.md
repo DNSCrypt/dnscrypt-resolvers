@@ -303,13 +303,6 @@ Anonymized DNS relay hosted in Singapore
 sdns://gRE5NC4yMzcuNjguODA6ODQ0Mw
 
 
-## anon-yepdns-sg-ipv6
-
-Anonymized DNS relay hosted in Singapore
-
-sdns://gS1bMmEwNDozNTQzOjEwMDA6MjMxMDo0ODMxOmMxZmY6ZmViNTo1NTY3XTo0NDM
-
-
 ## anon-zackptg5-us-il-ipv4
 
 Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
