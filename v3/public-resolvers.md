@@ -1579,12 +1579,24 @@ sdns://AgIAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6
 
 ## linuxsec-doh
 
-Non-logging DoH server in the Indonesia operated by LinuxSec.
-Report any issues to rin@linuxsec.org
+DoH server operated by LinuxSec. Server located in the Indonesia.
+
+Non-logging, AD-filtering, supports DNSSEC.
 
 https://doh.linuxsec.org
 
 sdns://AgcAAAAAAAAADDEwMy44NS4xNS42MCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBBkb2gubGludXhzZWMub3JnCi9kbnMtcXVlcnk
+
+
+## linuxsec-adguard	
+
+DoH Server with AdGuard Home for ads blocking. Operated by LinuxSec.
+
+Non-logging, AD-filtering, supports DNSSEC. 
+
+https://doh.linuxsec.org	
+
+sdns://AgMAAAAAAAAADDEwMy44NS4xNS42MCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBBkb2gubGludXhzZWMub3JnCC9hZGd1YXJk
 
 
 ## meganerd
