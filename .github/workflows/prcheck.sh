@@ -1,5 +1,15 @@
 #! /bin/sh
 
+for aux in v3/parental-control.md v3/opennic.md; do
+    grep '^## ' "$aux" | while read entry; do
+        if ! grep -Fq "$entry" v3/public-resolvers.md; then
+            echo "Present in [$aux] but not in public-resolvers.md:"
+            echo "$entry"
+            exit 1
+        fi
+    done
+done
+
 curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_x86_64-2.0.45.tar.gz | tar xzvf -
 cd linux-x86_64 || exit 1
 
