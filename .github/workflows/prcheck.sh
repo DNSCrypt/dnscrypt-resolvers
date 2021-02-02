@@ -10,24 +10,29 @@ for aux in v3/parental-control.md v3/opennic.md; do
     done
 done
 
-curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_x86_64-2.0.45.tar.gz | tar xzvf -
-cd linux-x86_64 || exit 1
+DUPLICATES="duplicates.txt"
+for aux in v3/*.md; do
+    (
+        grep '^##' "$aux" | tr A-Z a-z
+        grep '^sdns://' "$aux"
+    ) | sort | uniq -d >"$DUPLICATES"
+    if [ -s "$DUPLICATES" ]; then
+        echo "** DUPLICATES FOUND in [$aux] **"
+        cat "$DUPLICATES"
+        exit 1
+    fi
+done
 
 NEW_ENTRIES="new-entries.txt"
 git fetch --all
-git diff origin/master -- ../v3 | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
+git diff origin/master -- v3 | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
 if [ ! -s "$NEW_ENTRIES" ]; then
     echo "No new entries found"
     exit 0
 fi
 
-DUPLICATES="duplicates.txt"
-uniq -d "$NEW_ENTRIES" >"$DUPLICATES"
-if [ -s "$DUPLICATES" ]; then
-    echo "** DUPLICATES FOUND **"
-    cat "$DUPLICATES"
-    exit 1
-fi
+curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_x86_64-2.0.45.tar.gz | tar xzvf -
+cd linux-x86_64 || exit 1
 
 exit_code=0
 
