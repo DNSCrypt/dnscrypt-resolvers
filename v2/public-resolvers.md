@@ -1988,13 +1988,6 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
 
-## soltysiak
-
-Public DNSCrypt server in Poland
-
-sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjIyMjoyMDUzICXE4YgpFUaXj5wrvbanr6QB7aBRBQhdUwPnGSjAZo8hHTIuZG5zY3J5cHQtY2VydC5zb2x0eXNpYWsuY29t
-
-
 ## sth-dnscrypt-se
 
 Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
