@@ -832,13 +832,6 @@ Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.2
 sdns://AgEAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
 
-## dnscrypt-ch-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAETQ1LjkwLjU3LjEyMTo4NDQzIFOE6BRDFCk-Vt0bFAoe8XKtR726F5nIlXKUlT0DTrXHGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
-
 ## dnscrypt-ch-blahdns-ipv6
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
