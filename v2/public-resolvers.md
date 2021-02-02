@@ -23,17 +23,6 @@ https://www.aa.net.uk/legal/dohdot-disclaimer/
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
 
 
-## aaflalo-me-gcp
-
-Same as aaflalo-me-nyc. Use aaflalo-me-nyc.
-
-Kept for backward compatibility with people using this server.
-
-https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
-
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
 ## aaflalo-me-nyc
 
 DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
@@ -1216,7 +1205,7 @@ sdns://AgcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIDKG_2WmX68yCF7qE4jDc4un4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
 
-sdns://AQMAAAAAAAAAEzk1LjIxNi4yMTIuMTc3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+sdns://AgMAAAAAAAAADjk1LjIxNi4yMTIuMTc3ABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh-fi-blahdns-v6
@@ -1796,14 +1785,6 @@ sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bB
 Second public DNS server in Canada operated by Luggs
 
 sdns://AQYAAAAAAAAADDE0Mi40LjIwNS40NyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
-
-
-## opennic-rico4514
-
-OpenNIC • Non-logging • No DNSSEC
-Location: Texas, 13, MX
-
-sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
 
 
 ## oszx

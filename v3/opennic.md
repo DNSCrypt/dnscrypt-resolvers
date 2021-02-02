@@ -53,14 +53,6 @@ Second public DNS server in Canada operated by Luggs
 sdns://AQYAAAAAAAAADDE0Mi40LjIwNS40NyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
 
 
-## opennic-rico4514
-
-OpenNIC • Non-logging • No DNSSEC
-Location: Texas, 13, MX
-
-sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
-
-
 ## publicarray-au
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
