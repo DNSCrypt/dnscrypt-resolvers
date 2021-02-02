@@ -1764,15 +1764,6 @@ Location: Nurnberg, Germany
 sdns://AQcAAAAAAAAAEDc4LjQ3LjI0My4zOjEwNTMgN4CAbUDR-b3uJJMVzfCdL9ivVV7s8wRhifLRPWBfSmQdMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
 
 
-## opennic-iriseden
-
-OpenNIC • Non-logging • DNSSEC
-Location: Paris, France
-Maintained by iriseden.
-
-sdns://AQcAAAAAAAAAEzYyLjIxMC4xNzcuMTg5OjEwNTMgW8vytBGk6u3kvCpl4q88XjqW-w6JJiJ7QBObcFV7gYAfMi5kbnNjcnlwdC1jZXJ0Lm5zMS5pcmlzZWRlbi5mcg
-
-
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
