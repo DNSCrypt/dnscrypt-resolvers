@@ -542,13 +542,6 @@ Maintained by CPI-tech-Group
 sdns://AgMAAAAAAAAAKVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddIDn2rvjN5RXjFUlc9e8vDQbWmLdh2hoXgWyTBLEYmNLUE2Rucy5jb250YWluZXJwaS5jb20KL2Rucy1xdWVyeQ
 
 
-## cs-ca
-
-Canada DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADzE2Mi4yMjEuMjA3LjIyOCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-ca2
 
 Secondary Canada DNSCrypt server provided by https://cryptostorm.is/
@@ -623,13 +616,6 @@ Sweden DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADzEyOC4xMjcuMTA0LjEwOCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-usca
-
-US - CA DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADDIzLjE5LjY3LjExNiAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-usga
 
 US - GA DNSCrypt server provided by https://cryptostorm.is/
@@ -653,27 +639,11 @@ US - NC DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADjE1NS4yNTQuMjkuMTEzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-usor
-
-US - OR DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADTEwNC4yNTUuMTc1LjIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-ustx
 
 US - TX DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQIAAAAAAAAADTIwOS41OC4xNDcuMzYgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-uswa
-
-US - WA DNSCrypt server provided by https://cryptostorm.is/
-
-Warning: this server is incompatible with DNS anonymization.
-
-sdns://AQIAAAAAAAAADDY0LjEyMC41LjI1MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cz.nic
@@ -1729,15 +1699,6 @@ Non-logging DoH server in Sweden operated by Njalla.
 https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
-
-
-## opennic-R4SAS
-
-DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
-Location: Gravelines, France.
-Maintained by R4SAS.
-
-sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
 
 
 ## opennic-fische

@@ -13,15 +13,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
-## opennic-R4SAS
-
-DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
-Location: Gravelines, France.
-Maintained by R4SAS.
-
-sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
-
-
 ## opennic-fische
 
 OpenNIC • Non-logging • DNSSEC
