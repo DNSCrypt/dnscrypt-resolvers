@@ -1105,15 +1105,6 @@ https://www.dnshome.de/ public resolver in Germany
 sdns://AgYAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
 
 
-## dnslify-doh
-
-Non-logging DoH server in Amsterdam, Frankfurt, London, New York, Silicon Valley and Singapore.
-
-https://www.dnslify.com/
-
-sdns://AgcAAAAAAAAADDE4NS4yMzUuODEuMaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA9kb2guZG5zbGlmeS5jb20KL2Rucy1xdWVyeQ
-
-
 ## dnspod-doh
 
 A public DNS resolver in mainland China provided by DNSPod (Tencent Cloud).
