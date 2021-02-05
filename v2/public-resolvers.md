@@ -1906,15 +1906,6 @@ https://www.rubyfish.cn/
 sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJ1dy1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
 
 
-## rumpelsepp.org
-
-DNSSEC/Non-logged/Uncensored in Nürnberg.
-Backed by unbound.
-Maintained by [rumpelsepp](https://rumpelsepp.org)
-
-sdns://AgcAAAAAAAAADzExNi4yMDMuMTc5LjI0OKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5ydW1wZWxzZXBwLm9yZwovZG5zLXF1ZXJ5
-
-
 ## safesurfer
 
 Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
