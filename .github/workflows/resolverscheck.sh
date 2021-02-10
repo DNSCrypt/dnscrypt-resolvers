@@ -67,5 +67,5 @@ if [ -s "$ERROR_LOG" ]; then
     echo "** FAILURES **"
     echo
     cat "$ERROR_LOG"
-    exit 1
+    exit 0
 fi
