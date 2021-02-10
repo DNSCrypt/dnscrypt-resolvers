@@ -301,15 +301,6 @@ https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgRZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
-## brahma-world
-
-DNS-over-HTTPS / DNS over TLS server with PiHole. Filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
-
-Hosted in Frankfurt, Germany. (https://dns.brahma.world)
-
-sdns://AgMAAAAAAAAADTk0LjIzNy44MC4yMTGgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
-
-
 ## captnemo-in
 
 Server running out of a Digital Ocean droplet in BLR1 region.
@@ -1237,22 +1228,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blah
 sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV0AEmRvaC1zZy5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## doh-v.dnscrypt.uk-ipv4
-
-DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA12LmRuc2NyeXB0LnVrCi9kbnMtcXVlcnk
-
-
-## doh-v.dnscrypt.uk-ipv6
-
-DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNdi5kbnNjcnlwdC51awovZG5zLXF1ZXJ5
-
-
 ## doh.appliedprivacy.net
 
 Public DoH resolver operated by the Foundation for Applied Privacy (https://appliedprivacy.net).
@@ -1396,32 +1371,6 @@ sdns://AQcAAAAAAAAAGlsyMDAxOjY3ODplNjg6ZjAwMDo6XTo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZ
 Non-logged/Uncensored provided by www.freetsa.org. Support for DNS and DNS-over-TLS (DoT)
 
 sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
-
-
-## geekdns-doh
-
-GeekDNS for users in China, via Cloudflare
-
-GeekDNS is a non-logging public DNS service located in mainland China.
-Queries are cached locally, and, for some domains, resolved by servers located
-in Taiwan.
-
-https://www.nextrt.com/s/dns
-
-sdns://AgcAAAAAAAAAAAALaS4yMzNweS5jb20KL2Rucy1xdWVyeQ
-
-
-## geekdns-doh-ext
-
-GeekDNS for users outside China, via Cloudflare
-
-GeekDNS is a non-logging public DNS service located in mainland China.
-Queries are cached locally, and, for some domains, resolved by servers located
-in Taiwan.
-
-https://www.nextrt.com/s/dns
-
-sdns://AgcAAAAAAAAAAAANZG5zLjIzM3B5LmNvbQovZG5zLXF1ZXJ5
 
 
 ## google
