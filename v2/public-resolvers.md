@@ -1490,7 +1490,7 @@ sdns://AgIAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6
 
 ## linuxsec-adguard
 
-DoH proxy to Cloudflare DNS servers with AdGuard Home for ads blocking.
+DoH server with AdGuard Home for ads blocking.
 Operated by LinuxSec.
 
 Non-logging, AD-filtering, supports DNSSEC.
@@ -1502,7 +1502,7 @@ sdns://AgMAAAAAAAAADDEwMy44NS4xNS42MCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJi
 
 ## linuxsec-doh
 
-DoH proxy to Cloudflare DNS servers operated by LinuxSec.
+DoH server operated by LinuxSec.
 Server located in the Indonesia.
 
 Non-logging, supports DNSSEC.
