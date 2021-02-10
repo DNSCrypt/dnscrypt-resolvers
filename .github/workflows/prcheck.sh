@@ -23,7 +23,7 @@ for aux in v3/*.md; do
     fi
 done
 
-NEW_ENTRIES="new-entries.txt"
+NEW_ENTRIES="$(pwd)/new-entries.txt"
 git fetch --all
 git diff origin/master -- v3 | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
 if [ ! -s "$NEW_ENTRIES" ]; then
