@@ -4,7 +4,7 @@ on:
   push:
     branches: [master, next, ci]
   pull_request:
-    branches: [master, next, ci]
+    branches: [ci]
   workflow_dispatch:
 
 jobs:
@@ -24,4 +24,3 @@ jobs:
           sed -i -e 's/require_nofilter.*/require_nofilter = false/' dnscrypt-proxy.toml
           ./dnscrypt-proxy -list-all
           ./dnscrypt-proxy -show-certs
-
