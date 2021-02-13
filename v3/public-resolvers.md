@@ -1162,14 +1162,6 @@ https://www.dnscrypt.uk
 sdns://AgcAAAAAAAAADTE2NS4yMzIuMzIuOTUgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgOZG8uZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
 
 
-## doh-dnscrypt.uk-ipv6
-
-DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDmRvLmRuc2NyeXB0LnVrCi9kbnMtcXVlcnk
-
-
 ## doh-fi-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
