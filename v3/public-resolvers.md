@@ -1140,14 +1140,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6ZWM2Nzo6MV0AEmRvaC1kZS5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## doh-dnscrypt.uk-ipv4
-
-DOH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAADTE2NS4yMzIuMzIuOTUgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgOZG8uZG5zY3J5cHQudWsKL2Rucy1xdWVyeQ
-
-
 ## doh-fi-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
