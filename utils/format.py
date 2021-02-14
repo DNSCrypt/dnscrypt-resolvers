@@ -1,15 +1,16 @@
 #! /usr/bin/env python3
 
-import sys
+import base64
+import csv
 import os
 import subprocess
+import sys
 from glob import glob
 
-INCOMPATIBLE_WITH_LEGACY_VERSIONS = [
-    "cira-family", "cira-private", "cira-protected"
-]
+INCOMPATIBLE_WITH_LEGACY_VERSIONS = ["cira-family", "cira-private", "cira-protected"]
 CURRENT_DIR = "v3"
 LEGACY_DIR = "v2"
+HISTORIC_DIR = "v1"
 MINISIGN_PK = "RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3"
 
 
@@ -63,9 +64,86 @@ class Entry:
 
         return out
 
+    def csv_entry(self):
+        parsed = DNSCryptStamp.parse(self.stamps[0])
+        if parsed is None:
+            return None
+        version = 2
+        if self.name.find("cisco") >= 0:
+            version = 1
+        dnssec = "no"
+        nolog = "no"
+        namecoin = "no"
+        if parsed.dnssec:
+            dnssec = "yes"
+        if parsed.nolog:
+            nolog = "yes"
+        csv_entry = [
+            self.name,
+            self.name,
+            self.description.splitlines(False)[0],
+            None,
+            None,
+            None,
+            version,
+            dnssec,
+            nolog,
+            namecoin,
+            parsed.addr,
+            parsed.provider,
+            parsed.pk,
+            None,
+        ]
+
+        return csv_entry
+
+
+class DNSCryptStamp:
+    dnssec = False
+    nolog = False
+    nofilter = False
+    addr = None
+    pk = None
+    provider = None
+
+    @staticmethod
+    def parse(stamp):
+        bin = base64.urlsafe_b64decode(stamp.removeprefix("sdns://") + "==")
+        i = 0
+        if bin[i] != 0x01:
+            return None
+        i = i + 1
+        parsed = DNSCryptStamp()
+        props = bin[i]
+        parsed.dnssec = not not ((props >> 0) & 1)
+        parsed.nolog = not not ((props >> 1) & 1)
+        parsed.nofilter = not not ((props >> 2) & 1)
+        i = i + 8
+        addr_len = bin[i]
+        i = i + 1
+        parsed.addr = bin[i : i + addr_len].decode("utf-8")
+        i = i + addr_len
+        pk_len = bin[i]
+        i = i + 1
+        if pk_len != 32:
+            return None
+        hpk = bin[i : i + pk_len].hex().upper()
+        hpks = []
+        for j in range(0, 16):
+            hpks.append(hpk[j * 4 : j * 4 + 4])
+        parsed.pk = ":".join(hpks)
+        i = i + pk_len
+        provider_len = bin[i]
+        i = i + 1
+        parsed.provider = bin[i : i + provider_len].decode("utf-8")
+        i = i + provider_len
+
+        return parsed
+
 
 def process(md_path, signatures_to_update):
     md_legacy_path = LEGACY_DIR + "/" + os.path.basename(md_path)
+    csv_historic_path = HISTORIC_DIR + "/" + "dnscrypt-resolvers.csv"
     print("\n[" + md_path + "]")
     entries = {}
     previous_content = ""
@@ -85,6 +163,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 """
+    csv_entries = []
 
     with open(md_path) as f:
         previous_content = f.read()
@@ -94,8 +173,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
         for i in range(0, len(raw_entries)):
             entry = Entry.parse(raw_entries[i])
             if not entry:
-                print(
-                    "Invalid entry: [" + raw_entries[i] + "]", file=sys.stderr)
+                print("Invalid entry: [" + raw_entries[i] + "]", file=sys.stderr)
                 continue
             if entry.name in entries:
                 print("Duplicate entry: [" + entry.name + "]", file=sys.stderr)
@@ -107,12 +185,21 @@ If you want to contribute changes to a resolvers list, only edit files from the 
         if not name in INCOMPATIBLE_WITH_LEGACY_VERSIONS:
             out_legacy = out_legacy + "\n" + entry.format_legacy() + "\n"
 
+    if os.path.basename(md_path) == "public-resolvers.md":
+        for name in sorted(entries.keys()):
+            entry = entries[name]
+            csv_entry = entry.csv_entry()
+            if csv_entry:
+                csv_entries.append(entry.csv_entry())
+
     if out == previous_content:
         print("No changes")
     else:
         with open(md_path + ".tmp", "wt") as f:
             f.write(out)
         os.rename(md_path + ".tmp", md_path)
+
+    # Legacy
 
     with open(md_legacy_path) as f:
         previous_content = f.read()
@@ -123,10 +210,39 @@ If you want to contribute changes to a resolvers list, only edit files from the 
             f.write(out_legacy)
             os.rename(md_legacy_path + ".tmp", md_legacy_path)
 
-    for path in [md_path, md_legacy_path]:
+    # Historic
+
+    if len(csv_entries) != 0:
+        with open(csv_historic_path, "wt") as f:
+            w = csv.writer(f, dialect="unix", quoting=csv.QUOTE_MINIMAL)
+            w.writerow(
+                [
+                    "Name",
+                    "Full name",
+                    "Description",
+                    "Location",
+                    "Coordinates",
+                    "URL",
+                    "Version",
+                    "DNSSEC validation",
+                    "No logs",
+                    "Namecoin",
+                    "Resolver address",
+                    "Provider name",
+                    "Provider public key",
+                    "Provider public key TXT record",
+                ]
+            )
+            for csv_entry in csv_entries:
+                w.writerow(csv_entry)
+
+    # Signatures
+
+    for path in [md_path, md_legacy_path, csv_historic_path]:
         try:
-            subprocess.run(["minisign", "-V", "-P", MINISIGN_PK,
-                            "-m", path], check=True)
+            subprocess.run(
+                ["minisign", "-V", "-P", MINISIGN_PK, "-m", path], check=True
+            )
         except subprocess.CalledProcessError:
             signatures_to_update.append(path)
 
