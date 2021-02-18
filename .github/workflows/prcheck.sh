@@ -1,7 +1,7 @@
 #! /bin/sh
 
 for aux in v3/parental-control.md v3/opennic.md; do
-    grep '^## ' "$aux" | while read entry; do
+    grep '^## ' "$aux" | while read -r entry; do
         if ! grep -Fq "$entry" v3/public-resolvers.md; then
             echo "Present in [$aux] but not in public-resolvers.md:"
             echo "$entry"
@@ -52,20 +52,24 @@ while read -r stamp; do
     } >"$CONFIG"
     ./dnscrypt-proxy -config "$CONFIG" -pidfile "$PIDFILE" -logfile "$LOGFILE" -loglevel 1 &
     sleep 5
+    skip_log=false
     if grep -q 'ERROR.*\[.*:.*]:' "$LOGFILE"; then
         echo "(skipping due to IPv6 not being supported by GitHub Actions)"
+        skip_log=true
     elif ! ./dnscrypt-proxy -config "$CONFIG" -resolve example.com; then
         echo "** UNABLE TO GET A RESPONSE FROM THE RESOLVER **"
         echo "Bogus stamp: ${stamp}"
         exit_code=1
     fi
     kill $(cat "$PIDFILE")
-    cat "$LOGFILE"
-    if grep -v 'ERROR.*\[.*:.*]:' "$LOGFILE" | grep -q 'ERROR|CRITICAL|FATAL'; then
-        echo "** ERRORS FOUND **"
-        exit_code=1
+    if [ "$skip_log" = false ]; then
+        cat "$LOGFILE"
+        if grep -v 'ERROR.*\[.*:.*]:' "$LOGFILE" | grep -q 'ERROR|CRITICAL|FATAL'; then
+            echo "** ERRORS FOUND **"
+            exit_code=1
+        fi
+        echo "Done!"
     fi
-    echo "Done!"
     echo
 done <"$NEW_ENTRIES"
 
