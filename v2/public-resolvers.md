@@ -1634,6 +1634,15 @@ https://dns.njal.la/
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
+## opennic-R4SAS
+
+DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
+Location: Gravelines, France.
+Maintained by R4SAS.
+
+sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
+
+
 ## opennic-fische
 
 OpenNIC • Non-logging • DNSSEC
