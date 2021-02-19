@@ -839,7 +839,14 @@ sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdOjg0NDMgbC1IEdPcd
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
-sdns://AQMAAAAAAAAAEzEzOS4xODAuMTQxLjU3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+sdns://AQMAAAAAAAAAEzE5Mi41My4xNzUuMTQ5Ojg0NDMgbC1IEdPcd6w0tIkpG7PJPgsGG0O9BZX-gf0hJ0E_SLUbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+
+## dnscrypt-sg-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdOjg0NDMgbC1IEdPcd6w0tIkpG7PJPgsGG0O9BZX-gf0hJ0E_SLUbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 
 ## dnscrypt.be
@@ -1195,14 +1202,14 @@ sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdABJkb2gtanAuYmxha
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
-sdns://AgMAAAAAAAAADjEzOS4xODAuMTQxLjU3ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE5Mi41My4xNzUuMTQ5ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh-sg-blahdns-v6
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
-sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV0AEmRvaC1zZy5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh.appliedprivacy.net
