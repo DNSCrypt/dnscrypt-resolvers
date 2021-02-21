@@ -778,13 +778,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://bl
 sdns://AQMAAAAAAAAAETQ1LjkwLjU3LjEyMTo4NDQzIGwtSBHT3HesNLSJKRuzyT4LBhtDvQWV_oH9ISdBP0i1GzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
 
 
-## dnscrypt-ch-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAFVsyYTA1Ojk0MDY6OjE3NV06ODQ0MyBsLUgR09x3rDS0iSkbs8k-CwYbQ70Flf6B_SEnQT9ItRsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
-
-
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -832,13 +825,6 @@ sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdOjg0NDMgbC1IEdPcd
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
 sdns://AQMAAAAAAAAAEzE5Mi41My4xNzUuMTQ5Ojg0NDMgbC1IEdPcd6w0tIkpG7PJPgsGG0O9BZX-gf0hJ0E_SLUbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-sg-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdOjg0NDMgbC1IEdPcd6w0tIkpG7PJPgsGG0O9BZX-gf0hJ0E_SLUbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 
 ## dnscrypt.be
@@ -1081,13 +1067,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://bl
 sdns://AgMAAAAAAAAADDQ1LjkwLjU3LjEyMQAXZG9oLWNoLmJsYWhkbnMuY29tOjQ0NDMKL2Rucy1xdWVyeQ
 
 
-## doh-ch-blahdns-v6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAEFsyYTA1Ojk0MDY6OjE3NV0AF2RvaC1jaC5ibGFoZG5zLmNvbTo0NDQzCi9kbnMtcXVlcnk
-
-
 ## doh-cleanbrowsing-adult
 
 Blocks access to all adult, pornographic and explicit sites. It does
@@ -1200,13 +1179,6 @@ sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdABJkb2gtanAuYmxha
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
 sdns://AgMAAAAAAAAADjE5Mi41My4xNzUuMTQ5ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-sg-blahdns-v6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh.appliedprivacy.net
