@@ -1405,6 +1405,18 @@ Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9W2GV0Y-SspHzdf-l8PU9hwyLmRuc2NyeXB0LWNlcnQuZG5zLnRpYXIuYXBw
 
 
+## indonesia-unfilter-doh
+
+Non-Logging, Non-Filtering, and Filters out ads DoH server for bypass (trust positive) blocked website due indonesia law regulation.
+
+sdns://AgYAAAAAAAAACjExNi4wLjIuODYAAAovZG5zLXF1ZXJ5
+
+## indonesia-unfilter-dot
+
+Non-Logging, Non-Filtering, and Filters out ads DoT server for bypass (trust positive) blocked website due indonesia law regulation.
+
+sdns://AwYAAAAAAAAACjExNi4wLjIuODYAAA
+
 ## iij
 
 DoH server operated by Internet Initiative Japan in Tokyo.
