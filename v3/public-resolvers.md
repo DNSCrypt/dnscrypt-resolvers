@@ -793,6 +793,13 @@ Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.2
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
 
+## dnscrypt-ch-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAETQ1LjkwLjU3LjEyMTo4NDQzIGwtSBHT3HesNLSJKRuzyT4LBhtDvQWV_oH9ISdBP0i1GzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
+
+
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -839,7 +846,7 @@ sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdOjg0NDMgbC1IEdPcd
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
-sdns://AQMAAAAAAAAAEzEzOS4xODAuMTQxLjU3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+sdns://AQMAAAAAAAAAEzE5Mi41My4xNzUuMTQ5Ojg0NDMgbC1IEdPcd6w0tIkpG7PJPgsGG0O9BZX-gf0hJ0E_SLUbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 
 ## dnscrypt.be
@@ -1195,14 +1202,7 @@ sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdABJkb2gtanAuYmxha
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
-sdns://AgMAAAAAAAAADjEzOS4xODAuMTQxLjU3ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-sg-blahdns-v6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAKFsyMDAxOjE5ZjA6NDQwMDo2YmVkOjU0MDA6MmZmOmZlYjE6ZjlmYV0AEmRvaC1zZy5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjE5Mi41My4xNzUuMTQ5ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## doh.appliedprivacy.net
@@ -1536,7 +1536,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAQvZG9o
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWNoZXdiYWNjYS5tZWdhbmVyZC5ubDo0NDMEL2RvaA
 
 
 ## meganerd-doh-ipv6
@@ -1546,7 +1546,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgVY2hld2JhY2NhLm1lZ2FuZXJkLm5sBC9kb2g
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgZY2hld2JhY2NhLm1lZ2FuZXJkLm5sOjQ0MwQvZG9o
 
 
 ## meganerd-ipv6
@@ -1655,6 +1655,15 @@ Non-logging DoH server in Sweden operated by Njalla.
 https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
+
+
+## opennic-R4SAS
+
+DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
+Location: Gravelines, France.
+Maintained by R4SAS.
+
+sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
 
 
 ## opennic-fische
