@@ -1,5 +1,48 @@
 #! /bin/sh
 
+DNSLOOKUP_VERSION=1.4.5
+
+case "$(uname -ms)" in
+Darwin\ x86_64) DNSLOOKUP_ARCH=darwin-amd64 ;;
+Linux\ x86_64) DNSLOOKUP_ARCH=linux-amd64 ;;
+*)
+    echo "Unsupported platform" >&2
+    exit 2
+    ;;
+esac
+
+if [ ! -x "${DNSLOOKUP_ARCH}/dnslookup" ]; then
+    curl -sL https://github.com/ameshkov/dnslookup/releases/download/v${DNSLOOKUP_VERSION}/dnslookup-${DNSLOOKUP_ARCH}-v${DNSLOOKUP_VERSION}.tar.gz | tar xzpf - || exit 1
+fi
+PATH="$(pwd)/${DNSLOOKUP_ARCH}:$PATH"
+
+try_resolver() {
+    ERROR_LOG_TMP=".errors"
+    resolver_name="$1"
+    stamp="$2"
+    if dnslookup one.net "$line" >/dev/null 2>&1; then
+        echo "pass: ${resolver_name}"
+    elif dnslookup one.net "$line" >/dev/null 2>&1; then
+        echo "pass: ${resolver_name} (1 retry)"
+    elif dnslookup one.net "$line" >/dev/null 2>&1; then
+        echo "pass: ${resolver_name} (2 retries)"
+    elif dnslookup one.net "$line" >/dev/null 2>"$ERROR_LOG_TMP"; then
+        echo "pass: ${resolver_name} (3 retries)"
+    else
+        if grep -Eq "(no route|unreachable)" "$ERROR_LOG_TMP"; then
+            echo "ipv6: ${resolver_name}"
+        else
+            (
+                echo "* FAILED: ${resolver_name}"
+                echo "$stamp"
+                cat "$ERROR_LOG_TMP"
+                echo
+            ) >&2
+            return 1
+        fi
+    fi
+}
+
 for aux in v3/parental-control.md v3/opennic.md; do
     grep '^## ' "$aux" | while read -r entry; do
         if ! grep -Fq "$entry" v3/public-resolvers.md; then
@@ -44,6 +87,9 @@ while read -r stamp; do
     echo "* Checking resolver with stamp:"
     echo "$stamp"
     echo
+
+    try_resolver "(new entry)" "$stamp"
+
     {
         echo 'listen_addresses = ["127.0.0.1:5300"]'
         echo 'server_names = ["test"]'
