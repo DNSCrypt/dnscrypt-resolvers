@@ -20,13 +20,13 @@ try_resolver() {
     ERROR_LOG_TMP=".errors"
     resolver_name="$1"
     stamp="$2"
-    if dnslookup one.net "$line" >/dev/null 2>&1; then
+    if dnslookup one.net "$stamp" >/dev/null 2>&1; then
         echo "pass: ${resolver_name}"
-    elif dnslookup one.net "$line" >/dev/null 2>&1; then
+    elif dnslookup one.net "$stamp" >/dev/null 2>&1; then
         echo "pass: ${resolver_name} (1 retry)"
-    elif dnslookup one.net "$line" >/dev/null 2>&1; then
+    elif dnslookup one.net "$stamp" >/dev/null 2>&1; then
         echo "pass: ${resolver_name} (2 retries)"
-    elif dnslookup one.net "$line" >/dev/null 2>"$ERROR_LOG_TMP"; then
+    elif dnslookup one.net "$stamp" >/dev/null 2>"$ERROR_LOG_TMP"; then
         echo "pass: ${resolver_name} (3 retries)"
     else
         if grep -Eq "(no route|unreachable)" "$ERROR_LOG_TMP"; then
@@ -88,7 +88,7 @@ while read -r stamp; do
     echo "$stamp"
     echo
 
-    try_resolver "(new entry)" "$stamp"
+    try_resolver "(new entry)" "$stamp" || exit 1
 
     {
         echo 'listen_addresses = ["127.0.0.1:5300"]'

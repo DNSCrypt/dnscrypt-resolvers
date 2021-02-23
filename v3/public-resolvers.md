@@ -1413,6 +1413,13 @@ https://www.iij.ad.jp/
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
 
+## indonesia-unfilter-doh
+
+Non-logging and non-Filtering DoH forwarder in Indonesia.
+
+sdns://AgYAAAAAAAAACjExNi4wLjIuODYgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgPZG9oLnRoaXMud2ViLmlkCi9kbnMtcXVlcnk
+
+
 ## jitender
 
 DNSCrypt resolver in Hyderabad, India, Oracle Cloud
