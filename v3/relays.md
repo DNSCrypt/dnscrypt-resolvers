@@ -26,13 +26,6 @@ Anonymized DNS relay hosted in AMS on Scaleway
 sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 
-## anon-ams-nl
-
-Anonymized DNS relay hosted in Netherlands - NL
-
-sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
-
-
 ## anon-ams-nl-ipv6
 
 Anonymized DNS relay hosted in Netherlands - NL
@@ -101,13 +94,6 @@ sdns://gQ0xODUuMTA3LjgwLjg0
 Anonymized DNS relay hosted in Rotterdam, Netherlands provided by https://cryptostorm.is/
 
 sdns://gQ4yMTMuMTYzLjY0LjIwOA
-
-
-## anon-cs-pt
-
-Anonymized DNS relay hosted in Lisbon, Portugal provided by https://cryptostorm.is/
-
-sdns://gQ0xMDkuNzEuNDIuMjI4
 
 
 ## anon-cs-se
@@ -206,14 +192,14 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
-sdns://gQ4xMzYuMjQ0Ljk3LjExNA
+sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
 
 
 ## anon-meganerd-ipv6
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
-sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
+sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
 
 
 ## anon-plan9-dns
