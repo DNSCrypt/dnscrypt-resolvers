@@ -53,8 +53,11 @@ while read -r stamp; do
     ./dnscrypt-proxy -config "$CONFIG" -pidfile "$PIDFILE" -logfile "$LOGFILE" -loglevel 1 &
     sleep 5
     skip_log=false
-    if grep -q 'ERROR.*\[.*:.*]:' "$LOGFILE"; then
+    if grep -q 'DNSCrypt relay' "$LOGFILE"; then
         echo "(skipping due to IPv6 not being supported by GitHub Actions)"
+        skip_log=true
+    elif grep -q 'ERROR.*\[.*:.*]:' "$LOGFILE"; then
+        echo "(skipping due to relays not being handled by this test)"
         skip_log=true
     elif ! ./dnscrypt-proxy -config "$CONFIG" -resolve example.com; then
         echo "** UNABLE TO GET A RESPONSE FROM THE RESOLVER **"
