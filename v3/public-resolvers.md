@@ -1407,15 +1407,15 @@ sdns://AQMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6NWY2ZTo0MDAxXSDvloBm6NmU8GXYPt3TGu7t9
 
 ## indonesia-unfilter-doh
 
-Non-Logging, Non-Filtering, and Filters out ads DoH server for bypass (trust positive) blocked website due indonesia law regulation.
+Non-Logging and Non-Filtering DoH server for bypass (trust positive) blocked website due indonesia law regulation.
 
-sdns://AgYAAAAAAAAACjExNi4wLjIuODYAAAovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAACjExNi4wLjIuODYgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgTZG9oLnRoaXMud2ViLmlkOjQ0MwovZG5zLXF1ZXJ5
 
 ## indonesia-unfilter-dot
 
 Non-Logging, Non-Filtering, and Filters out ads DoT server for bypass (trust positive) blocked website due indonesia law regulation.
 
-sdns://AwYAAAAAAAAACjExNi4wLjIuODYAAA
+sdns://AwYAAAAAAAAACjExNi4wLjIuODYgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgTZG9oLnRoaXMud2ViLmlkOjg1Mw
 
 ## iij
 
