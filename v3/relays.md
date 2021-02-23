@@ -96,13 +96,6 @@ Anonymized DNS relay hosted in Rotterdam, Netherlands provided by https://crypto
 sdns://gQ4yMTMuMTYzLjY0LjIwOA
 
 
-## anon-cs-pt
-
-Anonymized DNS relay hosted in Lisbon, Portugal provided by https://cryptostorm.is/
-
-sdns://gQ0xMDkuNzEuNDIuMjI4
-
-
 ## anon-cs-se
 
 Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
