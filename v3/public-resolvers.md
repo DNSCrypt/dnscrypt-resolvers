@@ -1487,12 +1487,6 @@ https://libredns.gr/
 
 sdns://AgYAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA9kb2gubGlicmVkbnMuZ3IKL2Rucy1xdWVyeQ
 
-## johnrosen1
-
-DoH server in US. No logging, but no DNS padding and no DNSSEC support.
-https://johnrosen1.com/
-
-sdns://AgYAAAAAAAAADDEwMy4zMC4xNy4yMyAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA5qb2hucm9zZW4xLmNvbQovZG5zLXF1ZXJ5
 
 ## libredns-noads
 
