@@ -1018,34 +1018,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://bl
 sdns://AQMAAAAAAAAAETQ1LjkwLjU3LjEyMTo4NDQzIGwtSBHT3HesNLSJKRuzyT4LBhtDvQWV_oH9ISdBP0i1GzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
 
 
-## dnscrypt-de-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEjc4LjQ2LjI0NC4xNDM6ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVylJU9A061xxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
-
-
-## dnscrypt-de-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyBThOgUQxQpPlbdGxQKHvFyrUe9uheZyJVylJU9A061xxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
-
-
-## dnscrypt-fi-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEzk1LjIxNi4yMTIuMTc3Ojg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-fi-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAHFsyYTAxOjRmOTpjMDEwOjQzY2U6OjFdOjg0NDMgU4ToFEMUKT5W3RsUCh7xcq1HvboXmciVcpSVPQNOtccbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
 ## dnscrypt-jp-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
