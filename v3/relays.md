@@ -282,13 +282,6 @@ Anonymized DNS relay hosted in UK on Vultr
 sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
 
 
-## anon-yepdns-sg-ipv4
-
-Anonymized DNS relay hosted in Singapore
-
-sdns://gRE5NC4yMzcuNjguODA6ODQ0Mw
-
-
 ## anon-zackptg5-us-il-ipv4
 
 Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
