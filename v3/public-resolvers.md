@@ -226,7 +226,7 @@ sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV
 DNSCrypt v2 server(ipv4). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India. Visit https://www.dns.arapurayil.com for details.
 Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
 
-sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjg0NDMggyXjcEBxUFeQc2O5FaBzadiWC6vE6NTTQP84IY-Xfl8dMi5kbnNjcnlwdC1jZXJ0LmFyYXB1cmF5aWwtaW4
+sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjU0NDMg-GBSt-IKdoAr8OhQg-0h9Q15sZ6vSZ1vEhBYmwkfox4dMi5kbnNjcnlwdC1jZXJ0LmFyYXB1cmF5aWwtaW4
 
 
 ## arapurayil-dnscrypt-in-ipv6
@@ -234,7 +234,7 @@ sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjg0NDMggyXjcEBxUFeQc2O5FaBzadiWC6vE6NTTQP84I
 DNSCrypt v2 server(ipv6). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
 Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
 
-sdns://AQMAAAAAAAAALFsyNDA2OmRhMWE6YzU5OmFlMDA6MjBmOmRiZjU6YTEyYzo1YWZiXTo4NDQzIIMl43BAcVBXkHNjuRWgc2nYlgurxOjU00D_OCGPl35fHTIuZG5zY3J5cHQtY2VydC5hcmFwdXJheWlsLWlu
+sdns://AQMAAAAAAAAALFsyNDA2OmRhMWE6YzU5OmFlMDA6MjBmOmRiZjU6YTEyYzo1YWZiXTo1NDQzIPhgUrfiCnaAK_DoUIPtIfUNebGer0mdbxIQWJsJH6MeHTIuZG5zY3J5cHQtY2VydC5hcmFwdXJheWlsLWlu
 
 
 ## arapurayil-doh-in
@@ -2144,8 +2144,13 @@ sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1
 
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
 
-sdns://AQMAAAAAAAAAETk0LjIzNy42OC44MDo4NDQzIHoxYc1seP38R7YSxInE5OxkqaJWgUbfncQoWRTLwvPjGTIuZG5zY3J5cHQtY2VydC55ZXBkbnMtc2c
+sdns://AQMAAAAAAAAAEjk1LjExMS4xOTIuMzU6NTQ0MyC7cxs3QlGVslHRIuBqmLk25pcQCfzpjkD4EX78C-KQgxkyLmRuc2NyeXB0LWNlcnQueWVwZG5zLXNn
 
+## yepdns-dnscrypt-sg-ipv6
+
+Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
+
+sdns://AQMAAAAAAAAALlsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjM0YzVdOjU0NDMgu3MbN0JRlbJR0SLgapi5NuaXEAn86Y5A-BF-_AvikIMZMi5kbnNjcnlwdC1jZXJ0LnllcGRucy1zZw
 
 ## yepdns-doh-sg
 
