@@ -167,13 +167,6 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
-## anon-ev-canada
-
-Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
-
-sdns://gQ4xMDQuMzYuMTQ4LjE5Mg
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
