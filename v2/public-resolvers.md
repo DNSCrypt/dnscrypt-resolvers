@@ -2107,20 +2107,6 @@ Yandex public DNS server (anycast)
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
 
-## yepdns-dnscrypt-sg-ipv4
-
-Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAAEjk1LjExMS4xOTIuMzU6NTQ0MyC7cxs3QlGVslHRIuBqmLk25pcQCfzpjkD4EX78C-KQgxkyLmRuc2NyeXB0LWNlcnQueWVwZG5zLXNn
-
-
-## yepdns-dnscrypt-sg-ipv6
-
-Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAALlsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjM0YzVdOjU0NDMgu3MbN0JRlbJR0SLgapi5NuaXEAn86Y5A-BF-_AvikIMZMi5kbnNjcnlwdC1jZXJ0LnllcGRucy1zZw
-
-
 ## yepdns-doh-sg
 
 Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
