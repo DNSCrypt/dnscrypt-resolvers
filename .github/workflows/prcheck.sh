@@ -1,6 +1,6 @@
 #! /bin/sh
 
-DNSLOOKUP_VERSION=1.4.5
+DNSLOOKUP_VERSION=1.4.7
 
 case "$(uname -ms)" in
 Darwin\ x86_64) DNSLOOKUP_ARCH=darwin-amd64 ;;
@@ -31,6 +31,8 @@ try_resolver() {
     else
         if grep -Eq "(no route|unreachable)" "$ERROR_LOG_TMP"; then
             echo "ipv6: ${resolver_name}"
+        elif grep -q "unsupported stamp version or protocol" "$ERROR_LOG_TMP"; then
+            echo "unsupported stamp version or protocol"
         else
             (
                 echo "* FAILED: ${resolver_name}"
