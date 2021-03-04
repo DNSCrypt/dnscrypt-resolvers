@@ -68,7 +68,7 @@ done
 
 NEW_ENTRIES="$(pwd)/new-entries.txt"
 git fetch --all
-git diff origin/master -- $(ls v3/*.md | grep -Fv 'relay') | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
+git diff origin/master -- $(ls v3/*.md | grep -Ev 'onion|relay') | grep -F '+sdns://' | cut -d'+' -f2- | sort >"$NEW_ENTRIES"
 if [ ! -s "$NEW_ENTRIES" ]; then
     echo "No new entries found"
     exit 0
