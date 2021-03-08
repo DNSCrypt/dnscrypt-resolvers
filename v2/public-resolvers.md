@@ -218,22 +218,6 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
-## arapurayil-dnscrypt-in-ipv4
-
-DNSCrypt v2 server(ipv4). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India. Visit https://www.dns.arapurayil.com for details.
-Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
-
-sdns://AQMAAAAAAAAAEDMuNy4xNzYuMTIzOjU0NDMg-GBSt-IKdoAr8OhQg-0h9Q15sZ6vSZ1vEhBYmwkfox4dMi5kbnNjcnlwdC1jZXJ0LmFyYXB1cmF5aWwtaW4
-
-
-## arapurayil-dnscrypt-in-ipv6
-
-DNSCrypt v2 server(ipv6). Also supports DoH,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
-Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
-
-sdns://AQMAAAAAAAAALFsyNDA2OmRhMWE6YzU5OmFlMDA6MjBmOmRiZjU6YTEyYzo1YWZiXTo1NDQzIPhgUrfiCnaAK_DoUIPtIfUNebGer0mdbxIQWJsJH6MeHTIuZG5zY3J5cHQtY2VydC5hcmFwdXJheWlsLWlu
-
-
 ## arapurayil-doh-in
 
 DoH server(ipv4/ipv6). Also supports DNSCrypt,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
@@ -1055,13 +1039,6 @@ DNS service for your pleasure.
 Warning: This server is incompatible with anonymization.
 
 sdns://AQcAAAAAAAAAJlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldICDZGdTsPFAIzccKUeorT8v-ipk8ZDHQ7GgdXqc4RauAIjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0xLWlwdjY
-
-
-## dnscrypt.ca-1-ipv6-doh
-
-Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure.
-
-sdns://AgcAAAAAAAAAJlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFGRuczEuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
 
 
 ## dnscrypt.ca-2
@@ -2005,7 +1982,7 @@ usage, data never sold - https://safesurfer.io
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AQMAAAAAAAAADjEwNC4xOTcuMjguMTIxICcgf9USBOg2e0g0AF35_9HTC74qnDNjnm7b-K7ZHUDYIDIuZG5zY3J5cHQtY2VydC5zYWZlc3VyZmVyLmNvLm56
+sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
 ## sarpel-dns-istanbul

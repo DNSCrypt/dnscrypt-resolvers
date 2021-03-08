@@ -40,20 +40,6 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRxbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXTo0MzQz
 
 
-## anon-arapurayil-in-ipv4
-
-Anonymized DNS relay located in Mumbai, India
-
-sdns://gRAzLjcuMTc2LjEyMzo4NDQz
-
-
-## anon-arapurayil-in-ipv6
-
-Anonymized DNS relay located in Mumbai, India
-
-sdns://gSxbMjQwNjpkYTFhOmM1OTphZTAwOjIwZjpkYmY1OmExMmM6NWFmYl06ODQ0Mw
-
-
 ## anon-bcn
 
 Anonymized DNS relay hosted in Barcelona, Spain.
