@@ -149,9 +149,9 @@ def process(md_path, signatures_to_update):
     previous_content = ""
     out = ""
     out_legacy = """
-# *** THIS IS A LEGACY LIST ***
+# *** THIS LIST IS FOR OLD DNSCRYPT-PROXY VERSIONS ***
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+Version 2 of the list is for dnscrypt-proxy <= 2.0.42 users.
 
 If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
 of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
