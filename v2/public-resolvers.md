@@ -1840,6 +1840,16 @@ Information at https://dns.oszx.co
 sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL1V5bwEjFzIuZG5zY3J5cHQtY2VydC5vc3p4LmNv
 
 
+## pf-doh
+
+DoH server by post-factum
+Hosted in Zürich, Switzerland using Oracle Cloud, cached globally via Cloudflare
+
+Non-logging, non-filtering, supports DNSSEC
+
+sdns://AgcAAAAAAAAAACCcu6D8li96KzHGKxsXWi3kxQqDlXJ-MLYmqAAJp4Dj2BJkb2gucG9zdC1mYWN0dW0udGsKL2Rucy1xdWVyeQ
+
+
 ## plan9-dns
 
 Resolver in New Jersey, USA. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC, anonymized.
