@@ -1939,7 +1939,6 @@ Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9 / 2620:fe::9
 Warning: this server is incompatible with DNS anonymization.
 
 sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
-sdns://AQMAAAAAAAAAEVsyNjIwOmZlOjo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
 
 
 ## quad9-dnscrypt-ip6-nofilter-pri
