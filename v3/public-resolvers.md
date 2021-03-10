@@ -33,18 +33,6 @@ https://www.aa.net.uk/legal/dohdot-disclaimer/
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
 
 
-## aaflalo-me-nyc
-
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
-
-Non-logging, AD-filtering, supports DNSSEC.
-Hosted in New York on a RamNode Cloud Instance.
-
-https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
-
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
 ## acsacsar-ams-ipv4
 
 Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
