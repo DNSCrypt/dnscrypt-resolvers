@@ -23,18 +23,6 @@ https://www.aa.net.uk/legal/dohdot-disclaimer/
 sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgNZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
 
 
-## aaflalo-me-nyc
-
-DNS-over-HTTPS server running dns-over-https with PiHole for Adblocking in NYC, USA.
-
-Non-logging, AD-filtering, supports DNSSEC.
-Hosted in New York on a RamNode Cloud Instance.
-
-https://www.aaflalo.me/2019/01/dns-over-https-server-aaflalo-me/
-
-sdns://AgMAAAAAAAAADjE2OC4yMzUuODEuMTY3oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRucy1ueWMuYWFmbGFsby5tZQovZG5zLXF1ZXJ5
-
-
 ## acsacsar-ams-ipv4
 
 Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
@@ -188,13 +176,6 @@ sdns://AgMAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDQ0M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
 
 sdns://AgMAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQ0NDOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgXZG5zbmwuYWxla2JlcmcubmV0OjQ0NDMKL2Rucy1xdWVyeQ
-
-
-## ams-dnscrypt-nl
-
-Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
 
 ## ams-dnscrypt-nl-ipv6
@@ -885,24 +866,6 @@ sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtG
 Server provided by Martin 'd0wn' Albus
 
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
-
-
-## decloudus-nogoogle-tst
-
-Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs.
-
-Contributed by: https://decloudus.com
-
-sdns://AQMAAAAAAAAAEjE3Ni45LjE5OS4xNTg6ODQ0MyD73Ye9XeCsS7TdFu9fRP7s5k-0aL91yygulGVmeOAKLh4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q
-
-
-## decloudus-nogoogle-tstipv6
-
-Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs. For IPv6.
-
-Contributed by: https://decloudus.com
-
-sdns://AQMAAAAAAAAAG1syYTAxOjRmODoxNTE6MTFiMDo6M106ODQ0MyD73Ye9XeCsS7TdFu9fRP7s5k-0aL91yygulGVmeOAKLh4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q
 
 
 ## deffer-dns.au
@@ -1800,15 +1763,6 @@ https://dns.njal.la/
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
-## opennic-R4SAS
-
-DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
-Location: Gravelines, France.
-Maintained by R4SAS.
-
-sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
-
-
 ## opennic-fische
 
 OpenNIC • Non-logging • DNSSEC
@@ -2085,13 +2039,6 @@ DNSCrypt v2, no logs, uncensored, DNSSEC. Hosted in London UK on Vultr
 https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
-
-
-## ventricle.us
-
-Public DNSCrypt resolver provided by Jacob Henner
-
-sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm6olMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnZlbnRyaWNsZS51cw
 
 
 ## yandex
