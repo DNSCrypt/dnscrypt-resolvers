@@ -1811,13 +1811,7 @@ sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL
 
 ## pf-doh
 
-DoH server by post-factum
-
-Hosted in Zürich, Switzerland using Oracle Cloud, cached globally via Cloudflare
-
-Non-logging, non-filtering, supports DNSSEC
-
-https://dns.post-factum.tk
+by post-factum | Zürich, Switzerland | Non-logging | Non-filtering | DNSSEC | Cached globally via Cloudflare | https://dns.post-factum.tk
 
 sdns://AgcAAAAAAAAAACCcu6D8li96KzHGKxsXWi3kxQqDlXJ-MLYmqAAJp4Dj2BJkb2gucG9zdC1mYWN0dW0udGsKL2Rucy1xdWVyeQ
 
