@@ -181,6 +181,13 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encry
 sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
 
 
+## anon-pf
+
+Anonymized DNS relay by post-factum | Zürich, Switzerland | https://dns.post-factum.tk
+
+sdns://gRQxNDAuMjM4LjIxNS4xOTI6ODQ0Mw
+
+
 ## anon-plan9-dns
 
 Anonymized DNS relay hosted in New Jersey, USA. Running the official Docker image on Vultr by @jlongua1
