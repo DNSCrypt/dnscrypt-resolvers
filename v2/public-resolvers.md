@@ -1044,7 +1044,7 @@ DNS service for your pleasure.
 
 Warning: This server is incompatible with anonymization.
 
-sdns://AQcAAAAAAAAAGFsyNjA3OjUzMDA6NjA6NjUyZjo6MjAwXSCYfHCol9vaFRo0rUtV6oAO9WHMBKrVxX3Sw9hh_Bf0KSIyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMi1pcHY2
+sdns://AQcAAAAAAAAAJVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY5MF0gmHxwqJfb2hUaNK1LVeqADvVhzASq1cV90sPYYfwX9CkiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTItaXB2Ng
 
 
 ## dnscrypt.eu-dk
