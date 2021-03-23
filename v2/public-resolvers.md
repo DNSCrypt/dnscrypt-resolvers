@@ -256,16 +256,6 @@ https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgRZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
-## captnemo-in
-
-Server running out of a Digital Ocean droplet in BLR1 region.
-Maintained by Abhay Rana aka Nemo.
-
-If you are within India, this might be a nice DNS server to use.
-
-sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
-
-
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
