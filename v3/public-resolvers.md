@@ -2007,6 +2007,17 @@ Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgSZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
+## switch
+
+Public DoH service provided by SWITCH in Switzerland
+
+https://www.switch.ch
+
+Provides protection against malware, but does not block ads.
+
+sdns://AgMAAAAAAAAAACA7FAZ73R-Sz_NJdsl8yiP0L0H3yntGnmJAVtqSpC3Nmg1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
+
+
 ## t53
 
 Deutsche Telekom experimental DoH server.
