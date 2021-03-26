@@ -248,34 +248,6 @@ Resolver in Barcelona, Spain. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAADjE4NS4yNTMuMTU0LjY2oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIEmRuc2VzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
-## bortzmeyer
-
-Non-logging DoH server in France operated by Stéphane Bortzmeyer.
-
-https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
-
-sdns://AgcAAAAAAAAADDE5My43MC44NS4xMaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBFkb2guYm9ydHptZXllci5mcgEv
-
-
-## bortzmeyer-ipv6
-
-Non-logging DoH server in France operated by Stéphane Bortzmeyer (IPv6 only).
-
-https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
-
-sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF2gPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgRZG9oLmJvcnR6bWV5ZXIuZnIBLw
-
-
-## captnemo-in
-
-Server running out of a Digital Ocean droplet in BLR1 region.
-Maintained by Abhay Rana aka Nemo.
-
-If you are within India, this might be a nice DNS server to use.
-
-sdns://AQQAAAAAAAAAEjEzOS41OS40OC4yMjI6NDQzNCAFOt_yxaMpFtga2IpneSwwK6rV0oAyleham9IvhoceEBsyLmRuc2NyeXB0LWNlcnQuY2FwdG5lbW8uaW4
-
-
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
@@ -1652,6 +1624,16 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IPyq3HBOXuNgu6FO4pU71Si6CTV6kPD85NA6AThr_6tiGDIuZG5zY3J5cHQtY2VydC5tZWdhbmVyZA
 
 
+## meganerd-doh-ipv4
+
+DoH server by MegaNerd.nl (IPv4) - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam (AMS1), The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWNoZXdiYWNjYS5tZWdhbmVyZC5ubDo0NDMEL2RvaA
+
+
 ## meganerd-doh-ipv6
 
 DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
@@ -2065,6 +2047,17 @@ sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRg
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgSZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
+
+
+## switch
+
+Public DoH service provided by SWITCH in Switzerland
+
+https://www.switch.ch
+
+Provides protection against malware, but does not block ads.
+
+sdns://AgMAAAAAAAAAACA7FAZ73R-Sz_NJdsl8yiP0L0H3yntGnmJAVtqSpC3Nmg1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
 
 
 ## t53
