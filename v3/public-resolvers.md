@@ -1813,14 +1813,6 @@ info - https://jlongua.github.io/plan9-dns/
 sdns://AQcAAAAAAAAAEjQ1LjYzLjExMC4xODc6ODQ0MyCcjeRhPcJTsKhZ8iViALPd39CussG6SnprFT9z_1f03x0yLmRuc2NyeXB0LWNlcnQucGxhbjktbnMyLmNvbQ
 
 
-## plan9-ns2-ipv6
-
-DNSCrypt server in Florida, USA. Non-logging, non-filtering, DNSSEC, anonymized.
-info - https://jlongua.github.io/plan9-dns/
-
-sdns://AQcAAAAAAAAAIlsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdOjg0NDMgnI3kYT3CU7CoWfIlYgCz3d_QrrLBukp6axU_c_9X9N8dMi5kbnNjcnlwdC1jZXJ0LnBsYW45LW5zMi5jb20
-
-
 ## plan9-ns2-doh
 
 doh server in Florida, USA. Non-logging, non-filtering, DNSSEC.
@@ -1835,6 +1827,14 @@ doh server in Florida, USA. Non-logging, non-filtering, DNSSEC.
 info - https://jlongua.github.io/plan9-dns/
 
 sdns://AgcAAAAAAAAAHVsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIE2RyYWNvLnBsYW45LW5zMi5jb20KL2Rucy1xdWVyeQ
+
+
+## plan9-ns2-ipv6
+
+DNSCrypt server in Florida, USA. Non-logging, non-filtering, DNSSEC, anonymized.
+info - https://jlongua.github.io/plan9-dns/
+
+sdns://AQcAAAAAAAAAIlsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdOjg0NDMgnI3kYT3CU7CoWfIlYgCz3d_QrrLBukp6axU_c_9X9N8dMi5kbnNjcnlwdC1jZXJ0LnBsYW45LW5zMi5jb20
 
 
 ## powerdns-doh
