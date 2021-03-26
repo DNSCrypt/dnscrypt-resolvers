@@ -195,6 +195,19 @@ Anonymized DNS relay hosted in New Jersey, USA. Running the official Docker imag
 sdns://gQ4xNzMuMTk5LjEyNi4zNQ
 
 
+## anon-plan9-ns2
+
+Anonymized DNS relay hosted in Florida, USA. info - https://jlongua.github.io/plan9-dns/
+
+sdns://gRI0NS42My4xMTAuMTg3Ojg0NDM
+
+
+## anon-plan9-ns2-ipv6
+
+Anonymized DNS relay hosted in Florida, USA. info - https://jlongua.github.io/plan9-dns/
+
+sdns://gSJbMjAwMToxOWYwOjkwMDI6MWQ3NDo1NDAwOjoxXTo4NDQz
+
 ## anon-pwoss.org
 
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
