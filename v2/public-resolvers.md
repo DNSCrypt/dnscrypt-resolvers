@@ -1822,14 +1822,6 @@ info - https://jlongua.github.io/plan9-dns/
 sdns://AgcAAAAAAAAAHVsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIE2RyYWNvLnBsYW45LW5zMi5jb20KL2Rucy1xdWVyeQ
 
 
-## plan9-ns2-ipv6
-
-DNSCrypt server in Florida, USA. Non-logging, non-filtering, DNSSEC, anonymized.
-info - https://jlongua.github.io/plan9-dns/
-
-sdns://AQcAAAAAAAAAIlsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdOjg0NDMgnI3kYT3CU7CoWfIlYgCz3d_QrrLBukp6axU_c_9X9N8dMi5kbnNjcnlwdC1jZXJ0LnBsYW45LW5zMi5jb20
-
-
 ## powerdns-doh
 
 By PowerDNS/Open-Xchange https://powerdns.org
