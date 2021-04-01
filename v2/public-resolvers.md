@@ -1886,6 +1886,14 @@ No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https
 sdns://AQcAAAAAAAAAEzQ1LjE0Mi4xNzYuMTcwOjQ0MzQgZF8FTkuFVFw6YP5x8ydebnTb8ONP7Ti6P0K1REyhUHgZMi5kbnNjcnlwdC1jZXJ0LnB3b3NzLm9yZw
 
 
+## quad101
+
+DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
+https://101.101.101.101/index_en.html
+
+sdns://AgcAAAAAAAAAACC2vD25TAYM7EnyCH8Xw1-0g5OccnTsGH9vQUUH0njRtAxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
+
+
 ## quad9-dnscrypt-ip4-filter-pri
 
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 / 149.112.112.9
