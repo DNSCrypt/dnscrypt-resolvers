@@ -461,13 +461,6 @@ sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZ
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## commons-host
-
-DoH server by the Commons Host CDN
-
-sdns://AgUAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAxjb21tb25zLmhvc3QKL2Rucy1xdWVyeQ
-
-
 ## comodo-02
 
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
