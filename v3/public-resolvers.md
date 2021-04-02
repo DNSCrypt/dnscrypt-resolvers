@@ -1816,14 +1816,6 @@ Running the official Docker image, info - https://jlongua.github.io/plan9-dns/
 sdns://AQcAAAAAAAAADjE3My4xOTkuMTI2LjM1IJLwH3z8-G6TDyEk6yXMmGxuss7nGfFnkHrtm4VOSc9SGTIuZG5zY3J5cHQtY2VydC5wbGFuOS1kbnM
 
 
-## plan9-ns1-doh
-
-doh server in New Jersey, USA. Non-logging, non-filtering, DNSSEC.
-info - https://jlongua.github.io/plan9-dns/
-
-sdns://AgcAAAAAAAAADjE3My4xOTkuMTI2LjM1IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIE2h5ZHJhLnBsYW45LW5zMS5jb20KL2Rucy1xdWVyeQ
-
-
 ## plan9-ns2
 
 DNSCrypt server in Florida, USA. Non-logging, non-filtering, DNSSEC, anonymized.
