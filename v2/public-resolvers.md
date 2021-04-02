@@ -448,13 +448,6 @@ Cloudflare DNS over IPv6 (anycast) with malware blocking
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## commons-host
-
-DoH server by the Commons Host CDN
-
-sdns://AgUAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAxjb21tb25zLmhvc3QKL2Rucy1xdWVyeQ
-
-
 ## comodo-02
 
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
@@ -514,13 +507,6 @@ sdns://AQYAAAAAAAAADTM3LjEyMC4yMzYuMTEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 Sofia, Bulgaria DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADjM3LjEyMC4xNTIuMjM1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-ch
-
-Switzerland DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAACzgxLjE3LjMxLjM0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-czech
@@ -1205,13 +1191,6 @@ https://www.dnspod.cn/Products/Public.DNS?lang=en
 sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kbnMtcXVlcnk
 
 
-## doh-ch-blahdns
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAADDQ1LjkwLjU3LjEyMQAXZG9oLWNoLmJsYWhkbnMuY29tOjQ0NDMKL2Rucy1xdWVyeQ
-
-
 ## doh-cleanbrowsing-adult
 
 Blocks access to all adult, pornographic and explicit sites. It does
@@ -1806,14 +1785,6 @@ DNSCrypt server in New Jersey, USA. Non-logging, non-filtering, DNSSEC, anonymiz
 Running the official Docker image, info - https://jlongua.github.io/plan9-dns/
 
 sdns://AQcAAAAAAAAADjE3My4xOTkuMTI2LjM1IJLwH3z8-G6TDyEk6yXMmGxuss7nGfFnkHrtm4VOSc9SGTIuZG5zY3J5cHQtY2VydC5wbGFuOS1kbnM
-
-
-## plan9-ns1-doh
-
-doh server in New Jersey, USA. Non-logging, non-filtering, DNSSEC.
-info - https://jlongua.github.io/plan9-dns/
-
-sdns://AgcAAAAAAAAADjE3My4xOTkuMTI2LjM1IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIE2h5ZHJhLnBsYW45LW5zMS5jb20KL2Rucy1xdWVyeQ
 
 
 ## plan9-ns2
