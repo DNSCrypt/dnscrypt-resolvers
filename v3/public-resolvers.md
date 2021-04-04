@@ -1282,13 +1282,15 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdn
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
+
 ## doh-ibksturm
 
-DoH Server, No Loggin, No Filters, DNSSEC
+DoH Server, No Logging, No Filters, DNSSEC
 
-Running privatly by ibksturm in Thurgau, Switzerland
+Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+
 
 ## doh-jp-blahdns
 
@@ -1470,13 +1472,15 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
+
 ## ibksturm
 
-DNSCRYPT V2 Server, No Loggin, No Filters, DNSSEC
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 
-Running privatly by ibksturm in Thurgau, Switzerland
+Running privately by ibksturm in Thurgau, Switzerland
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
 
 ## id-gmail
 
