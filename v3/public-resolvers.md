@@ -1476,12 +1476,6 @@ DNSCRYPT V2 Server, No Loggin, No Filters, DNSSEC
 
 Running privatly by ibksturm in Thurgau, Switzerland
 
-## ibksturm
-
-DNSCRYPT V2 Server, No Loggin, No Filters, DNSSEC
-
-Running privatly by ibksturm in Thurgau, Switzerland
-
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 ## id-gmail
