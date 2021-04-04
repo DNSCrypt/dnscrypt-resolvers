@@ -1288,7 +1288,7 @@ DoH Server, No Loggin, No Filters, DNSSEC
 
 Running privatly by ibksturm in Thurgau, Switzerland
 
-sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
 ## doh-jp-blahdns
 
