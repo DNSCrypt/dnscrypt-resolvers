@@ -151,11 +151,10 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
+
 ## anon-ibksturm
 
-DNSCRYPT V2 Server, No Loggin, No Filters, DNSSEC
-
-Running privatly by ibksturm in Thurgau, Switzerland
+Anonymized DNS relay, privately run by ibksturm in Thurgau, Switzerland
 
 sdns://gRMyMTMuMTk2LjE4OS45Mjo4NDQz
 
