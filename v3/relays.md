@@ -152,13 +152,6 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
-## anon-ibksturm
-
-Anonymized DNS relay, privately run by ibksturm in Thurgau, Switzerland
-
-sdns://gRMyMTMuMTk2LjE4OS45Mjo4NDQz
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
