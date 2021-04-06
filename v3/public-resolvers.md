@@ -1741,6 +1741,42 @@ Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by
 sdns://AQcAAAAAAAAADjUxLjE5NS4yMDAuMTgyIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
 
 
+## mullvad-doh
+
+Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
+Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+
+sdns://AgcAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQapg9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+
+
+## mullvad-dot
+
+Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-TLS resolver hosted by VPN provider Mullvad
+Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+
+sdns://AwcAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQapg9kb2gubXVsbHZhZC5uZXQ
+
+
+## mullvad-adblock-doh
+
+Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
+Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+
+sdns://AgMAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQaphdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+
+
+## mullvad-adblock-dot
+
+Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-TLS resolver hosted by VPN provider Mullvad
+Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+
+sdns://AwMAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQaphdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldA
+
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
