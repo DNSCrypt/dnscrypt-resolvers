@@ -1747,16 +1747,7 @@ Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS reso
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgcAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQapg9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
-
-
-## mullvad-dot
-
-Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-TLS resolver hosted by VPN provider Mullvad
-Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
-https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
-
-sdns://AwcAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQapg9kb2gubXVsbHZhZC5uZXQ
+sdns://AgcAAAAAAAAAACD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6Eg9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
 ## mullvad-adblock-doh
@@ -1765,16 +1756,7 @@ Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolv
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgMAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQaphdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
-
-
-## mullvad-adblock-dot
-
-Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-TLS resolver hosted by VPN provider Mullvad
-Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
-https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
-
-sdns://AwMAAAAAAAAAACCXOkEnb_0B4CeiqtSeNMN4RtPpdv9qYgtnEuM4MgQaphdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldA
+sdns://AgMAAAAAAAAAACD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6EhdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 
 ## nextdns
