@@ -2082,34 +2082,39 @@ sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9j
 ## wevpn-adblock-singapore
 
 Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
+With ad blocking.
 
-sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuOTA6MTUzNTMgufWZBK6y8zr6mDW3z47IASY0jQoaoRFSBaB8i1GHng8fMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
+sdns://AQMAAAAAAAAAEzE0My4yNDQuMzMuOTA6MTUzNTMgufWZBK6y8zr6mDW3z47IASY0jQoaoRFSBaB8i1GHng8fMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
 
 ## wevpn-adblock-uk
 
 Private DNSCrypt service by WeVPN in London, UK - https://wevpn.com/dns
+With ad blocking.
 
-sdns://AQcAAAAAAAAAFDIxNi4xMTkuMTU1LjQ5OjE1MzUzIF2QDfN8-gL0x3IyXgqgrawgSxKm7A80BgexEH7WghsBHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
+sdns://AQMAAAAAAAAAFDIxNi4xMTkuMTU1LjQ5OjE1MzUzIF2QDfN8-gL0x3IyXgqgrawgSxKm7A80BgexEH7WghsBHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
 
 
 ## wevpn-adblock-useast
 
 Private DNSCrypt service by WeVPN in New Jersey, USA - https://wevpn.com/dns
+With ad blocking.
 
-sdns://AQcAAAAAAAAAFDIzLjIyNi4xMzQuMjQzOjE1MzUzIBf1guPReaoN_V7w-UelcO4YnvqoXnDGsxRPIRc6uSjsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
+sdns://AQMAAAAAAAAAFDIzLjIyNi4xMzQuMjQzOjE1MzUzIBf1guPReaoN_V7w-UelcO4YnvqoXnDGsxRPIRc6uSjsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
 
 
 ## wevpn-adblock-uswest
 
 Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
+With ad blocking.
 
-sdns://AQcAAAAAAAAAEjcyLjExLjEzNC45MToxNTM1MyBV2R9ORyXQIRO7dlT0F2mYeEdvXEuBOWMdFkripZcN9B8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
+sdns://AQMAAAAAAAAAEjcyLjExLjEzNC45MToxNTM1MyBV2R9ORyXQIRO7dlT0F2mYeEdvXEuBOWMdFkripZcN9B8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
 
 
 ## wevpn-singapore
 
 Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
+With ad blocking.
 
 sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuNzQ6MTUzNTMgFTXwu5MfYkBOrRpDeoB-yOWEjCnf-l3yixhtuzuPBskfMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
@@ -2117,6 +2122,7 @@ sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuNzQ6MTUzNTMgFTXwu5MfYkBOrRpDeoB-yOWEjCnf-l3yi
 ## wevpn-uk
 
 Private DNSCrypt service by WeVPN in London, UK - https://wevpn.com/dns
+With ad blocking.
 
 sdns://AQcAAAAAAAAAEjIxMi43OC45NC40MDoxNTM1MyCAw5p4sJ073gZnQ5jy00DHU3r7Y9mopz-_idDV_HHuuR8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
 
@@ -2124,6 +2130,7 @@ sdns://AQcAAAAAAAAAEjIxMi43OC45NC40MDoxNTM1MyCAw5p4sJ073gZnQ5jy00DHU3r7Y9mopz-_i
 ## wevpn-useast
 
 Private DNSCrypt service by WeVPN in New Jersey, USA - https://wevpn.com/dns
+With ad blocking.
 
 sdns://AQcAAAAAAAAAFDIzLjIyNi4xMzQuMjQyOjE1MzUzII_Le5DiGa3AfdRxR7DRt52ZaexL_22aLfjDJwp5saIsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
 
@@ -2131,6 +2138,7 @@ sdns://AQcAAAAAAAAAFDIzLjIyNi4xMzQuMjQyOjE1MzUzII_Le5DiGa3AfdRxR7DRt52ZaexL_22aL
 ## wevpn-uswest
 
 Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
+With ad blocking.
 
 sdns://AQcAAAAAAAAAEjcyLjExLjEzNC45MDoxNTM1MyAKLsInrJLgKMxBqSL1VvH74T3wwp1bn5wkvPwUlea3Kh8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
 
