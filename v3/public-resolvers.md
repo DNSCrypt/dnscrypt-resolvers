@@ -1941,24 +1941,6 @@ sdns://AQYAAAAAAAAADTkuOS45LjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idh
 sdns://AQYAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
 
 
-## quad9-dnscrypt-ip6-filter-pri
-
-Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe:9 / 2620:fe::9
-
-Warning: this server is incompatible with DNS anonymization.
-
-sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALjEcDaN-CHYY-GTIuZG5zY3J5cHQtY2VydC5xdWFkOS5uZXQ
-
-
-## quad9-dnscrypt-ip6-nofilter-pri
-
-Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
-
-Warning: this server is incompatible with DNS anonymization.
-
-sdns://AQYAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
-
-
 ## quad9-doh-ip4-filter-pri
 
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 / 149.112.112.9
