@@ -1380,6 +1380,20 @@ DNS with adblock filters and antiphishing, gaining popularity among russian-spea
 sdns://AQMAAAAAAAAAEjkxLjIzMC4yMTEuNjc6NTQ0MyAVacgDhm0kq-ciz2DrJlPhYjI9v6tAQHbulojEz86TEyIyLmRuc2NyeXB0LWNlcnQuZG5zLmVhc3QuY29tc3Mub25l
 
 
+## emeraldonion-ipv4-doh
+
+The Emerald Onion public DNS resolver is an anycast, privacy-respecting DNS service offering modern, encrypted DNS protocols: DNS-over-TLS (DoT), DNS-over-HTTPS (DoH), and DNS-over-QUIC (DoQ). See https://github.com/emeraldonion/DNS for more information. This is the stamp for IPv4 anycast DoH.
+
+sdns://AgcAAAAAAAAADTEwMy4yMzIuMjA3LjIAFGRucy5lbWVyYWxkb25pb24ub3JnCi9kbnMtcXVlcnk
+
+
+## emeraldonion-ipv6-doh
+
+The Emerald Onion public DNS resolver is an anycast, privacy-respecting DNS service offering modern, encrypted DNS protocols: DNS-over-TLS (DoT), DNS-over-HTTPS (DoH), and DNS-over-QUIC (DoQ). See https://github.com/emeraldonion/DNS for more information. This is the stamp for IPv6 anycast DoH.
+
+sdns://AgcAAAAAAAAADTI2MjA6MThjOjI6OjIAFGRucy5lbWVyYWxkb25pb24ub3JnCi9kbnMtcXVlcnk
+
+
 ## faelix-ch-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
