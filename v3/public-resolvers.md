@@ -1391,7 +1391,7 @@ sdns://AgcAAAAAAAAADTEwMy4yMzIuMjA3LjIAFGRucy5lbWVyYWxkb25pb24ub3JnCi9kbnMtcXVlc
 
 The Emerald Onion public DNS resolver is an anycast, privacy-respecting DNS service offering modern, encrypted DNS protocols: DNS-over-TLS (DoT), DNS-over-HTTPS (DoH), and DNS-over-QUIC (DoQ). See https://github.com/emeraldonion/DNS for more information. This is the stamp for IPv6 anycast DoH.
 
-sdns://AgcAAAAAAAAADTI2MjA6MThjOjI6OjIAFGRucy5lbWVyYWxkb25pb24ub3JnCi9kbnMtcXVlcnk
+AgcAAAAAAAAAD1syNjIwOjE4YzoyOjoyXQAUZG5zLmVtZXJhbGRvbmlvbi5vcmcKL2Rucy1xdWVyeQ
 
 
 ## faelix-ch-ipv4
