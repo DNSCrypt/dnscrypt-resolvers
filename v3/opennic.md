@@ -22,14 +22,6 @@ Running privately by ibksturm in Thurgau, Switzerland
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgwLW585S_24IVD0FZfLA3-fb9xnRXIm77zwAjG0OZ-TwYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
-## opennic-fische
-
-OpenNIC • Non-logging • DNSSEC
-Location: Nurnberg, Germany
-
-sdns://AQcAAAAAAAAAEDc4LjQ3LjI0My4zOjEwNTMgN4CAbUDR-b3uJJMVzfCdL9ivVV7s8wRhifLRPWBfSmQdMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
-
-
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
