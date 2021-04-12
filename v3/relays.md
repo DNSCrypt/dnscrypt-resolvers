@@ -158,6 +158,11 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
+## anon-ibksturm
+
+Anonymized DNS relay hosted in East Switzerland by Ibksturm
+
+sdns://gRMyMTMuMTk2LjE4OS45Mjo4NDQz
 
 ## anon-inconnu
 
