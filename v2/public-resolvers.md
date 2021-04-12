@@ -1505,18 +1505,6 @@ Non-logging and non-Filtering DoH forwarder in Indonesia.
 sdns://AgYAAAAAAAAACjExNi4wLjIuODYgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgPZG9oLnRoaXMud2ViLmlkCi9kbnMtcXVlcnk
 
 
-## jitender
-
-DNSCrypt resolver in Hyderabad, India, Oracle Cloud
-
-Warning: this server is incompatible with DNS anonymization.
-
-Operated by Jitender (@coolquasar) in Hyderabad, India.
-Blocks ads/trackers/analytics domains and provides a clean browsing experience.
-
-sdns://AQMAAAAAAAAADTE1Mi42Ny4xNjUuMjYgBQbmyjgl5vyzNCe7s6WXJck9ZZR425-NzDAP63Xij5AcMi5kbnNjcnlwdC1jZXJ0LmppdC5kZG5zLm5ldA
-
-
 ## jp.tiar.app
 
 Non-Logging, Non-Filtering DNSCrypt server in Japan.
