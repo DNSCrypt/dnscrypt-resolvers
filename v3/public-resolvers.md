@@ -485,24 +485,6 @@ https://www.comss.ru/page.php?id=7315
 sdns://AQMAAAAAAAAADTk0LjE3Ni4yMzMuOTMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_OkxMdMi5kbnNjcnlwdC1jZXJ0LmRucy5jb21zcy5vbmU
 
 
-## containerpi
-
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
-Multiple nodes in China Mainland, Japan and Germany.
-Maintained by CPI-tech-Group
-
-sdns://AgMAAAAAAAAADDQ1Ljc3LjE4MC4xMCA59q74zeUV4xVJXPXvLw0G1pi3YdoaF4FskwSxGJjS1BNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
-
-
-## containerpi-ipv6
-
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
-Multiple nodes in China Mainland, Japan and Germany.
-Maintained by CPI-tech-Group
-
-sdns://AgMAAAAAAAAAKVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddIDn2rvjN5RXjFUlc9e8vDQbWmLdh2hoXgWyTBLEYmNLUE2Rucy5jb250YWluZXJwaS5jb20KL2Rucy1xdWVyeQ
-
-
 ## cs-austria
 
 Wien, Austria DNSCrypt server provided by https://cryptostorm.is/
