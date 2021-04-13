@@ -159,6 +159,12 @@ Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 
 sdns://gQ4xMDQuMjM4LjE1My40Ng
 
+## anon-ibksturm
+
+Anonymized DNS relay running by ibksturm in Thurgau Switzerland
+
+sdns://gRMyMTMuMTk2LjE4OS45Mjo4NDQz
+
 
 ## anon-kama
 
