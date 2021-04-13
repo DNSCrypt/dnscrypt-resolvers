@@ -138,13 +138,6 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
-## anon-dnscrypt.one
-
-Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one
-
-sdns://gQ0xNjEuOTcuMTAxLjUx
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean

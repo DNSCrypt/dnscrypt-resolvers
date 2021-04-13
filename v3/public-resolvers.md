@@ -1055,13 +1055,6 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
-## dnscrypt.one
-
-Non-logging, non-censoring, DNSSEC-capable DNSCrypt resolver hosted in Germany (Nuremberg), https://dnscrypt.one
-
-sdns://AQcAAAAAAAAADTE2MS45Ny4xMDEuNTEgCjK6MsxRVt6dNByNcgmcutGvdW71yaYVnUlRM4DN6h4cMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm9uZQ
-
-
 ## dnscrypt.pl
 
 Free | No filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
