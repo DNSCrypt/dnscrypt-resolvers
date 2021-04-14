@@ -187,6 +187,13 @@ Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and tracke
 sdns://AgMAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQ0NDOgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDggMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgXZG5zbmwuYWxla2JlcmcubmV0OjQ0NDMKL2Rucy1xdWVyeQ
 
 
+## ams-dnscrypt-nl
+
+Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
+
+
 ## ams-dnscrypt-nl-ipv6
 
 Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
@@ -470,24 +477,6 @@ DNS server in Lithuania filtering phishing and ads.
 https://www.comss.ru/page.php?id=7315
 
 sdns://AQMAAAAAAAAADTk0LjE3Ni4yMzMuOTMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_OkxMdMi5kbnNjcnlwdC1jZXJ0LmRucy5jb21zcy5vbmU
-
-
-## containerpi
-
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
-Multiple nodes in China Mainland, Japan and Germany.
-Maintained by CPI-tech-Group
-
-sdns://AgMAAAAAAAAADDQ1Ljc3LjE4MC4xMCA59q74zeUV4xVJXPXvLw0G1pi3YdoaF4FskwSxGJjS1BNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
-
-
-## containerpi-ipv6
-
-Non-logging, non-filtering, DNSSEC validating server, EDNS Client Subnet enabled.
-Multiple nodes in China Mainland, Japan and Germany.
-Maintained by CPI-tech-Group
-
-sdns://AgMAAAAAAAAAKVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddIDn2rvjN5RXjFUlc9e8vDQbWmLdh2hoXgWyTBLEYmNLUE2Rucy5jb250YWluZXJwaS5jb20KL2Rucy1xdWVyeQ
 
 
 ## cs-austria
@@ -1060,13 +1049,6 @@ Free, non-logged, uncensored. Hosted by RamNode.
 sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
 
 
-## dnscrypt.one
-
-Non-logging, non-censoring, DNSSEC-capable DNSCrypt resolver hosted in Germany (Nuremberg), https://dnscrypt.one
-
-sdns://AQcAAAAAAAAADTE2MS45Ny4xMDEuNTEgCjK6MsxRVt6dNByNcgmcutGvdW71yaYVnUlRM4DN6h4cMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm9uZQ
-
-
 ## dnscrypt.pl
 
 Free | No filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
@@ -1473,7 +1455,7 @@ DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgwLW585S_24IVD0FZfLA3-fb9xnRXIm77zwAjG0OZ-TwYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## id-gmail
@@ -1521,18 +1503,6 @@ sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARc
 Non-logging and non-Filtering DoH forwarder in Indonesia.
 
 sdns://AgYAAAAAAAAACjExNi4wLjIuODYgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgPZG9oLnRoaXMud2ViLmlkCi9kbnMtcXVlcnk
-
-
-## jitender
-
-DNSCrypt resolver in Hyderabad, India, Oracle Cloud
-
-Warning: this server is incompatible with DNS anonymization.
-
-Operated by Jitender (@coolquasar) in Hyderabad, India.
-Blocks ads/trackers/analytics domains and provides a clean browsing experience.
-
-sdns://AQMAAAAAAAAADTE1Mi42Ny4xNjUuMjYgBQbmyjgl5vyzNCe7s6WXJck9ZZR425-NzDAP63Xij5AcMi5kbnNjcnlwdC1jZXJ0LmppdC5kZG5zLm5ldA
 
 
 ## jp.tiar.app
@@ -1777,14 +1747,6 @@ Non-logging DoH server in Sweden operated by Njalla.
 https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6A-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiAtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
-
-
-## opennic-fische
-
-OpenNIC • Non-logging • DNSSEC
-Location: Nurnberg, Germany
-
-sdns://AQcAAAAAAAAAEDc4LjQ3LjI0My4zOjEwNTMgN4CAbUDR-b3uJJMVzfCdL9ivVV7s8wRhifLRPWBfSmQdMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
 
 
 ## opennic-luggs
