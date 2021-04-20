@@ -13,12 +13,13 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## opennic-fische
+## ibksturm
 
-OpenNIC • Non-logging • DNSSEC
-Location: Nurnberg, Germany
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 
-sdns://AQcAAAAAAAAAEDc4LjQ3LjI0My4zOjEwNTMgN4CAbUDR-b3uJJMVzfCdL9ivVV7s8wRhifLRPWBfSmQdMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgwLW585S_24IVD0FZfLA3-fb9xnRXIm77zwAjG0OZ-TwYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## opennic-luggs

@@ -26,6 +26,13 @@ Anonymized DNS relay hosted in AMS on Scaleway
 sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 
+## anon-ams-nl
+
+Anonymized DNS relay hosted in Netherlands - NL
+
+sdns://gRI1MS4xNS4xMjQuMjA4OjQzNDM
+
+
 ## anon-ams-nl-ipv6
 
 Anonymized DNS relay hosted in Netherlands - NL
@@ -131,13 +138,6 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
-## anon-dnscrypt.one
-
-Anonymized DNS relay hosted in Germany (Nuremberg), https://dnscrypt.one
-
-sdns://gQ0xNjEuOTcuMTAxLjUx
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
@@ -150,6 +150,13 @@ sdns://gQ0xNjUuMjMyLjMyLjk1
 Anonymized DNS relay hosted in UK on DigitalOcean
 
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
+
+
+## anon-ibksturm
+
+Anonymized DNS relay running by ibksturm in Thurgau Switzerland
+
+sdns://gRMyMTMuMTk2LjE4OS45Mjo4NDQz
 
 
 ## anon-inconnu
