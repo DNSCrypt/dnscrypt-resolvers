@@ -1222,8 +1222,8 @@ DNS-over-HTTPS server. Anycast, no logs, no censorship, DNSSEC.
 Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
-sdns://AgcAAAAAAAAADDEwNC4yOC4wLjEwNgANZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAADDEwNC4yOC4xLjEwNgANZG9oLmNyeXB0by5zeAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzEwNC4yMS42Ljc4AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADjE3Mi42Ny4xMzQuMTU3AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
 ## doh-crypto-sx-ipv6
@@ -1232,8 +1232,8 @@ DNS-over-HTTPS server accessible over IPv6. Anycast, no logs, no censorship, DNS
 Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
-sdns://AgcAAAAAAAAAGVsyNjA2OjQ3MDA6MzAzNjo6NjgxYzo2YV0AEmRvaC1pcHY2LmNyeXB0by5zeAovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAGlsyNjA2OjQ3MDA6MzAzNDo6NjgxYzoxNmFdABJkb2gtaXB2Ni5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGlsyNjA2OjQ3MDA6MzAzNzo6NjgxNTo2NGVdABJkb2gtaXB2Ni5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6YWM0Mzo4NjlkXQASZG9oLWlwdjYuY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
 ## doh-de-blahdns
