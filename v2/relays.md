@@ -62,13 +62,6 @@ Anonymized DNS relay hosted in Paris, France provided by https://cryptostorm.is/
 sdns://gQ0yMTIuMTI5LjQ2LjMy
 
 
-## anon-cs-fr2
-
-Anonymized DNS relay hosted in Paris, France (secondary) provided by https://cryptostorm.is/
-
-sdns://gQ0xOTUuMTU0LjQwLjQ4
-
-
 ## anon-cs-md
 
 Anonymized DNS relay hosted in Chisinau, Moldova provided by https://cryptostorm.is/
