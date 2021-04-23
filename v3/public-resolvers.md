@@ -1535,6 +1535,12 @@ No ECS, Support DNSSEC
 sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw
 
 
+DNS-over-HTTPS Server. Non-Logging, Non-Filtering, No ECS, Support DNSSEC.
+Cached via Cloudflare.
+
+sdns://AgcAAAAAAAAAACDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9w1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk
+
+
 ## jp.tiarap.org-ipv6
 
 DNS-over-HTTPS Server (IPv6). Non-Logging, Non-Filtering, No ECS, Support DNSSEC.
