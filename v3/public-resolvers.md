@@ -254,7 +254,7 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMg_IlDWhFp1tL1VycXVO3QTEiQIKG_1OwG4tNTAD-nLj0cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
+sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMgJamotI-hwWI8IrJ0Zq-ofLaFCdeuOONZQ478aqWcZr0cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
 
 
 ## bcn-doh
