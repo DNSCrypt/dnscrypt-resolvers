@@ -945,34 +945,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://bl
 sdns://AQMAAAAAAAAAF1syYTBlOmRjMDo2OjIzOjoyXTo4NDQzIIUTqWvE4INLlQ1jtQLo0-LVTQSWayYCkzTpBx26I_wrGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
 
 
-## dnscrypt-jp-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEzEzOS4xNjIuMTEyLjQ3Ojg0NDMgbC1IEdPcd6w0tIkpG7PJPgsGG0O9BZX-gf0hJ0E_SLUbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-jp-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-sg-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEzE5Mi41My4xNzUuMTQ5Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-sg-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -999,6 +971,34 @@ sdns://AQMAAAAAAAAAEzk1LjIxNi4yMTIuMTc3Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTN
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
 
 sdns://AQMAAAAAAAAAHFsyYTAxOjRmOTpjMDEwOjQzY2U6OjFdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+
+## dnscrypt-jp-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEzEzOS4xNjIuMTEyLjQ3Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+
+## dnscrypt-jp-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+
+## dnscrypt-sg-blahdns-ipv4
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAEzE5Mi41My4xNzUuMTQ5Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+
+## dnscrypt-sg-blahdns-ipv6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
+
+sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 
 ## dnscrypt.be
@@ -1220,6 +1220,20 @@ https://www.dnspod.cn/Products/Public.DNS?lang=en
 sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kbnMtcXVlcnk
 
 
+## doh-ch-blahdns
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAAEDQ1LjkxLjkyLjEyMTo0NDMAEmRvaC1jaC5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## doh-ch-blahdns-v6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAAFlsyYTBlOmRjMDo2OjIzOjoyXTo0NDMAEmRvaC1jaC5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
 ## doh-cleanbrowsing-adult
 
 Blocks access to all adult, pornographic and explicit sites. It does
@@ -1271,20 +1285,6 @@ sdns://AgcAAAAAAAAAGlsyNjA2OjQ3MDA6MzAzNzo6NjgxNTo2NGVdABJkb2gtaXB2Ni5jcnlwdG8uc
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6YWM0Mzo4NjlkXQASZG9oLWlwdjYuY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
-## doh-ch-blahdns
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAEDQ1LjkxLjkyLjEyMTo0NDMAEmRvaC1jaC5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
-## doh-ch-blahdns-v6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAFlsyYTBlOmRjMDo2OjIzOjoyXTo0NDMAEmRvaC1jaC5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
-
-
 ## doh-de-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -1313,6 +1313,15 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdn
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## doh-ibksturm
+
+DoH Server, No Logging, No Filters, DNSSEC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AgcAAAAAAAAAACAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+
+
 ## doh-jp-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
@@ -1339,15 +1348,6 @@ sdns://AgMAAAAAAAAADjE5Mi41My4xNzUuMTQ5ABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVye
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
 
 sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-ibksturm
-
-DoH Server, No Logging, No Filters, DNSSEC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AgcAAAAAAAAAACAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
 
 ## doh.appliedprivacy.net
