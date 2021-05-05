@@ -853,7 +853,7 @@ DNSCrypt Server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low late
 
 Try `ping -f -c 100 193.200.238.80` to asses RTT.
 
-sdns://AQcAAAAAAAAAEjE5My4yMDAuMjM4LjgwOjQ0MyCGcGC2OtJdknSHwM_zdPgJkDPII1cC1jZcvN0t11XEmiAyLmRuc2NyeXB0LWNlcnQuc2FuZC1hODAuZGFtYS5ubw
+sdns://AQcAAAAAAAAAEjE5My4yMDAuMjM4LjgwOjQ0MyCGcGC2OtJdknSHwM_zdPgJkDPII1cC1jZcvN0t11XEmh4yLmRuc2NyeXB0LWNlcnQuc2EtYTgwLmRhbWEubm8
 
 ## decloudus-nogoogle-tst
 
