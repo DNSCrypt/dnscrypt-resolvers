@@ -1936,26 +1936,6 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
-## rubyfish-ea
-
-Resolver in mainland China, forwarding queries for non-Chinese domains
-to upstream servers in East Asia.
-
-https://www.rubyfish.cn/
-
-sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJlYS1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
-
-
-## rubyfish-uw
-
-Resolver in mainland China, forwarding queries for non-Chinese domains
-to US-West.
-
-https://www.rubyfish.cn/
-
-sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJ1dy1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
-
-
 ## safesurfer
 
 Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
