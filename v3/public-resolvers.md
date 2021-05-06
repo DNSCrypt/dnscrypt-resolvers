@@ -840,13 +840,16 @@ Server provided by Martin 'd0wn' Albus
 
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
-## dama.no sa-a80 
 
-DNSCrypt Server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low latency from Northern Europe (north of Hamburg).  **non-censoring, non-logging, DNSSEC-capable**
+## dama.no sa-a80
 
-Try `ping -f -c 100 193.200.238.80` to asses RTT.
+DNSCrypt server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low latency from Northern Europe (north of Hamburg).
+Non-censoring, non-logging, DNSSEC-capable.
+
+Try `ping -c 100 193.200.238.80` to measure RTT.
 
 sdns://AQcAAAAAAAAAEjE5My4yMDAuMjM4LjgwOjQ0MyCGcGC2OtJdknSHwM_zdPgJkDPII1cC1jZcvN0t11XEmh4yLmRuc2NyeXB0LWNlcnQuc2EtYTgwLmRhbWEubm8
+
 
 ## decloudus-nogoogle-tst
 
