@@ -744,13 +744,6 @@ Portugal DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTEwOS43MS40Mi4yMjggMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-ro
-
-Romania DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADDUuMjU0Ljk2LjE5NSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-rome
 
 Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
