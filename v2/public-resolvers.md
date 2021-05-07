@@ -911,6 +911,16 @@ Non-logging, non-filtering, DNSSEC DoH Server. Hosted in the UK.
 sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFGRuczEucnlhbi1wYWxtZXIuY29tCi9kbnMtcXVlcnk
 
 
+## dns.sb
+
+DNSSEC-enabled DoH server by https://xtom.com/
+Using Cloudflare as a frontend.
+
+https://dns.sb
+
+sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
+
+
 ## dns.therifleman.name
 
 DNS-over-HTTPS DNS forwarder from Mumbai, India. Blocks web and Android trackers and ads.
