@@ -731,13 +731,6 @@ Portugal DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTEwOS43MS40Mi4yMjggMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-ro
-
-Romania DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADDUuMjU0Ljk2LjE5NSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-rome
 
 Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
@@ -835,6 +828,16 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
+## dama.no sa-a80
+
+DNSCrypt server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low latency from Northern Europe (north of Hamburg).
+Non-censoring, non-logging, DNSSEC-capable.
+
+Try `ping -c 100 193.200.238.80` to measure RTT.
+
+sdns://AQcAAAAAAAAAEjE5My4yMDAuMjM4LjgwOjQ0MyCGcGC2OtJdknSHwM_zdPgJkDPII1cC1jZcvN0t11XEmh4yLmRuc2NyeXB0LWNlcnQuc2EtYTgwLmRhbWEubm8
+
+
 ## decloudus-nogoogle-tst
 
 Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs.
@@ -906,6 +909,16 @@ sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2
 Non-logging, non-filtering, DNSSEC DoH Server. Hosted in the UK.
 
 sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIFGRuczEucnlhbi1wYWxtZXIuY29tCi9kbnMtcXVlcnk
+
+
+## dns.sb
+
+DNSSEC-enabled DoH server by https://xtom.com/
+Using Cloudflare as a frontend.
+
+https://dns.sb
+
+sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 
 ## dns.therifleman.name
@@ -1391,6 +1404,38 @@ sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL
 DNS with adblock filters and antiphishing, gaining popularity among russian-speaking users.
 
 sdns://AQMAAAAAAAAAEjkxLjIzMC4yMTEuNjc6NTQ0MyAVacgDhm0kq-ciz2DrJlPhYjI9v6tAQHbulojEz86TEyIyLmRuc2NyeXB0LWNlcnQuZG5zLmVhc3QuY29tc3Mub25l
+
+
+## emeraldonion-doh
+
+Non-logging, anycast DoH server with multiple nodes in the US.
+
+Emerald Onion is a 501(c)(3) nonprofit organization and transit
+internet service provider (ISP) based in Seattle, WA.
+
+https://emeraldonion.org/faq/
+
+This public DNS service is shared by Emerald Onion's Tor exit relays,
+meaning that Tor user's queries are blended with non-Tor exit
+user's queries, further enhancing DNS privacy.
+
+sdns://AgcAAAAAAAAADTEwMy4yMzIuMjA3LjMgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYgUZG5zLmVtZXJhbGRvbmlvbi5vcmcKL2Rucy1xdWVyeQ
+
+
+## emeraldonion-doh-ipv6
+
+Non-logging, anycast DoH server with multiple nodes in the US (IPv6).
+
+Emerald Onion is a 501(c)(3) nonprofit organization and transit
+internet service provider (ISP) based in Seattle, WA.
+
+https://emeraldonion.org/faq/
+
+This public DNS service is shared by Emerald Onion's Tor exit relays,
+meaning that Tor user's queries are blended with non-Tor exit
+user's queries, further enhancing DNS privacy.
+
+sdns://AgcAAAAAAAAAD1syNjIwOjE4YzoyOjozXSAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRkbnMuZW1lcmFsZG9uaW9uLm9yZwovZG5zLXF1ZXJ5
 
 
 ## faelix-ch-ipv4
@@ -1920,26 +1965,6 @@ sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XQASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-
-
-## rubyfish-ea
-
-Resolver in mainland China, forwarding queries for non-Chinese domains
-to upstream servers in East Asia.
-
-https://www.rubyfish.cn/
-
-sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJlYS1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
-
-
-## rubyfish-uw
-
-Resolver in mainland China, forwarding queries for non-Chinese domains
-to US-West.
-
-https://www.rubyfish.cn/
-
-sdns://AgEAAAAAAAAAAKA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBJ1dy1kbnMucnVieWZpc2guY24KL2Rucy1xdWVyeQ
 
 
 ## safesurfer
