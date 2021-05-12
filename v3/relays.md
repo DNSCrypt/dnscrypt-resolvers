@@ -194,6 +194,34 @@ Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by htt
 sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
 
 
+## anon-saldns01-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region. No log.
+
+sdns://gRQxMTguMjcuMTA4LjE0MDo1MDQ0Mw
+
+
+## anon-saldns02-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region. No log.
+
+sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
+
+
+## anon-saldns99-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
+
+sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
+
+
+## anon-saldnssg01-conoha-ipv4
+
+Hosted on ConoHa VPS Singapore region. No log.
+
+sdns://gRQxNjMuNDQuMTU0LjE0NDo1MDQ0Mw
+
+
 ## anon-scaleway
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
