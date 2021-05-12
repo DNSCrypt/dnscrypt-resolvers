@@ -841,7 +841,7 @@ Non-censoring, non-logging, DNSSEC-capable.
 
 Try `ping -c 100 193.200.238.80` to measure RTT.
 
-sdns://AQcAAAAAAAAAEjE5My4yMDAuMjM4LjgwOjQ0MyCGcGC2OtJdknSHwM_zdPgJkDPII1cC1jZcvN0t11XEmh4yLmRuc2NyeXB0LWNlcnQuc2EtYTgwLmRhbWEubm8
+sdns://AQcAAAAAAAAADjE5My4yMDAuMjM4LjgwIIZwYLY60l2SdIfAz_N0-AmQM8gjVwLWNly83S3XVcSaHjIuZG5zY3J5cHQtY2VydC5zYS1hODAuZGFtYS5ubw
 
 
 ## decloudus-nogoogle-tst
@@ -1230,14 +1230,14 @@ sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kb
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
 
-sdns://AgMAAAAAAAAAEDQ1LjkxLjkyLjEyMTo0NDMAEmRvaC1jaC5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADDQ1LjkxLjkyLjEyMQASZG9oLWNoLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## doh-ch-blahdns-v6
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
 
-sdns://AgMAAAAAAAAAFlsyYTBlOmRjMDo2OjIzOjoyXTo0NDMAEmRvaC1jaC5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAElsyYTBlOmRjMDo2OjIzOjoyXQASZG9oLWNoLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## doh-cleanbrowsing-adult
