@@ -1382,15 +1382,6 @@ https://ffmuc.net/
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5g1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 
-## doh.li
-
-Public DoH server in London, UK.
-
-Warning: provides EDNS Client Subnet information to upstream servers.
-
-sdns://AgUAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5gZkb2gubGkKL2Rucy1xdWVyeQ
-
-
 ## doh.tiarap.org
 
 Non-Logging DNS-over-HTTPS server, cached via Cloudflare.
