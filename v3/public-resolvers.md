@@ -1877,6 +1877,12 @@ By PowerDNS/Open-Xchange https://powerdns.org
 sdns://AgcAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hBkb2gucG93ZXJkbnMub3JnAS8
 
 
+## pryv8boi
+By pryv8, non Logging, uncensored, DNSSEC - hosted on contabo servers
+
+sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMg0I13MMoiCKduiHKph6yaHFtoNLhPFroCyPOffUqqcsocMi5kbnNjcnlwdC1jZXJ0LnByeXY4Ym9pLm9yZw
+
+
 ## publicarray-au
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
