@@ -800,6 +800,13 @@ https://www.nic.cz/odvr/
 sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZTo6MV2gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYLb2R2ci5uaWMuY3oEL2RvaA
 
 
+## dct-ru1
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
+
+sdns://AQcAAAAAAAAAEDk0LjI0Mi41OS4zNTo0NDMgTg8e1Qx5q3cMqZ8MkxmG6850fFHXcEwdd_7gAcWcp6wXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTE
+
+
 ## d0wn-is-ns2
 
 Server provided by Martin 'd0wn' Albus
