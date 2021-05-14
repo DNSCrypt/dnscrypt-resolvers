@@ -49,7 +49,7 @@ sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQ
 
 ## adfree.usableprivacy.net
 
-Public DoH service with advertising, tracker and malware filtering.
+Public updns DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
