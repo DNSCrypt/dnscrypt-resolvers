@@ -49,9 +49,9 @@ sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQ
 
 ## adfree.usableprivacy.net
 
-Public non-logging DoH server with advertising and tracker filtering.
+Public updns DoH service with advertising, tracker and malware filters.
 
-Hosted in Austria/Europe, details see: [docs.usableprivacy.com](https://docs.usableprivacy.com)
+Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
 sdns://AgMAAAAAAAAADzE0OS4xNTQuMTUzLjE1M6Ayhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hhhZGZyZWUudXNhYmxlcHJpdmFjeS5uZXQKL2Rucy1xdWVyeQ
 
