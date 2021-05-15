@@ -301,3 +301,17 @@ Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
 
 sdns://gSxbMjAwMToxOWYwOjVjMDE6MTQ3ZTo1NDAwOjNmZjpmZTJhOjNiMWZdOjQ0Mw
 
+
+## anon-zackptg5-us-pit-ipv4
+
+Anonymized DNS relay hosted in Pittsburgh, PA on TeraSwitch. Maintained by @Zackptg5
+
+sdns://gRE3NC4xMTguMTQxLjQ3OjQ0Mg
+
+
+## anon-zackptg5-us-pit-ipv6
+
+Anonymized DNS relay hosted in Pittsburgh, PA on TeraSwitch. Maintained by @Zackptg5
+
+sdns://gSdbMjYwNzpmZGMwOjI6MDpmODE2OjNlZmY6ZmUzMjpjN2I0XTo0NDI
+
