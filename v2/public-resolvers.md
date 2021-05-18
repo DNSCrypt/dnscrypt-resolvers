@@ -838,6 +838,13 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, 
 sdns://AQcAAAAAAAAAEDk0LjI0Mi41OS4zNTo0NDMgTg8e1Qx5q3cMqZ8MkxmG6850fFHXcEwdd_7gAcWcp6wXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTE
 
 
+## dct-ru2
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
+
+sdns://AQcAAAAAAAAAETE4NS4yMi4xNTQuMTk6NDQzIB9z-95JSBqhYTv8UIQqUs65Ym2DYNXzBf5cN-kH8Pt9FzIuZG5zY3J5cHQtY2VydC5kY3QtcnUy
+
+
 ## decloudus-nogoogle-tst
 
 Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs.
