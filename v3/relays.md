@@ -144,6 +144,11 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
+## anon-ibksturm
+
+Anonymized DNS relay by ibksturm, Thurgau Switzerland
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
 
 ## anon-kama
 
