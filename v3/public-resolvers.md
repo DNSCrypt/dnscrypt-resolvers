@@ -251,7 +251,7 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMgJamotI-hwWI8IrJ0Zq-ofLaFCdeuOONZQ478aqWcZr0cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
+sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMg4Bb-Ip19x31rL17BHy3FBLBP4s_ZtyjEYe_jDFPIa00cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
 
 
 ## bcn-doh
@@ -2074,7 +2074,7 @@ sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01W
 
 Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
+sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyB5eVqmG8yEeu7KgiIFlYUJCqBps33UPRtAQFvecn3JRh8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
 
 
 ## sth-doh-se
