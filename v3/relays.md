@@ -145,6 +145,14 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
+## anon-inconnu
+
+Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
+Lagergren (@ericlagergren). Running the official Docker image on Vultr.
+
+sdns://gQ4xMDQuMjM4LjE1My40Ng
+
+
 ## anon-kama
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
