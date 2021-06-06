@@ -201,14 +201,17 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
     # Legacy
 
-    with open(md_legacy_path) as f:
-        previous_content = f.read()
-    if out_legacy == previous_content:
-        print("No changes to the legacy version")
+    if os.path.basename(md_path) == "odoh.md":
+        md_legacy_path = md_path
     else:
-        with open(md_legacy_path + ".tmp", "wt") as f:
-            f.write(out_legacy)
-            os.rename(md_legacy_path + ".tmp", md_legacy_path)
+        with open(md_legacy_path) as f:
+            previous_content = f.read()
+        if out_legacy == previous_content:
+            print("No changes to the legacy version")
+        else:
+            with open(md_legacy_path + ".tmp", "wt") as f:
+                f.write(out_legacy)
+                os.rename(md_legacy_path + ".tmp", md_legacy_path)
 
     # Historic
 
