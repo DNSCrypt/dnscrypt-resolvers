@@ -20,3 +20,11 @@ Maintained by Frank Denis.
 
 sdns://BQcAAAAAAAAADWRvaC5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
 
+
+## odohrelay-fastly
+
+Oblivious DoH relay, maintained by Frank Denis.
+Backend written in Zig, running on Fastly Compute@Edge.
+
+sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
+
