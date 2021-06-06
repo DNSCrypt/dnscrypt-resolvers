@@ -824,6 +824,14 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
+## dama.no osl-s04
+
+DNSCrypt server located in Oslo/Norway. Link-speed 100 Mbit/s.
+Non-censoring, non-logging, DNSSEC-capable.
+
+sdns://AQcAAAAAAAAAEzIxNy4xNzAuMjA1LjEwNDo0NDMg7XzHuxk9EXOSK6lTQexoqlCRRdvD7TuNzBTlb9udIRMfMi5kbnNjcnlwdC1jZXJ0Lm9zbC1zMDQuZGFtYS5ubw
+
+
 ## dama.no sa-a80
 
 DNSCrypt server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low latency from Northern Europe (north of Hamburg).
