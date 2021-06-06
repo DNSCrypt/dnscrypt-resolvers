@@ -323,3 +323,10 @@ Anonymized DNS relay hosted in Pittsburgh, PA on TeraSwitch. Maintained by @Zack
 
 sdns://gSdbMjYwNzpmZGMwOjI6MDpmODE2OjNlZmY6ZmUzMjpjN2I0XTo0NDI
 
+
+## dama.no osl-s04 Relay
+
+Anonymizing DNS Relay located in Oslo/Norway.
+
+sdns://gRMyMTcuMTcwLjIwNS4xMDQ6NDQz
+
