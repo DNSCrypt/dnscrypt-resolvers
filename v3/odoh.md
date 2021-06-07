@@ -50,7 +50,7 @@ Oblivious DoH relay. Anycast, no logs.
 Backend written in Zig, running on Fastly Compute@Edge.
 Maintained by Frank Denis.
 
-sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
+sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
 ## odohrelay-surf
