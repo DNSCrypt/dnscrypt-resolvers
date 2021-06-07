@@ -39,14 +39,14 @@ sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 ## odohrelay-ams
 
-Oblivious DoH relay in The Netherlands. No logs
+Oblivious DoH relay in The Netherlands. No logs.
 
 sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
 
 ## odohrelay-bcn
 
-Oblivious DoH relay in Spain. No logs
+Oblivious DoH relay in Spain. No logs.
 
 sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
 
