@@ -34,7 +34,21 @@ ODoH target server. Anycast, no logs, no censorship, DNSSEC.
 Backend hosted by Scaleway, globally cached via Cloudflare.
 Maintained by Frank Denis.
 
-sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
+sdns://BQcAAAAAAAAADWRvaC5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
+
+
+## odohrelay-ams
+
+Oblivious DoH relay, no logs, no filter and DNSSEC in The Netherlands.
+
+sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
+
+
+## odohrelay-bcn
+
+Oblivious DoH relay, no logs, no filter and DNSSEC in Spain.
+
+sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
 
 
 ## odohrelay-fastly
