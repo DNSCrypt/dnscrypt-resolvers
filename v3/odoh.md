@@ -12,6 +12,14 @@ cache_file = 'odoh.md'
 --
 
 
+## odoh-cloudflare
+
+Cloudflare ODoH server.
+https://cloudflare.com
+
+sdns://BQcAAAAAAAAAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
 ## odoh-crypto-sx
 
 ODoH target server. Anycast, no logs, no censorship, DNSSEC.
@@ -32,7 +40,7 @@ sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
 ## odohrelay-surf
 
 SURFdomeinen oblivious DoH relay.
-https://www.surf.nl/
+https://www.surf.nl
 
 sdns://hQcAAAAAAAAACjE0NS4wLjYuNTMgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4egVb2RvaDEuc3VyZmRvbWVpbmVuLm5sBi9wcm94eQ
 
