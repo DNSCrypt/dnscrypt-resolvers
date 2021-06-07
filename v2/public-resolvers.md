@@ -179,13 +179,6 @@ Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS 
 sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1lQxZKczVYxIZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
 
 
-## altername
-
-Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, OpenNIC, EmerDNS | Current status: Beta | Location: Moscow, Russia
-
-sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1lQxZKczVYxIZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
-
-
 ## ams-ads-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
