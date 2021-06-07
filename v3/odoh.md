@@ -2,6 +2,14 @@
 
 Oblivious DoH DNS servers and relays.
 
+By convention, entries whose name start with `odohrelay-` prefix are *relays* and names with an `odoh-` prefix are servers that can be reached through ODoH relays.
+
+Note that ODoH relays cannot be used with DNSCrypt servers, and DNSCrypt relays cannot be used to connect to ODoH servers.
+
+ODoH relays can also only connect to servers supporting the ODoH protocol, not regular DoH servers.
+
+In other words, only combine elements from that list together.
+
 To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.toml` configuration file:
 
 [sources.'odoh']
