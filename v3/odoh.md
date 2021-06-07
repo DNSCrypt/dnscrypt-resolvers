@@ -37,10 +37,11 @@ Maintained by Frank Denis.
 sdns://BQcAAAAAAAAAFG9kb2guZWRnZWNvbXB1dGUuYXBwCi9kbnMtcXVlcnk
 
 
-## odohrelay-fastly
+## odohrelay-crypto-sx
 
 Oblivious DoH relay, maintained by Frank Denis.
 Backend written in Zig, running on Fastly Compute@Edge.
+Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
 
