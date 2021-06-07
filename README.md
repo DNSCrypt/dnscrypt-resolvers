@@ -16,11 +16,17 @@ Stable download URLs:
 More DNS server sources:
 - https://github.com/jedisct1/dnscrypt-proxy/wiki/DNS-server-sources
 
-# List of DNS relays
+# List of DNSCrypt relays
 
 Anonymized DNS relays:
 - https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/relays.md
 - https://download.dnscrypt.info/dnscrypt-resolvers/v3/relays.md
+
+# List of ODoH servers and relays
+
+Oblivious DoH servers and relays:
+- https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/odoh.md
+- https://download.dnscrypt.info/dnscrypt-resolvers/v3/odoh.md
 
 # Minisign public key
 

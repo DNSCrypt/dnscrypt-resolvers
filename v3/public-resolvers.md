@@ -189,6 +189,13 @@ Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS 
 sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1lQxZKczVYxIZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
 
 
+## altername
+
+Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, OpenNIC, EmerDNS | Current status: Beta | Location: Moscow, Russia
+
+sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1lQxZKczVYxIZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
+
+
 ## ams-ads-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
@@ -239,16 +246,6 @@ Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No
 sdns://AgMAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
 
 
-## arvind-io
-
-Public resolver by EnKrypt (https://arvind.io).
-Hosted in Bangalore, India.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAFDIwNi4xODkuMTQyLjE3OTo1MzUzII5GJ8c4g6hRAwghulrn5dBB9KrvlbeCkBbLZR2HwyjJGTIuZG5zY3J5cHQtY2VydC5hcnZpbmQuaW8
-
-
 ## att
 
 AT&T test DoH server.
@@ -260,7 +257,7 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMgJamotI-hwWI8IrJ0Zq-ofLaFCdeuOONZQ478aqWcZr0cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
+sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMg4Bb-Ip19x31rL17BHy3FBLBP4s_ZtyjEYe_jDFPIa00cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
 
 
 ## bcn-doh
@@ -750,13 +747,6 @@ Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADjM3LjEyMC4yMDcuMTMxIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-sea
-
-US - Seattle, WA DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADDY0LjEyMC41LjI1MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-serbia
 
 Belgrade, Serbia DNSCrypt server provided by https://cryptostorm.is/
@@ -838,6 +828,14 @@ sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtG
 Server provided by Martin 'd0wn' Albus
 
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
+
+
+## dama.no osl-s04
+
+DNSCrypt server located in Oslo/Norway. Link-speed 100 Mbit/s.
+Non-censoring, non-logging, DNSSEC-capable.
+
+sdns://AQcAAAAAAAAAEzIxNy4xNzAuMjA1LjEwNDo0NDMg7XzHuxk9EXOSK6lTQexoqlCRRdvD7TuNzBTlb9udIRMfMi5kbnNjcnlwdC1jZXJ0Lm9zbC1zMDQuZGFtYS5ubw
 
 
 ## dama.no sa-a80
@@ -1441,22 +1439,6 @@ user's queries, further enhancing DNS privacy.
 sdns://AgcAAAAAAAAADTEwMy4yMzIuMjA3LjOgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYUZG5zLmVtZXJhbGRvbmlvbi5vcmcKL2Rucy1xdWVyeQ
 
 
-## emeraldonion-doh-ipv6
-
-Non-logging, anycast DoH server with multiple nodes in the US (IPv6).
-
-Emerald Onion is a 501(c)(3) nonprofit organization and transit
-internet service provider (ISP) based in Seattle, WA.
-
-https://emeraldonion.org/faq/
-
-This public DNS service is shared by Emerald Onion's Tor exit relays,
-meaning that Tor user's queries are blended with non-Tor exit
-user's queries, further enhancing DNS privacy.
-
-sdns://AgcAAAAAAAAAD1syNjIwOjE4YzoyOjozXaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hRkbnMuZW1lcmFsZG9uaW9uLm9yZwovZG5zLXF1ZXJ5
-
-
 ## faelix-ch-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
@@ -1726,25 +1708,11 @@ Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Germany | Operat
 sdns://AQcAAAAAAAAADTUxLjE5NS4xMTcuMjYgI0N2y9-Xq_-5VbF43rxF6u10RV5LphBpRaTRNZuAOnAdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZGU
 
 
-## moulticast-doh-ipv6
-
-Public DoH | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjUzXQASZG5zLm1vdWx0aWNhc3QubmV0Ci9kbnMtcXVlcnk
-
-
 ## moulticast-fr-ipv4
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
 
 sdns://AQcAAAAAAAAADTE5My4yMDAuNDMuMjUgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
-
-
-## moulticast-ipv6
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Anycast | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjU0XSA71VxH3ImIQdj36bGmC0PNbtpWJwAvNiYqBqtFG9XvfCcyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQubW91bHRpY2FzdC5uZXQ
 
 
 ## moulticast-sg-ipv4
@@ -2079,11 +2047,18 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
 
+## sicher-surfen-de
+
+Resolver in Frankfurt, Germany and New York, United States. Anycast. More locations following. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAEDE4NS4yMzUuNjAuMTo0NDMgA-0Um9P9C564j6S8u0ij_DVITfFpSmvk7KIAfPFr3NcrMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnNpY2hlci1zdXJmZW4udGVjaA
+
+
 ## sth-dnscrypt-se
 
 Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
+sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyB5eVqmG8yEeu7KgiIFlYUJCqBps33UPRtAQFvecn3JRh8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
 
 
 ## sth-doh-se

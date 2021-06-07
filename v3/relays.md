@@ -145,11 +145,12 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
-## anon-ibksturm
+## anon-inconnu
 
-Anonymized DNS relay by ibksturm, Thurgau Switzerland
+Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
+Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 
-sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 
 ## anon-kama
@@ -321,4 +322,11 @@ sdns://gRE3NC4xMTguMTQxLjQ3OjQ0Mg
 Anonymized DNS relay hosted in Pittsburgh, PA on TeraSwitch. Maintained by @Zackptg5
 
 sdns://gSdbMjYwNzpmZGMwOjI6MDpmODE2OjNlZmY6ZmUzMjpjN2I0XTo0NDI
+
+
+## dama.no osl-s04 Relay
+
+Anonymizing DNS Relay located in Oslo/Norway.
+
+sdns://gRMyMTcuMTcwLjIwNS4xMDQ6NDQz
 
