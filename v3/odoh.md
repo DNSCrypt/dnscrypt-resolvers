@@ -31,10 +31,10 @@ sdns://BQcAAAAAAAAAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 ## odoh-crypto-sx
 
 ODoH target server. Anycast, no logs, no censorship, DNSSEC.
-Backend hosted by Scaleway, globally cached via Cloudflare.
+Backend hosted by Scaleway, globally cached via Fastly.
 Maintained by Frank Denis.
 
-sdns://BQcAAAAAAAAADWRvaC5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
+sdns://BQcAAAAAAAAAFG9kb2guZWRnZWNvbXB1dGUuYXBwCi9kbnMtcXVlcnk
 
 
 ## odohrelay-ams
@@ -51,10 +51,11 @@ Oblivious DoH relay, no logs, no filter and DNSSEC in Spain.
 sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
 
 
-## odohrelay-fastly
+## odohrelay-crypto-sx
 
 Oblivious DoH relay, maintained by Frank Denis.
 Backend written in Zig, running on Fastly Compute@Edge.
+Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
 
