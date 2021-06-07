@@ -31,8 +31,7 @@ sdns://BQcAAAAAAAAAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 ## odoh-crypto-sx
 
 ODoH target server. Anycast, no logs.
-Backend hosted by Scaleway, globally cached via Cloudflare.
-Maintained by Frank Denis.
+Backend hosted by Scaleway. Maintained by Frank Denis.
 
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
