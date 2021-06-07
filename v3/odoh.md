@@ -28,3 +28,11 @@ Backend written in Zig, running on Fastly Compute@Edge.
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
 
+
+## odohrelay-surf
+
+SURFdomeinen oblivious DoH relay.
+https://www.surf.nl/
+
+sdns://hQcAAAAAAAAACjE0NS4wLjYuNTMgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4egVb2RvaDEuc3VyZmRvbWVpbmVuLm5sBi9wcm94eQ
+
