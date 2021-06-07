@@ -172,6 +172,7 @@ Homepage: https://alidns.com/
 
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
+
 ## altername
 
 Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS | Location: Moscow, Russia
