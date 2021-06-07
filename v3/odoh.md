@@ -1,6 +1,6 @@
 # ODoH
 
-Oblivious DoH DNS servers and relays.
+Oblivious DNS-over-HTTPS servers and relays.
 
 By convention, entries whose name start with `odohrelay-` prefix are *relays* and names with an `odoh-` prefix are servers that can be reached through ODoH relays.
 
