@@ -31,10 +31,10 @@ sdns://BQcAAAAAAAAAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 ## odoh-crypto-sx
 
 ODoH target server. Anycast, no logs, no censorship, DNSSEC.
-Backend hosted by Scaleway, globally cached via Cloudflare.
+Backend hosted by Scaleway, globally cached via Fastly.
 Maintained by Frank Denis.
 
-sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
+sdns://BQcAAAAAAAAAFG9kb2guZWRnZWNvbXB1dGUuYXBwCi9kbnMtcXVlcnk
 
 
 ## odohrelay-fastly
