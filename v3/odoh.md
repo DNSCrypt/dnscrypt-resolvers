@@ -36,6 +36,36 @@ Backend hosted by Scaleway. Maintained by Frank Denis.
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
+## odoh-id-gmail
+
+ODoH target server. Based in Singapore, no logs.
+Filter ads, trackers and malware.
+
+sdns://BQMAAAAAAAAADGRvaC50aWFyLmFwcAUvb2RvaA
+
+
+## odoh-jp.tiar.app
+
+ODoH target server. no logs.
+
+sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
+
+
+## odoh-jp.tiarap.org
+
+ODoH target server via Cloudflare, no logs.
+
+sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
+
+
+## odoh-tiarap.org
+
+ODoH target server via Cloudflare, no logs.
+Filter ads, trackers and malware.
+
+sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
+
+
 ## odohrelay-ams
 
 Oblivious DoH relay in The Netherlands. No logs.
@@ -59,40 +89,10 @@ Maintained by Frank Denis.
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
-## odoh-id-gmail
-
-ODoH target server. Based in Singapore, no logs.
-Filter ads, trackers and malware.
-
-sdns://BQMAAAAAAAAADGRvaC50aWFyLmFwcAUvb2RvaA
-
-
-## odoh-jp.tiar.app
-
-ODoH target server. no logs.
-
-sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
-
-
-## odoh-jp.tiarap.org
-
-ODoH target server via Cloudflare, no logs.
-
-sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
-
-
 ## odohrelay-surf
 
 SURFdomeinen oblivious DoH relay.
 https://www.surf.nl
 
 sdns://hQcAAAAAAAAACjE0NS4wLjYuNTMgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4egVb2RvaDEuc3VyZmRvbWVpbmVuLm5sBi9wcm94eQ
-
-
-## odoh-tiarap.org
-
-ODoH target server via Cloudflare, no logs.
-Filter ads, trackers and malware.
-
-sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
