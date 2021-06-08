@@ -82,9 +82,14 @@ sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb
 
 ## odohrelay-crypto-sx
 
-Oblivious DoH relay. Anycast, no logs.
+Oblivious DoH relay, just for testing purposes.
 Backend written in Zig, running on Fastly Compute@Edge.
 Maintained by Frank Denis.
+
+Will only relay to:
+- odoh-crypto-sx
+- odoh-cloudflare
+- odoh-id-gmail
 
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
