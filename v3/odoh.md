@@ -1,4 +1,4 @@
-# ODoH
+# Oblivious DoH servers and relays list
 
 Oblivious DNS-over-HTTPS servers and relays.
 
@@ -69,13 +69,6 @@ sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 ## odohrelay-ams
 
 Oblivious DoH relay in The Netherlands. No logs.
-
-sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
-
-
-## odohrelay-ams
-
-Oblivious DoH relay, no logs, no filter and DNSSEC in The Netherlands.
 
 sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
