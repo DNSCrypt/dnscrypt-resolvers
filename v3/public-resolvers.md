@@ -2080,6 +2080,20 @@ Deutsche Telekom experimental DoH server.
 sdns://AgUAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5gpkbnMudDUzLmRlCi9kbnMtcXVlcnk
 
 
+## uncensoreddns
+
+DoH, no logs, no filters, DNSSEC, anycast - https://blog.uncensoreddns.org
+
+sdns://AgcAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
+
+
+## uncensoreddns-dk
+
+DoH, no logs, no filters, DNSSEC, hosted in Denmark - https://blog.uncensoreddns.org
+
+sdns://AgcAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhl1bmljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
+
+
 ## userspace-australia
 
 Public DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace. No logging, currently uncensored, IPv4.
