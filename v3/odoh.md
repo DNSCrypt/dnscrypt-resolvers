@@ -1,6 +1,6 @@
 # ODoH
 
-Oblivious DoH DNS servers and relays.
+Oblivious DNS-over-HTTPS servers and relays.
 
 By convention, entries whose name start with `odohrelay-` prefix are *relays* and names with an `odoh-` prefix are servers that can be reached through ODoH relays.
 
@@ -12,10 +12,10 @@ In other words, only combine elements from that list together.
 
 To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.toml` configuration file:
 
-[sources.'odoh']
-urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/odoh.md', 'https://download.dnscrypt.info/resolvers-list/v3/odoh.md']
-minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
-cache_file = 'odoh.md'
+    [sources.'odoh']
+    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/odoh.md', 'https://download.dnscrypt.info/resolvers-list/v3/odoh.md']
+    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+    cache_file = 'odoh.md'
 
 --
 
@@ -31,10 +31,46 @@ sdns://BQcAAAAAAAAAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 ## odoh-crypto-sx
 
 ODoH target server. Anycast, no logs.
-Backend hosted by Scaleway, globally cached via Fastly.
-Maintained by Frank Denis.
+Backend hosted by Scaleway. Maintained by Frank Denis.
 
-sdns://BQcAAAAAAAAAFG9kb2guZWRnZWNvbXB1dGUuYXBwCi9kbnMtcXVlcnk
+sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
+
+
+## odoh-id-gmail
+
+ODoH target server. Based in Singapore, no logs.
+Filter ads, trackers and malware.
+
+sdns://BQMAAAAAAAAADGRvaC50aWFyLmFwcAUvb2RvaA
+
+
+## odoh-jp.tiar.app
+
+ODoH target server. no logs.
+
+sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
+
+
+## odoh-jp.tiarap.org
+
+ODoH target server via Cloudflare, no logs.
+
+sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
+
+
+## odoh-tiarap.org
+
+ODoH target server via Cloudflare, no logs.
+Filter ads, trackers and malware.
+
+sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
+
+
+## odohrelay-ams
+
+Oblivious DoH relay in The Netherlands. No logs.
+
+sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
 
 ## odohrelay-ams
@@ -46,18 +82,23 @@ sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJve
 
 ## odohrelay-bcn
 
-Oblivious DoH relay in Spain. No logs
+Oblivious DoH relay in Spain. No logs.
 
 sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
 
 
 ## odohrelay-crypto-sx
 
-Oblivious DoH relay. Anycast, no logs.
+Oblivious DoH relay, just for testing purposes.
 Backend written in Zig, running on Fastly Compute@Edge.
 Maintained by Frank Denis.
 
-sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
+Will only relay to:
+- odoh-crypto-sx
+- odoh-cloudflare
+- odoh-id-gmail
+
+sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
 ## odohrelay-surf

@@ -185,7 +185,7 @@ sdns://AgAAAAAAAAAACTIyMy41LjUuNSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQ5kb
 
 ## altername
 
-Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, OpenNIC, EmerDNS | Current status: Beta | Location: Moscow, Russia
+Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS | Location: Moscow, Russia
 
 sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1lQxZKczVYxIZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
 
