@@ -25,7 +25,7 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 Cloudflare ODoH server.
 https://cloudflare.com
 
-sdns://BQcAAAAAAAAAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://BQcAAAAAAAAAF29kb2guY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## odoh-crypto-sx
