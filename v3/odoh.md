@@ -73,6 +73,13 @@ Oblivious DoH relay in The Netherlands. No logs.
 sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
 
+## odohrelay-ams
+
+Oblivious DoH relay, no logs, no filter and DNSSEC in The Netherlands.
+
+sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
+
+
 ## odohrelay-bcn
 
 Oblivious DoH relay in Spain. No logs.
