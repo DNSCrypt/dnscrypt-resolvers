@@ -636,13 +636,6 @@ London, England DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTc4LjEyOS4xNDAuNjUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-lv
-
-Latvia DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADzEwOS4yNDguMTQ5LjEzMyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-madrid
 
 Madrid, Spain DNSCrypt server provided by https://cryptostorm.is/
@@ -2060,22 +2053,6 @@ Deutsche Telekom experimental DoH server.
 sdns://AgUAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5gpkbnMudDUzLmRlCi9kbnMtcXVlcnk
 
 
-## uncensoreddns-ipv4
-
-Also known as censurfridns.
-DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
-
-sdns://AgcAAAAAAAAADjkxLjIzOS4xMDAuMTAwIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
-
-
-## uncensoreddns-ipv6
-
-Also known as censurfridns.
-DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
-
-sdns://AgcAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
-
-
 ## uncensoreddns-dk-ipv4
 
 Also known as censurfridns.
@@ -2090,6 +2067,22 @@ Also known as censurfridns.
 DoH, no logs, no filter, DNSSEC, unicast hosted in Denmark - https://blog.uncensoreddns.org
 
 sdns://AgcAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XSAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBl1bmljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
+
+
+## uncensoreddns-ipv4
+
+Also known as censurfridns.
+DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
+
+sdns://AgcAAAAAAAAADjkxLjIzOS4xMDAuMTAwIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+
+
+## uncensoreddns-ipv6
+
+Also known as censurfridns.
+DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
+
+sdns://AgcAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## userspace-australia
