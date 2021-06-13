@@ -809,7 +809,7 @@ sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTM
 DNSCrypt server located in Oslo/Norway. Link-speed 100 Mbit/s.
 Non-censoring, non-logging, DNSSEC-capable.
 
-sdns://AQcAAAAAAAAAEzIxNy4xNzAuMjA1LjEwNDo0NDMg7XzHuxk9EXOSK6lTQexoqlCRRdvD7TuNzBTlb9udIRMfMi5kbnNjcnlwdC1jZXJ0Lm9zbC1zMDQuZGFtYS5ubw
+sdns://AQcAAAAAAAAADzIxNy4xNzAuMjA1LjEwNCDtfMe7GT0Rc5IrqVNB7GiqUJFF28PtO43MFOVv250hEx8yLmRuc2NyeXB0LWNlcnQub3NsLXMwNC5kYW1hLm5v
 
 
 ## dama.no sa-a80
@@ -826,14 +826,14 @@ sdns://AQcAAAAAAAAADjE5My4yMDAuMjM4LjgwIIZwYLY60l2SdIfAz_N0-AmQM8gjVwLWNly83S3XV
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
 
-sdns://AQcAAAAAAAAAEDk0LjI0Mi41OS4zNTo0NDMgTg8e1Qx5q3cMqZ8MkxmG6850fFHXcEwdd_7gAcWcp6wXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTE
+sdns://AQcAAAAAAAAADDk0LjI0Mi41OS4zNSBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynrBcyLmRuc2NyeXB0LWNlcnQuZGN0LXJ1MQ
 
 
 ## dct-ru2
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
 
-sdns://AQcAAAAAAAAAETE4NS4yMi4xNTQuMTk6NDQzIB9z-95JSBqhYTv8UIQqUs65Ym2DYNXzBf5cN-kH8Pt9FzIuZG5zY3J5cHQtY2VydC5kY3QtcnUy
+sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgH3P73klIGqFhO_xQhCpSzrlibYNg1fMF_lw36Qfw-30XMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTI
 
 
 ## decloudus-nogoogle-tst
@@ -1344,12 +1344,28 @@ https://ffmuc.net/
 sdns://AgcAAAAAAAAACjUuMS42Ni4yNTWgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 
 
+## doh.ffmuc.net-2
+
+An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
+https://ffmuc.net/
+
+sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1oDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmDWRvaC5mZm11Yy5uZXQKL2Rucy1xdWVyeQ
+
+
 ## doh.ffmuc.net-v6
 
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5g1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+
+
+## doh.ffmuc.net-v6-2
+
+An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
+https://ffmuc.net/
+
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5g1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 
 ## doh.tiarap.org
@@ -1997,7 +2013,7 @@ sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01W
 
 Resolver in Frankfurt, Germany and New York, United States. Anycast. More locations following. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEDE4NS4yMzUuNjAuMTo0NDMgA-0Um9P9C564j6S8u0ij_DVITfFpSmvk7KIAfPFr3NcrMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnNpY2hlci1zdXJmZW4udGVjaA
+sdns://AQcAAAAAAAAADDE4NS4yMzUuNjAuMSAD7RSb0_0LnriPpLy7SKP8NUhN8WlKa-TsogB88Wvc1ysyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuc2ljaGVyLXN1cmZlbi50ZWNo
 
 
 ## sth-dnscrypt-se
@@ -2037,7 +2053,7 @@ sdns://AgUAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5I
 Also known as censurfridns.
 DoH, no logs, no filter, DNSSEC, unicast hosted in Denmark - https://blog.uncensoreddns.org
 
-sdns://AgcAAAAAAAAADDg5LjIzMy40My43MSAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBl1bmljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDg5LjIzMy40My43MaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hl1bmljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## uncensoreddns-dk-ipv6
@@ -2045,7 +2061,7 @@ sdns://AgcAAAAAAAAADDg5LjIzMy40My43MSAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJi
 Also known as censurfridns.
 DoH, no logs, no filter, DNSSEC, unicast hosted in Denmark - https://blog.uncensoreddns.org
 
-sdns://AgcAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XSAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBl1bmljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hl1bmljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## uncensoreddns-ipv4
@@ -2053,7 +2069,7 @@ sdns://AgcAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XSAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEo
 Also known as censurfridns.
 DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
 
-sdns://AgcAAAAAAAAADjkxLjIzOS4xMDAuMTAwIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjkxLjIzOS4xMDAuMTAwoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## uncensoreddns-ipv6
@@ -2061,7 +2077,7 @@ sdns://AgcAAAAAAAAADjkxLjIzOS4xMDAuMTAwIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCp
 Also known as censurfridns.
 DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
 
-sdns://AgcAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdIDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## userspace-australia
