@@ -224,6 +224,13 @@ Hosted on ConoHa VPS Tokyo region. No log.
 sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
 
 
+## anon-saldns99-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
+
+sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
+
+
 ## anon-saldnssg01-conoha-ipv4
 
 Hosted on ConoHa VPS Singapore region. No log.
