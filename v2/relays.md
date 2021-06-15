@@ -132,6 +132,13 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
+## anon-dama.no
+
+Anonymizing DNS Relay located in Oslo/Norway.
+
+sdns://gRMyMTcuMTcwLjIwNS4xMDQ6NDQz
+
+
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
@@ -316,11 +323,4 @@ sdns://gRE3NC4xMTguMTQxLjQ3OjQ0Mg
 Anonymized DNS relay hosted in Pittsburgh, PA on TeraSwitch. Maintained by @Zackptg5
 
 sdns://gSdbMjYwNzpmZGMwOjI6MDpmODE2OjNlZmY6ZmUzMjpjN2I0XTo0NDI
-
-
-## dama.no osl-s04 Relay
-
-Anonymizing DNS Relay located in Oslo/Norway.
-
-sdns://gRMyMTcuMTcwLjIwNS4xMDQ6NDQz
 
