@@ -1406,22 +1406,6 @@ DNS with adblock filters and antiphishing, gaining popularity among russian-spea
 sdns://AQMAAAAAAAAAEjkxLjIzMC4yMTEuNjc6NTQ0MyAVacgDhm0kq-ciz2DrJlPhYjI9v6tAQHbulojEz86TEyIyLmRuc2NyeXB0LWNlcnQuZG5zLmVhc3QuY29tc3Mub25l
 
 
-## emeraldonion-doh
-
-Non-logging, anycast DoH server with multiple nodes in the US.
-
-Emerald Onion is a 501(c)(3) nonprofit organization and transit
-internet service provider (ISP) based in Seattle, WA.
-
-https://emeraldonion.org/faq/
-
-This public DNS service is shared by Emerald Onion's Tor exit relays,
-meaning that Tor user's queries are blended with non-Tor exit
-user's queries, further enhancing DNS privacy.
-
-sdns://AgcAAAAAAAAADTEwMy4yMzIuMjA3LjOgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYUZG5zLmVtZXJhbGRvbmlvbi5vcmcKL2Rucy1xdWVyeQ
-
-
 ## faelix-ch-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
