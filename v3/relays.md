@@ -75,13 +75,6 @@ Anonymized DNS relay hosted in Roosendaal, Netherlands provided by https://crypt
 sdns://gQ0xODUuMTA3LjgwLjg0
 
 
-## anon-cs-nl2
-
-Anonymized DNS relay hosted in Rotterdam, Netherlands provided by https://cryptostorm.is/
-
-sdns://gQ4yMTMuMTYzLjY0LjIwOA
-
-
 ## anon-cs-se
 
 Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
