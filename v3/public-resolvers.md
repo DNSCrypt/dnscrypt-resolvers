@@ -1590,22 +1590,6 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXSDlfOUtFRBtpOz9nhH9pf0dHgpr4BIkGITTYuodSvRk9w1qcC50aWFyYXAub3JnCi9kbnMtcXVlcnk
 
 
-## libredns
-
-DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
-https://libredns.gr/
-
-sdns://AgYAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5g9kb2gubGlicmVkbnMuZ3IKL2Rucy1xdWVyeQ
-
-
-## libredns-noads
-
-DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
-no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hosts
-
-sdns://AgIAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5g9kb2gubGlicmVkbnMuZ3IEL2Fkcw
-
-
 ## linuxsec-adguard
 
 DoH server with AdGuard Home for ads blocking.
