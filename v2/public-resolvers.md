@@ -912,11 +912,17 @@ sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCp
 ## dns.sb
 
 DNSSEC-enabled DoH server by https://xtom.com/
-Using Cloudflare as a frontend.
+https://dns.sb/doh/
 
-https://dns.sb
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J14JbAZkb2guc2IKL2Rucy1xdWVyeQ
 
-sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
+
+## dns.sb-ipv6
+
+DNSSEC-enabled DoH server by https://xtom.com/ - IPv6
+https://dns.sb/doh/
+
+sdns://AgcAAAAAAAAACFsyYTA5OjpdIAIoLr3-eoZA4svKMJAk1aDBFdNV-uAyWWHCvXYnXglsBmRvaC5zYgovZG5zLXF1ZXJ5
 
 
 ## dns.therifleman.name
