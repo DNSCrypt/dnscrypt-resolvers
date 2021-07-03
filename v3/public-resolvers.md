@@ -1641,7 +1641,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAALFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF06NDQzIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAQvZG9o
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984VY2hld2JhY2NhLm1lZ2FuZXJkLm5sBC9kb2g
 
 
 ## meganerd-ipv6
