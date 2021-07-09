@@ -76,13 +76,6 @@ Anonymized DNS relay hosted in Roosendaal, Netherlands provided by https://crypt
 sdns://gQ0xODUuMTA3LjgwLjg0
 
 
-## anon-cs-nl2
-
-Anonymized DNS relay hosted in Rotterdam, Netherlands provided by https://cryptostorm.is/
-
-sdns://gQ4yMTMuMTYzLjY0LjIwOA
-
-
 ## anon-cs-se
 
 Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
@@ -132,6 +125,13 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
+## anon-dama.no
+
+Anonymizing DNS Relay located in Oslo/Norway.
+
+sdns://gQ8yMTcuMTcwLjIwNS4xMDQ
+
+
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
@@ -165,14 +165,14 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
-sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
+sdns://gQ4xMzYuMjQ0Ljk3LjExNA
 
 
 ## anon-meganerd-ipv6
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
-sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
+sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
 
 
 ## anon-pf
@@ -301,14 +301,14 @@ sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
 
 Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
 
-sdns://gRExMzcuMjIwLjU5LjYyOjQ0Mw
+sdns://gQ0xMzcuMjIwLjU5LjYy
 
 
 ## anon-zackptg5-us-il-ipv6
 
 Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
 
-sdns://gSxbMjAwMToxOWYwOjVjMDE6MTQ3ZTo1NDAwOjNmZjpmZTJhOjNiMWZdOjQ0Mw
+sdns://gShbMjAwMToxOWYwOjVjMDE6MTQ3ZTo1NDAwOjNmZjpmZTJhOjNiMWZd
 
 
 ## anon-zackptg5-us-pit-ipv4
@@ -323,11 +323,4 @@ sdns://gRE3NC4xMTguMTQxLjQ3OjQ0Mg
 Anonymized DNS relay hosted in Pittsburgh, PA on TeraSwitch. Maintained by @Zackptg5
 
 sdns://gSdbMjYwNzpmZGMwOjI6MDpmODE2OjNlZmY6ZmUzMjpjN2I0XTo0NDI
-
-
-## dama.no osl-s04 Relay
-
-Anonymizing DNS Relay located in Oslo/Norway.
-
-sdns://gRMyMTcuMTcwLjIwNS4xMDQ6NDQz
 
