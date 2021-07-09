@@ -1928,6 +1928,14 @@ Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
+## resolver4.dns.openinternet.io
+
+DNSCrypt resolver on dedicated hardware, colocated at Sonic.net in Santa Rosa, CA in the United States.
+No log, no filter, DNSSEC. Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
+in any way). Provided by https://openinternet.io
+
+sdns://AQcAAAAAAAAAETcwLjM2LjE3MC4xMjY6NDQzICDKkclpD0j5QwJjf9p3twOgOhELUEchCXF6Aljx21-RLTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjQuZG5zLm9wZW5pbnRlcm5ldC5pbw
+
 
 ## safesurfer
 
