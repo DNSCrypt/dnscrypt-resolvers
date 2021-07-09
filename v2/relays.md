@@ -203,6 +203,13 @@ Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by htt
 sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
 
 
+## anon-resolver4.dns.openinternet.io
+
+Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io
+
+sdns://gRE3MC4zNi4xNzAuMTI2OjQ0Mw
+
+
 ## anon-saldns01-conoha-ipv4
 
 Hosted on ConoHa VPS Tokyo region. No log.
