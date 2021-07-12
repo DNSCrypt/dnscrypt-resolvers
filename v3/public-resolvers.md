@@ -194,14 +194,14 @@ sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1l
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
 
-sdns://AgMAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDQ0M6Ayhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hdkbnNubC5hbGVrYmVyZy5uZXQ6NDQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTUxLjE1LjEyNC4yMDgAGGRuc25sLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## ams-ads-doh-nl-ipv6
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
 
-sdns://AgMAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQ0NDOgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYXZG5zbmwuYWxla2JlcmcubmV0OjQ0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdABhkbnNubC1ub2Fkcy5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## ams-dnscrypt-nl
