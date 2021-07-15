@@ -810,24 +810,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
-## dama.no-osl-s04
-
-DNSCrypt server located in Oslo/Norway. Link-speed 100 Mbit/s.
-Non-censoring, non-logging, DNSSEC-capable.
-
-sdns://AQcAAAAAAAAADzIxNy4xNzAuMjA1LjEwNCDtfMe7GT0Rc5IrqVNB7GiqUJFF28PtO43MFOVv250hEx8yLmRuc2NyeXB0LWNlcnQub3NsLXMwNC5kYW1hLm5v
-
-
-## dama.no-sa-a80
-
-DNSCrypt server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low latency from Northern Europe (north of Hamburg).
-Non-censoring, non-logging, DNSSEC-capable.
-
-Try `ping -c 100 193.200.238.80` to measure RTT.
-
-sdns://AQcAAAAAAAAADjE5My4yMDAuMjM4LjgwIIZwYLY60l2SdIfAz_N0-AmQM8gjVwLWNly83S3XVcSaHjIuZG5zY3J5cHQtY2VydC5zYS1hODAuZGFtYS5ubw
-
-
 ## dct-ru1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
