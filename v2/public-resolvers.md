@@ -923,7 +923,7 @@ sdns://AQcAAAAAAAAAEDg0LjIwMC43MC40MDo0NDMgQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxH
 Free, uncensored, non-logging server in Germany. IPv6 only.
 https://dns.watch
 
-sdns://AQcAAAAAAAAAEDg0LjIwMC43MC40MDo0NDMgQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
+sdns://AQcAAAAAAAAAIFsyMDAxOjE2MDg6MTA6MjU6OjkyNDk6ZDY5Yl06NDQzIEBNWgDfYuAhROwLSHGYuUoZr-jk9GeAfKV2sR6LlPmwIzIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjIuZG5zLndhdGNo
 
 
 ## dnscrypt-ch-blahdns-ipv4
