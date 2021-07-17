@@ -923,6 +923,22 @@ Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.2
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
 
+## dns.watch
+
+Free, uncensored, non-logging server in Germany.
+https://dns.watch
+
+sdns://AQcAAAAAAAAAEDg0LjIwMC43MC40MDo0NDMgQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
+
+
+## dns.watch-ipv6
+
+Free, uncensored, non-logging server in Germany. IPv6 only.
+https://dns.watch
+
+sdns://AQcAAAAAAAAAEDg0LjIwMC43MC40MDo0NDMgQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
+
+
 ## dnscrypt-ch-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
