@@ -200,7 +200,7 @@ sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
 
 Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io
 
-sdns://gRE3MC4zNi4xNzAuMTI2OjQ0Mw
+sdns://gQ03MC4zNi4xNzAuMTI2
 
 
 ## anon-saldns01-conoha-ipv4

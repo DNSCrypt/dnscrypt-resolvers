@@ -915,7 +915,7 @@ sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMw
 Free, uncensored, non-logging server in Germany.
 https://dns.watch
 
-sdns://AQcAAAAAAAAAEDg0LjIwMC43MC40MDo0NDMgQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
+sdns://AQcAAAAAAAAADDg0LjIwMC43MC40MCBATVoA32LgIUTsC0hxmLlKGa_o5PRngHyldrEei5T5sCMyLmRuc2NyeXB0LWNlcnQucmVzb2x2ZXIyLmRucy53YXRjaA
 
 
 ## dns.watch-ipv6
@@ -923,7 +923,7 @@ sdns://AQcAAAAAAAAAEDg0LjIwMC43MC40MDo0NDMgQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxH
 Free, uncensored, non-logging server in Germany. IPv6 only.
 https://dns.watch
 
-sdns://AQcAAAAAAAAAIFsyMDAxOjE2MDg6MTA6MjU6OjkyNDk6ZDY5Yl06NDQzIEBNWgDfYuAhROwLSHGYuUoZr-jk9GeAfKV2sR6LlPmwIzIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjIuZG5zLndhdGNo
+sdns://AQcAAAAAAAAAHFsyMDAxOjE2MDg6MTA6MjU6OjkyNDk6ZDY5Yl0gQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
 
 
 ## dnscrypt-ch-blahdns-ipv4
@@ -1908,7 +1908,7 @@ in any way).
 
 Provided by https://openinternet.io
 
-sdns://AQcAAAAAAAAAETcwLjM2LjE3MC4xMjY6NDQzICDKkclpD0j5QwJjf9p3twOgOhELUEchCXF6Aljx21-RLTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjQuZG5zLm9wZW5pbnRlcm5ldC5pbw
+sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgIMqRyWkPSPlDAmN_2ne3A6A6EQtQRyEJcXoCWPHbX5EtMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyNC5kbnMub3BlbmludGVybmV0Lmlv
 
 
 ## safesurfer
