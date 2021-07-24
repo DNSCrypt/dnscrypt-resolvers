@@ -1433,13 +1433,14 @@ Non-logged/Uncensored provided by www.freetsa.org. Support for DNS and DNS-over-
 sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
 
 
-##  gombadi-syd
+## gombadi-syd
 
 Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
 
 sdns://AQUAAAAAAAAAEzE3Mi4xMDUuMTY2LjE4OTo0NDMgqmdX4h1fVv3eaC9FB-wnNXyKISRvZXo9_vBFtjQ_8WwcMi5kbnNjcnlwdC1jZXJ0LmdvbWJhZGkuc3lkMg
 
-##  gombadi-syd-ipv6
+
+## gombadi-syd-ipv6
 
 Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
 
