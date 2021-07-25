@@ -138,20 +138,6 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
-## anon-gombadi-syd
-
-Anonymized DNS relay hosted in Sydney, AU
-
-sdns://gQ4xMjcuMC4wLjE6MzUzNQ
-
-
-## anon-gombadi-syd-ipv6
-
-Anonymized DNS relay hosted in Sydney, AU
-
-sdns://gSRbMjQwMDo4OTA3OjpmMDNjOjkyZmY6ZmU2MzplNzQ4XTo0NDM
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
