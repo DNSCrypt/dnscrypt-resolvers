@@ -269,6 +269,24 @@ https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF2gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYRZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
+## brahma-world
+
+DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+Hosted in Stockholm, Sweden. (https://dns.brahma.world)
+
+sdns://AgMAAAAAAAAADDEzLjQ5LjE3NS44NiBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+
+
+## brahma-world-ipv6
+
+DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+Hosted in Stockholm, Sweden. (https://dns.brahma.world)
+
+sdns://AgMAAAAAAAAAJ1syYTA1OmQwMTY6YWY4OjQwMDA6NzcxMDo2ZmM6YmRlMzpmZTBlXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+
+
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
@@ -1422,14 +1440,14 @@ sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFV
 
 Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
 
-sdns://AQUAAAAAAAAAEzE3Mi4xMDUuMTY2LjE4OTo0NDMgqmdX4h1fVv3eaC9FB-wnNXyKISRvZXo9_vBFtjQ_8WwcMi5kbnNjcnlwdC1jZXJ0LmdvbWJhZGkuc3lkMg
+sdns://AQUAAAAAAAAADzE3Mi4xMDUuMTY2LjE4OSCqZ1fiHV9W_d5oL0UH7Cc1fIohJG9lej3-8EW2ND_xbBwyLmRuc2NyeXB0LWNlcnQuZ29tYmFkaS5zeWQy
 
 
 ## gombadi-syd-ipv6
 
 Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
 
-sdns://AQUAAAAAAAAAJFsyNDAwOjg5MDc6OmYwM2M6OTJmZjpmZTYzOmU3NDhdOjQ0MyCqZ1fiHV9W_d5oL0UH7Cc1fIohJG9lej3-8EW2ND_xbBwyLmRuc2NyeXB0LWNlcnQuZ29tYmFkaS5zeWQy
+sdns://AQUAAAAAAAAAIFsyNDAwOjg5MDc6OmYwM2M6OTJmZjpmZTYzOmU3NDhdIKpnV-IdX1b93mgvRQfsJzV8iiEkb2V6Pf7wRbY0P_FsHDIuZG5zY3J5cHQtY2VydC5nb21iYWRpLnN5ZDI
 
 
 ## google
