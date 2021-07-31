@@ -1876,7 +1876,7 @@ sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJi
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
-sdns://AQcAAAAAAAAAEjEzOS45OS4yMjIuNzI6ODQ0MyB3NPVeil3tZfA7hH0fz-MBp7VSd6pprpccj78c5dOjFRsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+sdns://AQcAAAAAAAAAEjEzOS45OS4yMjIuNzI6ODQ0MyDR7bj6zoAmbRaE1B8qTkCL_O84QCDMYPUgXZy5FRqUYRsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
 
 
 ## publicarray-au2-doh
