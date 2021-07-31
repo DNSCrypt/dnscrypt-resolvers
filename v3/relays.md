@@ -68,13 +68,6 @@ Anonymized DNS relay hosted in Chisinau, Moldova provided by https://cryptostorm
 sdns://gQ8xNzguMTc1LjEzOS4yMTE
 
 
-## anon-cs-nl
-
-Anonymized DNS relay hosted in Roosendaal, Netherlands provided by https://cryptostorm.is/
-
-sdns://gQ0xODUuMTA3LjgwLjg0
-
-
 ## anon-cs-se
 
 Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
