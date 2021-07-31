@@ -183,14 +183,14 @@ sdns://AQcAAAAAAAAAEzk1LjE4MS4xNTUuMTQwOjg0NDMgvZmXVeT0DhM8O1F9vIC-0KIjH11eoON1l
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
 
-sdns://AgMAAAAAAAAAEjUxLjE1LjEyNC4yMDg6NDQ0M6Ayhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hdkbnNubC5hbGVrYmVyZy5uZXQ6NDQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTUxLjE1LjEyNC4yMDgAGGRuc25sLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## ams-ads-doh-nl-ipv6
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
 
-sdns://AgMAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQ0NDOgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYXZG5zbmwuYWxla2JlcmcubmV0OjQ0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdABhkbnNubC1ub2Fkcy5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## ams-dnscrypt-nl
@@ -796,24 +796,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
-## dama.no-osl-s04
-
-DNSCrypt server located in Oslo/Norway. Link-speed 100 Mbit/s.
-Non-censoring, non-logging, DNSSEC-capable.
-
-sdns://AQcAAAAAAAAADzIxNy4xNzAuMjA1LjEwNCDtfMe7GT0Rc5IrqVNB7GiqUJFF28PtO43MFOVv250hEx8yLmRuc2NyeXB0LWNlcnQub3NsLXMwNC5kYW1hLm5v
-
-
-## dama.no-sa-a80
-
-DNSCrypt server located in Sandefjord/Norway. Link-speed 2.5 Gbit/s and low latency from Northern Europe (north of Hamburg).
-Non-censoring, non-logging, DNSSEC-capable.
-
-Try `ping -c 100 193.200.238.80` to measure RTT.
-
-sdns://AQcAAAAAAAAADjE5My4yMDAuMjM4LjgwIIZwYLY60l2SdIfAz_N0-AmQM8gjVwLWNly83S3XVcSaHjIuZG5zY3J5cHQtY2VydC5zYS1hODAuZGFtYS5ubw
-
-
 ## dct-ru1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
@@ -925,6 +907,22 @@ Report issues, send suggestions @ joker349 at protonmail.com.
 Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.206.174
 
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
+
+
+## dns.watch
+
+Free, uncensored, non-logging server in Germany.
+https://dns.watch
+
+sdns://AQcAAAAAAAAADDg0LjIwMC43MC40MCBATVoA32LgIUTsC0hxmLlKGa_o5PRngHyldrEei5T5sCMyLmRuc2NyeXB0LWNlcnQucmVzb2x2ZXIyLmRucy53YXRjaA
+
+
+## dns.watch-ipv6
+
+Free, uncensored, non-logging server in Germany. IPv6 only.
+https://dns.watch
+
+sdns://AQcAAAAAAAAAHFsyMDAxOjE2MDg6MTA6MjU6OjkyNDk6ZDY5Yl0gQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
 
 
 ## dnscrypt-ch-blahdns-ipv4
@@ -1061,6 +1059,22 @@ sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDUzIH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RG
 Free | Malware and phishing filtering | Zero logs | DNSSEC | Poland | https://dnscrypt.pl/ | @dnscryptpl
 
 sdns://AQMAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDU0IH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
+
+
+## dnscrypt.uk-doh-ipv4
+
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAADzE2NS4yMjcuMjMzLjIwMAATZG9oLmRuc2NyeXB0LnVrOjQ0MwovZG5zLXF1ZXJ5
+
+
+## dnscrypt.uk-doh-ipv6
+
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAGlsyYTAzOmIwYzA6MTpkMDo6ZWJlOmQwMDFdABNkb2guZG5zY3J5cHQudWs6NDQzCi9kbnMtcXVlcnk
 
 
 ## dnscrypt.uk-ipv4
@@ -1382,13 +1396,6 @@ An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https
 sdns://AQcAAAAAAAAAEzE4NS4xMzQuMTk2LjU0Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwGgTWs8C-i-EfMi5kbnNjcnlwdC1jZXJ0LnJkbnMuZmFlbGl4Lm5ldA
 
 
-## faelix-ch-ipv6
-
-An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in Switzerland.
-
-sdns://AQcAAAAAAAAAFFsyYTAxOjllMDE6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
-
-
 ## faelix-uk-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in the UK.
@@ -1424,6 +1431,20 @@ sdns://AQcAAAAAAAAAGlsyMDAxOjY3ODplNjg6ZjAwMDo6XTo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZ
 Non-logged/Uncensored provided by www.freetsa.org. Support for DNS and DNS-over-TLS (DoT)
 
 sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
+
+
+## gombadi-syd
+
+Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
+
+sdns://AQUAAAAAAAAADzE3Mi4xMDUuMTY2LjE4OSCqZ1fiHV9W_d5oL0UH7Cc1fIohJG9lej3-8EW2ND_xbBwyLmRuc2NyeXB0LWNlcnQuZ29tYmFkaS5zeWQy
+
+
+## gombadi-syd-ipv6
+
+Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
+
+sdns://AQUAAAAAAAAAIFsyNDAwOjg5MDc6OmYwM2M6OTJmZjpmZTYzOmU3NDhdIKpnV-IdX1b93mgvRQfsJzV8iiEkb2V6Pf7wRbY0P_FsHDIuZG5zY3J5cHQtY2VydC5nb21iYWRpLnN5ZDI
 
 
 ## google
@@ -1839,7 +1860,7 @@ sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJi
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
-sdns://AQcAAAAAAAAAEjEzOS45OS4yMjIuNzI6ODQ0MyB3NPVeil3tZfA7hH0fz-MBp7VSd6pprpccj78c5dOjFRsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+sdns://AQcAAAAAAAAAEjEzOS45OS4yMjIuNzI6ODQ0MyDR7bj6zoAmbRaE1B8qTkCL_O84QCDMYPUgXZy5FRqUYRsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
 
 
 ## publicarray-au2-doh
@@ -1905,6 +1926,18 @@ sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XQASZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 / 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0AEmRuczkucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+
+
+## resolver4.dns.openinternet.io
+
+DNSCrypt resolver on dedicated hardware, colocated at Sonic.net in Santa Rosa, CA in the United States.
+
+No log, no filter, DNSSEC. Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
+in any way).
+
+Provided by https://openinternet.io
+
+sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgIMqRyWkPSPlDAmN_2ne3A6A6EQtQRyEJcXoCWPHbX5EtMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyNC5kbnMub3BlbmludGVybmV0Lmlv
 
 
 ## safesurfer
@@ -2072,6 +2105,38 @@ Public DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace. No logging, cu
 sdns://AQcAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgvNsg2AGnwJeIbfLAGzoJ9048oQG3U2pMfdlWlBSwcLsdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
 
 
+## v.dnscrypt.uk-doh-ipv4
+
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAADTEzNi4yNDQuNjUuMjAAEXYuZG5zY3J5cHQudWs6NDQzCi9kbnMtcXVlcnk
+
+
+## v.dnscrypt.uk-doh-ipv6
+
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAJ1syYTA1OmY0ODA6MTAwMDo5Njc6NTQwMDozZmY6ZmU3ZTo1NWQzXQARdi5kbnNjcnlwdC51azo0NDMKL2Rucy1xdWVyeQ
+
+
+## v.dnscrypt.uk-ipv4
+
+DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiDtST2M6teQZk8GPEe3lZojaS18kDY8nkPMtZF75bQe5R0yLmRuc2NyeXB0LWNlcnQudi5kbnNjcnlwdC51aw
+
+
+## v.dnscrypt.uk-ipv6
+
+DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
+
+
 ## wevpn-adblock-singapore
 
 Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
@@ -2174,9 +2239,6 @@ sdns://AQcAAAAAAAAAETc0LjExOC4xNDEuNDc6NDQyILLrUp55NwetKjM1XaPs19NIKDIbD1w0K-lCK
 ## zackptg5-us-pit-ipv6
 
 DNSSEC/unfiltered/non-logged. Hosted on TeraSwitch in Pittsburgh, PA. Running the official Docker image by @zackptg5
-
-
->>>>>>> parent of d03f57d (zackptg5-us-pit is down)
 
 sdns://AQcAAAAAAAAAJ1syNjA3OmZkYzA6MjowOmY4MTY6M2VmZjpmZTMyOmM3YjRdOjQ0MiCy61KeeTcHrSozNV2j7NfTSCgyGw9cNCvpQit9_4CnIB8yLmRuc2NyeXB0LWNlcnQuemFja3B0ZzUtdXMtcGl0
 

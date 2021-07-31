@@ -20,6 +20,13 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 --
 
 
+## odoh-ams
+
+Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
+
+sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
 ## odoh-cloudflare
 
 Cloudflare ODoH server.

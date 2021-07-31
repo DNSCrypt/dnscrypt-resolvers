@@ -125,13 +125,6 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
-## anon-dama.no
-
-Anonymizing DNS Relay located in Oslo/Norway.
-
-sdns://gQ8yMTcuMTcwLjIwNS4xMDQ
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
@@ -201,6 +194,13 @@ sdns://gRI0NS42My4xMTAuMTg3Ojg0NDM
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
 
 sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
+
+
+## anon-resolver4.dns.openinternet.io
+
+Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io
+
+sdns://gQ03MC4zNi4xNzAuMTI2
 
 
 ## anon-saldns01-conoha-ipv4
