@@ -1108,6 +1108,18 @@ https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZb8UtNpEBKT_BG19qWg8GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC51aw
 
+## dnscrypt.uk-doh-ipv4
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAEzE2NS4yMjcuMjMzLjIwMDo0NDMAE2RvaC5kbnNjcnlwdC51azo0NDMKL2Rucy1xdWVyeQ
+
+## dnscrypt.uk-doh-ipv6
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAHlsyYTAzOmIwYzA6MTpkMDo6ZWJlOmQwMDFdOjQ0MwATZG9oLmRuc2NyeXB0LnVrOjQ0MwovZG5zLXF1ZXJ5
+
 
 ## dnsforfamily
 
@@ -2129,6 +2141,33 @@ Public DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace. No logging, cu
 
 sdns://AQcAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgvNsg2AGnwJeIbfLAGzoJ9048oQG3U2pMfdlWlBSwcLsdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
 sdns://AQcAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgEWOI99_3M0Rk_Jsm7KQtUjC1612HdCwSWA7_ftojHG4dMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
+
+## v.dnscrypt.uk-ipv4
+
+DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAAEzEwNC4yMzguMTg2LjE5Mjo0NDMg7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
+
+## v.dnscrypt.uk-ipv6
+
+DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl06NDQzIO1JPYzq15BmTwY8R7eVmiNpLXyQNjyeQ8y1kXvltB7lHTIuZG5zY3J5cHQtY2VydC52LmRuc2NyeXB0LnVr
+
+## v.dnscrypt.uk-doh-ipv4
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAETEzNi4yNDQuNjUuMjA6NDQzABF2LmRuc2NyeXB0LnVrOjQ0MwovZG5zLXF1ZXJ5
+
+## v.dnscrypt.uk-doh-ipv6
+DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
+https://www.dnscrypt.uk
+
+sdns://AgcAAAAAAAAAK1syYTA1OmY0ODA6MTAwMDo5Njc6NTQwMDozZmY6ZmU3ZTo1NWQzXTo0NDMAEXYuZG5zY3J5cHQudWs6NDQzCi9kbnMtcXVlcnk
+
 
 
 ## wevpn-adblock-singapore
