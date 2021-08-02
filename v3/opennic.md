@@ -22,20 +22,6 @@ Running privately by ibksturm in Thurgau, Switzerland
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
-## opennic-luggs
-
-Public DNS server in Canada operated by Luggs
-
-sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
-
-
-## opennic-luggs2
-
-Second public DNS server in Canada operated by Luggs
-
-sdns://AQYAAAAAAAAADDE0Mi40LjIwNS40NyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
-
-
 ## opennic-R4SAS
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
@@ -43,15 +29,6 @@ Location: Paris, France
 Maintained by R4SAS - https://github.com/r4sas
 
 sdns://AQcAAAAAAAAAETE1MS44MC4yMjIuNzk6NDQzIKnWMjpPJYAJJhl1FQLOIx4fdtned2yHxruyig7_2w5OIDIuZG5zY3J5cHQtY2VydC5vcGVubmljLmkycGQueHl6
-
-
-## opennic-R4SAS-ipv6
-
-DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
-Location: Paris, France
-Maintained by R4SAS - https://github.com/r4sas
-
-sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyCp1jI6TyWACSYZdRUCziMeH3bZ3ndsh8a7sooO_9sOTiAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
 
 
 ## opennic-R4SAS-doh
@@ -70,6 +47,29 @@ Location: Paris, France
 Maintained by R4SAS - https://github.com/r4sas
 
 sdns://AgcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIClU57hmNCtSIartT22vK-bzhESvi33zUybtapcmkL94EG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
+
+
+## opennic-R4SAS-ipv6
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyCp1jI6TyWACSYZdRUCziMeH3bZ3ndsh8a7sooO_9sOTiAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
+
+
+## opennic-luggs
+
+Public DNS server in Canada operated by Luggs
+
+sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
+
+
+## opennic-luggs2
+
+Second public DNS server in Canada operated by Luggs
+
+sdns://AQYAAAAAAAAADDE0Mi40LjIwNS40NyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
 
 
 ## publicarray-au

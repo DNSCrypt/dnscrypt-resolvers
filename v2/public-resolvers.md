@@ -1757,6 +1757,42 @@ https://dns.njal.la/
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6Ayhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5gtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
+## opennic-R4SAS
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
+
+
+## opennic-R4SAS-doh
+
+DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AgcAAAAAAAAADTE1MS44MC4yMjIuNzkgKVTnuGY0K1Ihqu1Pba8r5vOERK-LffNTJu1qlyaQv3gQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
+
+
+## opennic-R4SAS-doh-ipv6
+
+DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AgcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIClU57hmNCtSIartT22vK-bzhESvi33zUybtapcmkL94EG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
+
+
+## opennic-R4SAS-ipv6
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AQcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIKnWMjpPJYAJJhl1FQLOIx4fdtned2yHxruyig7_2w5OIDIuZG5zY3J5cHQtY2VydC5vcGVubmljLmkycGQueHl6
+
+
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs

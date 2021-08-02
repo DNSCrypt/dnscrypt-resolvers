@@ -161,6 +161,20 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encry
 sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
 
 
+## anon-opennic-R4SAS
+
+Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
+
+sdns://gRExNTEuODAuMjIyLjc5OjQ0Mw
+
+
+## anon-opennic-R4SAS-ipv6
+
+Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
+
+sdns://gRtbMjAwMTo0NzA6MWYxNTpiODA6OjUzXTo0NDM
+
+
 ## anon-pf
 
 Anonymized DNS relay by post-factum | Zürich, Switzerland | https://dns.post-factum.tk
