@@ -265,6 +265,24 @@ https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF2gMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYRZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
+## brahma-world
+
+DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+Hosted in Stockholm, Sweden. (https://dns.brahma.world)
+
+sdns://AgMAAAAAAAAADDEzLjQ5LjE3NS44NiBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+
+
+## brahma-world-ipv6
+
+DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+Hosted in Stockholm, Sweden. (https://dns.brahma.world)
+
+sdns://AgMAAAAAAAAAJ1syYTA1OmQwMTY6YWY4OjQwMDA6NzcxMDo2ZmM6YmRlMzpmZTBlXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+
+
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
