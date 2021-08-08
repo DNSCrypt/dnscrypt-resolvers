@@ -725,13 +725,6 @@ US - Dallas, TX DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTIwOS41OC4xNDcuMzYgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-vancouver
-
-Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADzE2Mi4yMjEuMjA3LjIyOCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cz.nic
 
 CZ.NIC's open DNSSEC validating resolvers in Prague, Czech Republic.
