@@ -1356,14 +1356,14 @@ sdns://AQyAAAAAAAAAEzE4NS4xMzQuMTk2LjU0Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwG
 
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
 
-sdns://AgYAAAAAAAAADjE4NS4xMzQuMTk2LjU0oD4aGg9sU_PpekktVwhLW5gHBZ7gV6sVBYdv2D_aPbg4IDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmID3JkbnMuZmFlbGl4Lm5ldAEv
+sdns://AgYAAAAAAAAADjE4NS4xMzQuMTk2LjU0oDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmD3JkbnMuZmFlbGl4Lm5ldAEv
 
 
 ## faelix-ch-ipv6-doh
 
 An open (non-logging, non-filtering, no ECS) DoH resolver operated by https://faelix.net/ with IPv6 nodes anycast within AS41495 in Switzerland.
 
-sdns://AgYAAAAAAAAAD1syYTAxOjllMDE6OjU0XaA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiA9yZG5zLmZhZWxpeC5uZXQBLw
+sdns://AgYAAAAAAAAAD1syYTAxOjllMDE6OjU0XaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5g9yZG5zLmZhZWxpeC5uZXQBLw
 
 
 ## faelix-uk-ipv4
