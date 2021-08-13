@@ -146,6 +146,20 @@ Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 sdns://gQ4xMzcuNzQuMjIzLjIzNA
 
 
+## anon-kenshiro
+
+Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+
+sdns://gRE3OC4xNDEuMjA4LjEyOjQ0Mw
+
+
+## anon-kenshiro ipv6
+
+Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+
+sdns://gSxbMjAwMToxOWYwOjUwMDE6MjE0NTo1NDAwOjNmZjpmZTgzOmU2M2ZdOjQ0Mw
+
+
 ## anon-meganerd
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
@@ -266,6 +280,20 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 Anonymized DNS relay hosted in Sweden - SE
 
 sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
+
+
+## anon-suami
+
+Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+
+sdns://gRExOTkuMjQ3LjIuMTY3OjQ0Mw
+
+
+# anon-suami ipv6
+
+Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+
+sdns://gStbMjAwMToxOWYwOjZjMDE6NTdiOjU0MDA6M2ZmOmZlODM6ZWEwMV06NDQz
 
 
 ## anon-tiarap
