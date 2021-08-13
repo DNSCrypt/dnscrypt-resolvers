@@ -1562,6 +1562,22 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
+## kenshiro
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
+by lucenera
+
+sdns://AQcAAAAAAAAAETc4LjE0MS4yMDguMTI6NDQzIOOWLHWKcXC3eNMdWnHxk7TdeOB-oT6H_ZmXADF7jL0VHDIuZG5zY3J5cHQtY2VydC5rZW5zaGlyby5jb20
+
+
+## kenshiro ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
+by lucenera
+
+sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6NTAwMToyMTQ1OjU0MDA6M2ZmOmZlODM6ZTYzZl06NDQzIOOWLHWKcXC3eNMdWnHxk7TdeOB-oT6H_ZmXADF7jL0VHDIuZG5zY3J5cHQtY2VydC5rZW5zaGlyby5jb20
+
+
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
@@ -2160,6 +2176,22 @@ sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyB5eVqmG8yEeu7KgiIFlYUJCqBps33UPRtAQ
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYSZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
+
+
+## suami
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Frankfurt.
+by lucenera
+
+sdns://AQcAAAAAAAAAETE5OS4yNDcuMi4xNjc6NDQzIJKizlU0Z_bWVilEqftcnavJoTLabSlycwn6a__VKaU0GTIuZG5zY3J5cHQtY2VydC5zdWFtaS5jb20
+
+
+## suami ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Frankfurt.
+by lucenera
+
+sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NmMwMTo1N2I6NTQwMDozZmY6ZmU4MzplYTAxXTo0NDMgkqLOVTRn9tZWKUSp-1ydq8mhMtptKXJzCfpr_9UppTQZMi5kbnNjcnlwdC1jZXJ0LnN1YW1pLmNvbQ
 
 
 ## switch
