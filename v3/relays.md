@@ -286,13 +286,13 @@ sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
 
-sdns://gRExOTkuMjQ3LjIuMTY3OjQ0Mw
 
 
 # anon-suami ipv6
 
 Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
 
+sdns://gRExOTkuMjQ3LjIuMTY3OjQ0Mw
 sdns://gStbMjAwMToxOWYwOjZjMDE6NTdiOjU0MDA6M2ZmOmZlODM6ZWEwMV06NDQz
 
 
