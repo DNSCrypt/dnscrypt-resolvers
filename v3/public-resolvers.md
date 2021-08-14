@@ -465,6 +465,11 @@ Maintained by CPI-tech-Group
 
 sdns://AgMAAAAAAAAALVsyMDAxOjE5ZjA6NzAwMTo1NTU0OjU0MDA6MDJmZjpmZTU3OjMwNzddOjQ0MyA59q74zeUV4xVJXPXvLw0G1pi3YdoaF4FskwSxGJjS1BNkbnMuY29udGFpbmVycGkuY29tCi9kbnMtcXVlcnk
 
+## coolquasar
+
+Non-logging, Filtering, DNSCrypt server, Hyderabad, India. Hosted in Oracle Cloud
+sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIJpcu4WXRpsjwkZTxiQCTGE0y8SljCk0LL167QGGW9fBHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
+
 
 ## cs-ca
 
