@@ -1,4 +1,12 @@
-# Oblivious DoH servers and relays list
+# *** THIS LIST IS DEPRECATED ***
+
+It was only used by 2.0.46 beta versions, and has since be split into
+the `odoh-servers` and `odoh-relays` lists.
+
+Please update your configuration to use these two new lists instead,
+as the combined list is going to be removed soon.
+
+~~~
 
 Oblivious DNS-over-HTTPS servers and relays.
 
@@ -89,8 +97,7 @@ sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb
 
 ## odohrelay-crypto-sx
 
-Oblivious DoH relay, just for testing purposes.
-Backend written in Zig, running on Fastly Compute@Edge.
+Oblivious DoH relay running on Fastly Compute@Edge.
 Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
