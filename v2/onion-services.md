@@ -1,7 +1,7 @@
 
-# *** THIS IS A LEGACY LIST ***
+# *** THIS LIST IS FOR OLD DNSCRYPT-PROXY VERSIONS ***
 
-This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+Version 2 of the list is for dnscrypt-proxy <= 2.0.42 users.
 
 If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
 of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
@@ -17,5 +17,5 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 Cloudflare Onion Service
 
-sdns://AgcAAAAAAAAAACC0WWFtenR5met-s8i0oiShMtYstulWSybPBq-zBUEMNT5kbnM0dG9ycG5sZnMyaWZ1ejJzMnlmM2ZjN3JkbXNiaG02cnc3NWV1ajM1cGFjNmFwMjV6Z3FhZC5vbmlvbgovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAAAA-ZG5zNHRvcnBubGZzMmlmdXoyczJ5ZjNmYzdyZG1zYmhtNnJ3NzVldWozNXBhYzZhcDI1emdxYWQub25pb24KL2Rucy1xdWVyeQ
 

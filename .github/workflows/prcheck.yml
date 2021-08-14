@@ -1,0 +1,17 @@
+name: prcheck
+
+on:
+  push:
+    branches: [master, next, ci]
+  pull_request:
+    branches: [master, next, ci]
+  workflow_dispatch:
+
+jobs:
+  prcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: new entries
+        run: .github/workflows/prcheck.sh

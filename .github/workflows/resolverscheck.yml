@@ -1,0 +1,17 @@
+name: resolverscheck
+
+on:
+  push:
+    branches: [next, ci]
+  pull_request:
+    branches: [next, ci]
+  workflow_dispatch:
+
+jobs:
+  resolverscheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: resolvers check
+        run: .github/workflows/resolverscheck.sh

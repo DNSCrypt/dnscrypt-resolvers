@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [master, next, ci]
+  pull_request:
+    branches: [ci]
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: check with dnscrypt-proxy
+        run: |
+          curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_x86_64-2.0.45.tar.gz | tar xzvf -
+          cp v3/* linux-x86_64
+          cd linux-x86_64
+          cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+          sed -i -e 's/listen_addresses.*/listen_addresses = ["127.0.0.1:5300"]/' dnscrypt-proxy.toml
+          sed -i -e 's/require_dnssec.*/require_dnssec = false/' dnscrypt-proxy.toml
+          sed -i -e 's/require_nolog.*/require_nolog = false/' dnscrypt-proxy.toml
+          sed -i -e 's/require_nofilter.*/require_nofilter = false/' dnscrypt-proxy.toml
+          ./dnscrypt-proxy -list-all
+          ./dnscrypt-proxy -show-certs

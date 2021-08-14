@@ -13,88 +13,49 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## doh-ibksturm
-
-doh-server (nginx - doh-httpproxy - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
-Hosted in Switzerland on by ibksturm, aka Andreas Ziegler
-
-sdns://AgcAAAAAAAAAACA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
-
-
 ## ibksturm
 
-dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
-Hosted in Switzerland by ibksturm, aka Andreas Ziegler
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 
-sdns://AQcAAAAAAAAAEDg1LjUuOTMuMjMwOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+Running privately by ibksturm in Thurgau, Switzerland
 
-
-## ibksturm-ipv6
-
-dnscrypt-server (nginx - encrypted-dns - unbound backend), DNSSEC / Non-Logged / Uncensored, OpenNIC and Root DNS-Zone Copy
-Hosted in Switzerland by ibksturm, aka Andreas Ziegler
-
-sdns://AQcAAAAAAAAALlsyYTAyOjEyMDU6NTA1NTpkZTYwOmIyNmU6YmZmZjpmZTFkOmUxOWJdOjg0NDMgwc9XUACwW8JsYh9ez5qiVgrOvwB-vss6f_SyDeC0Oe4YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## opennic-R4SAS
 
-DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
-Location: Gravelines, France.
-Maintained by R4SAS.
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
 
 sdns://AQcAAAAAAAAAETE1MS44MC4yMjIuNzk6NDQzIKnWMjpPJYAJJhl1FQLOIx4fdtned2yHxruyig7_2w5OIDIuZG5zY3J5cHQtY2VydC5vcGVubmljLmkycGQueHl6
 
 
+## opennic-R4SAS-doh
+
+DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AgcAAAAAAAAADTE1MS44MC4yMjIuNzkgKVTnuGY0K1Ihqu1Pba8r5vOERK-LffNTJu1qlyaQv3gQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
+
+
+## opennic-R4SAS-doh-ipv6
+
+DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AgcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIClU57hmNCtSIartT22vK-bzhESvi33zUybtapcmkL94EG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
+
+
 ## opennic-R4SAS-ipv6
 
-DNSSEC - OpenNIC - Non-logging - Uncensored - hosted on ovh.com
-Location: Gravelines, France.
-Maintained by R4SAS.
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
 
 sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdOjQ0MyCp1jI6TyWACSYZdRUCziMeH3bZ3ndsh8a7sooO_9sOTiAyLmRuc2NyeXB0LWNlcnQub3Blbm5pYy5pMnBkLnh5eg
-
-
-## opennic-bongobow
-
-OpenNIC • Non-logging • No DNSSEC
-Location: Munich, Germany
-
-sdns://AQYAAAAAAAAAETUuMTg5LjE3MC4xOTY6NDY1IFQ1LFVAO4Luk8QH_cI0RJcNmlbvIr_P-eyQnM0yJDJrKDIuZG5zY3J5cHQtY2VydC5uczE2LmRlLmRucy5vcGVubmljLmdsdWU
-
-
-## opennic-fische
-
-OpenNIC • Non-logging • DNSSEC
-Location: Nurnberg, Germany
-
-sdns://AQcAAAAAAAAAEjYyLjIxMC4xODAuNzE6MTA1MyBxLWt8kNHoMqM7vKXCkuZ3PnB32c0qV2I3KGQYtlDKSB8yLmRuc2NyeXB0LWNlcnQubnMyLmlyaXNlZGVuLmZy
-
-
-## opennic-fische-ipv6
-
-OpenNIC • Non-logging • DNSSEC
-Location: Nurnberg, Germany
-
-sdns://AQcAAAAAAAAAHFsyYTAxOjRmODoxYzBjOjgwYzk6OjFdOjEwNTMgcmZXgMxIKLKAtkLUX7t6Lhw7j4-PIqXir5hMytnM-W8dMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
-
-
-## opennic-iriseden
-
-OpenNIC • Non-logging • DNSSEC
-Location: Paris, France
-Maintained by iriseden.
-
-sdns://AQcAAAAAAAAAHVsyMDAxOmJjODozMmQ3OjMwODo6MjAxXToxMDUzIEUAcwKTPY6tyEQxtfO3rIzEyqN9w7WGPLz7ZsHsx5EGHzIuZG5zY3J5cHQtY2VydC5uczEuaXJpc2VkZW4uZnI
-
-
-## opennic-iriseden-ipv6
-
-OpenNIC • Non-logging • DNSSEC
-Location: Paris, France
-Maintained by iriseden.
-
-sdns://AQcAAAAAAAAAHVsyMDAxOmJjODozMmQ3OjMwNzo6MzAxXToxMDUzIJjeEela3WTzMuuZTskr7aOchIg2llSDNRsHfcggITn6HzIuZG5zY3J5cHQtY2VydC5uczIuaXJpc2VkZW4uZnI
 
 
 ## opennic-luggs
@@ -108,15 +69,7 @@ sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bB
 
 Second public DNS server in Canada operated by Luggs
 
-sdns://AQYAAAAAAAAAEDE0Mi40LjIwNS40Nzo0NDMgvL-34FDBPaJCLACwsaya1kjFwmS8thcLiD1xishuugkfMi5kbnNjcnlwdC1jZXJ0Lm5zNC5jYS5sdWdncy5jbw
-
-
-## opennic-rico4514
-
-OpenNIC • Non-logging • No DNSSEC
-Location: Texas, 13, MX
-
-sdns://AQYAAAAAAAAAETE0Mi40LjIwNC4xMTE6NDQzIBwZeTMb6CPMzwiaeQaTflw0ECpWrH9icOBGJbLt2wTjHzIuZG5zY3J5cHQtY2VydC5uczMuY2EubHVnZ3MuY28
+sdns://AQYAAAAAAAAADDE0Mi40LjIwNS40NyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
 
 
 ## publicarray-au
@@ -132,15 +85,7 @@ sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsV
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
 Maintained by publicarray - https://dns.seby.io
 
-sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
-
-
-## publicarray-au2
-
-DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
-Maintained by publicarray - https://dns.seby.io
-
-sdns://AQcAAAAAAAAADTEzOS45OS4yMjIuNzIgCwVoTw0L4dgal5LC1FbZUtHtLR_rVuV6rVnxO95e4GUbMi5kbnNjcnlwdC1jZXJ0LmRucy5zZWJ5Lmlv
+sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
 
 
 ## publicarray-au2-doh
@@ -148,5 +93,5 @@ sdns://AQcAAAAAAAAADTEzOS45OS4yMjIuNzIgCwVoTw0L4dgal5LC1FbZUtHtLR_rVuV6rVnxO95e4
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
-sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgPhoaD2xT8-l6SS1XCEtbmAcFnuBXqxUFh2_YP9o9uDgRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
 
