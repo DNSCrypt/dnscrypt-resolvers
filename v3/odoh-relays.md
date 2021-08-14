@@ -20,26 +20,28 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 --
 
 
-## odohrelay-ams
-
-Oblivious DoH relay in The Netherlands. No logs.
-
-sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
-
-
-## odohrelay-bcn
-
-Oblivious DoH relay in Spain. No logs.
-
-sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
-
-
 ## odohrelay-crypto-sx
 
 Oblivious DoH relay running on Fastly Compute@Edge.
 Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
+
+
+## odohrelay-koki-ams
+
+Oblivious DoH relay in The Netherlands. No logs.
+Maintained by @kokial
+
+sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
+
+
+## odohrelay-koki-bcn
+
+Oblivious DoH relay in Spain. No logs.
+Maintained by @kokial
+
+sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
 
 
 ## odohrelay-surf

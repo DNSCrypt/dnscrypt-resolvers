@@ -14,13 +14,6 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 --
 
 
-## odoh-ams
-
-Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
 ## odoh-cloudflare
 
 Cloudflare ODoH server.
@@ -57,6 +50,14 @@ sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
 ODoH target server via Cloudflare, no logs.
 
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
+
+
+## odoh-koki-ams
+
+Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
+Maintained by @kokial
+
+sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## odoh-tiarap.org
