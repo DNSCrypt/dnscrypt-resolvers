@@ -1443,12 +1443,6 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
-## DNS Crypt resolver in Hyderabad, India, Oracle Cloud
-
-DNS Crypt resolver operated as a hobby by Jitender in Hyderabad, India. It blocks ads/trackers/analytics domains, provides a clean browsin experience
-
-sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIAUG5so4Jeb8szQnu7OllyXJPWWUeNufjcwwD-t14o-QHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
-
 ## ibksturm
 
 DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
