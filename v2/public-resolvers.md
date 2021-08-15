@@ -1559,7 +1559,7 @@ by lucenera
 sdns://AQcAAAAAAAAAETc4LjE0MS4yMDguMTI6NDQzIOOWLHWKcXC3eNMdWnHxk7TdeOB-oT6H_ZmXADF7jL0VHDIuZG5zY3J5cHQtY2VydC5rZW5zaGlyby5jb20
 
 
-## kenshiro ipv6
+## kenshiro-ipv6
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
 by lucenera
@@ -2150,7 +2150,7 @@ by lucenera
 sdns://AQcAAAAAAAAAETE5OS4yNDcuMi4xNjc6NDQzIJKizlU0Z_bWVilEqftcnavJoTLabSlycwn6a__VKaU0GTIuZG5zY3J5cHQtY2VydC5zdWFtaS5jb20
 
 
-## suami ipv6
+## suami-ipv6
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Frankfurt.
 by lucenera
