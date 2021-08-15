@@ -285,13 +285,13 @@ sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 ## anon-suami
 
-Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
 
 
 # anon-suami ipv6
 
-Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
 sdns://gRExOTkuMjQ3LjIuMTY3OjQ0Mw
 
