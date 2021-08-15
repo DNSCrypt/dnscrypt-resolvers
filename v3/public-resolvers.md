@@ -506,6 +506,11 @@ Barcelona, Spain DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADjM3LjEyMC4xNDIuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
+## coolquasar
+
+Non-logging, Filtering, DNSCrypt server, Hyderabad, India. Hosted in Oracle Cloud
+sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIJpcu4WXRpsjwkZTxiQCTGE0y8SljCk0LL167QGGW9fBHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
+
 
 ## cs-belgium
 
@@ -1456,7 +1461,6 @@ Hurricane Electric DoH server (anycast)
 Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
-
 
 ## ibksturm
 
