@@ -1551,6 +1551,22 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
+## julia
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
+by lucenera
+
+sdns://AQcAAAAAAAAAEjE4NS41OC4xOTQuMTk3OjQ0MyBUt90T_vs-aveKRUlkMPs2YAcwKTE-r3uOplPWuyMKsBkyLmRuc2NyeXB0LWNlcnQuanVsaWEuY29t
+
+
+## julia-ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
+by lucenera
+
+sdns://AQcAAAAAAAAAGlsyYTAwOjZkNDA6NDA6NDBjNTo6MV06NDQzIFS33RP--z5q94pFSWQw-zZgBzApMT6ve46mU9a7IwqwGTIuZG5zY3J5cHQtY2VydC5qdWxpYS5jb20
+
+
 ## kenshiro
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
@@ -2027,6 +2043,22 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMl0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 - 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
+
+
+## rei
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
+by lucenera
+
+sdns://AQcAAAAAAAAAEjgwLjIxMS4yNDMuMTY5OjQ0MyD5csvwaorF_dUDK068OgiDTr6qUaRUSGd7Zst7y2xIbBcyLmRuc2NyeXB0LWNlcnQucmVpLmNvbQ
+
+
+## rei-ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
+by lucenera
+
+sdns://AQcAAAAAAAAAGVsyYTAwOjZkNDc6MTA6YmE5OjoxXTo0NDMg-XLL8GqKxf3VAytOvDoIg06-qlGkVEhne2bLe8tsSGwXMi5kbnNjcnlwdC1jZXJ0LnJlaS5jb20
 
 
 ## resolver4.dns.openinternet.io

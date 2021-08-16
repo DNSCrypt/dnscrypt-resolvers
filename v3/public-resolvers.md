@@ -1584,6 +1584,7 @@ by lucenera
 
 sdns://AQcAAAAAAAAAGlsyYTAwOjZkNDA6NDA6NDBjNTo6MV06NDQzIFS33RP--z5q94pFSWQw-zZgBzApMT6ve46mU9a7IwqwGTIuZG5zY3J5cHQtY2VydC5qdWxpYS5jb20
 
+
 ## kenshiro
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
