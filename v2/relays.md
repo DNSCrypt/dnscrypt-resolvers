@@ -154,7 +154,7 @@ Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
 sdns://gRE3OC4xNDEuMjA4LjEyOjQ0Mw
 
 
-## anon-kenshiro ipv6
+## anon-kenshiro-ipv6
 
 Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
 
@@ -289,7 +289,7 @@ Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
 
 
-# anon-suami ipv6
+# anon-suami-ipv6
 
 Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
