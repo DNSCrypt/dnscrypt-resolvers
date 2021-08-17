@@ -1167,7 +1167,7 @@ A public DNS resolver in mainland China provided by DNSPod (Tencent Cloud).
 
 https://www.dnspod.cn/Products/Public.DNS?lang=en
 
-sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACDBlAfoWsQD52fP2oOBh_Ag-lY6yBaIr1EMIqd559RaVgdkb2gucHViCi9kbnMtcXVlcnk
 
 
 ## doh-ch-blahdns
@@ -1547,6 +1547,22 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
+## julia
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
+by lucenera
+
+sdns://AQcAAAAAAAAAEjE4NS41OC4xOTQuMTk3OjQ0MyBUt90T_vs-aveKRUlkMPs2YAcwKTE-r3uOplPWuyMKsBkyLmRuc2NyeXB0LWNlcnQuanVsaWEuY29t
+
+
+## julia-ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
+by lucenera
+
+sdns://AQcAAAAAAAAAGlsyYTAwOjZkNDA6NDA6NDBjNTo6MV06NDQzIFS33RP--z5q94pFSWQw-zZgBzApMT6ve46mU9a7IwqwGTIuZG5zY3J5cHQtY2VydC5qdWxpYS5jb20
+
+
 ## kenshiro
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
@@ -1555,7 +1571,7 @@ by lucenera
 sdns://AQcAAAAAAAAAETc4LjE0MS4yMDguMTI6NDQzIOOWLHWKcXC3eNMdWnHxk7TdeOB-oT6H_ZmXADF7jL0VHDIuZG5zY3J5cHQtY2VydC5rZW5zaGlyby5jb20
 
 
-## kenshiro ipv6
+## kenshiro-ipv6
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
 by lucenera
@@ -2025,6 +2041,22 @@ Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 - 2620:fe::fe:10
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
 
 
+## rei
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
+by lucenera
+
+sdns://AQcAAAAAAAAAEjgwLjIxMS4yNDMuMTY5OjQ0MyD5csvwaorF_dUDK068OgiDTr6qUaRUSGd7Zst7y2xIbBcyLmRuc2NyeXB0LWNlcnQucmVpLmNvbQ
+
+
+## rei-ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
+by lucenera
+
+sdns://AQcAAAAAAAAAGVsyYTAwOjZkNDc6MTA6YmE5OjoxXTo0NDMg-XLL8GqKxf3VAytOvDoIg06-qlGkVEhne2bLe8tsSGwXMi5kbnNjcnlwdC1jZXJ0LnJlaS5jb20
+
+
 ## resolver4.dns.openinternet.io
 
 DNSCrypt resolver on dedicated hardware, colocated at Sonic.net in Santa Rosa, CA in the United States.
@@ -2146,7 +2178,7 @@ by lucenera
 sdns://AQcAAAAAAAAAETE5OS4yNDcuMi4xNjc6NDQzIJKizlU0Z_bWVilEqftcnavJoTLabSlycwn6a__VKaU0GTIuZG5zY3J5cHQtY2VydC5zdWFtaS5jb20
 
 
-## suami ipv6
+## suami-ipv6
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Frankfurt.
 by lucenera
@@ -2202,20 +2234,6 @@ Also known as censurfridns.
 DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
 
 sdns://AgcAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
-
-
-## userspace-australia
-
-Public DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace. No logging, currently uncensored, IPv4.
-
-sdns://AQcAAAAAAAAAEDEwMy4xNi4xMzEuNzc6NTQgEWOI99_3M0Rk_Jsm7KQtUjC1612HdCwSWA7_ftojHG4dMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
-
-
-## userspace-australia-ipv6
-
-Public DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace. No logging, currently uncensored, IPv6.
-
-sdns://AQcAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgEWOI99_3M0Rk_Jsm7KQtUjC1612HdCwSWA7_ftojHG4dMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
 
 
 ## v.dnscrypt.uk-doh-ipv4
