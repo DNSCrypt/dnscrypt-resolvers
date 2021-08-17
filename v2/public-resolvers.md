@@ -496,7 +496,9 @@ sdns://AQYAAAAAAAAADjM3LjEyMC4xNDIuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw2
 ## coolquasar
 
 Non-logging, Filtering, DNSCrypt server, Hyderabad, India. Hosted in Oracle Cloud
+
 sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIPk1tAq0WyDIh0B5gFCxAXP1AHakSLw0yrrY6yX1F4ToHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
+
 
 ## cs-belgium
 
