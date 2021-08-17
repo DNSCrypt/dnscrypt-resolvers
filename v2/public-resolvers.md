@@ -1170,7 +1170,7 @@ A public DNS resolver in mainland China provided by DNSPod (Tencent Cloud).
 
 https://www.dnspod.cn/Products/Public.DNS?lang=en
 
-sdns://AgAAAAAAAAAAACDrdSX4jw2UWPgamVAZv9NMuJzNyVfnsO8xXxD4l2OBGAdkb2gucHViCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACDBlAfoWsQD52fP2oOBh_Ag-lY6yBaIr1EMIqd559RaVgdkb2gucHViCi9kbnMtcXVlcnk
 
 
 ## doh-ch-blahdns
