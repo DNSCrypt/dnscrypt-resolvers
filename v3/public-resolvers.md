@@ -493,6 +493,13 @@ https://www.comss.ru/page.php?id=7315
 sdns://AQMAAAAAAAAADTk0LjE3Ni4yMzMuOTMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_OkxMdMi5kbnNjcnlwdC1jZXJ0LmRucy5jb21zcy5vbmU
 
 
+## coolquasar
+
+Non-logging, Filtering, DNSCrypt server, Hyderabad, India. Hosted in Oracle Cloud
+
+sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIPk1tAq0WyDIh0B5gFCxAXP1AHakSLw0yrrY6yX1F4ToHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
+
+
 ## cs-austria
 
 Wien, Austria DNSCrypt server provided by https://cryptostorm.is/
@@ -505,12 +512,6 @@ sdns://AQYAAAAAAAAADTk0LjE5OC40MS4yMzUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbq
 Barcelona, Spain DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADjM3LjEyMC4xNDIuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-## coolquasar
-
-Non-logging, Filtering, DNSCrypt server, Hyderabad, India. Hosted in Oracle Cloud
-
-sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIPk1tAq0WyDIh0B5gFCxAXP1AHakSLw0yrrY6yX1F4ToHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
 
 
 ## cs-belgium
@@ -1462,6 +1463,7 @@ Hurricane Electric DoH server (anycast)
 Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoDKG_2WmX68yCF7qE4jDc4un43hzyQbM48Sii0zCpYmIoEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOIMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
+
 
 ## ibksturm
 
