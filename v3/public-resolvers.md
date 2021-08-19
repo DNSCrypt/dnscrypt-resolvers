@@ -493,13 +493,6 @@ https://www.comss.ru/page.php?id=7315
 sdns://AQMAAAAAAAAADTk0LjE3Ni4yMzMuOTMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_OkxMdMi5kbnNjcnlwdC1jZXJ0LmRucy5jb21zcy5vbmU
 
 
-## coolquasar
-
-Non-logging, Filtering, DNSCrypt server, Hyderabad, India. Hosted in Oracle Cloud
-
-sdns://AQcAAAAAAAAAETE1Mi42Ny4xNjUuMjY6NDQzIPk1tAq0WyDIh0B5gFCxAXP1AHakSLw0yrrY6yX1F4ToHDIuZG5zY3J5cHQtY2VydC5qaXQuZGRucy5uZXQ
-
-
 ## cs-austria
 
 Wien, Austria DNSCrypt server provided by https://cryptostorm.is/
