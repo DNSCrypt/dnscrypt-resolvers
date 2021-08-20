@@ -2099,14 +2099,13 @@ sdns://AQcAAAAAAAAAGVsyYTAwOjZkNDc6MTA6YmE5OjoxXTo0NDMg-XLL8GqKxf3VAytOvDoIg06-q
 
 ## resolver4.dns.openinternet.io
 
-DNSCrypt resolver on dedicated hardware, colocated at Sonic.net in Santa Rosa, CA in the United States.
+DNSCrypt & DoH resolver on dedicated hardware colocated at Sonic.net in Santa Rosa, CA in the United States.
 
 No log, no filter, DNSSEC. Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
-in any way).
-
-Provided by https://openinternet.io
+in any way). Provided by https://openinternet.io
 
 sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgIMqRyWkPSPlDAmN_2ne3A6A6EQtQRyEJcXoCWPHbX5EtMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyNC5kbnMub3BlbmludGVybmV0Lmlv
+sdns://AgcAAAAAAAAADTcwLjM2LjE3MC4xMjYAHXJlc29sdmVyNC5kbnMub3BlbmludGVybmV0LmlvCi9kbnMtcXVlcnk
 
 
 ## safesurfer
