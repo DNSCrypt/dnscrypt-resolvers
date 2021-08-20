@@ -59,6 +59,7 @@ Maintained by @kokial
 
 sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
+
 ## odoh-resolver4.dns.openinternet.io
 
 ODoH target server. no logs, no filter, DNSSEC.
@@ -68,6 +69,7 @@ Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated 
 in any way). Provided by https://openinternet.io
 
 sdns://BQcAAAAAAAAAHXJlc29sdmVyNC5kbnMub3BlbmludGVybmV0LmlvCi9kbnMtcXVlcnk
+
 
 ## odoh-tiarap.org
 
