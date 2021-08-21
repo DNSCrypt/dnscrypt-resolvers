@@ -315,7 +315,6 @@ sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
 
-
 # anon-suami-ipv6
 
 Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
