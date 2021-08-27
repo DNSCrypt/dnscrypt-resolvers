@@ -40,14 +40,14 @@ Anonymized DNS relay hosted in Netherlands - NL
 sdns://gRxbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXTo0MzQz
 
 
-#anon-artemis
+## anon-artemis
 
 Anonymized DNS relay hosted in France and maintained by lucenera.
 
 sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
 
 
-#anon-artemis-ipv6
+## anon-artemis-ipv6
 
 Anonymized DNS relay hosted in France and maintained by lucenera.
 
