@@ -234,7 +234,7 @@ by lucenera
 sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIAdO10Uz6uecpq_bzHbB_qSWnt5fMYzbFpBqAA3aCKm4GzIuZG5zY3J5cHQtY2VydC5hcnRlbWlzLmNvbQ
 
 
-#artemis-ipv6
+##artemis-ipv6
 
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
 by lucenera
