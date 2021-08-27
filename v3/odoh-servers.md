@@ -60,6 +60,17 @@ Maintained by @kokial
 sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
+## odoh-resolver4.dns.openinternet.io
+
+ODoH target server. no logs, no filter, DNSSEC.
+Running on dedicated hardware colocated at Sonic.net in Santa Rosa, CA in the United States.
+
+Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
+in any way). Provided by https://openinternet.io
+
+sdns://BQcAAAAAAAAAHXJlc29sdmVyNC5kbnMub3BlbmludGVybmV0LmlvCi9kbnMtcXVlcnk
+
+
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
