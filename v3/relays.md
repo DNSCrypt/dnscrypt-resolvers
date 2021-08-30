@@ -68,13 +68,6 @@ Anonymized DNS relay hosted in Chisinau, Moldova provided by https://cryptostorm
 sdns://gQ8xNzguMTc1LjEzOS4yMTE
 
 
-## anon-cs-nl
-
-Anonymized DNS relay hosted in Roosendaal, Netherlands provided by https://cryptostorm.is/
-
-sdns://gQ0xODUuMTA3LjgwLjg0
-
-
 ## anon-cs-se
 
 Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
@@ -124,13 +117,6 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
-## anon-dama.no
-
-Anonymizing DNS Relay located in Oslo/Norway.
-
-sdns://gQ8yMTcuMTcwLjIwNS4xMDQ
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
@@ -153,11 +139,39 @@ Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 
+## anon-julia
+
+Anonymized DNS relay hosted in Italy and maintained by lucenera.
+
+sdns://gRIxODUuNTguMTk0LjE5Nzo0NDM
+
+
+## anon-julia-ipv6
+
+Anonymized DNS relay hosted in Italy and maintained by lucenera.
+
+sdns://gRpbMmEwMDo2ZDQwOjQwOjQwYzU6OjFdOjQ0Mw
+
+
 ## anon-kama
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 
 sdns://gQ4xMzcuNzQuMjIzLjIzNA
+
+
+## anon-kenshiro
+
+Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+
+sdns://gRE3OC4xNDEuMjA4LjEyOjQ0Mw
+
+
+## anon-kenshiro-ipv6
+
+Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
+
+sdns://gSxbMjAwMToxOWYwOjUwMDE6MjE0NTo1NDAwOjNmZjpmZTgzOmU2M2ZdOjQ0Mw
 
 
 ## anon-meganerd
@@ -172,6 +186,13 @@ sdns://gQ4xMzYuMjQ0Ljk3LjExNA
 Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
 sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
+
+
+## anon-opennic-R4SAS
+
+Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
+
+sdns://gRExNTEuODAuMjIyLjc5OjQ0Mw
 
 
 ## anon-pf
@@ -200,6 +221,27 @@ sdns://gRI0NS42My4xMTAuMTg3Ojg0NDM
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
 
 sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
+
+
+## anon-rei
+
+Anonymized DNS relay hosted in Poland and maintained by lucenera.
+
+sdns://gRI4MC4yMTEuMjQzLjE2OTo0NDM
+
+
+## anon-rei-ipv6
+
+Anonymized DNS relay hosted in Poland and maintained by lucenera.
+
+sdns://gRlbMmEwMDo2ZDQ3OjEwOmJhOTo6MV06NDQz
+
+
+## anon-resolver4.dns.openinternet.io
+
+Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io
+
+sdns://gQ03MC4zNi4xNzAuMTI2
 
 
 ## anon-saldns01-conoha-ipv4
@@ -266,6 +308,20 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 Anonymized DNS relay hosted in Sweden - SE
 
 sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
+
+
+## anon-suami
+
+Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
+
+sdns://gRExOTkuMjQ3LjIuMTY3OjQ0Mw
+
+
+## anon-suami-ipv6
+
+Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
+
+sdns://gStbMjAwMToxOWYwOjZjMDE6NTdiOjU0MDA6M2ZmOmZlODM6ZWEwMV06NDQz
 
 
 ## anon-tiarap
