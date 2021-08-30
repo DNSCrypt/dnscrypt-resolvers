@@ -118,13 +118,6 @@ Anonymized DNS relay hosted in US - Las Vegas, NV provided by https://cryptostor
 sdns://gQwzNy4xMjAuMTQ3LjI
 
 
-## anon-cs-usor
-
-Anonymized DNS relay hosted in US - Roseburg, OR provided by https://cryptostorm.is/
-
-sdns://gQ0xMDQuMjU1LjE3NS4y
-
-
 ## anon-cs-ustx
 
 Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.is/

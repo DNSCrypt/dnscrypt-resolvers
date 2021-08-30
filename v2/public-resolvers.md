@@ -713,13 +713,6 @@ Belgrade, Serbia DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADjM3LjEyMC4xOTMuMjE5IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-sk
-
-South Korea DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADDI3LjI1NS43Ny41NiAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-slovakia
 
 Bratislava, Slovakia DNSCrypt server provided by https://cryptostorm.is/
