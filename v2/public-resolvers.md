@@ -216,6 +216,22 @@ Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No
 sdns://AgMAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
 
 
+## artemis
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
+by lucenera
+
+sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIAdO10Uz6uecpq_bzHbB_qSWnt5fMYzbFpBqAA3aCKm4GzIuZG5zY3J5cHQtY2VydC5hcnRlbWlzLmNvbQ
+
+
+## artemis-ipv6
+
+dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
+by lucenera
+
+sdns://AQcAAAAAAAAAGVsyMDAxOmJjODo2MmM6MjE2OjoxXTo0NDMgB07XRTPq55ymr9vMdsH-pJae3l8xjNsWkGoADdoIqbgbMi5kbnNjcnlwdC1jZXJ0LmFydGVtaXMuY29t
+
+
 ## att
 
 AT&T test DoH server.
@@ -771,13 +787,6 @@ sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTM
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
 
 sdns://AQcAAAAAAAAADDk0LjI0Mi41OS4zNSBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynrBcyLmRuc2NyeXB0LWNlcnQuZGN0LXJ1MQ
-
-
-## dct-ru2
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
-
-sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgH3P73klIGqFhO_xQhCpSzrlibYNg1fMF_lw36Qfw-30XMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTI
 
 
 ## decloudus-nogoogle-tst
@@ -1856,7 +1865,7 @@ sdns://AgcAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5I
 
 By pryv8, non Logging, uncensored, DNSSEC - hosted on contabo servers
 
-sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMg0I13MMoiCKduiHKph6yaHFtoNLhPFroCyPOffUqqcsocMi5kbnNjcnlwdC1jZXJ0LnByeXY4Ym9pLm9yZw
+sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7LqwBBmSzdY9BIcMi5kbnNjcnlwdC1jZXJ0LnByeXY4Ym9pLm9yZw
 
 
 ## publicarray-au-doh
