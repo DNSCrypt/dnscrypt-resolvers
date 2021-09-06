@@ -221,7 +221,7 @@ sdns://AgMAAAAAAAAAAKAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5I
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
 by lucenera
 
-sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIAdO10Uz6uecpq_bzHbB_qSWnt5fMYzbFpBqAA3aCKm4GzIuZG5zY3J5cHQtY2VydC5hcnRlbWlzLmNvbQ
+sdns://AQcAAAAAAAAADTUxLjE1LjE0My4xMjMgB07XRTPq55ymr9vMdsH-pJae3l8xjNsWkGoADdoIqbgbMi5kbnNjcnlwdC1jZXJ0LmFydGVtaXMuY29t
 
 
 ## artemis-ipv6
@@ -229,7 +229,7 @@ sdns://AQcAAAAAAAAAETUxLjE1LjE0My4xMjM6NDQzIAdO10Uz6uecpq_bzHbB_qSWnt5fMYzbFpBqA
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
 by lucenera
 
-sdns://AQcAAAAAAAAAGVsyMDAxOmJjODo2MmM6MjE2OjoxXTo0NDMgB07XRTPq55ymr9vMdsH-pJae3l8xjNsWkGoADdoIqbgbMi5kbnNjcnlwdC1jZXJ0LmFydGVtaXMuY29t
+sdns://AQcAAAAAAAAAFVsyMDAxOmJjODo2MmM6MjE2OjoxXSAHTtdFM-rnnKav28x2wf6klp7eXzGM2xaQagAN2gipuBsyLmRuc2NyeXB0LWNlcnQuYXJ0ZW1pcy5jb20
 
 
 ## att
@@ -1551,7 +1551,7 @@ sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXQANanAudGlhcmFwLm9yZwovZ
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
 by lucenera
 
-sdns://AQcAAAAAAAAAEjE4NS41OC4xOTQuMTk3OjQ0MyDQu5u9R6HHQkmo9nG0_Ain1jubSdjnauOsgu4iMl5hBxkyLmRuc2NyeXB0LWNlcnQuanVsaWEuY29t
+sdns://AQcAAAAAAAAADjE4NS41OC4xOTQuMTk3INC7m71HocdCSaj2cbT8CKfWO5tJ2Odq46yC7iIyXmEHGTIuZG5zY3J5cHQtY2VydC5qdWxpYS5jb20
 
 
 ## julia-ipv6
@@ -1559,7 +1559,7 @@ sdns://AQcAAAAAAAAAEjE4NS41OC4xOTQuMTk3OjQ0MyDQu5u9R6HHQkmo9nG0_Ain1jubSdjnauOsg
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
 by lucenera
 
-sdns://AQcAAAAAAAAAGlsyYTAwOjZkNDA6NDA6NDBjNTo6MV06NDQzINC7m71HocdCSaj2cbT8CKfWO5tJ2Odq46yC7iIyXmEHGTIuZG5zY3J5cHQtY2VydC5qdWxpYS5jb20
+sdns://AQcAAAAAAAAAFlsyYTAwOjZkNDA6NDA6NDBjNTo6MV0g0LubvUehx0JJqPZxtPwIp9Y7m0nY52rjrILuIjJeYQcZMi5kbnNjcnlwdC1jZXJ0Lmp1bGlhLmNvbQ
 
 
 ## kenshiro
@@ -2045,7 +2045,7 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
 by lucenera
 
-sdns://AQcAAAAAAAAAEjgwLjIxMS4yNDMuMTY5OjQ0MyAFiR7OYCtFh1egstcI2nAVKNrNROeoEZUSuLcyOE-P5RcyLmRuc2NyeXB0LWNlcnQucmVpLmNvbQ
+sdns://AQcAAAAAAAAADjgwLjIxMS4yNDMuMTY5IAWJHs5gK0WHV6Cy1wjacBUo2s1E56gRlRK4tzI4T4_lFzIuZG5zY3J5cHQtY2VydC5yZWkuY29t
 
 
 ## rei-ipv6
@@ -2053,7 +2053,7 @@ sdns://AQcAAAAAAAAAEjgwLjIxMS4yNDMuMTY5OjQ0MyAFiR7OYCtFh1egstcI2nAVKNrNROeoEZUSu
 dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
 by lucenera
 
-sdns://AQcAAAAAAAAAGVsyYTAwOjZkNDc6MTA6YmE5OjoxXTo0NDMgBYkezmArRYdXoLLXCNpwFSjazUTnqBGVEri3MjhPj-UXMi5kbnNjcnlwdC1jZXJ0LnJlaS5jb20
+sdns://AQcAAAAAAAAAFVsyYTAwOjZkNDc6MTA6YmE5OjoxXSAFiR7OYCtFh1egstcI2nAVKNrNROeoEZUSuLcyOE-P5RcyLmRuc2NyeXB0LWNlcnQucmVpLmNvbQ
 
 
 ## resolver4.dns.openinternet.io

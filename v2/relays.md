@@ -45,14 +45,14 @@ sdns://gRxbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXTo0MzQz
 
 Anonymized DNS relay hosted in France and maintained by lucenera.
 
-sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
+sdns://gQ01MS4xNS4xNDMuMTIz
 
 
 ## anon-artemis-ipv6
 
 Anonymized DNS relay hosted in France and maintained by lucenera.
 
-sdns://gRlbMjAwMTpiYzg6NjJjOjIxNjo6MV06NDQz
+sdns://gRVbMjAwMTpiYzg6NjJjOjIxNjo6MV0
 
 
 ## anon-bcn
@@ -151,14 +151,14 @@ sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 Anonymized DNS relay hosted in Italy and maintained by lucenera.
 
-sdns://gRIxODUuNTguMTk0LjE5Nzo0NDM
+sdns://gQ4xODUuNTguMTk0LjE5Nw
 
 
 ## anon-julia-ipv6
 
 Anonymized DNS relay hosted in Italy and maintained by lucenera.
 
-sdns://gRpbMmEwMDo2ZDQwOjQwOjQwYzU6OjFdOjQ0Mw
+sdns://gRZbMmEwMDo2ZDQwOjQwOjQwYzU6OjFd
 
 
 ## anon-kama
@@ -172,14 +172,14 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 
 Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
 
-sdns://gRE3OC4xNDEuMjA4LjEyOjQ0Mw
+sdns://gQ03OC4xNDEuMjA4LjEy
 
 
 ## anon-kenshiro-ipv6
 
 Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
 
-sdns://gSxbMjAwMToxOWYwOjUwMDE6MjE0NTo1NDAwOjNmZjpmZTgzOmU2M2ZdOjQ0Mw
+sdns://gShbMjAwMToxOWYwOjUwMDE6MjE0NTo1NDAwOjNmZjpmZTgzOmU2M2Zd
 
 
 ## anon-meganerd
@@ -200,7 +200,7 @@ sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
 
 Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
 
-sdns://gRExNTEuODAuMjIyLjc5OjQ0Mw
+sdns://gQ0xNTEuODAuMjIyLjc5
 
 
 ## anon-pf
@@ -235,14 +235,14 @@ sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
 
 Anonymized DNS relay hosted in Poland and maintained by lucenera.
 
-sdns://gRI4MC4yMTEuMjQzLjE2OTo0NDM
+sdns://gQ44MC4yMTEuMjQzLjE2OQ
 
 
 ## anon-rei-ipv6
 
 Anonymized DNS relay hosted in Poland and maintained by lucenera.
 
-sdns://gRlbMmEwMDo2ZDQ3OjEwOmJhOTo6MV06NDQz
+sdns://gRVbMmEwMDo2ZDQ3OjEwOmJhOTo6MV0
 
 
 ## anon-resolver4.dns.openinternet.io
@@ -322,14 +322,14 @@ sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
-sdns://gRExOTkuMjQ3LjIuMTY3OjQ0Mw
+sdns://gQ0xOTkuMjQ3LjIuMTY3
 
 
 ## anon-suami-ipv6
 
 Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
 
-sdns://gStbMjAwMToxOWYwOjZjMDE6NTdiOjU0MDA6M2ZmOmZlODM6ZWEwMV06NDQz
+sdns://gSdbMjAwMToxOWYwOjZjMDE6NTdiOjU0MDA6M2ZmOmZlODM6ZWEwMV0
 
 
 ## anon-tiarap
