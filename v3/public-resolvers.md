@@ -2242,11 +2242,46 @@ Yandex public DNS server (anycast)
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
 
+## yepdns-doh-pl
+
+Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
+
+sdns://AgMAAAAAAAAAAAANcGwueWVwZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
 ## yepdns-doh-sg
 
-Filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
+Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
 
 sdns://AgMAAAAAAAAAAAANc2cueWVwZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## yepdns-pl
+
+Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
+
+sdns://AQMAAAAAAAAAEzE4NS43MC4xOTYuMTUxOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
+
+
+## yepdns-pl-ipv6
+
+Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
+
+sdns://AQMAAAAAAAAALlsyYTA0OjM1NDQ6ODAwMDoxMDAwOjQ4MzE6YzFmZjpmZWI1OjY0YjJdOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
+
+
+## yepdns-sg
+
+Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
+
+sdns://AQMAAAAAAAAAETk0LjIzNy43NS40Mjo4NDQzIJ4tGTviirNxo5Z9dWivK0B3h5IW0Ckx2mCQCa7tmrWSHTIuZG5zY3J5cHQtY2VydC5zZy55ZXBkbnMuY29t
+
+
+## yepdns-sg-ipv6
+
+Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
+
+sdns://AQMAAAAAAAAALlsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjMwYTRdOjg0NDMgni0ZO-KKs3Gjln11aK8rQHeHkhbQKTHaYJAJru2atZIdMi5kbnNjcnlwdC1jZXJ0LnNnLnllcGRucy5jb20
 
 
 ## zackptg5-us-il-ipv4
