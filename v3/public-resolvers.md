@@ -1564,38 +1564,6 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6NjgxYjo5NmFhXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
-## julia
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
-by lucenera
-
-sdns://AQcAAAAAAAAADjE4NS41OC4xOTQuMTk3INC7m71HocdCSaj2cbT8CKfWO5tJ2Odq46yC7iIyXmEHGTIuZG5zY3J5cHQtY2VydC5qdWxpYS5jb20
-
-
-## julia-ipv6
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Italy.
-by lucenera
-
-sdns://AQcAAAAAAAAAFlsyYTAwOjZkNDA6NDA6NDBjNTo6MV0g0LubvUehx0JJqPZxtPwIp9Y7m0nY52rjrILuIjJeYQcZMi5kbnNjcnlwdC1jZXJ0Lmp1bGlhLmNvbQ
-
-
-## kenshiro
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
-by lucenera
-
-sdns://AQcAAAAAAAAADTc4LjE0MS4yMDguMTIg45YsdYpxcLd40x1acfGTtN144H6hPof9mZcAMXuMvRUcMi5kbnNjcnlwdC1jZXJ0LmtlbnNoaXJvLmNvbQ
-
-
-## kenshiro-ipv6
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Amsterdam.
-by lucenera
-
-sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMToyMTQ1OjU0MDA6M2ZmOmZlODM6ZTYzZl0g45YsdYpxcLd40x1acfGTtN144H6hPof9mZcAMXuMvRUcMi5kbnNjcnlwdC1jZXJ0LmtlbnNoaXJvLmNvbQ
-
-
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
@@ -2083,22 +2051,6 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
 
 
-## rei
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
-by lucenera
-
-sdns://AQcAAAAAAAAADjgwLjIxMS4yNDMuMTY5IAWJHs5gK0WHV6Cy1wjacBUo2s1E56gRlRK4tzI4T4_lFzIuZG5zY3J5cHQtY2VydC5yZWkuY29t
-
-
-## rei-ipv6
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Poland.
-by lucenera
-
-sdns://AQcAAAAAAAAAFVsyYTAwOjZkNDc6MTA6YmE5OjoxXSAFiR7OYCtFh1egstcI2nAVKNrNROeoEZUSuLcyOE-P5RcyLmRuc2NyeXB0LWNlcnQucmVpLmNvbQ
-
-
 ## resolver4.dns.openinternet.io
 
 DNSCrypt & DoH resolver on dedicated hardware colocated at Sonic.net in Santa Rosa, CA in the United States.
@@ -2209,22 +2161,6 @@ sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyB5eVqmG8yEeu7KgiIFlYUJCqBps33UPRtAQ
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
-
-
-## suami
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Frankfurt.
-by lucenera
-
-sdns://AQcAAAAAAAAADTE5OS4yNDcuMi4xNjcgkqLOVTRn9tZWKUSp-1ydq8mhMtptKXJzCfpr_9UppTQZMi5kbnNjcnlwdC1jZXJ0LnN1YW1pLmNvbQ
-
-
-## suami-ipv6
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in Frankfurt.
-by lucenera
-
-sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NmMwMTo1N2I6NTQwMDozZmY6ZmU4MzplYTAxXSCSos5VNGf21lYpRKn7XJ2ryaEy2m0pcnMJ-mv_1SmlNBkyLmRuc2NyeXB0LWNlcnQuc3VhbWkuY29t
 
 
 ## switch

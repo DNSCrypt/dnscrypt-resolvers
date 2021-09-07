@@ -97,39 +97,11 @@ Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 
-## anon-julia
-
-Anonymized DNS relay hosted in Italy and maintained by lucenera.
-
-sdns://gQ4xODUuNTguMTk0LjE5Nw
-
-
-## anon-julia-ipv6
-
-Anonymized DNS relay hosted in Italy and maintained by lucenera.
-
-sdns://gRZbMmEwMDo2ZDQwOjQwOjQwYzU6OjFd
-
-
 ## anon-kama
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 
 sdns://gQ4xMzcuNzQuMjIzLjIzNA
-
-
-## anon-kenshiro
-
-Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
-
-sdns://gQ03OC4xNDEuMjA4LjEy
-
-
-## anon-kenshiro-ipv6
-
-Anonymized DNS relay hosted in Amsterdam and maintained by lucenera.
-
-sdns://gShbMjAwMToxOWYwOjUwMDE6MjE0NTo1NDAwOjNmZjpmZTgzOmU2M2Zd
 
 
 ## anon-meganerd
@@ -179,20 +151,6 @@ sdns://gRI0NS42My4xMTAuMTg3Ojg0NDM
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
 
 sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
-
-
-## anon-rei
-
-Anonymized DNS relay hosted in Poland and maintained by lucenera.
-
-sdns://gQ44MC4yMTEuMjQzLjE2OQ
-
-
-## anon-rei-ipv6
-
-Anonymized DNS relay hosted in Poland and maintained by lucenera.
-
-sdns://gRVbMmEwMDo2ZDQ3OjEwOmJhOTo6MV0
 
 
 ## anon-resolver4.dns.openinternet.io
