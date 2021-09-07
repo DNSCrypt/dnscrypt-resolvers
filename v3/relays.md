@@ -61,77 +61,14 @@ Anonymized DNS relay hosted in Barcelona, Spain.
 sdns://gRMxODUuMjUzLjE1NC42Njo0MzQz
 
 
-## anon-cs-de2
-
-Anonymized DNS relay hosted in Frankfurt, Germany provided by https://cryptostorm.is/
-
-sdns://gQw4NC4xNi4yNDAuNDM
-
-
-## anon-cs-fr
-
-Anonymized DNS relay hosted in Paris, France provided by https://cryptostorm.is/
-
-sdns://gQ0yMTIuMTI5LjQ2LjMy
-
-
-## anon-cs-md
-
-Anonymized DNS relay hosted in Chisinau, Moldova provided by https://cryptostorm.is/
-
-sdns://gQ8xNzguMTc1LjEzOS4yMTE
-
-
-## anon-cs-se
-
-Anonymized DNS relay hosted in Stockholm, Sweden provided by https://cryptostorm.is/
-
-sdns://gQ8xMjguMTI3LjEwNC4xMDg
-
-
-## anon-cs-usca
-
-Anonymized DNS relay hosted in US - Los Angeles, CA provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS42Ny4xMTY
-
-
-## anon-cs-usga
-
-Anonymized DNS relay hosted in US - Atlanta, GA provided by https://cryptostorm.is/
-
-sdns://gQ02NC40Mi4xODEuMjI3
-
-
-## anon-cs-usnc
-
-Anonymized DNS relay hosted in US - Charlotte, NC provided by https://cryptostorm.is/
-
-sdns://gQ4xNTUuMjU0LjI5LjExMw
-
-
-## anon-cs-usnv
-
-Anonymized DNS relay hosted in US - Las Vegas, NV provided by https://cryptostorm.is/
-
-sdns://gQwzNy4xMjAuMTQ3LjI
-
-
-## anon-cs-ustx
-
-Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.is/
-
-sdns://gQ0yMDkuNTguMTQ3LjM2
-
-
-# anon-curzon-prg
+## anon-curzon-prg
 
 Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory
 
 sdns://gRIxMDkuMjQ4LjQzLjE1NDo0NDM
 
 
-# anon-curzon-vie
+## anon-curzon-vie
 
 Anonymized DNS relay hosted in Vienna, Austria on VPS274 - maintained by @ztheory
 
