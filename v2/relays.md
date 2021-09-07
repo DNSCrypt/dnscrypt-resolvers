@@ -227,20 +227,6 @@ Anonymized DNS relay hosted in Sweden - SE
 sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 
-## anon-suami
-
-Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
-
-sdns://gQ0xOTkuMjQ3LjIuMTY3
-
-
-## anon-suami-ipv6
-
-Anonymized DNS relay hosted in Frankfurt and maintained by lucenera.
-
-sdns://gSdbMjAwMToxOWYwOjZjMDE6NTdiOjU0MDA6M2ZmOmZlODM6ZWEwMV0
-
-
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
