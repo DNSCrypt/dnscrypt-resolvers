@@ -124,6 +124,20 @@ Anonymized DNS relay hosted in US - Dallas, TX provided by https://cryptostorm.i
 sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
+# anon-curzon-prg
+
+Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory
+
+sdns://gRIxMDkuMjQ4LjQzLjE1NDo0NDM
+
+
+# anon-curzon-vie
+
+Anonymized DNS relay hosted in Vienna, Austria on VPS274 - maintained by @ztheory
+
+sdns://gRAxODUuOS4xOS4xMzc6NDQz
+
+
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
