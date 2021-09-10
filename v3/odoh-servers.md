@@ -55,9 +55,15 @@ sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
 ## odoh-koki-ams
 
 Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
-Maintained by @kokial
 
 sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
+## odoh-koki-se
+
+Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
+
+sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## odoh-resolver4.dns.openinternet.io
