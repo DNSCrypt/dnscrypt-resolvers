@@ -1,4 +1,12 @@
-# Oblivious DoH servers and relays list
+# *** THIS LIST IS DEPRECATED ***
+
+It was only used by 2.0.46 beta versions, and has since be split into
+the `odoh-servers` and `odoh-relays` lists.
+
+Please update your configuration to use these two new lists instead,
+as the combined list is going to be removed soon.
+
+~~~
 
 Oblivious DNS-over-HTTPS servers and relays.
 
@@ -18,13 +26,6 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
     cache_file = 'odoh.md'
 
 --
-
-
-## odoh-ams
-
-Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## odoh-cloudflare
@@ -65,6 +66,25 @@ ODoH target server via Cloudflare, no logs.
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
 
 
+## odoh-koki-ams
+
+Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
+Maintained by @kokial
+
+sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
+## odoh-resolver4.dns.openinternet.io
+
+ODoH target server. no logs, no filter, DNSSEC.
+Running on dedicated hardware colocated at Sonic.net in Santa Rosa, CA in the United States.
+
+Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
+in any way). Provided by https://openinternet.io
+
+sdns://BQcAAAAAAAAAHXJlc29sdmVyNC5kbnMub3BlbmludGVybmV0LmlvCi9kbnMtcXVlcnk
+
+
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
@@ -73,32 +93,28 @@ Filter ads, trackers and malware.
 sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
 
-## odohrelay-ams
+## odohrelay-crypto-sx
+
+Oblivious DoH relay running on Fastly Compute@Edge.
+Maintained by Frank Denis.
+
+sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
+
+
+## odohrelay-koki-ams
 
 Oblivious DoH relay in The Netherlands. No logs.
+Maintained by @kokial
 
 sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
 
-## odohrelay-bcn
+## odohrelay-koki-bcn
 
 Oblivious DoH relay in Spain. No logs.
+Maintained by @kokial
 
 sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
-
-
-## odohrelay-crypto-sx
-
-Oblivious DoH relay, just for testing purposes.
-Backend written in Zig, running on Fastly Compute@Edge.
-Maintained by Frank Denis.
-
-Will only relay to:
-- odoh-crypto-sx
-- odoh-cloudflare
-- odoh-id-gmail
-
-sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
 ## odohrelay-surf

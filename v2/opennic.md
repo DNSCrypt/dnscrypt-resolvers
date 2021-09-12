@@ -22,6 +22,42 @@ Running privately by ibksturm in Thurgau, Switzerland
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTg5LjkyOjg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
+## opennic-R4SAS
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
+
+
+## opennic-R4SAS-doh
+
+DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AgcAAAAAAAAADTE1MS44MC4yMjIuNzkgKVTnuGY0K1Ihqu1Pba8r5vOERK-LffNTJu1qlyaQv3gQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
+
+
+## opennic-R4SAS-doh-ipv6
+
+DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AgcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIClU57hmNCtSIartT22vK-bzhESvi33zUybtapcmkL94EG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
+
+
+## opennic-R4SAS-ipv6
+
+DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
+Location: Paris, France
+Maintained by R4SAS - https://github.com/r4sas
+
+sdns://AQcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIKnWMjpPJYAJJhl1FQLOIx4fdtned2yHxruyig7_2w5OIDIuZG5zY3J5cHQtY2VydC5vcGVubmljLmkycGQueHl6
+
+
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs
@@ -49,7 +85,7 @@ sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsV
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
 Maintained by publicarray - https://dns.seby.io
 
-sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiKBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33ziDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5hBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
 
 
 ## publicarray-au2-doh
@@ -57,5 +93,5 @@ sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJi
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
-sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgMob_ZaZfrzIIXuoTiMNzi6fjeHPJBszjxKKLTMKliYigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYRZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLTIuc2VieS5pbzo0NDMKL2Rucy1xdWVyeQ
 
