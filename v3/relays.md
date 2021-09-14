@@ -47,20 +47,6 @@ Anonymized DNS relay hosted in Barcelona, Spain.
 sdns://gRMxODUuMjUzLjE1NC42Njo0MzQz
 
 
-## anon-curzon-prg
-
-Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory
-
-sdns://gRIxMDkuMjQ4LjQzLjE1NDo0NDM
-
-
-## anon-curzon-vie
-
-Anonymized DNS relay hosted in Vienna, Austria on VPS274 - maintained by @ztheory
-
-sdns://gRAxODUuOS4xOS4xMzc6NDQz
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
