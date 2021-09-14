@@ -209,22 +209,6 @@ Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No
 sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
 
 
-## artemis
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
-by lucenera
-
-sdns://AQcAAAAAAAAADTUxLjE1LjE0My4xMjMgB07XRTPq55ymr9vMdsH-pJae3l8xjNsWkGoADdoIqbgbMi5kbnNjcnlwdC1jZXJ0LmFydGVtaXMuY29t
-
-
-## artemis-ipv6
-
-dnscrypt-server. No logging, No filtering, support DNSSEC, located in France.
-by lucenera
-
-sdns://AQcAAAAAAAAAFVsyMDAxOmJjODo2MmM6MjE2OjoxXSAHTtdFM-rnnKav28x2wf6klp7eXzGM2xaQagAN2gipuBsyLmRuc2NyeXB0LWNlcnQuYXJ0ZW1pcy5jb20
-
-
 ## att
 
 AT&T test DoH server.
