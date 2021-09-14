@@ -1384,7 +1384,7 @@ sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF2gHvYkz_9ea9O63fP92_3qVlRn43cpn
 HDNS is a public DNS resolver that supports Handshake domains.
 https://www.hdns.io
 
-sdns://AgcAAAAAAAAADjEwMy4xOTYuMzguMjAwIBGxAuax9j5SiYTWAl8ysTgkH8iLvXUZV01wyYMtU-HoDXF1ZXJ5LmhkbnMuaW8KL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjEwMy4xOTYuMzguMjAwIBGxAuax9j5SiYTWAl8ysTgkH8iLvXUZV01wyYMtU-HoDXF1ZXJ5LmhkbnMuaW8KL2Rucy1xdWVyeQ
 
 
 ## he
