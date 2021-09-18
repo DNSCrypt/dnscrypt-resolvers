@@ -225,6 +225,13 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAADTUxLjE1LjEyNC4yMDigzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zbmwuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
+## ams-doh-nl-ipv6
+
+Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
 ## arapurayil-doh-in
 
 DoH server(ipv4/ipv6). Also supports DNSCrypt,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
@@ -2103,6 +2110,13 @@ sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyB5eVqmG8yEeu7KgiIFlYUJCqBps33UPRtAQ
 Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
+
+
+## sth-doh-se-ipv6
+
+Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAAFVsyYTA5OmNkNDI6Zjo0MjViOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNzZS5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## switch
