@@ -2136,6 +2136,11 @@ Deutsche Telekom experimental DoH server.
 
 sdns://AgUAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgpkbnMudDUzLmRlCi9kbnMtcXVlcnk
 
+## tuna-doh-ipv4
+
+DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
+
+sdns://AgEAAAAAAAAADjEwMS42LjYuNjo4NDQzIK1qpBdrU4bYUR9hndtAuau63aTdf8FzZNthRIP9zKhHDjEwMS42LjYuNjo4NDQzCi9kbnMtcXVlcnk
 
 ## uncensoreddns-dk-ipv4
 
