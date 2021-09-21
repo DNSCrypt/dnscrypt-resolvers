@@ -2140,7 +2140,7 @@ sdns://AgUAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5I
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
 
-sdns://AgEAAAAAAAAADjEwMS42LjYuNjo4NDQzAA4xMDEuNi42LjY6ODQ0MwovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjEwMS42LjYuNjo4NDQzIK1qpBdrU4bYUR9hndtAuau63aTdf8FzZNthRIP9zKhHDjEwMS42LjYuNjo4NDQzCi9kbnMtcXVlcnk
 
 ## uncensoreddns-dk-ipv4
 
