@@ -202,8 +202,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
     # Legacy
 
     if (
-        os.path.basename(md_path) == "odoh.md"
-        or os.path.basename(md_path) == "odoh-relays.md"
+        os.path.basename(md_path) == "odoh-relays.md"
         or os.path.basename(md_path) == "odoh-servers.md"
     ):
         md_legacy_path = md_path

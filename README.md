@@ -24,9 +24,13 @@ Anonymized DNS relays:
 
 # List of ODoH servers and relays
 
-Oblivious DoH servers and relays:
-- https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/odoh.md
-- https://download.dnscrypt.info/dnscrypt-resolvers/v3/odoh.md
+Oblivious DoH servers:
+- https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/odoh-servers.md
+- https://download.dnscrypt.info/dnscrypt-resolvers/v3/odoh-servers.md
+
+Oblivious DoH relays:
+- https://github.com/DNSCrypt/dnscrypt-resolvers/blob/master/v3/odoh-relays.md
+- https://download.dnscrypt.info/dnscrypt-resolvers/v3/odoh-relays.md
 
 # Minisign public key
 
