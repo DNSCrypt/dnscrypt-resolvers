@@ -1537,30 +1537,6 @@ no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hos
 sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOD2RvaC5saWJyZWRucy5ncgQvYWRz
 
 
-## linuxsec-adguard
-
-DoH server with AdGuard Home for ads blocking.
-Operated by LinuxSec.
-
-Non-logging, AD-filtering, supports DNSSEC.
-
-https://doh.linuxsec.org
-
-sdns://AgMAAAAAAAAADDEwMy44NS4xNS42MKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkb2gubGludXhzZWMub3JnCC9hZGd1YXJk
-
-
-## linuxsec-doh
-
-DoH server operated by LinuxSec.
-Server located in the Indonesia.
-
-Non-logging, supports DNSSEC.
-
-https://doh.linuxsec.org
-
-sdns://AgcAAAAAAAAADDEwMy44NS4xNS42MKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkb2gubGludXhzZWMub3JnCi9kbnMtcXVlcnk
-
-
 ## meganerd
 
 DNSCrypt server by MegaNerd.nl (IPv4) - https://meganerd.nl/encrypted-dns-server
