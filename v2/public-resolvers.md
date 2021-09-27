@@ -1772,13 +1772,6 @@ info - https://jlongua.github.io/plan9-dns/
 sdns://AgcAAAAAAAAAHVsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOE2RyYWNvLnBsYW45LW5zMi5jb20KL2Rucy1xdWVyeQ
 
 
-## powerdns-doh
-
-By PowerDNS/Open-Xchange https://powerdns.org
-
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkb2gucG93ZXJkbnMub3JnAS8
-
-
 ## pryv8boi
 
 By pryv8, non Logging, uncensored, DNSSEC - hosted on contabo servers
