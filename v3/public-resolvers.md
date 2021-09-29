@@ -2254,13 +2254,6 @@ Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
 sdns://AgMAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6A1wbC55ZXBkbnMuY29tCi9kbnMtcXVlcnk
 
 
-## yepdns-doh-sg
-
-Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
-
-sdns://AgMAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6A1zZy55ZXBkbnMuY29tCi9kbnMtcXVlcnk
-
-
 ## yepdns-pl
 
 Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
@@ -2273,20 +2266,6 @@ sdns://AQMAAAAAAAAAEzE4NS43MC4xOTYuMTUxOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrY
 Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
 
 sdns://AQMAAAAAAAAALlsyYTA0OjM1NDQ6ODAwMDoxMDAwOjQ4MzE6YzFmZjpmZWI1OjY0YjJdOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
-
-
-## yepdns-sg
-
-Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAAETk0LjIzNy43NS40Mjo4NDQzIJ4tGTviirNxo5Z9dWivK0B3h5IW0Ckx2mCQCa7tmrWSHTIuZG5zY3J5cHQtY2VydC5zZy55ZXBkbnMuY29t
-
-
-## yepdns-sg-ipv6
-
-Ad-filtering | DNSSEC | No-logs | Singapore | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAALlsyYTA0OjM1NDM6MTAwMDoyMzEwOjQ4MzE6YzFmZjpmZWI1OjMwYTRdOjg0NDMgni0ZO-KKs3Gjln11aK8rQHeHkhbQKTHaYJAJru2atZIdMi5kbnNjcnlwdC1jZXJ0LnNnLnllcGRucy5jb20
 
 
 ## zackptg5-us-il-ipv4
