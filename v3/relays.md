@@ -51,21 +51,21 @@ sdns://gRMxODUuMjUzLjE1NC42Njo0MzQz
 
 Anonymized DNS relay hosted in Roost, Luxembourg on BuyVM - maintained by @ztheory. No log.
 
-sdns://gRExMDQuMjQ0LjcyLjYxOjQ0Mw
+sdns://gQ0xMDQuMjQ0LjcyLjYx
 
 
 ## anon-curzon-prg
 
 Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory. No log.
 
-sdns://gRIxMDkuMjQ4LjQzLjE1NDo0NDM
+sdns://gQ4xMDkuMjQ4LjQzLjE1NA
 
 
 ## anon-curzon-vie
 
 Anonymized DNS relay hosted in Vienna, Austria on VPS247 - maintained by @ztheory. No log.
 
-sdns://gRAxODUuOS4xOS4xMzc6NDQz
+sdns://gQwxODUuOS4xOS4xMzc
 
 
 ## anon-dnscrypt.uk-ipv4
