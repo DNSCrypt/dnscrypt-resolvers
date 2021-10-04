@@ -1714,6 +1714,7 @@ Maintained by R4SAS - https://github.com/r4sas
 
 sdns://AQcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIKnWMjpPJYAJJhl1FQLOIx4fdtned2yHxruyig7_2w5OIDIuZG5zY3J5cHQtY2VydC5vcGVubmljLmkycGQueHl6
 
+
 ## opennic-luggs
 
 Public DNS server in Canada operated by Luggs

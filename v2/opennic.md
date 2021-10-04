@@ -37,7 +37,7 @@ DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - http
 Location: Paris, France
 Maintained by R4SAS - https://github.com/r4sas
 
-sdns://AgcAAAAAAAAADTE1MS44MC4yMjIuNzkgKVTnuGY0K1Ihqu1Pba8r5vOERK-LffNTJu1qlyaQv3gQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAADTE1MS44MC4yMjIuNzkgI_Tezy3E7gfCD1gW5aEuZxyjXKJ_LGgj6nrv42n4y7IQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
 
 
 ## opennic-R4SAS-doh-ipv6
@@ -46,7 +46,7 @@ DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - http
 Location: Paris, France
 Maintained by R4SAS - https://github.com/r4sas
 
-sdns://AgcAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdIClU57hmNCtSIartT22vK-bzhESvi33zUybtapcmkL94EG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdICP03s8txO4Hwg9YFuWhLmcco1yifyxoI-p67-Np-MuyEG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
 
 
 ## opennic-R4SAS-ipv6
