@@ -118,6 +118,13 @@ Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https:
 sdns://gQ0xNTEuODAuMjIyLjc5
 
 
+## anon-opennic-R4SAS-ipv6
+
+Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
+
+sdns://gRtbMjAwMTo0NzA6MWYxNTpiODA6OjUzXTo0NDM
+
+
 ## anon-pf
 
 Anonymized DNS relay by post-factum | Zürich, Switzerland | https://dns.post-factum.tk
