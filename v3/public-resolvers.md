@@ -1466,13 +1466,6 @@ https://www.iij.ad.jp/
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
 
-## indonesia-unfilter-doh
-
-Non-logging and non-Filtering DoH forwarder in Indonesia.
-
-sdns://AgYAAAAAAAAACjExNi4wLjIuODagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984PZG9oLnRoaXMud2ViLmlkCi9kbnMtcXVlcnk
-
-
 ## jp.tiar.app
 
 Non-Logging, Non-Filtering DNSCrypt server in Japan.
