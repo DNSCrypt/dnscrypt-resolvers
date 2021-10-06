@@ -2202,22 +2202,6 @@ With ad blocking.
 sdns://AQMAAAAAAAAAEzE0My4yNDQuMzMuOTA6MTUzNTMgufWZBK6y8zr6mDW3z47IASY0jQoaoRFSBaB8i1GHng8fMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
 
-## wevpn-adblock-uk
-
-Private DNSCrypt service by WeVPN in London, UK - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQMAAAAAAAAAFDIxNi4xMTkuMTU1LjQ5OjE1MzUzIF2QDfN8-gL0x3IyXgqgrawgSxKm7A80BgexEH7WghsBHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
-
-
-## wevpn-adblock-useast
-
-Private DNSCrypt service by WeVPN in New Jersey, USA - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQMAAAAAAAAAFDIzLjIyNi4xMzQuMjQzOjE1MzUzIBf1guPReaoN_V7w-UelcO4YnvqoXnDGsxRPIRc6uSjsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
-
-
 ## wevpn-adblock-uswest
 
 Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
