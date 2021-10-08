@@ -259,4 +259,4 @@ for md_path in glob(CURRENT_DIR + "/*.md"):
     process(md_path, signatures_to_update)
 
 if signatures_to_update:
-    subprocess.run(["minisign", "-Sm", *signatures_to_update])
+    subprocess.run(["minisign", "-Slm", *signatures_to_update])
