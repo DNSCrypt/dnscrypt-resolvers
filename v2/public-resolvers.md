@@ -2112,6 +2112,22 @@ DoH, no logs, no filter, DNSSEC, anycast - https://blog.uncensoreddns.org
 sdns://AgcAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
+## userspace-australia
+
+DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace.
+No logs | IPv4 | Filtered
+
+sdns://AQMAAAAAAAAAEDEwMy4xNi4xMzEuNzc6NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
+
+
+## userspace-australia-ipv6
+
+DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace.
+No logs | IPv6 | Filtered
+
+sdns://AQMAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
+
+
 ## v.dnscrypt.uk-doh-ipv4
 
 DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean

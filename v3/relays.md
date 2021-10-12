@@ -122,7 +122,7 @@ sdns://gQ0xNTEuODAuMjIyLjc5
 
 Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
 
-sdns://gRtbMjAwMTo0NzA6MWYxNTpiODA6OjUzXTo0NDM
+sdns://gRdbMjAwMTo0NzA6MWYxNTpiODA6OjUzXQ
 
 
 ## anon-pf
