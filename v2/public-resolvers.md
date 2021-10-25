@@ -902,20 +902,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdn
 sdns://AQMAAAAAAAAAHFsyYTAxOjRmOTpjMDEwOjQzY2U6OjFdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
 
 
-## dnscrypt-jp-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEzEzOS4xNjIuMTEyLjQ3Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-jp-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
 ## dnscrypt-sg-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
@@ -1220,15 +1206,6 @@ sdns://AgMAAAAAAAAADjk1LjIxNi4yMTIuMTc3ABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVye
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
 
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-ibksturm
-
-DoH Server, No Logging, No Filters, DNSSEC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
 
 ## doh-jp-blahdns
@@ -2066,13 +2043,6 @@ Provides protection against malware, but does not block ads.
 sdns://AgMAAAAAAAAAACA7FAZ73R-Sz_NJdsl8yiP0L0H3yntGnmJAVtqSpC3Nmg1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
 
 
-## t53
-
-Deutsche Telekom experimental DoH server.
-
-sdns://AgUAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgpkbnMudDUzLmRlCi9kbnMtcXVlcnk
-
-
 ## tuna-doh-ipv4
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
@@ -2158,14 +2128,6 @@ DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
 https://www.dnscrypt.uk
 
 sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
-
-
-## wevpn-adblock-singapore
-
-Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQMAAAAAAAAAEzE0My4yNDQuMzMuOTA6MTUzNTMgufWZBK6y8zr6mDW3z47IASY0jQoaoRFSBaB8i1GHng8fMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
 
 ## wevpn-adblock-uswest
