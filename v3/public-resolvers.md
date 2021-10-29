@@ -76,7 +76,7 @@ sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCCsFdIhxY-VWoedpSrEKWAhaBEVj-8L-p_FJl6wM
 
 Adguard DNS with safesearch and adult content blocking
 
-Warning: This server is incompatible with anonymization.
+Warning: This server is incompatible with anonymizat
 
 sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNTo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
 
@@ -2196,14 +2196,6 @@ Private DNSCrypt service by WeVPN in London, UK - https://wevpn.com/dns
 With ad, malware, phishing, cryptojacking blocking (DNS Firewall).
 
 sdns://AQcAAAAAAAAAFDIxNi4xMTkuMTU1LjQ5OjE1MzUzIF2QDfN8-gL0x3IyXgqgrawgSxKm7A80BgexEH7WghsBHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
-
-
-## wevpn-adblock-singapore
-
-Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
-With ad, malware, phishing, cryptojacking blocking (DNS Firewall).
-
-sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuOTA6MTUzNTMgufWZBK6y8zr6mDW3z47IASY0jQoaoRFSBaB8i1GHng8fMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
 
 ## wevpn-singapore
