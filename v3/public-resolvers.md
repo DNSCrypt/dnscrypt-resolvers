@@ -2177,9 +2177,33 @@ sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9j
 ## wevpn-adblock-uswest
 
 Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
-With ad blocking.
+With ad, malware, phishing, cryptojacking blocking (DNS Firewall).
 
-sdns://AQMAAAAAAAAAEjcyLjExLjEzNC45MToxNTM1MyBV2R9ORyXQIRO7dlT0F2mYeEdvXEuBOWMdFkripZcN9B8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
+sdns://AQcAAAAAAAAAEjcyLjExLjEzNC45MToxNTM1MyBV2R9ORyXQIRO7dlT0F2mYeEdvXEuBOWMdFkripZcN9B8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
+
+
+## wevpn-adblock-useast
+
+Private DNSCrypt service by WeVPN in New Jersey, USA - https://wevpn.com/dns
+With ad, malware, phishing, cryptojacking blocking (DNS Firewall).
+
+sdns://AQcAAAAAAAAAFDIzLjIyNi4xMzQuMjQzOjE1MzUzIBf1guPReaoN_V7w-UelcO4YnvqoXnDGsxRPIRc6uSjsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
+
+
+## wevpn-adblock-uk
+
+Private DNSCrypt service by WeVPN in London, UK - https://wevpn.com/dns
+With ad, malware, phishing, cryptojacking blocking (DNS Firewall).
+
+sdns://AQcAAAAAAAAAFDIxNi4xMTkuMTU1LjQ5OjE1MzUzIF2QDfN8-gL0x3IyXgqgrawgSxKm7A80BgexEH7WghsBHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
+
+
+## wevpn-adblock-singapore
+
+Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
+With ad, malware, phishing, cryptojacking blocking (DNS Firewall).
+
+sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuOTA6MTUzNTMgufWZBK6y8zr6mDW3z47IASY0jQoaoRFSBaB8i1GHng8fMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
 
 ## wevpn-singapore
