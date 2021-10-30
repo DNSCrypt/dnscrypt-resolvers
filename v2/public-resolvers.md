@@ -1795,6 +1795,13 @@ Quad9 (anycast) no-dnssec/no-log/no-filter/ecs 9.9.9.12 - 149.112.112.12
 sdns://AQYAAAAAAAAADTkuOS45LjEyOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
 
 
+## quad9-dnscrypt-ip4-nofilter-pri
+
+Quad9 (anycast) no-dnssec/no-log/no-filter 149.112.112.10
+
+sdns://AQYAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
+
+
 ## quad9-doh-ip4-port443-filter-ecs-pri
 
 Quad9 (anycast) dnssec/no-log/filter/ecs 9.9.9.11 - 149.112.112.11
