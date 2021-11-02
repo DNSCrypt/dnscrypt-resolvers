@@ -30,14 +30,14 @@ sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 Anonymized DNS relay hosted in Netherlands - NL
 
-sdns://gRE1MS4xNS4xMjQuMjA4OjQ0Mw
+sdns://gQ01MS4xNS4xMjQuMjA4
 
 
 ## anon-ams-nl-ipv6
 
 Anonymized DNS relay hosted in Netherlands - NL
 
-sdns://gRtbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXTo0NDM
+sdns://gRdbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXQ
 
 
 ## anon-bcn
@@ -223,7 +223,7 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 
 Anonymized DNS relay hosted in Sweden - SE
 
-sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
+sdns://gQ00NS4xNTMuMTg3Ljk2
 
 
 ## anon-tiarap
