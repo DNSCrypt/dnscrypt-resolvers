@@ -668,13 +668,6 @@ Warsaw, Poland DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTM3LjEyMC4yMTEuOTEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-pt
-
-Portugal DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADTEwOS43MS40Mi4yMjggMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-rome
 
 Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
