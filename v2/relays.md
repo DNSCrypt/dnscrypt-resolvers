@@ -398,6 +398,13 @@ Belgrade, Serbia Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4zNy4xMjAuMTkzLjIxOQ
 
 
+## anon-cs-sk
+
+South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gQ8xNzIuMTA3LjE1NC4yMTE
+
+
 ## anon-cs-slovakia
 
 Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm.is/
