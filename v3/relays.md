@@ -411,6 +411,13 @@ Sweden Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ8xMjguMTI3LjEwNC4xMDg
 
 
+## anon-cs-sk
+
+South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gQ8xNzIuMTA3LjE1NC4yMTE
+
+
 ## anon-cs-sydney
 
 Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is/
