@@ -2521,6 +2521,17 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
+## sg-dn53
+
+non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAEDIwLjIxMi41Mi43Njo0NDMgiMrMuuJlXLaaKx6Sk8ob-cASVOOS5uomNjbkhlInwiUYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
+
+## sg-dn53-ipv6
+
+non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAI1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl06NDQzIIjKzLriZVy2misekpPKG_nAElTjkubqJjY25IZSJ8IlGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
 ## sicher-surfen-de
 
