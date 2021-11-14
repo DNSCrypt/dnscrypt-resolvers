@@ -2667,27 +2667,6 @@ Yandex public DNS server (anycast)
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
 
-## yepdns-doh-pl
-
-Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
-
-sdns://AgMAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6A1wbC55ZXBkbnMuY29tCi9kbnMtcXVlcnk
-
-
-## yepdns-pl
-
-Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAAEzE4NS43MC4xOTYuMTUxOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
-
-
-## yepdns-pl-ipv6
-
-Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAALlsyYTA0OjM1NDQ6ODAwMDoxMDAwOjQ4MzE6YzFmZjpmZWI1OjY0YjJdOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
-
-
 ## zackptg5-us-il-ipv4
 
 DNSSEC/unfiltered/non-logged. Hosted on Vultr in Chicago, IL. Running the official Docker image by @zackptg5
