@@ -275,7 +275,7 @@ DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC re
 
 Hosted in Stockholm, Sweden. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAADDEzLjQ5LjE3NS44NqDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDEzLjUzLjE4Ni41MqDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
 
 
 ## brahma-world-ipv6
@@ -2478,6 +2478,20 @@ Hosted in Paris, running on a 1-XS server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
+
+
+## sg-dn53
+
+non-censoring, non-logging, DNSSEC-capable based on docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAEDIwLjIxMi41Mi43Njo0NDMgiMrMuuJlXLaaKx6Sk8ob-cASVOOS5uomNjbkhlInwiUYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
+
+
+## sg-dn53-ipv6
+
+non-censoring, non-logging, DNSSEC-capable based on docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAI1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl06NDQzIIjKzLriZVy2misekpPKG_nAElTjkubqJjY25IZSJ8IlGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
 
 ## sicher-surfen-de
