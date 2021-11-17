@@ -285,7 +285,7 @@ DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC re
 
 Hosted in Stockholm, Sweden. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAADDEzLjQ5LjE3NS44NqDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDEzLjUzLjE4Ni41MqDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
 
 
 ## brahma-world-ipv6
@@ -2533,6 +2533,20 @@ non-censoring, non-logging, DNSSEC-capable based on official docker image hosted
 
 sdns://AQcAAAAAAAAAI1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl06NDQzIOPHKygIuP-SqrV22hgKkH395ne8yKELSEAnHvDJzlpEGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
+## sg-dn53
+
+non-censoring, non-logging, DNSSEC-capable based on docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAEDIwLjIxMi41Mi43Njo0NDMgiMrMuuJlXLaaKx6Sk8ob-cASVOOS5uomNjbkhlInwiUYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
+
+
+## sg-dn53-ipv6
+
+non-censoring, non-logging, DNSSEC-capable based on docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAI1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl06NDQzIIjKzLriZVy2misekpPKG_nAElTjkubqJjY25IZSJ8IlGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
+
+
 ## sicher-surfen-de
 
 Resolver in Frankfurt, Germany and New York, United States. Anycast. More locations following. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
@@ -2706,27 +2720,6 @@ sdns://AQcAAAAAAAAAEjcyLjExLjEzNC45MDoxNTM1MyAKLsInrJLgKMxBqSL1VvH74T3wwp1bn5wkv
 Yandex public DNS server (anycast)
 
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
-
-
-## yepdns-doh-pl
-
-Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
-
-sdns://AgMAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6A1wbC55ZXBkbnMuY29tCi9kbnMtcXVlcnk
-
-
-## yepdns-pl
-
-Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAAEzE4NS43MC4xOTYuMTUxOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
-
-
-## yepdns-pl-ipv6
-
-Ad-filtering | DNSSEC | No-logs | Poland | https://get.yepdns.com/
-
-sdns://AQMAAAAAAAAALlsyYTA0OjM1NDQ6ODAwMDoxMDAwOjQ4MzE6YzFmZjpmZWI1OjY0YjJdOjg0NDMgt4HfZvdGnK283pkPHVDnhZ51N7uWIvOrYMP1ddbUDawdMi5kbnNjcnlwdC1jZXJ0LnBsLnllcGRucy5jb20
 
 
 ## zackptg5-us-il-ipv4
