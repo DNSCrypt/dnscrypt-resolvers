@@ -2494,6 +2494,20 @@ non-censoring, non-logging, DNSSEC-capable based on docker image hosted in Singa
 sdns://AQcAAAAAAAAAI1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl06NDQzIIjKzLriZVy2misekpPKG_nAElTjkubqJjY25IZSJ8IlGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
 
+## sgp-dn53
+
+non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAEDIwLjIxMi41Mi43Njo0NDMg48crKAi4_5KqtXbaGAqQff3md7zIoQtIQCce8MnOWkQYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
+
+
+## sgp-dn53-ipv6
+
+non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
+
+sdns://AQcAAAAAAAAAI1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl06NDQzIOPHKygIuP-SqrV22hgKkH395ne8yKELSEAnHvDJzlpEGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
+
+
 ## sicher-surfen-de
 
 Resolver in Frankfurt, Germany and New York, United States. Anycast. More locations following. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
