@@ -1777,6 +1777,17 @@ DNS with adblock filters and antiphishing, gaining popularity among russian-spea
 
 sdns://AQMAAAAAAAAAEjkxLjIzMC4yMTEuNjc6NTQ0MyAVacgDhm0kq-ciz2DrJlPhYjI9v6tAQHbulojEz86TEyIyLmRuc2NyeXB0LWNlcnQuZG5zLmVhc3QuY29tc3Mub25l
 
+## e-utp.net-ipv6-doh
+
+e-utp.net DNS Cache service, https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
+
+sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10AEmRuc2NhY2hlLmUtdXRwLm5ldAovZG5zLXF1ZXJ5
+
+## e-utp.net-ipv6-dot
+
+e-utp.net DNS Cache service, https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
+
+sdns://AwcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10AEmRuc2NhY2hlLmUtdXRwLm5ldA
 
 ## faelix-ch-ipv4
 
