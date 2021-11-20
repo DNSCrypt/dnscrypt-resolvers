@@ -969,7 +969,7 @@ sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTM
 
 ## dct-de1
 
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Nuremberg , Germany.
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Nuremberg, Germany.
 
 sdns://AQcAAAAAAAAADzE1OS42OS44Mi41OjQ0MyBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynrBcyLmRuc2NyeXB0LWNlcnQuZGN0LWRlMQ
 
