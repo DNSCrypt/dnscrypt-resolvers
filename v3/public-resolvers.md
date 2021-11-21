@@ -1783,12 +1783,6 @@ e-utp.net DNS Cache service, https://fido.e-utp.net/display/EUTPNET/Recursive+DN
 
 sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0Ci9kbnMtcXVlcnk
 
-## e-utp.net-ipv6-dot
-
-e-utp.net DNS Cache service, https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
-
-sdns://AwcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0
-
 ## faelix-ch-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
