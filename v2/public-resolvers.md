@@ -1756,6 +1756,14 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
 
+## e-utp.net-ipv6-doh
+
+e-utp.net DNS Cache service, only accessible over IPv6
+https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
+
+sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0Ci9kbnMtcXVlcnk
+
+
 ## east.comss.one
 
 DNS with adblock filters and antiphishing, gaining popularity among russian-speaking users.
