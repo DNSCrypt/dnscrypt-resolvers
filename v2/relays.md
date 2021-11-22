@@ -461,13 +461,6 @@ Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gQw3MS4xOS4yNTEuMzQ
 
 
-## anon-curzon-lux
-
-Anonymized DNS relay hosted in Roost, Luxembourg on BuyVM - maintained by @ztheory. No log.
-
-sdns://gQ0xMDQuMjQ0LjcyLjYx
-
-
 ## anon-curzon-prg
 
 Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory. No log.
