@@ -232,14 +232,6 @@ Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
-## arapurayil-doh-in
-
-DoH server(ipv4/ipv6). Also supports DNSCrypt,DoT,DoQ protocols. Located in Mumbai, India.  Visit https://www.dns.arapurayil.com for details.
-Non-logging | Filtering | DNSSEC | anti-CNAME cloaking | QNAME Minimization | No EDNS Client-Subnet
-
-sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnMuYXJhcHVyYXlpbC5jb20KL2Rucy1xdWVyeQ
-
-
 ## att
 
 AT&T test DoH server.
