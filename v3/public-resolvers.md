@@ -2679,14 +2679,6 @@ https://www.dnscrypt.uk
 sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
 
 
-## wevpn-adblock-uswest
-
-Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQMAAAAAAAAAEjcyLjExLjEzNC45MToxNTM1MyBV2R9ORyXQIRO7dlT0F2mYeEdvXEuBOWMdFkripZcN9B8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
-
-
 ## wevpn-singapore
 
 Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
