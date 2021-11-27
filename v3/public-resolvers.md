@@ -973,6 +973,12 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, 
 
 sdns://AQcAAAAAAAAADDk0LjI0Mi41OS4zNSBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynrBcyLmRuc2NyeXB0LWNlcnQuZGN0LXJ1MQ
 
+## dct-ru2
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
+
+sdns://AQcAAAAAAAAAEjE4NS4yMi4xNTQuMTk6ODQ0MyAfc_veSUgaoWE7_FCEKlLOuWJtg2DV8wX-XDfpB_D7fRcyLmRuc2NyeXB0LWNlcnQuZGN0LXJ1Mg
+
 
 ## decloudus-nogoogle-tst
 
