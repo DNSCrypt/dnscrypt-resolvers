@@ -629,7 +629,7 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 
 Anonymized DNS relay hosted in Sweden - SE
 
-sdns://gQ00NS4xNTMuMTg3Ljk2
+sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
 
 
 ## anon-tiarap
