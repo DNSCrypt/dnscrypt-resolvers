@@ -44,7 +44,7 @@ sdns://gRdbMjAwMTpiYzg6MTgzMDoyMDE4OjoxXQ
 
 Anonymized DNS relay hosted in Barcelona, Spain.
 
-sdns://gRMxODUuMjUzLjE1NC42Njo0MzQz
+sdns://gRIxODUuMjUzLjE1NC42Njo0NDM
 
 
 ## anon-cs-austria
