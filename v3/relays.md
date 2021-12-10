@@ -187,13 +187,6 @@ France Anonymized DNS relay server, running on our free server, provided by http
 sdns://gQ0xOTUuMTU0LjQwLjQ4
 
 
-## anon-cs-ga
-
-US - Atlanta, GA Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ02NC40Mi4xODEuMjI3
-
-
 ## anon-cs-hungary
 
 Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is/
