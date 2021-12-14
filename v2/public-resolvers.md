@@ -2149,15 +2149,6 @@ Maintained by R4SAS - https://github.com/r4sas
 sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
 
 
-## opennic-R4SAS-doh
-
-DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
-Location: Paris, France
-Maintained by R4SAS - https://github.com/r4sas
-
-sdns://AgYAAAAAAAAADTE1MS44MC4yMjIuNzkgI_Tezy3E7gfCD1gW5aEuZxyjXKJ_LGgj6nrv42n4y7IQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
-
-
 ## opennic-R4SAS-doh-ipv6
 
 DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
@@ -2525,13 +2516,6 @@ sdns://AQcAAAAAAAAADDIwLjIxMi41Mi43NiDjxysoCLj_kqq1dtoYCpB9_eZ3vMihC0hAJx7wyc5aR
 non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
 
 sdns://AQcAAAAAAAAAH1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl0g48crKAi4_5KqtXbaGAqQff3md7zIoQtIQCce8MnOWkQYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
-
-
-## sicher-surfen-de
-
-Resolver in Frankfurt, Germany and New York, United States. Anycast. More locations following. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAADDE4NS4yMzUuNjAuMSAD7RSb0_0LnriPpLy7SKP8NUhN8WlKa-TsogB88Wvc1ysyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuc2ljaGVyLXN1cmZlbi50ZWNo
 
 
 ## sth-dnscrypt-se
