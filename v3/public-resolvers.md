@@ -2167,15 +2167,6 @@ Maintained by R4SAS - https://github.com/r4sas
 sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
 
 
-## opennic-R4SAS-doh
-
-DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
-Location: Paris, France
-Maintained by R4SAS - https://github.com/r4sas
-
-sdns://AgYAAAAAAAAADTE1MS44MC4yMjIuNzkgI_Tezy3E7gfCD1gW5aEuZxyjXKJ_LGgj6nrv42n4y7IQb3Blbm5pYy5pMnBkLnh5egovZG5zLXF1ZXJ5
-
-
 ## opennic-R4SAS-doh-ipv6
 
 DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
