@@ -2560,13 +2560,6 @@ non-censoring, non-logging, DNSSEC-capable based on official docker image hosted
 sdns://AQcAAAAAAAAAH1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl0g48crKAi4_5KqtXbaGAqQff3md7zIoQtIQCce8MnOWkQYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
 
 
-## sicher-surfen-de
-
-Resolver in Frankfurt, Germany and New York, United States. Anycast. More locations following. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAADDE4NS4yMzUuNjAuMSAD7RSb0_0LnriPpLy7SKP8NUhN8WlKa-TsogB88Wvc1ysyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuc2ljaGVyLXN1cmZlbi50ZWNo
-
-
 ## sth-dnscrypt-se
 
 Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
