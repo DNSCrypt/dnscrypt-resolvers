@@ -962,9 +962,9 @@ sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTM
 
 ## dct-de1
 
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Nuremberg, Germany.
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Falkenstein, Germany.
 
-sdns://AQcAAAAAAAAACzE1OS42OS44Mi41IE4PHtUMeat3DKmfDJMZhuvOdHxR13BMHXf-4AHFnKesFzIuZG5zY3J5cHQtY2VydC5kY3QtZGUx
+sdns://AQcAAAAAAAAAETY1LjEwOC4xNjEuODY6NDQzIE4PHtUMeat3DKmfDJMZhuvOdHxR13BMHXf-4AHFnKesFzIuZG5zY3J5cHQtY2VydC5kY3QtZGUx
 
 
 ## dct-ru1
