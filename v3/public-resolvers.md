@@ -960,13 +960,6 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
-## dct-de1
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Nuremberg, Germany.
-
-sdns://AQcAAAAAAAAACzE1OS42OS44Mi41IE4PHtUMeat3DKmfDJMZhuvOdHxR13BMHXf-4AHFnKesFzIuZG5zY3J5cHQtY2VydC5kY3QtZGUx
-
-
 ## dct-ru1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
