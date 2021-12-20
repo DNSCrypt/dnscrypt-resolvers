@@ -515,15 +515,6 @@ https://www.comss.ru/page.php?id=7315
 sdns://AQMAAAAAAAAADTk0LjE3Ni4yMzMuOTMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_OkxMdMi5kbnNjcnlwdC1jZXJ0LmRucy5jb21zcy5vbmU
 
 
-## controld-unfiltered
-
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
-
-This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking, or Social Network domains, use the other ControlD DNS configs.
-
-sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
-
-
 ## controld-block-malware
 
 ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
@@ -540,6 +531,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS blocks Malware, Ads & Tracking domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMQ
+
 
 ## controld-block-malware-ad-social
 
@@ -566,6 +558,15 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS unblocks censored domains from various countries.
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
+
+
+## controld-unfiltered
+
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+
+This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking, or Social Network domains, use the other ControlD DNS configs.
+
+sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
 
 
 ## cs-austria
