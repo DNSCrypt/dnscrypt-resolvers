@@ -188,6 +188,22 @@ Server statistics can be seen at: https://statistics.ahadns.com/?server=ny
 sdns://AgMAAAAAAAAAE1syYTBkOjU2MDA6MzM6Mzo6M12gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLm55LmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
 
 
+## ahadns-doh-chi
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Chicago, USA. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=chi
+
+sdns://AgMAAAAAAAAADTE5My4yOS42Mi4xOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG9oLmNoaS5haGFkbnMubmV0Ci9kbnMtcXVlcnk
+
+
+## ahadns-doh-chi-ipv6
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Chicago, USA. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/?server=chi
+
+sdns://AgMAAAAAAAAAFFsyNjA1OjQ4NDA6MzpjNDo6YzRdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEmRvaC5jaGkuYWhhZG5zLm5ldAovZG5zLXF1ZXJ5
+
+
 ## ahadns-doh-pl
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Poland. By https://ahadns.com/
@@ -533,43 +549,43 @@ sdns://AQMAAAAAAAAADTk0LjE3Ni4yMzMuOTMgFWnIA4ZtJKvnIs9g6yZT4WIyPb-rQEB27paIxM_Ok
 
 ## controld-block-malware
 
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
 
-This DNS blocks Malware Domains.
-
-sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
-
-
-## controld-block-malware-ad
-
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
-
-This DNS blocks Malware, Ads & Tracking domains.
+This DNS blocks Malware domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMQ
 
 
-## controld-block-malware-ad-social
+## controld-block-malware-ad
 
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
 
-This DNS blocks Malware, Ads & Tracking and Social Networks domains.
+This DNS blocks Malware, Ads & Tracking domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMg
 
 
+## controld-block-malware-ad-social
+
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
+
+This DNS blocks Malware, Ads & Tracking and Social Networks domains.
+
+sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMw
+
+
 ## controld-family-friendly
 
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
 
-This DNS blocks Malware, Ads & Tracking, and Adult Content, Drugs domain.
+This DNS blocks Malware, Ads & Tracking, Adult Content and Drugs domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tBy9mYW1pbHk
 
 
 ## controld-uncensored
 
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
 
 This DNS unblocks censored domains from various countries.
 
@@ -578,9 +594,9 @@ sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
 
 ## controld-unfiltered
 
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
 
-This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking, or Social Network domains, use the other ControlD DNS configs.
+This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking or Social Network domains, use the other ControlD DNS configs.
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
 
