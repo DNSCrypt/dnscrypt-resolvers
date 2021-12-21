@@ -553,7 +553,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 
 This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking, or Social Network domains, use the other ControlD DNS configs.
 
-sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
+sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
 
 
 ## controld-block-malware
