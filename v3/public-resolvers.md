@@ -583,15 +583,6 @@ This DNS blocks Malware, Ads & Tracking, and Adult Content, Drugs domain.
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tBy9mYW1pbHk
 
 
-## controld-unfiltered
-
-ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
-
-This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking, or Social Network domains, use the other ControlD DNS configs.
-
-sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
-
-
 ## controld-uncensored
 
 ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
@@ -599,6 +590,15 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS unblocks censored domains from various countries.
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
+
+
+## controld-unfiltered
+
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. - https://controld.com/free-dns
+
+This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking, or Social Network domains, use the other ControlD DNS configs.
+
+sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
 
 
 ## cs-austria
