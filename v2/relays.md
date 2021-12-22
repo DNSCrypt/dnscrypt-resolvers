@@ -447,13 +447,6 @@ US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gQs0NS4zNS43Mi40Mw
 
 
-## anon-cs-vancouver
-
-Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQw3MS4xOS4yNTEuMzQ
-
-
 ## anon-curzon-prg
 
 Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory. No log.
