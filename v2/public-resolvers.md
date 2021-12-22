@@ -1213,20 +1213,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyCFE6lrxOCDS5UNY7UC6NPi1U0ElmsmApM06QcduiP8KxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 
-## dnscrypt-fi-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEzk1LjIxNi4yMTIuMTc3Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-fi-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAHFsyYTAxOjRmOTpjMDEwOjQzY2U6OjFdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
 ## dnscrypt-sg-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
