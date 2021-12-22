@@ -460,13 +460,6 @@ Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained
 sdns://gQ4xMDkuMjQ4LjQzLjE1NA
 
 
-## anon-curzon-vie
-
-Anonymized DNS relay hosted in Vienna, Austria on VPS247 - maintained by @ztheory. No log.
-
-sdns://gQwxODUuOS4xOS4xMzc
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on DigitalOcean
