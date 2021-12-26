@@ -60,7 +60,7 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNDo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuU
 
 Remove ads and protect your computer from malware (over DoH)
 
-sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCCsFdIhxY-VWoedpSrEKWAhaBEVj-8L-p_FJl6wMpPufg9kbnMuYWRndWFyZC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ9kbnMuYWRndWFyZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## adguard-dns-family
@@ -282,7 +282,7 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 Resolver in Barcelona, Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAEjE4NS4yNTMuMTU0LjY2OjQ0MyDgFv4inX3HfWsvXsEfLcUEsE_iz9m3KMRh7-MMU8hrTRwyLmRuc2NyeXB0LWNlcnQuYmNuLWRuc2NyeXB0
+sdns://AQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2IOAW_iKdfcd9ay9ewR8txQSwT-LP2bcoxGHv4wxTyGtNHDIuZG5zY3J5cHQtY2VydC5iY24tZG5zY3J5cHQ
 
 
 ## bcn-doh
@@ -1243,56 +1243,56 @@ sdns://AQcAAAAAAAAADzE5My4xOTEuMTg3LjEwNyAzWmXOT_I8k2BKJzxIJ_iYoXRQRWcR0Q1FFyrJW
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AQcAAAAAAAAAEzE2Ny4xMTQuMjIwLjEyNTo0NDMgGlOjyVB4nL3RCxkzpGibbIRqQPG3PRdSrsrJgp7LfOIdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTE
+sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCnst84h0yLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMQ
 
 
 ## dnscrypt.ca-1-doh
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAEzE2Ny4xMTQuMjIwLjEyNTo0NTMgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984UZG5zMS5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAEzE2Ny4xMTQuMjIwLjEyNTo0NTOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984UZG5zMS5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
 
 
 ## dnscrypt.ca-1-doh-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV06NDUzIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWRuczEuaXB2Ni5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV06NDUzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWRuczEuaXB2Ni5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
 
 
 ## dnscrypt.ca-1-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AQcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV06NDQzICDZGdTsPFAIzccKUeorT8v-ipk8ZDHQ7GgdXqc4RauAIjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0xLWlwdjY
+sdns://AQcAAAAAAAAAJVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV0gINkZ1Ow8UAjNxwpR6itPy_6KmTxkMdDsaB1epzhFq4AiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTEtaXB2Ng
 
 
 ## dnscrypt.ca-2
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AQcAAAAAAAAAETE0OS41Ni4yMjguNDU6NDQzIAEIVKs7Vqfu-dORWP72ggv_k6I1fIkWCNueFdO74BGFHTIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0y
+sdns://AQcAAAAAAAAADTE0OS41Ni4yMjguNDUgAQhUqztWp-7505FY_vaCC_-TojV8iRYI254V07vgEYUdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTI
 
 
 ## dnscrypt.ca-2-doh
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAETE0OS41Ni4yMjguNDU6NDUzIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOFGRuczIuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAETE0OS41Ni4yMjguNDU6NDUzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOFGRuczIuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
 
 
 ## dnscrypt.ca-2-doh-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY5MF06NDUzIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWRuczIuaXB2Ni5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY5MF06NDUzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWRuczIuaXB2Ni5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
 
 
 ## dnscrypt.ca-2-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AQcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY5MF06NDQzIJh8cKiX29oVGjStS1XqgA71YcwEqtXFfdLD2GH8F_QpIjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0yLWlwdjY
+sdns://AQcAAAAAAAAAJVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY5MF0gmHxwqJfb2hUaNK1LVeqADvVhzASq1cV90sPYYfwX9CkiMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTItaXB2Ng
 
 
 ## dnscrypt.eu-nl
@@ -2252,7 +2252,7 @@ DOH • DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - http
 Location: Paris, France
 Maintained by R4SAS - https://github.com/r4sas
 
-sdns://AgYAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdICP03s8txO4Hwg9YFuWhLmcco1yifyxoI-p67-Np-MuyEG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAF1syMDAxOjQ3MDoxZjE1OmI4MDo6NTNdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEG9wZW5uaWMuaTJwZC54eXoKL2Rucy1xdWVyeQ
 
 
 ## opennic-R4SAS-ipv6
@@ -2675,7 +2675,7 @@ sdns://AgMAAAAAAAAAACA7FAZ73R-Sz_NJdsl8yiP0L0H3yntGnmJAVtqSpC3Nmg1kbnMuc3dpdGNoL
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
 
-sdns://AgEAAAAAAAAACTEwMS42LjYuNiCtaqQXa1OG2FEfYZ3bQLmrut2k3X_Bc2TbYUSD_cyoRw4xMDEuNi42LjY6ODQ0MwovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAACTEwMS42LjYuNiBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA4xMDEuNi42LjY6ODQ0MwovZG5zLXF1ZXJ5
 
 
 ## uncensoreddns-dk-ipv4
