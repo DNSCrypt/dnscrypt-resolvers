@@ -201,13 +201,6 @@ US - Chicago, IL 2 Anonymized DNS relay server provided by https://cryptostorm.i
 sdns://gQ4xNzIuMTA3LjE5OS4xOQ
 
 
-## anon-cs-india
-
-India Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8xNjUuMjMxLjI1My4xNjM
-
-
 ## anon-cs-ireland
 
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
