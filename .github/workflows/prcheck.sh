@@ -74,7 +74,7 @@ if [ ! -s "$NEW_ENTRIES" ]; then
     exit 0
 fi
 
-curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.45/dnscrypt-proxy-linux_x86_64-2.0.45.tar.gz | tar xzvf -
+curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.1/dnscrypt-proxy-linux_x86_64-2.1.1.tar.gz | tar xzvf -
 cd linux-x86_64 || exit 1
 
 exit_code=0
