@@ -1071,7 +1071,7 @@ sdns://AQcAAAAAAAAADDk0LjI0Mi41OS4zNSBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
 
-sdns://AQcAAAAAAAAAEjE4NS4yMi4xNTQuMTk6ODQ0MyAfc_veSUgaoWE7_FCEKlLOuWJtg2DV8wX-XDfpB_D7fRcyLmRuc2NyeXB0LWNlcnQuZGN0LXJ1Mg
+sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgH3P73klIGqFhO_xQhCpSzrlibYNg1fMF_lw36Qfw-30XMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTI
 
 
 ## decloudus-nogoogle-tst
