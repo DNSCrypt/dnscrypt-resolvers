@@ -13,16 +13,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
-## a-and-a
-
-Non-logging DoH server in the UK operated by Andrews & Arnold Ltd, a
-company providing Internet connectivity and VoIP in the UK.
-
-https://www.aa.net.uk/legal/dohdot-disclaimer/
-
-sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG5zLmFhLm5ldC51awovZG5zLXF1ZXJ5
-
-
 ## acsacsar-ams-ipv4
 
 Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver hosted on Scaleway by @acsacsar (twitter)
