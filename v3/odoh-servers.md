@@ -59,6 +59,13 @@ Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
 sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
+## odoh-koki-es
+
+Oblivious DoH target server in Spain. No logs, No filter, DNSSEC.
+
+sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LWVzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
 ## odoh-koki-se
 
 Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
