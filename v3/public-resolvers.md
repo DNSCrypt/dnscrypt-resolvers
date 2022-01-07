@@ -1049,11 +1049,13 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 
 sdns://AQcAAAAAAAAADDgzLjEzOC41NS4zNiBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynrBcyLmRuc2NyeXB0LWNlcnQuZGN0LWRlMQ
 
+
 ## dct-de1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Düsseldorf, Germany.
 
 sdns://AQcAAAAAAAAAFDEwMy4xNTguMjIzLjE2Mjo4NDQzIB9z-95JSBqhYTv8UIQqUs65Ym2DYNXzBf5cN-kH8Pt9FzIuZG5zY3J5cHQtY2VydC5kY3QtZGUx
+
 
 ## dct-ru1
 
