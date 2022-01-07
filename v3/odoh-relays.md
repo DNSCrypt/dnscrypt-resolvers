@@ -44,6 +44,14 @@ Maintained by @kokial
 sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
 
 
+## odohrelay-koki-se
+
+Oblivious DoH relay in Sweden. No logs.
+Maintained by @kokial
+
+sdns://hQcAAAAAAAAADTQ1LjE1My4xODcuOTYAGG9kb2gtc2UuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
+
+
 ## odohrelay-surf
 
 SURFdomeinen oblivious DoH relay.
