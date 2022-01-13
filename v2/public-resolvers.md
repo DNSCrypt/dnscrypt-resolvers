@@ -1048,7 +1048,7 @@ sdns://AQcAAAAAAAAAFDEwMy4xNTguMjIzLjE2Mjo4NDQzIB9z-95JSBqhYTv8UIQqUs65Ym2DYNXzB
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Saint Petersburg, Russia.
 
-sdns://AQcAAAAAAAAADDk0LjI0Mi41OS4zNSBODx7VDHmrdwypnwyTGYbrznR8UddwTB13_uABxZynrBcyLmRuc2NyeXB0LWNlcnQuZGN0LXJ1MQ
+sdns://AQcAAAAAAAAADTk0LjI0Mi41OC4xMzYgH3P73klIGqFhO_xQhCpSzrlibYNg1fMF_lw36Qfw-30XMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTE
 
 
 ## dct-ru2
