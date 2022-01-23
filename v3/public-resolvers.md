@@ -1148,6 +1148,20 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
 
 
+## dns.digitalsize.net
+
+A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany (https://dns.digitalsize.net)
+
+sdns://AgcAAAAAAAAADjE2Mi41NS4xNTkuMjAyIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
+
+
+## dns.digitalsize.net-ipv6
+
+A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled and hosted in Germany (https://dns.digitalsize.net)
+
+sdns://AgcAAAAAAAAAFlsyYTAxOjRmODoxYzFkOmYxNDo6MV0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984TZG5zLmRpZ2l0YWxzaXplLm5ldAovZG5zLXF1ZXJ5
+
+
 ## dns.ryan-palmer
 
 Non-logging, non-filtering, DNSSEC DoH Server. Hosted in the UK.
