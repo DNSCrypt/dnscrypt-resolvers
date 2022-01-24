@@ -53,6 +53,7 @@ Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
+
 ## adguard-dns
 
 Remove ads and protect your computer from malware
