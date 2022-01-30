@@ -1211,6 +1211,13 @@ https://dns.watch
 sdns://AQcAAAAAAAAAHFsyMDAxOjE2MDg6MTA6MjU6OjkyNDk6ZDY5Yl0gQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
 
 
+## dns.b33.network-dnscrypt
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Blocks ads, malware, trackers, viruses, ransomware, telemetry and more | hosted on OVH | Location: Paris, France | Maintained by 0xb33 - (https://github.com/0xb33)
+
+sdns://AQcAAAAAAAAAEjE2Mi4xOS4xMjkuMjA6NTQ0MyBLAxD2I-nLlzrjDQhX_eNLqCb-_DIIEiH7MBG2gbliLRsyLmRuc2NyeXB0LWNlcnQuYjMzLm5ldHdvcms
+
+
 ## dnscrypt-ch-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
