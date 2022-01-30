@@ -27,6 +27,15 @@ Adguard DNS with safesearch and adult content blocking
 sdns://AQIAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzMjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
 
 
+## adguard-dns-family-ipv6
+
+Adguard DNS with safesearch and adult content blocking
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAGVsyYTEwOjUwYzA6OmJhZDE6ZmZdOjU0NDMguDFd17FLbuMgpHDcLtaxqjmMyeWG-F1FRda4ybUAWrohMi5kbnNjcnlwdC5mYW1pbHkubnMxLmFkZ3VhcmQuY29t
+
+
 ## cisco-familyshield
 
 Block websites not suitable for children (DNSCrypt protocol)
