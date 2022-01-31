@@ -27,6 +27,22 @@ Public non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQs5Iva7kV3oGtlEgMi5kbnNjcnlwdC1jZXJ0LmFjc2Fjc2FyLWFtcy5jb20
 
 
+## adfree.usableprivacy.net
+
+Public updns DoH service with advertising, tracker and malware filters.
+Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
+
+sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+
+
+## adfree.usableprivacy.net-ipv6
+
+Public updns DoH service with advertising, tracker and malware filters.
+Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+
+
 ## adguard-dns
 
 Remove ads and protect your computer from malware
