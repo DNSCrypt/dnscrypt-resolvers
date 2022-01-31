@@ -42,7 +42,6 @@ sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQ
 Public updns DoH service with advertising, tracker and malware filters.
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-
 sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
