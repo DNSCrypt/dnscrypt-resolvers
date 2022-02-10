@@ -42,7 +42,7 @@ sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQ
 Public updns DoH service with advertising, tracker and malware filters.
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDGgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfree.usableprivacy.net-ipv6
@@ -50,7 +50,7 @@ sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN9
 Public updns DoH service with advertising, tracker and malware filters.
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adguard-dns
