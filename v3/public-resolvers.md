@@ -42,7 +42,7 @@ sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQ
 Public updns DoH service with advertising, tracker and malware filters.
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDGgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfree.usableprivacy.net-ipv6
@@ -50,7 +50,7 @@ sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN9
 Public updns DoH service with advertising, tracker and malware filters.
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adguard-dns
@@ -329,7 +329,7 @@ DNS-over-HTTPS server. Non Logging, filters ads, trackers and malware. DNSSEC re
 
 Hosted in Stockholm, Sweden. (https://dns.brahma.world)
 
-sdns://AgMAAAAAAAAADDEzLjUzLjE4Ni41MqDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADjE2LjE3MC4xNTAuMjIxoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
 
 
 ## brahma-world-ipv6
@@ -1468,7 +1468,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AQIAAAAAAAAADzEzNS4xODEuMTkzLjIyMiBHFKrWl_Swzwd8Mcwa8ZhdLGFgC94SpKo_g57e_49DthBkbnNmb3JmYW1pbHkuY29t
+sdns://AQIAAAAAAAAADzEzNS4xODEuMTkzLjIyMiDrxcZ_hFtGE6tfATvQZYjxgl5pTY_e2cRH_ms8bEWofBBkbnNmb3JmYW1pbHkuY29t
 
 
 ## dnsforfamily-v6

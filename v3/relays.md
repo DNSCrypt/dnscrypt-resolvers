@@ -243,13 +243,6 @@ Manchester, England Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gQ0xOTUuMTIuNDguMTcx
 
 
-## anon-cs-md
-
-Moldova Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xNzguMTc1LjEyOS4xNg
-
-
 ## anon-cs-mexico
 
 Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
