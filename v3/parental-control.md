@@ -180,7 +180,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AQIAAAAAAAAADzEzNS4xODEuMTkzLjIyMiBHFKrWl_Swzwd8Mcwa8ZhdLGFgC94SpKo_g57e_49DthBkbnNmb3JmYW1pbHkuY29t
+sdns://AQIAAAAAAAAADzEzNS4xODEuMTkzLjIyMiDrxcZ_hFtGE6tfATvQZYjxgl5pTY_e2cRH_ms8bEWofBBkbnNmb3JmYW1pbHkuY29t
 
 
 ## dnsforfamily-v6
