@@ -2256,6 +2256,19 @@ https://www.nextdns.io/
 sdns://AgcAAAAAAAAADVsyYTA3OmE4YzA6Ol0gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
 
 
+## nextdns-ultralow
+
+NextDNS is a cloud-based private DNS service that gives you full control
+over what is allowed and what is blocked on the Internet.
+
+https://www.nextdns.io/
+
+To select the server location, the "-ultralow" variant relies on bootstrap servers
+instead of anycast.
+
+sdns://AgcAAAAAAAAACjQ1LjkwLjI4LjAgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
+
+
 ## njalla-doh
 
 Non-logging DoH server in Sweden operated by Njalla.
