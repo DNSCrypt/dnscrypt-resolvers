@@ -2604,6 +2604,15 @@ Warning: this server is incompatible with DNS anonymization.
 sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
+## safesurfer-doh
+
+Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
+Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
+usage, data never sold - https://safesurfer.io
+
+sdns://AgMAAAAAAAAAAAARZG9oLnNhZmVzdXJmZXIuaW8KL2Rucy1xdWVyeQ
+
+
 ## saldns01-conoha-ipv4
 
 Hosted on ConoHa VPS Tokyo region. No log. No filter.
