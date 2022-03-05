@@ -2610,7 +2610,7 @@ Family safety focused blocklist for over 2 million adult sites, as well as phish
 Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
 usage, data never sold - https://safesurfer.io
 
-sdns://AgMAAAAAAAAAAAARZG9oLnNhZmVzdXJmZXIuaW8KL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
 
 
 ## saldns01-conoha-ipv4
