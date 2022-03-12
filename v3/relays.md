@@ -603,17 +603,3 @@ Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
 
-
-## anon-zackptg5-us-il-ipv4
-
-Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
-
-sdns://gQ0xMzcuMjIwLjU5LjYy
-
-
-## anon-zackptg5-us-il-ipv6
-
-Anonymized DNS relay hosted in Chicago, IL on Vultr. Maintained by @Zackptg5
-
-sdns://gShbMjAwMToxOWYwOjVjMDE6MTQ3ZTo1NDAwOjNmZjpmZTJhOjNiMWZd
-
