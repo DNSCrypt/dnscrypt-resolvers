@@ -174,13 +174,6 @@ France Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0xNjMuMTcyLjM0LjU2
 
 
-## anon-cs-free
-
-France Anonymized DNS relay server, running on our free server, provided by https://cryptostorm.is/
-
-sdns://gQ0xOTUuMTU0LjQwLjQ4
-
-
 ## anon-cs-hungary
 
 Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -467,20 +460,6 @@ sdns://gQ4xMzYuMjQ0Ljk3LjExNA
 Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
 sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
-
-
-## anon-opennic-R4SAS
-
-Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
-
-sdns://gQ0xNTEuODAuMjIyLjc5
-
-
-## anon-opennic-R4SAS-ipv6
-
-Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
-
-sdns://gRdbMjAwMTo0NzA6MWYxNTpiODA6OjUzXQ
 
 
 ## anon-plan9-dns

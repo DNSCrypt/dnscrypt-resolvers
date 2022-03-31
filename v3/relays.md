@@ -461,20 +461,6 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encry
 sdns://gSdbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF0
 
 
-## anon-opennic-R4SAS
-
-Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
-
-sdns://gQ0xNTEuODAuMjIyLjc5
-
-
-## anon-opennic-R4SAS-ipv6
-
-Anonymized DNS relay hosted in OVH, Paris, France - maintained by R4SAS - https://github.com/r4sas
-
-sdns://gRdbMjAwMTo0NzA6MWYxNTpiODA6OjUzXQ
-
-
 ## anon-plan9-dns
 
 Anonymized DNS relay hosted in New Jersey, USA. Running the official Docker image on Vultr by @jlongua1
