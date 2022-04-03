@@ -2327,6 +2327,33 @@ Information at https://dns.oszx.co
 
 sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL1V5bwEjFzIuZG5zY3J5cHQtY2VydC5vc3p4LmNv
 
+## PumpleX
+
+Secure DNS Project by PumpleX - Hosted in the UK by OVH
+No Logging / No Filters
+
+sdns://AQcAAAAAAAAAETUxLjM4LjgyLjE5ODo1MzUzIMg95SNgpDPLmaHlbZVbYh5tJRvnYuDWqZ4lUG-mD49eGzIuZG5zY3J5cHQtY2VydC5wdW1wbGV4LmNvbQ
+
+## PumpleX-ipv6
+
+Secure DNS Project by PumpleX - Hosted in the UK by OVH
+No Logging / No Filters
+
+sdns://AQcAAAAAAAAAHTIwMDE6NDFkMDo4MDE6MjAwMDo6MWIyODo1MzUzIMg95SNgpDPLmaHlbZVbYh5tJRvnYuDWqZ4lUG-mD49eGzIuZG5zY3J5cHQtY2VydC5wdW1wbGV4LmNvbQ
+
+## PumpleX-doh
+
+Secure DNS Project by PumpleX - Hosted in the UK by OVH
+No Logging / No Filters
+
+sdns://AgcAAAAAAAAADDUxLjM4LjgyLjE5OIAAD2Rucy5wdW1wbGV4LmNvbQovZG5zLXF1ZXJ5
+
+## PumpleX-doh-ipv6
+
+Secure DNS Project by PumpleX - Hosted in the UK by OVH
+No Logging / No Filters
+
+sdns://AgcAAAAAAAAAGDIwMDE6NDFkMDo4MDE6MjAwMDo6MWIyOIAAD2Rucy5wdW1wbGV4LmNvbQovZG5zLXF1ZXJ5
 
 ## plan9-ns1
 
