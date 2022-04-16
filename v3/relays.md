@@ -548,6 +548,13 @@ Anonymized DNS relay hosted in Sweden - SE
 sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
 
 
+## anon-techsaviours.org
+
+Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://techsaviours.org
+
+sdns://gRI0NS4xMzIuMjQ1Ljk1OjQ0MzQ
+
+
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
