@@ -26,6 +26,22 @@ Anonymized DNS relay hosted in AMS on Scaleway
 sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 
+## anon-aiselfdefence-fi-ipv4
+
+Anonymized DNS relay hosted in Helsinki, Finland on Hetzner. DNSCrypt | DNSSEC
+| No-filter | No-logging
+
+sdns://gRA2NS4xMDguODYuMTk6NDQz
+
+
+## anon-aiselfdefence-fi-ipv6
+
+Anonymized DNS relay hosted in Helsinki, Finland on Hetzner. DNSCrypt | DNSSEC
+| No-filter | No-logging
+
+sdns://gRtbMmEwMTo0Zjk6YzAxMDoyNzUwOjoxXTo0NDM
+
+
 ## anon-ams-nl
 
 Anonymized DNS relay hosted in Netherlands - NL

@@ -217,6 +217,22 @@ Server statistics can be seen at: https://statistics.ahadns.com/?server=pl
 sdns://AgMAAAAAAAAAEVsyYTBlOmRjMDo3OmQ6OmRdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRvaC5wbC5haGFkbnMubmV0Ci9kbnMtcXVlcnk
 
 
+## aiselfdefence-dnscrypt-fi
+
+Protocol: DNSCrypt | Features: Non-logging, Non-filtering, DNSSEC | Location:
+Helsinki, Finland
+
+sdns://AQcAAAAAAAAAEDY1LjEwOC44Ni4xOTo0NDMg85sEIJpvYBTHfOjjy2gL8cuL3etftKOvqxVQVeRHoN0pMi5kbnNjcnlwdC1jZXJ0LmFpc2VsZmRlZmVuY2UtZG5zY3J5cHQtZmk
+
+
+## aiselfdefence-dnscrypt-fi-ipv6
+
+Protocol: DNSCrypt | Features: Non-logging, Non-filtering, DNSSEC | Location:
+Helsinki, Finland
+
+sdns://AQcAAAAAAAAAG1syYTAxOjRmOTpjMDEwOjI3NTA6OjFdOjQ0MyDzmwQgmm9gFMd86OPLaAvxy4vd61-0o6-rFVBV5Eeg3SkyLmRuc2NyeXB0LWNlcnQuYWlzZWxmZGVmZW5jZS1kbnNjcnlwdC1maQ
+
+
 ## alidns-doh
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
