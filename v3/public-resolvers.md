@@ -2358,14 +2358,14 @@ sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaA
 
 Public uncensored DNS resolver in Singapore - https://puredns.org
 
-sdns://AgcAAAAAAAAADjEwOC4xMzYuMTQ4LjE4oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOC3B1cmVkbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDE0Ni4xOTAuNi4xM6BmL48K1DOtQqCKxtEfEuUWP3vn2CnK_93cRXllU_Xe1yBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
 
 
 ## puredns-doh-ipv6
 
 Public uncensored DNS resolver in Singapore - https://puredns.org
 
-sdns://AgcAAAAAAAAAJ1syNDA2OmRhMTk6NjZmOmU4MjA6YmI0OmJmOTc6YWRmMjo4MTdiXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTExMTpjMDAxXaBmL48K1DOtQqCKxtEfEuUWP3vn2CnK_93cRXllU_Xe1yBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
 
 
 ## pwoss.org-dnscrypt
