@@ -2354,6 +2354,20 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkNZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
 
 
+## puredns-doh
+
+Public uncensored DNS resolver in Singapore - https://puredns.org
+
+sdns://AgcAAAAAAAAADjEwOC4xMzYuMTQ4LjE4AAtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
+
+
+## puredns-doh-ipv6
+
+Public uncensored DNS resolver in Singapore - https://puredns.org
+
+sdns://AgcAAAAAAAAAJ1syNDA2OmRhMTk6NjZmOmU4MjA6YmI0OmJmOTc6YWRmMjo4MTdiXQALcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+
+
 ## pwoss.org-dnscrypt
 
 No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://pwoss.org/ (Dan)
