@@ -2781,3 +2781,10 @@ Yandex public DNS server (anycast)
 
 sdns://AQQAAAAAAAAAEDc3Ljg4LjguNzg6MTUzNTMg04TAccn3RmKvKszVe13MlxTUB7atNgHhrtwG1W1JYyciMi5kbnNjcnlwdC1jZXJ0LmJyb3dzZXIueWFuZGV4Lm5ldA
 
+
+## zynodns
+
+ZynoDNS is a fast DNS server based on OpenDNS and Blocky.
+
+sdns://AgcAAAAAAAAADjEyOS4xNTguNjIuMTcxAAtkbnMuenluby51cwovZG5zLXF1ZXJ5
+
