@@ -131,13 +131,6 @@ Dusseldorf, Germany 2 Anonymized DNS relay server provided by https://cryptostor
 sdns://gQ8yMTMuMjAyLjIxNi4yMzY
 
 
-## anon-cs-dus3
-
-Dusseldorf, Germany 3 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ44OS4xNjMuMjIxLjE4MQ
-
-
 ## anon-cs-dus4
 
 Dusseldorf, Germany 4 Anonymized DNS relay server provided by https://cryptostorm.is/
