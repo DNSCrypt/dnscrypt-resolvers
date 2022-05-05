@@ -83,6 +83,7 @@ Adguard DNS with safesearch and adult content blocking (over DoH)
 
 sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNQAWZG5zLWZhbWlseS5hZGd1YXJkLmNvbQovZG5zLXF1ZXJ5
 
+
 ## adguard-dns-family-ipv6
 
 Adguard DNS with safesearch and adult content blocking
