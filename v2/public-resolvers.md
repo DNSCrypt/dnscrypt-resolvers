@@ -56,7 +56,7 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNDo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuU
 
 Remove ads and protect your computer from malware (over DoH)
 
-sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ9kbnMuYWRndWFyZC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNAAPZG5zLmFkZ3VhcmQuY29tCi9kbnMtcXVlcnk
 
 
 ## adguard-dns-family
@@ -72,7 +72,7 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNTo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWu
 
 Adguard DNS with safesearch and adult content blocking (over DoH)
 
-sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRZkbnMtZmFtaWx5LmFkZ3VhcmQuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNQAWZG5zLWZhbWlseS5hZGd1YXJkLmNvbQovZG5zLXF1ZXJ5
 
 
 ## adguard-dns-family-ipv6
@@ -100,6 +100,13 @@ AdGuard public DNS servers without filters
 Warning: This server is incompatible with anonymization.
 
 sdns://AQMAAAAAAAAAEjk0LjE0MC4xNC4xNDA6NTQ0MyC16ETWuDo-PhJo62gfvqcN48X6aNvWiBQdvy7AZrLa-iUyLmRuc2NyeXB0LnVuZmlsdGVyZWQubnMxLmFkZ3VhcmQuY29t
+
+
+## adguard-dns-unfiltered-doh
+
+AdGuard public DNS servers without filters (over DoH)
+
+sdns://AgcAAAAAAAAADTk0LjE0MC4xNC4xNDAAGmRucy11bmZpbHRlcmVkLmFkZ3VhcmQuY29tCi9kbnMtcXVlcnk
 
 
 ## adguard-dns-unfiltered-ipv6
