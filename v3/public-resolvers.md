@@ -68,6 +68,7 @@ Remove ads and protect your computer from malware (over DoH)
 
 sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNAAPZG5zLmFkZ3VhcmQuY29tCi9kbnMtcXVlcnk
 
+
 ## adguard-dns-family
 
 Adguard DNS with safesearch and adult content blocking
