@@ -693,13 +693,6 @@ Dusseldorf, Germany 2 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADzIxMy4yMDIuMjE2LjIzNiAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-dus3
-
-Dusseldorf, Germany 3 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADjg5LjE2My4yMjEuMTgxIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-dus4
 
 Dusseldorf, Germany 4 DNSCrypt server provided by https://cryptostorm.is/
