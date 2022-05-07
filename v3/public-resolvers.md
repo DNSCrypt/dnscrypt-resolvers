@@ -2231,7 +2231,7 @@ DNSSEC, Anycast, Non-logging, NoFilters
 
 https://www.nextdns.io/
 
-sdns://AgcAAAAAAAAACjQ1LjkwLjI4LjAgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkOZG5zLm5leHRkbnMuaW8PL2Ruc2NyeXB0LXByb3h5
+sdns://AgcAAAAAAAAACjQ1LjkwLjI4LjAAFmFueWNhc3QuZG5zLm5leHRkbnMuaW8KL2Rucy1xdWVyeQ
 
 
 ## nextdns-ipv6
@@ -2258,7 +2258,7 @@ https://www.nextdns.io/
 To select the server location, the "-ultralow" variant relies on bootstrap servers
 instead of anycast.
 
-sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ5kbnMubmV4dGRucy5pbw8vZG5zY3J5cHQtcHJveHk
+sdns://AgcAAAAAAAAADTM0LjEwMS44NC4xMjkADmRucy5uZXh0ZG5zLmlvCi9kbnMtcXVlcnk
 
 
 ## njalla-doh
