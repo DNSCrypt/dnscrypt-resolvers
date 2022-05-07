@@ -2339,6 +2339,7 @@ sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzIgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaA
 ## puredns-doh
 
 Public uncensored DNS resolver in Singapore - https://puredns.org
+** Only available in Indonesia and Singapore **
 
 sdns://AgcAAAAAAAAADDE0Ni4xOTAuNi4xM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
 
@@ -2346,6 +2347,7 @@ sdns://AgcAAAAAAAAADDE0Ni4xOTAuNi4xM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5
 ## puredns-doh-ipv6
 
 Public uncensored DNS resolver in Singapore - https://puredns.org
+** Only available in Indonesia and Singapore **
 
 sdns://AgcAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTExMTpjMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
 
