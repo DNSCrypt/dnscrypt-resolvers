@@ -51,6 +51,12 @@ ODoH target server via Cloudflare, no logs.
 
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
 
+## odoh-ibksturm
+
+ODoH target server hosted by Ibksturm. No logs, No Filter, DNSSEC.
+
+sdns://BQcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
+
 
 ## odoh-koki-ams
 
