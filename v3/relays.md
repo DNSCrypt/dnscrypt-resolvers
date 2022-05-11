@@ -424,6 +424,14 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
+##anon-ibksturm
+
+Anonymized DNS relay, No Logging, No Filters, DNSSEC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+
 
 ## anon-inconnu
 
