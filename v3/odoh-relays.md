@@ -27,6 +27,12 @@ Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
+## odohrelay-ibksturm
+
+Oblivious DoH relay hosted by Ibksturm. No Logs
+
+sdns://hQcAAAAAAAAADjIxMy4xOTYuMTkxLjk2ABRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+
 
 ## odohrelay-koki-ams
 
