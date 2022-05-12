@@ -27,6 +27,7 @@ Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
+
 ## odohrelay-ibksturm
 
 Oblivious DoH relay hosted by Ibksturm. No Logs

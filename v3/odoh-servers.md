@@ -30,6 +30,13 @@ Backend hosted by Scaleway. Maintained by Frank Denis.
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
+## odoh-ibksturm
+
+ODoH target server hosted by Ibksturm. No logs, No Filter, DNSSEC.
+
+sdns://BQcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
+
+
 ## odoh-id-gmail
 
 ODoH target server. Based in Singapore, no logs.
@@ -50,12 +57,6 @@ sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
 ODoH target server via Cloudflare, no logs.
 
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
-
-## odoh-ibksturm
-
-ODoH target server hosted by Ibksturm. No logs, No Filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
 
 
 ## odoh-koki-ams
