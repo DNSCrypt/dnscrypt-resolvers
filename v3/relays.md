@@ -415,12 +415,6 @@ sdns://gQ4xMDkuMjQ4LjQzLjE1NA
 
 Anonymized DNS relay hosted in UK on DigitalOcean
 
-sdns://gQ0xNjUuMjMyLjMyLjk1
-
-
-## anon-dnscrypt.uk-ipv6
-
-Anonymized DNS relay hosted in UK on DigitalOcean
 
 
 ##anon-ibksturm
@@ -429,6 +423,7 @@ Anonymized DNS relay, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
+sdns://gQ0xNjUuMjMyLjMyLjk1
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
 
