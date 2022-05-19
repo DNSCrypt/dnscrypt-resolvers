@@ -94,6 +94,13 @@ Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
 sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
+## odoh-meganerd
+
+Oblivious DoH target server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server Hosted in Amsterdam (AMS1), The Netherlands.
+
+sdns://BQcAAAAAAAAAFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAQvZG9o
+
+
 ## odoh-resolver4.dns.openinternet.io
 
 ODoH target server. no logs, no filter, DNSSEC.
