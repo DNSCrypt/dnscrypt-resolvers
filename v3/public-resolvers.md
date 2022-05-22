@@ -2671,14 +2671,14 @@ sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01W
 
 non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
 
-sdns://AQcAAAAAAAAADDIwLjIxMi41Mi43NiDjxysoCLj_kqq1dtoYCpB9_eZ3vMihC0hAJx7wyc5aRBgyLmRuc2NyeXB0LWNlcnQuc2dwLWRuNTM
+sdns://AQcAAAAAAAAAETE1OS4yMjMuNDcuMjk6NDQzIMLRw9hOLUWEcMQdArm8AZVHJmCg2F37Asq5oIgsfC0yGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
 
 ## sgp-dn53-ipv6
 
 non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
 
-sdns://AQcAAAAAAAAAH1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl0g48crKAi4_5KqtXbaGAqQff3md7zIoQtIQCce8MnOWkQYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
+sdns://AQcAAAAAAAAAHlsyNDAwOjYxODA6MDpkMDo6ZmY4OjcwMDFdOjQ0MyDC0cPYTi1FhHDEHQK5vAGVRyZgoNhd-wLKuaCILHwtMhgyLmRuc2NyeXB0LWNlcnQuc2dwLWRuNTM
 
 
 ## sth-ads-doh-se
