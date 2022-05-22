@@ -2116,7 +2116,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
+sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IPyq3HBOXuNgu6FO4pU71Si6CTV6kPD85NA6AThr_6tiGDIuZG5zY3J5cHQtY2VydC5tZWdhbmVyZA
 
 
 ## meganerd-doh-ipv4
@@ -2146,7 +2146,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXTo0NDMg_KrccE5e42C7oU7ilTvVKLoJNXqQ8Pzk0DoBOGv_q2IYMi5kbnNjcnlwdC1jZXJ0Lm1lZ2FuZXJk
+sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
 ## moulticast-ca-ipv4
@@ -2629,14 +2629,14 @@ sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01W
 
 non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
 
-sdns://AQcAAAAAAAAADDIwLjIxMi41Mi43NiDjxysoCLj_kqq1dtoYCpB9_eZ3vMihC0hAJx7wyc5aRBgyLmRuc2NyeXB0LWNlcnQuc2dwLWRuNTM
+sdns://AQcAAAAAAAAADTE1OS4yMjMuNDcuMjkgwtHD2E4tRYRwxB0CubwBlUcmYKDYXfsCyrmgiCx8LTIYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
 
 
 ## sgp-dn53-ipv6
 
 non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
 
-sdns://AQcAAAAAAAAAH1syYTAxOjExMTpmMTAwOjcwMDA6OjZmZGQ6NTNjNl0g48crKAi4_5KqtXbaGAqQff3md7zIoQtIQCce8MnOWkQYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
+sdns://AQcAAAAAAAAAGlsyNDAwOjYxODA6MDpkMDo6ZmY4OjcwMDFdIMLRw9hOLUWEcMQdArm8AZVHJmCg2F37Asq5oIgsfC0yGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
 
 ## sth-ads-doh-se
