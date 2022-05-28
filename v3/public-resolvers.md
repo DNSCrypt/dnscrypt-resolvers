@@ -2055,7 +2055,7 @@ sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARc
 
 Non-logging DoH service runned by V2EX.com user johnsonwil, 
 it has a manual blacklist which returns "no such domain". It 
-also supports DNSSEC.
+also supports DNSSEC. https://www.v2ex.com/t/785666
 
 sdns://AgMAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BNhLnBhc3NjbG91ZC54eXo6NDQzCi9kbnMtcXVlcnk
 
