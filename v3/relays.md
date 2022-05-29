@@ -408,13 +408,6 @@ sdns://gQs0NS4zNS43Mi40Mw
 
 Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory. No log.
 
-sdns://gQ4xMDkuMjQ4LjQzLjE1NA
-
-
-## anon-dnscrypt.uk-ipv4
-
-Anonymized DNS relay hosted in UK on DigitalOcean
-
 
 
 ##anon-ibksturm
@@ -423,6 +416,7 @@ Anonymized DNS relay, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
+sdns://gQ4xMDkuMjQ4LjQzLjE1NA
 sdns://gQ0xNjUuMjMyLjMyLjk1
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
