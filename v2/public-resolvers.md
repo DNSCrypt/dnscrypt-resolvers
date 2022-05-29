@@ -2103,13 +2103,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
 
 
-## moulticast-ca-ipv4
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAADTE0OS41Ni4xNC4xNTkggqVNQrswzoCc-93hdnomI0UwlYC3q80lR9-79MEC3xUdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtY2E
-
-
 ## moulticast-ca-ipv6
 
 Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
