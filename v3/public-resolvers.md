@@ -1958,20 +1958,6 @@ Non-logged/Uncensored provided by www.freetsa.org. Support for DNS and DNS-over-
 sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
 
 
-## gombadi-syd
-
-Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
-
-sdns://AQUAAAAAAAAADzE3Mi4xMDUuMTY2LjE4OSCqZ1fiHV9W_d5oL0UH7Cc1fIohJG9lej3-8EW2ND_xbBwyLmRuc2NyeXB0LWNlcnQuZ29tYmFkaS5zeWQy
-
-
-## gombadi-syd-ipv6
-
-Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
-
-sdns://AQUAAAAAAAAAIFsyNDAwOjg5MDc6OmYwM2M6OTJmZjpmZTYzOmU3NDhdIKpnV-IdX1b93mgvRQfsJzV8iiEkb2V6Pf7wRbY0P_FsHDIuZG5zY3J5cHQtY2VydC5nb21iYWRpLnN5ZDI
-
-
 ## google
 
 Google DNS (anycast)
