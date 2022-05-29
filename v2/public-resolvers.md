@@ -1008,26 +1008,6 @@ Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADDcxLjE5LjI1MS4zNCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cz.nic
-
-CZ.NIC's open DNSSEC validating resolvers in Prague, Czech Republic.
-CZ.NIC resolvers neither collect any personal data nor gather
-information on pages where your computer sends personal data.
-https://www.nic.cz/odvr/
-
-sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtvZHZyLm5pYy5jegQvZG9o
-
-
-## cz.nic-ipv6
-
-CZ.NIC's open DNSSEC validating resolvers in Prague, Czech Republic (IPv6 only).
-CZ.NIC resolvers neither collect any personal data nor gather
-information on pages where your computer sends personal data.
-https://www.nic.cz/odvr/
-
-sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZTo6MV2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984Lb2R2ci5uaWMuY3oEL2RvaA
-
-
 ## d0wn-tz-ns1
 
 Server provided by Martin 'd0wn' Albus
