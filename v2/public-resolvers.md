@@ -1940,20 +1940,6 @@ Non-logged/Uncensored provided by www.freetsa.org. Support for DNS and DNS-over-
 sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
 
 
-## gombadi-syd
-
-Protocol: DNSCrypt IPv4 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
-
-sdns://AQUAAAAAAAAADzE3Mi4xMDUuMTY2LjE4OSCqZ1fiHV9W_d5oL0UH7Cc1fIohJG9lej3-8EW2ND_xbBwyLmRuc2NyeXB0LWNlcnQuZ29tYmFkaS5zeWQy
-
-
-## gombadi-syd-ipv6
-
-Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, Unbound | Location: Sydney, AU
-
-sdns://AQUAAAAAAAAAIFsyNDAwOjg5MDc6OmYwM2M6OTJmZjpmZTYzOmU3NDhdIKpnV-IdX1b93mgvRQfsJzV8iiEkb2V6Pf7wRbY0P_FsHDIuZG5zY3J5cHQtY2VydC5nb21iYWRpLnN5ZDI
-
-
 ## google
 
 Google DNS (anycast)
@@ -2032,6 +2018,15 @@ DoH server operated by Internet Initiative Japan in Tokyo.
 https://www.iij.ad.jp/
 
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
+
+
+## iqdns-doh
+
+Non-logging DoH service runned by V2EX.com user johnsonwil.
+Returns "no such domain" for anti-Chinese government websites. Supports DNSSEC.
+For more information: https://www.v2ex.com/t/785666
+
+sdns://AgMAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_A9hLnBhc3NjbG91ZC54eXoKL2Rucy1xdWVyeQ
 
 
 ## jp.tiar.app

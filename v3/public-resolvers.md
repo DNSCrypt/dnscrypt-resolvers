@@ -2037,14 +2037,14 @@ https://www.iij.ad.jp/
 
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
-# iqdns-doh
 
-Non-logging DoH service runned by V2EX.com user johnsonwil, 
-it has a manual blacklist which returns "no such domain", the 
-blacklist contains anti Chinese government websites.
-It also supports DNSSEC. Releasing page: https://www.v2ex.com/t/785666
+## iqdns-doh
 
-sdns://AgMAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BNhLnBhc3NjbG91ZC54eXo6NDQzCi9kbnMtcXVlcnk
+Non-logging DoH service runned by V2EX.com user johnsonwil.
+Returns "no such domain" for anti-Chinese government websites. Supports DNSSEC.
+For more information: https://www.v2ex.com/t/785666
+
+sdns://AgMAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_A9hLnBhc3NjbG91ZC54eXoKL2Rucy1xdWVyeQ
 
 
 ## jp.tiar.app
