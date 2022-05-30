@@ -405,13 +405,21 @@ US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gQs0NS4zNS43Mi40Mw
 
 
-## anon-curzon-prg
+## anon-dnscrypt.uk-ipv4
 
-Anonymized DNS relay hosted in Prague, Czech Republic on SkylonHost - maintained by @ztheory. No log.
+Anonymized DNS relay in London. https://www.dnscrypt.uk
+
+sdns://gQ0xNjUuMjMyLjMyLjk1
 
 
+## anon-dnscrypt.uk-ipv6
 
-##anon-ibksturm
+Anonymized DNS relay in London. https://www.dnscrypt.uk
+
+sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
+
+
+## anon-ibksturm
 
 Anonymized DNS relay, No Logging, No Filters, DNSSEC
 
