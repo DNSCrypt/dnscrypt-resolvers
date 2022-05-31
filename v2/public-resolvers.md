@@ -243,35 +243,35 @@ sdns://AQcAAAAAAAAAG1syYTA0OjUyMDA6ZmZmNDo6MTNmZl06ODQ0MyCZ8ZN5yuJizxUJ9IMhSjpTr
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
 
-sdns://AgMAAAAAAAAADTUxLjE1LjEyNC4yMDgAGGRuc25sLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADDg5LjM4LjEzMS4zOAAYZG5zbmwtbm9hZHMuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
 ## ams-dnscrypt-nl
 
 Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAADTUxLjE1LjEyNC4yMDggvBOI9XY-Pex18ckPyRW_torq3-scRfaYUYBjnGDn8WIfMi5kbnNjcnlwdC1jZXJ0LmFtcy1kbnNjcnlwdC1ubA
+sdns://AQcAAAAAAAAADDg5LjM4LjEzMS4zOCClh0va9BaCmPvsHJyZdQK-WjlG_dcbLn7z1I4nd6zUWh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
 
 ## ams-dnscrypt-nl-ipv6
 
 Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AQcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdILwTiPV2Pj3sdfHJD8kVv7aK6t_rHEX2mFGAY5xg5_FiHzIuZG5zY3J5cHQtY2VydC5hbXMtZG5zY3J5cHQtbmw
+sdns://AQcAAAAAAAAAFVsyYTBjOmI5YzA6Zjo0NTFkOjoxXSClh0va9BaCmPvsHJyZdQK-WjlG_dcbLn7z1I4nd6zUWh8yLmRuc2NyeXB0LWNlcnQuYW1zLWRuc2NyeXB0LW5s
 
 
 ## ams-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAADTUxLjE1LjEyNC4yMDigzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zbmwuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDg5LjM4LjEzMS4zOKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNubC5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## ams-doh-nl-ipv6
 
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
-sdns://AgcAAAAAAAAAF1syMDAxOmJjODoxODMwOjIwMTg6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEmRuc25sLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFVsyYTBjOmI5YzA6Zjo0NTFkOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNubC5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## att
