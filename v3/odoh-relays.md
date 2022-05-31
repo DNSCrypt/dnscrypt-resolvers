@@ -40,7 +40,7 @@ sdns://hQcAAAAAAAAADjIxMy4xOTYuMTkxLjk2ABRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1Z
 Oblivious DoH relay in The Netherlands. No logs.
 Maintained by @kokial
 
-sdns://hQcAAAAAAAAADTUxLjE1LjEyNC4yMDgAGG9kb2gtbmwuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
+sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94eQ
 
 
 ## odohrelay-koki-bcn
