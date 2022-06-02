@@ -26,20 +26,6 @@ Anonymized DNS relay hosted in AMS on Scaleway
 sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 
-## anon-ams-nl
-
-Anonymized DNS relay hosted in Netherlands - NL
-
-sdns://gRA4OS4zOC4xMzEuMzg6NDQz
-
-
-## anon-ams-nl-ipv6
-
-Anonymized DNS relay hosted in Netherlands - NL
-
-sdns://gRlbMmEwYzpiOWMwOmY6NDUxZDo6MV06NDQz
-
-
 ## anon-bcn
 
 Anonymized DNS relay hosted in Barcelona, Spain.
