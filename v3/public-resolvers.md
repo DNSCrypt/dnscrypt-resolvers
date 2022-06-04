@@ -2624,6 +2624,13 @@ Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
+##  surfshark-trust-dns
+
+Premium secure DNS server provided by cybersecurity company Surfshark Ltd. Anycast.
+
+sdns://AgcAAAAAAAAACzkyLjI0OS4zOS4xABFkbnMuc3VyZnNoYXJrLmNvbQovZG5zLXF1ZXJ5
+
+
 ## switch
 
 Public DoH service provided by SWITCH in Switzerland
