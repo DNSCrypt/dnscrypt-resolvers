@@ -2240,14 +2240,6 @@ Information at https://dns.oszx.co
 sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL1V5bwEjFzIuZG5zY3J5cHQtY2VydC5vc3p4LmNv
 
 
-## plan9-ns1
-
-DNSCrypt server in New Jersey, USA. Non-logging, non-filtering, DNSSEC, anonymized.
-Running the official Docker image, info - https://jlongua.github.io/plan9-dns/
-
-sdns://AQcAAAAAAAAADjE3My4xOTkuMTI2LjM1IJLwH3z8-G6TDyEk6yXMmGxuss7nGfFnkHrtm4VOSc9SGTIuZG5zY3J5cHQtY2VydC5wbGFuOS1kbnM
-
-
 ## plan9-ns2
 
 DNSCrypt server in Florida, USA. Non-logging, non-filtering, DNSSEC, anonymized.
