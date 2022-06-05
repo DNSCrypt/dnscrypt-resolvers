@@ -456,6 +456,13 @@ Anonymized DNS relay hosted in Florida, USA. info - https://jlongua.github.io/pl
 sdns://gRI0NS42My4xMTAuMTg3Ojg0NDM
 
 
+## anon-pwoss.org
+
+Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
+
+sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
+
+
 ## anon-resolver4.dns.openinternet.io
 
 Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io
