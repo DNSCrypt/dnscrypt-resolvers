@@ -52,6 +52,13 @@ ODoH target server. no logs.
 sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
 
 
+## odoh-jp.tiarap.org
+
+ODoH target server via Cloudflare, no logs.
+
+sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
+
+
 ## odoh-koki-ams
 
 Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
@@ -85,4 +92,12 @@ sdns://BQMAAAAAAAAAIW9kb2gtdGFyZ2V0LW5vYWRzLXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
 
 sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
+## odoh-tiarap.org
+
+ODoH target server via Cloudflare, no logs.
+Filter ads, trackers and malware.
+
+sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
