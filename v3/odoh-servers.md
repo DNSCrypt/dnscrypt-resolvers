@@ -94,24 +94,6 @@ Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
 sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
-## odoh-meganerd
-
-Oblivious DoH target server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server Hosted in Amsterdam (AMS1), The Netherlands.
-
-sdns://BQcAAAAAAAAAFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAQvZG9o
-
-
-## odoh-resolver4.dns.openinternet.io
-
-ODoH target server. no logs, no filter, DNSSEC.
-Running on dedicated hardware colocated at Sonic.net in Santa Rosa, CA in the United States.
-
-Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
-in any way). Provided by https://openinternet.io
-
-sdns://BQcAAAAAAAAAHXJlc29sdmVyNC5kbnMub3BlbmludGVybmV0LmlvCi9kbnMtcXVlcnk
-
-
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
