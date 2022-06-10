@@ -442,13 +442,6 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encry
 sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
 
 
-## anon-plan9-dns
-
-Anonymized DNS relay hosted in New Jersey, USA. Running the official Docker image on Vultr by @jlongua1
-
-sdns://gQ4xNzMuMTk5LjEyNi4zNQ
-
-
 ## anon-plan9-ns2
 
 Anonymized DNS relay hosted in Florida, USA. info - https://jlongua.github.io/plan9-dns/
