@@ -2292,6 +2292,24 @@ Public uncensored DNS resolver in Singapore - https://puredns.org
 sdns://AgcAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTExMTpjMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
 
 
+## puredns-family-doh
+
+Public DNS resolver for Families in Indonesia - https://puredns.org/family/
+Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
+and YouTube are set to Safe mode.
+
+sdns://AgcAAAAAAAAADTEwOC4xMzcuNDQuMzOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
+
+
+## puredns-family-doh-ipv6
+
+Public DNS resolver for Families in Indonesia - https://puredns.org/family/
+Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
+and YouTube are set to Safe mode.
+
+sdns://AgcAAAAAAAAAKFsyNDA2OmRhMTk6NjZmOmU4MTA6NjNmYzo0MTczOjFjMDg6YTAwZF2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
+
+
 ## pwoss.org-dnscrypt
 
 No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://pwoss.org/ (Dan)
