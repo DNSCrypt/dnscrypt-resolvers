@@ -2074,6 +2074,45 @@ https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 sdns://AgcAAAAAAAAAACD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6Eg9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
+## nextdns
+
+NextDNS is a cloud-based private DNS service that gives you full control
+over what is allowed and what is blocked on the Internet.
+
+DNSSEC, Anycast, Non-logging, NoFilters
+
+https://www.nextdns.io/
+
+sdns://AgcAAAAAAAAACjQ1LjkwLjMwLjAgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkWYW55Y2FzdC5kbnMubmV4dGRucy5pbwovZG5zLXF1ZXJ5
+
+
+## nextdns-ipv6
+
+Connects to NextDNS over IPv6.
+
+NextDNS is a cloud-based private DNS service that gives you full control
+over what is allowed and what is blocked on the Internet.
+
+DNSSEC, Anycast, Non-logging, NoFilters
+
+https://www.nextdns.io/
+
+sdns://AgcAAAAAAAAADVsyYTA3OmE4YzA6Ol0gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkWYW55Y2FzdC5kbnMubmV4dGRucy5pbwovZG5zLXF1ZXJ5
+
+
+## nextdns-ultralow
+
+NextDNS is a cloud-based private DNS service that gives you full control
+over what is allowed and what is blocked on the Internet.
+
+https://www.nextdns.io/
+
+To select the server location, the "-ultralow" variant relies on bootstrap servers
+instead of anycast.
+
+sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ5kbnMubmV4dGRucy5pbw8vZG5zY3J5cHQtcHJveHk
+
+
 ## njalla-doh
 
 Non-logging DoH server in Sweden operated by Njalla.
