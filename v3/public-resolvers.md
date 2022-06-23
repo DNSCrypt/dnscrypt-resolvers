@@ -2148,20 +2148,12 @@ info - https://jlongua.github.io/plan9-dns/
 sdns://AQcAAAAAAAAAEjQ1LjYzLjExMC4xODc6ODQ0MyCcjeRhPcJTsKhZ8iViALPd39CussG6SnprFT9z_1f03x0yLmRuc2NyeXB0LWNlcnQucGxhbjktbnMyLmNvbQ
 
 
-## plan9-ns2-doh
+## plan9-ns2-ipv6
 
-doh server in Florida, USA. Non-logging, non-filtering, DNSSEC.
+DNSCrypt server in Florida, USA. Non-logging, non-filtering, DNSSEC, anonymized.
 info - https://jlongua.github.io/plan9-dns/
 
-sdns://AgcAAAAAAAAADTQ1LjYzLjExMC4xODegzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984TZHJhY28ucGxhbjktbnMyLmNvbQovZG5zLXF1ZXJ5
-
-
-## plan9-ns2-doh-ipv6
-
-doh server in Florida, USA. Non-logging, non-filtering, DNSSEC.
-info - https://jlongua.github.io/plan9-dns/
-
-sdns://AgcAAAAAAAAAHVsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOE2RyYWNvLnBsYW45LW5zMi5jb20KL2Rucy1xdWVyeQ
+sdns://AQcAAAAAAAAALVsyMDAxOjE5ZjA6OTAwMjoxZDc0OjU0MDA6M2ZmOmZlMzU6Nzc0YV06ODQ0MyCcjeRhPcJTsKhZ8iViALPd39CussG6SnprFT9z_1f03x0yLmRuc2NyeXB0LWNlcnQucGxhbjktbnMyLmNvbQ
 
 
 ## pryv8boi
