@@ -283,25 +283,11 @@ AT&T test DoH server.
 sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMzLX5bHX8txvaG7xGRjZ8Tr7aidcxjxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
 
-## bcn-ads-doh
-
-Resolver in Spain. DoH protocol. Non-logging, remove ads and malware, DNSSEC.
-
-sdns://AgMAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhkbnNlcy1ub2Fkcy5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
-
-
 ## bcn-dnscrypt
 
 Resolver in Spain. DNSCrypt protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2IOAW_iKdfcd9ay9ewR8txQSwT-LP2bcoxGHv4wxTyGtNHDIuZG5zY3J5cHQtY2VydC5iY24tZG5zY3J5cHQ
-
-
-## bcn-doh
-
-Resolver in Spain. DoH protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AgcAAAAAAAAADjE4NS4yNTMuMTU0LjY2oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEmRuc2VzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
 ## bortzmeyer
@@ -1439,7 +1425,7 @@ sdns://AQMAAAAAAAAALVsyMDAxOjE5ZjA6NDQwMDo0ZGUyOjU0MDA6M2ZmOmZlYTk6ZDQxOF06MjA1M
 
 Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
 
-sdns://AgMAAAAAAAAAACCUatENG1QLfgjhzgopuDy_zcpf4bCem4u7DleuxzCFaRZkb2guYXNpYS5kbnN3YXJkZW4uY29tCC9hZGJsb2Nr
+sdns://AgMAAAAAAAAAACBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZkb2guYXNpYS5kbnN3YXJkZW4uY29tCC9hZGJsb2Nr
 
 
 ## dnswarden-asia-adultfilter-dcv4
