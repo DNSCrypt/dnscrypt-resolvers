@@ -463,13 +463,6 @@ Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United Stat
 sdns://gQ03MC4zNi4xNzAuMTI2
 
 
-## anon-saldns01-conoha-ipv4
-
-Hosted on ConoHa VPS Tokyo region. No log.
-
-sdns://gRQxMTguMjcuMTA4LjE0MDo1MDQ0Mw
-
-
 ## anon-saldns02-conoha-ipv4
 
 Hosted on ConoHa VPS Tokyo region. No log.
