@@ -1,12 +1,8 @@
 #! /usr/bin/env python3
 
-import base64
 from copyreg import constructor
-import os
-import subprocess
 import sys
 from glob import glob
-from termios import B0
 
 
 class Entry:
