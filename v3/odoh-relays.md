@@ -43,14 +43,6 @@ Maintained by @kokial
 sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94eQ
 
 
-## odohrelay-koki-bcn
-
-Oblivious DoH relay in Spain. No logs.
-Maintained by @kokial
-
-sdns://hQcAAAAAAAAADjE4NS4yNTMuMTU0LjY2ABhvZG9oLWVzLmFsZWtiZXJnLm5ldDo0NDMGL3Byb3h5
-
-
 ## odohrelay-koki-se
 
 Oblivious DoH relay in Sweden. No logs.
