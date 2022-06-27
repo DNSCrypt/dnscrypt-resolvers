@@ -61,6 +61,8 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 
 Block websites not suitable for children (IPv6)
 
+Warning: This server is incompatible with anonymization.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
@@ -73,6 +75,8 @@ Blocks access to all adult, pornographic and explicit sites. It does
 not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
 are allowed. Google and Bing are set to the Safe Mode.
 
+Warning: This server is incompatible with anonymization.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
@@ -83,6 +87,8 @@ sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UG
 Blocks access to all adult, pornographic and explicit sites. It does
 not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
 are allowed. Google and Bing are set to the Safe Mode.
+
+Warning: This server is incompatible with anonymization.
 
 By https://cleanbrowsing.org/
 
@@ -96,6 +102,8 @@ blocks proxy and VPN domains that are used to bypass the filters.
 Mixed content sites (like Reddit) are also blocked. Google, Bing and
 Youtube are set to the Safe Mode.
 
+Warning: This server is incompatible with anonymization.
+
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
@@ -107,6 +115,8 @@ Blocks access to all adult, pornographic and explicit sites. It also
 blocks proxy and VPN domains that are used to bypass the filters.
 Mixed content sites (like Reddit) are also blocked. Google, Bing and
 Youtube are set to the Safe Mode.
+
+Warning: This server is incompatible with anonymization.
 
 By https://cleanbrowsing.org/
 
@@ -319,7 +329,9 @@ Family safety focused blocklist for over 2 million adult sites, as well as phish
 Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
 usage, data never sold - https://safesurfer.io
 
-sdns://AQMAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AQIAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
 ## sfw.scaleway-fr
