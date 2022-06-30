@@ -2133,14 +2133,7 @@ sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL
 
 Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAAEjE0OS4yOC4xMDEuMTE5OjQ0MyBZlAFSNu6kBRWMYISQHqTm_7tXlQf2BXEFfERR_GGDaCQyLmRuc2NyeXB0LWNlcnQucGx1dG9uLnBsYW45LWRucy5jb20
-
-
-## plan9dns-fl-ipv6
-
-Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXTo0NDMgWZQBUjbupAUVjGCEkB6k5v-7V5UH9gVxBXxEUfxhg2gkMi5kbnNjcnlwdC1jZXJ0LnBsdXRvbi5wbGFuOS1kbnMuY29t
+sdns://AQcAAAAAAAAADjE0OS4yOC4xMDEuMTE5IFmUAVI27qQFFYxghJAepOb_u1eVB_YFcQV8RFH8YYNoJDIuZG5zY3J5cHQtY2VydC5wbHV0b24ucGxhbjktZG5zLmNvbQ
 
 
 ## plan9dns-fl-doh
@@ -2157,18 +2150,46 @@ Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/pl
 sdns://AgcAAAAAAAAAJ1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRwbHV0b24ucGxhbjktZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
+## plan9dns-fl-ipv6
+
+Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
+
+sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXSBZlAFSNu6kBRWMYISQHqTm_7tXlQf2BXEFfERR_GGDaCQyLmRuc2NyeXB0LWNlcnQucGx1dG9uLnBsYW45LWRucy5jb20
+
+
+## plan9dns-mx
+
+Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
+
+sdns://AQcAAAAAAAAADjIxNi4yMzguODAuMjE5IMCoAS0PoKm-9-5f3NEnd1S-jnvMN8dGbNE0J3cV2_umJDIuZG5zY3J5cHQtY2VydC5oZWxpb3MucGxhbjktZG5zLmNvbQ
+
+
+## plan9dns-mx-doh
+
+Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
+
+sdns://AgcAAAAAAAAADjIxNi4yMzguODAuMjE5IJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZFGhlbGlvcy5wbGFuOS1kbnMuY29tCi9kbnMtcXVlcnk
+
+
+## plan9dns-mx-doh-ipv6
+
+Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
+
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxN2QxOjU0MDA6NGZmOmZlMDA6MTI2N10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUaGVsaW9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## plan9dns-mx-ipv6
+
+Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
+
+sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxN2QxOjU0MDA6NGZmOmZlMDA6MTI2N10gwKgBLQ-gqb737l_c0Sd3VL6Oe8w3x0Zs0TQndxXb-6YkMi5kbnNjcnlwdC1jZXJ0LmhlbGlvcy5wbGFuOS1kbnMuY29t
+
+
 ## plan9dns-nj
 
-Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dnsPiscataway 
+Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dnsPiscataway
 
-sdns://AQcAAAAAAAAAETIwNy4yNDYuODcuOTY6NDQzIN6s86-ismvtU1CkCSx6kfQ-pNOFewIERvSHs5fbWeavJDIuZG5zY3J5cHQtY2VydC5rcm9ub3MucGxhbjktZG5zLmNvbQ
-
-
-## plan9dns-nj-ipv6
-
-Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAAKVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106NDQzIN6s86-ismvtU1CkCSx6kfQ-pNOFewIERvSHs5fbWeavJDIuZG5zY3J5cHQtY2VydC5rcm9ub3MucGxhbjktZG5zLmNvbQ
+sdns://AQcAAAAAAAAADTIwNy4yNDYuODcuOTYg3qzzr6Kya-1TUKQJLHqR9D6k04V7AgRG9Iezl9tZ5q8kMi5kbnNjcnlwdC1jZXJ0Lmtyb25vcy5wbGFuOS1kbnMuY29t
 
 
 ## plan9dns-nj-doh
@@ -2185,32 +2206,11 @@ Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.gith
 sdns://AgcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUa3Jvbm9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
 
 
-## plan9dns-mx
+## plan9dns-nj-ipv6
 
-Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
+Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAAEjIxNi4yMzguODAuMjE5OjQ0MyDAqAEtD6CpvvfuX9zRJ3dUvo57zDfHRmzRNCd3Fdv7piQyLmRuc2NyeXB0LWNlcnQuaGVsaW9zLnBsYW45LWRucy5jb20
-
-
-## plan9dns-mx-ipv6
-
-Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6YjQwMDoxN2QxOjU0MDA6NGZmOmZlMDA6MTI2N106NDQzIMCoAS0PoKm-9-5f3NEnd1S-jnvMN8dGbNE0J3cV2_umJDIuZG5zY3J5cHQtY2VydC5oZWxpb3MucGxhbjktZG5zLmNvbQ
-
-
-## plan9dns-mx-doh
-
-Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AgcAAAAAAAAADjIxNi4yMzguODAuMjE5IJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZFGhlbGlvcy5wbGFuOS1kbnMuY29tCi9kbnMtcXVlcnk
-
-
-## plan9dns-mx-doh-ipv6
-
-Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxN2QxOjU0MDA6NGZmOmZlMDA6MTI2N10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUaGVsaW9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AQcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10g3qzzr6Kya-1TUKQJLHqR9D6k04V7AgRG9Iezl9tZ5q8kMi5kbnNjcnlwdC1jZXJ0Lmtyb25vcy5wbGFuOS1kbnMuY29t
 
 
 ## pryv8boi
