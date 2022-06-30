@@ -26,13 +26,6 @@ Anonymized DNS relay hosted in AMS on Scaleway
 sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 
-## anon-bcn
-
-Anonymized DNS relay hosted in Barcelona, Spain.
-
-sdns://gRIxODUuMjUzLjE1NC42Njo0NDM
-
-
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
