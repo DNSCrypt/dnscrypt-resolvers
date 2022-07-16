@@ -2676,6 +2676,29 @@ https://www.dnscrypt.uk
 sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
 
 
+## vietdns-doh-ipv4
+
+Public DNS resolver for Vietnamese in Vietnam. - https://vietdns.vn/
+DOH, no logs, uncensored.
+
+sdns://AgcAAAAAAAAAAAANbnMudmlldGRucy52bgA
+
+
+## vietdns-doh-ads-ipv4
+
+Public DNS resolver for Vietnamese in Vietnam. - https://vietdns.vn/
+Blocks ads, phishing, spam, malware, adware.
+
+sdns://AgcAAAAAAAAAAAAOZG5zLnZpZXRkbnMudm4A
+
+## vietdns-doh-kid-ipv4
+
+Public DNS resolver for Vietnamese in Vietnam. - https://vietdns.vn/
+Block ads, malware, phishing, block adult content. Google, Bing and YouTube are set to Safe mode.
+
+sdns://AgcAAAAAAAAAAAAPa2lkcy52aWV0ZG5zLnZuAA
+
+
 ## wevpn-singapore
 
 Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
