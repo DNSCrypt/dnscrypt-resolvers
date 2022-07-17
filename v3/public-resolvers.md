@@ -2154,7 +2154,7 @@ sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXSBZlAFSN
 
 Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAADjIxNi4yMzguODAuMjE5IMCoAS0PoKm-9-5f3NEnd1S-jnvMN8dGbNE0J3cV2_umJDIuZG5zY3J5cHQtY2VydC5oZWxpb3MucGxhbjktZG5zLmNvbQ
+sdns://AQcAAAAAAAAAEzIxNi4yMzguODAuMjE5Ojg0NDMg82P8ZQ9iJnFJ1QSR_q695V90AsqxtPkE1hBBJ59WRN4kMi5kbnNjcnlwdC1jZXJ0LmhlbGlvcy5wbGFuOS1kbnMuY29t
 
 
 ## plan9dns-mx-doh
@@ -2168,14 +2168,14 @@ sdns://AgcAAAAAAAAADjIxNi4yMzguODAuMjE5IJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jW
 
 Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxN2QxOjU0MDA6NGZmOmZlMDA6MTI2N10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUaGVsaW9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV0gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUaGVsaW9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## plan9dns-mx-ipv6
 
 Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxN2QxOjU0MDA6NGZmOmZlMDA6MTI2N10gwKgBLQ-gqb737l_c0Sd3VL6Oe8w3x0Zs0TQndxXb-6YkMi5kbnNjcnlwdC1jZXJ0LmhlbGlvcy5wbGFuOS1kbnMuY29t
+sdns://AQcAAAAAAAAALVsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV06ODQ0MyDzY_xlD2ImcUnVBJH-rr3lX3QCyrG0-QTWEEEnn1ZE3iQyLmRuc2NyeXB0LWNlcnQuaGVsaW9zLnBsYW45LWRucy5jb20
 
 
 ## plan9dns-nj
