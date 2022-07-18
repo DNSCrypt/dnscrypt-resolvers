@@ -2681,7 +2681,7 @@ sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9j
 Public DNS resolver for Vietnamese in Vietnam. - https://vietdns.vn/
 DOH, no logs, uncensored.
 
-sdns://AgcAAAAAAAAAAAANbnMudmlldGRucy52bgA
+sdns://AgMAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA1ucy52aWV0ZG5zLnZuAA
 
 
 ## vietdns-doh-ads-ipv4
@@ -2689,14 +2689,15 @@ sdns://AgcAAAAAAAAAAAANbnMudmlldGRucy52bgA
 Public DNS resolver for Vietnamese in Vietnam. - https://vietdns.vn/
 Blocks ads, phishing, spam, malware, adware.
 
-sdns://AgcAAAAAAAAAAAAOZG5zLnZpZXRkbnMudm4A
+sdns://AgMAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA5kbnMudmlldGRucy52bgA
+
 
 ## vietdns-doh-kid-ipv4
 
 Public DNS resolver for Vietnamese in Vietnam. - https://vietdns.vn/
 Block ads, malware, phishing, block adult content. Google, Bing and YouTube are set to Safe mode.
 
-sdns://AgcAAAAAAAAAAAAPa2lkcy52aWV0ZG5zLnZuAA
+sdns://AgMAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA9raWRzLnZpZXRkbnMudm4A
 
 
 ## wevpn-singapore
