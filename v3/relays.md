@@ -512,7 +512,7 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 
 Anonymized DNS relay hosted in Sweden - SE
 
-sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
+sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 
 ## anon-techsaviours.org
