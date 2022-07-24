@@ -13,15 +13,6 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## opennic-R4SAS
-
-DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on OVH - https://opennic.i2pd.xyz/
-Location: Paris, France
-Maintained by R4SAS - https://github.com/r4sas
-
-sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
-
-
 ## publicarray-au-doh
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
