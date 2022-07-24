@@ -464,13 +464,6 @@ Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
 sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
 
-## anon-saldnssg01-conoha-ipv4
-
-Hosted on ConoHa VPS Singapore region. No log.
-
-sdns://gRQxNjMuNDQuMTU0LjE0NDo1MDQ0Mw
-
-
 ## anon-scaleway
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
