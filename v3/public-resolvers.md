@@ -2480,20 +2480,6 @@ usage, data never sold - https://safesurfer.io
 sdns://AgAAAAAAAAAAACBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
 
 
-## saldns01-conoha-ipv4
-
-Hosted on ConoHa VPS Tokyo region. No log. No filter.
-
-sdns://AQcAAAAAAAAAFDExOC4yNy4xMDguMTQwOjUwNDQzIJ6mPj1aeYrSINYeUzVU2n9JMTUgalCmDR6OhSlzrFtfIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMS50eXBlcS5vcmc
-
-
-## saldns02-conoha-ipv4
-
-Hosted on ConoHa VPS Tokyo region. No log. No filter.
-
-sdns://AQcAAAAAAAAAFTEzMy4xMzAuMTE4LjEwMzo1MDQ0MyCo72atOPI72UkQcaypJBmUUd1btQTwm1VRxHLioOo19SIyLmRuc2NyeXB0LWNlcnQuc2FsZG5zMDIudHlwZXEub3Jn
-
-
 ## scaleway-ams
 
 DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com
