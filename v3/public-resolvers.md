@@ -2103,6 +2103,11 @@ https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
+## BredDNS Luxembourg
+
+Non-logging DoH server located in Luxembourg, operated by @tmclo
+
+sdns://AQcAAAAAAAAAEjEwNy4xODkuMTQuMTA2OjQ0MyCBrC4PEYdTzHcpQvIX5oZ38GidMaI7PLG4ktcyN8v-9SMyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuYnJlZC5yb2Nrcw
 
 ## opennic-R4SAS
 
