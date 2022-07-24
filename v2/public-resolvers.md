@@ -309,6 +309,14 @@ Hosted in Stockholm, Sweden. (https://dns.brahma.world)
 sdns://AgMAAAAAAAAAJ1syYTA1OmQwMTY6YWY4OjQwMDA6NzcxMDo2ZmM6YmRlMzpmZTBlXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
 
 
+## breddns
+
+BredDNS Luxembourg
+Non-logging DNSCrypt server located in Luxembourg, operated by @tmclo
+
+sdns://AQcAAAAAAAAAEjEwNy4xODkuMTQuMTA2OjQ0MyCBrC4PEYdTzHcpQvIX5oZ38GidMaI7PLG4ktcyN8v-9SMyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuYnJlZC5yb2Nrcw
+
+
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
