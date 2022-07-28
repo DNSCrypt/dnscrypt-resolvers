@@ -435,13 +435,6 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encry
 sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
 
 
-## anon-plan9-ns2
-
-Anonymized DNS relay hosted in Florida, USA. info - https://jlongua.github.io/plan9-dns/
-
-sdns://gRI0NS42My4xMTAuMTg3Ojg0NDM
-
-
 ## anon-pwoss.org
 
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
@@ -468,13 +461,6 @@ sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
 Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
 
 sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
-
-
-## anon-saldnssg01-conoha-ipv4
-
-Hosted on ConoHa VPS Singapore region. No log.
-
-sdns://gRQxNjMuNDQuMTU0LjE0NDo1MDQ0Mw
 
 
 ## anon-scaleway
