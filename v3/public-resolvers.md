@@ -2163,9 +2163,9 @@ sdns://AQcAAAAAAAAALVsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV06ODQ0M
 
 ## plan9dns-nj
 
-Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dnsPiscataway
+Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAADTIwNy4yNDYuODcuOTYg3qzzr6Kya-1TUKQJLHqR9D6k04V7AgRG9Iezl9tZ5q8kMi5kbnNjcnlwdC1jZXJ0Lmtyb25vcy5wbGFuOS1kbnMuY29t
+sdns://AQcAAAAAAAAAEjIwNy4yNDYuODcuOTY6ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
 ## plan9dns-nj-doh
@@ -2180,13 +2180,6 @@ sdns://AgcAAAAAAAAADTIwNy4yNDYuODcuOTYgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaA
 Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
 sdns://AgcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUa3Jvbm9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## plan9dns-nj-ipv6
-
-Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10g3qzzr6Kya-1TUKQJLHqR9D6k04V7AgRG9Iezl9tZ5q8kMi5kbnNjcnlwdC1jZXJ0Lmtyb25vcy5wbGFuOS1kbnMuY29t
 
 
 ## pryv8boi
