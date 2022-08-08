@@ -303,14 +303,6 @@ Hosted in Stockholm, Sweden. (https://dns.brahma.world)
 sdns://AgMAAAAAAAAAJ1syYTA1OmQwMTY6YWY4OjQwMDA6NzcxMDo2ZmM6YmRlMzpmZTBlXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
 
 
-## breddns
-
-BredDNS Luxembourg
-Non-logging DNSCrypt server located in Luxembourg, operated by @tmclo
-
-sdns://AQcAAAAAAAAADjEwNy4xODkuMTQuMTA2IIGsLg8Rh1PMdylC8hfmhnfwaJ0xojs8sbiS1zI3y_71IzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5icmVkLnJvY2tz
-
-
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.
@@ -1097,7 +1089,7 @@ sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPT
 DNSSEC-enabled DoH server by https://xtom.com/
 https://dns.sb/doh/
 
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J14JbAZkb2guc2IKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQZkb2guc2IKL2Rucy1xdWVyeQ
 
 
 ## dns.sb-ipv6
@@ -1105,7 +1097,7 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J
 DNSSEC-enabled DoH server by https://xtom.com/ - IPv6
 https://dns.sb/doh/
 
-sdns://AgcAAAAAAAAACFsyYTA5OjpdIAIoLr3-eoZA4svKMJAk1aDBFdNV-uAyWWHCvXYnXglsBmRvaC5zYgovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACFsyYTA5OjpdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZBmRvaC5zYgovZG5zLXF1ZXJ5
 
 
 ## dns.therifleman.name
@@ -1195,14 +1187,14 @@ sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCn
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAEzE2Ny4xMTQuMjIwLjEyNTo0NTOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984UZG5zMS5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
 
 
 ## dnscrypt.ca-1-doh-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV06NDUzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWRuczEuaXB2Ni5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAJVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984ZZG5zMS5pcHY2LmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
 
 
 ## dnscrypt.ca-1-ipv6
@@ -1217,13 +1209,6 @@ sdns://AQcAAAAAAAAAJVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV0gINkZ1Ow8U
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
 sdns://AQcAAAAAAAAADTE0OS41Ni4yMjguNDUgAQhUqztWp-7505FY_vaCC_-TojV8iRYI254V07vgEYUdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTI
-
-
-## dnscrypt.ca-2-doh
-
-Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
-
-sdns://AgcAAAAAAAAAETE0OS41Ni4yMjguNDU6NDUzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOFGRuczIuZG5zY3J5cHQuY2E6NDUzCi9kbnMtcXVlcnk
 
 
 ## dnscrypt.ca-2-doh-ipv6
@@ -1985,51 +1970,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gU_LXzA6wrtTaDuW0nRCtYP06m1rIt-cu9nrni6MAruEVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
 
 
-## meganerd-ipv6
-
-DNSCrypt server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXTo0NDMgKJ_pX0zoQX_1ej8wfCQM3hkmMRGilIk3yEG5RaD1h4wlMi5kbnNjcnlwdC1jZXJ0LmNoZXdiYWNjYS5tZWdhbmVyZC5ubA
-
-
-## moulticast-ca-ipv6
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Canada | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAAGlsyNjA3OjUzMDA6MjAxOjMxMDA6OjNkZmJdIIKlTUK7MM6AnPvd4XZ6JiNFMJWAt6vNJUffu_TBAt8VHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWNh
-
-
-## moulticast-fr-ipv4
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in France | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAADTE5My4yMDAuNDMuMjUgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
-
-
-## moulticast-sg-ipv4
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Singapore | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAADTUxLjc5LjE1OC4xODMgL4fe2yQRI0ljCMe05zhSmeKGYz-izKVjyE040Ovq-gUdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3Qtc2c
-
-
-## moulticast-sg-ipv6
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in Singapore | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAAGlsyNDAyOjFmMDA6ODAwMDo4MDA6OjEyYmFdIC-H3tskESNJYwjHtOc4UpnihmM_osylY8hNONDr6voFHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXNn
-
-
-## moulticast-uk-ipv4
-
-Public | Non-filtering | Non-logging | DNSSEC aware | Hosted in UK | Operated by @herver (Github) | https://moulticast.net/dnscrypt/
-
-sdns://AQcAAAAAAAAADjUxLjE5NS4yMDAuMTgyIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
-
-
 ## mullvad-adblock-doh
 
 Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
@@ -2109,7 +2049,7 @@ sdns://AQIAAAAAAAAAETUxLjM4LjgzLjE0MTo1MzUzIMwm9_oYw26P4JIVoDhJ_5kFDdNxX1ke4fEzL
 
 Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAADjE0OS4yOC4xMDEuMTE5IFmUAVI27qQFFYxghJAepOb_u1eVB_YFcQV8RFH8YYNoJDIuZG5zY3J5cHQtY2VydC5wbHV0b24ucGxhbjktZG5zLmNvbQ
+sdns://AQcAAAAAAAAAEzE0OS4yOC4xMDEuMTE5Ojg0NDMgVaFV4a8StIfx8fnCxDxVlxppqm-hJYyCKqtMtQENnCwkMi5kbnNjcnlwdC1jZXJ0LnBsdXRvbi5wbGFuOS1kbnMuY29t
 
 
 ## plan9dns-fl-doh
@@ -2126,18 +2066,11 @@ Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/pl
 sdns://AgcAAAAAAAAAJ1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRwbHV0b24ucGxhbjktZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## plan9dns-fl-ipv6
-
-Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXSBZlAFSNu6kBRWMYISQHqTm_7tXlQf2BXEFfERR_GGDaCQyLmRuc2NyeXB0LWNlcnQucGx1dG9uLnBsYW45LWRucy5jb20
-
-
 ## plan9dns-mx
 
 Mexico City, Mexico No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAAEzIxNi4yMzguODAuMjE5Ojg0NDMg82P8ZQ9iJnFJ1QSR_q695V90AsqxtPkE1hBBJ59WRN4kMi5kbnNjcnlwdC1jZXJ0LmhlbGlvcy5wbGFuOS1kbnMuY29t
+sdns://AQcAAAAAAAAAEzIxNi4yMzguODAuMjE5Ojg0NDMgKmPCui35rtOj9yk7c07sEtC_Khyo_9_HcpO23GCroNskMi5kbnNjcnlwdC1jZXJ0LmhlbGlvcy5wbGFuOS1kbnMuY29t
 
 
 ## plan9dns-mx-doh
@@ -2156,9 +2089,9 @@ sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV0gmjo09
 
 ## plan9dns-nj
 
-Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dnsPiscataway
+Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
-sdns://AQcAAAAAAAAADTIwNy4yNDYuODcuOTYg3qzzr6Kya-1TUKQJLHqR9D6k04V7AgRG9Iezl9tZ5q8kMi5kbnNjcnlwdC1jZXJ0Lmtyb25vcy5wbGFuOS1kbnMuY29t
+sdns://AQcAAAAAAAAAEjIwNy4yNDYuODcuOTY6ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
 ## plan9dns-nj-doh
@@ -2173,13 +2106,6 @@ sdns://AgcAAAAAAAAADTIwNy4yNDYuODcuOTYgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaA
 Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
 
 sdns://AgcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUa3Jvbm9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## plan9dns-nj-ipv6
-
-Piscataway New Jersey, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10g3qzzr6Kya-1TUKQJLHqR9D6k04V7AgRG9Iezl9tZ5q8kMi5kbnNjcnlwdC1jZXJ0Lmtyb25vcy5wbGFuOS1kbnMuY29t
 
 
 ## pryv8boi
