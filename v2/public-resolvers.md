@@ -1076,7 +1076,7 @@ sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPT
 DNSSEC-enabled DoH server by https://xtom.com/
 https://dns.sb/doh/
 
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J14JbAZkb2guc2IKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQZkb2guc2IKL2Rucy1xdWVyeQ
 
 
 ## dns.sb-ipv6
@@ -1084,7 +1084,7 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J
 DNSSEC-enabled DoH server by https://xtom.com/ - IPv6
 https://dns.sb/doh/
 
-sdns://AgcAAAAAAAAACFsyYTA5OjpdIAIoLr3-eoZA4svKMJAk1aDBFdNV-uAyWWHCvXYnXglsBmRvaC5zYgovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACFsyYTA5OjpdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZBmRvaC5zYgovZG5zLXF1ZXJ5
 
 
 ## dns.therifleman.name
