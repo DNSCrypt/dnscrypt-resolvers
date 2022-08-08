@@ -450,16 +450,30 @@ Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United Stat
 sdns://gQ03MC4zNi4xNzAuMTI2
 
 
+## anon-saldns01-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region. No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+
+sdns://gRQxMTguMjcuMTA4LjE0MDo1MDQ0Mw
+
+
 ## anon-saldns02-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log.
+Hosted on ConoHa VPS Tokyo region. No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
 
 sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
 
 
+## anon-saldns03-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region. No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+
+sdns://gRQxMzMuMTMwLjk4LjI1MDo1MDQ0Mw
+
+
 ## anon-saldns99-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
+Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
 
 sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
@@ -535,4 +549,3 @@ sdns://gQ8xMDQuMjM4LjE4Ni4xOTI
 Anonymized DNS relay hosted in UK on Vultr
 
 sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
-
