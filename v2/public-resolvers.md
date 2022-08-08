@@ -1181,7 +1181,7 @@ sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAKVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV06NDUzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOGWRuczEuaXB2Ni5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAJVsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTpmODY6ZTY4OV2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984ZZG5zMS5pcHY2LmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
 
 
 ## dnscrypt.ca-1-ipv6
@@ -1957,16 +1957,6 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gU_LXzA6wrtTaDuW0nRCtYP06m1rIt-cu9nrni6MAruEVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
-
-
-## meganerd-ipv6
-
-DNSCrypt server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXTo0NDMgKJ_pX0zoQX_1ej8wfCQM3hkmMRGilIk3yEG5RaD1h4wlMi5kbnNjcnlwdC1jZXJ0LmNoZXdiYWNjYS5tZWdhbmVyZC5ubA
 
 
 ## moulticast-ca-ipv6
