@@ -1174,7 +1174,7 @@ sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCn
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAAEzE2Ny4xMTQuMjIwLjEyNTo0NTOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984UZG5zMS5kbnNjcnlwdC5jYTo0NTMKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
 
 
 ## dnscrypt.ca-1-doh-ipv6
