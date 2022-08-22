@@ -599,13 +599,6 @@ Sofia, Bulgaria DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADjM3LjEyMC4xNTIuMjM1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-ch
-
-Switzerland DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAACzgxLjE3LjMxLjM0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-czech
 
 Prague, Czech Republic DNSCrypt server provided by https://cryptostorm.is/
@@ -1170,13 +1163,6 @@ Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service
 sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCnst84h0yLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMQ
 
 
-## dnscrypt.ca-1-doh
-
-Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
-
-sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
-
-
 ## dnscrypt.ca-1-doh-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
@@ -1726,13 +1712,6 @@ https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
 sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0Ci9kbnMtcXVlcnk
 
 
-## east.comss.one
-
-DNS with adblock filters and antiphishing, gaining popularity among russian-speaking users.
-
-sdns://AQMAAAAAAAAAEjkxLjIzMC4yMTEuNjc6NTQ0MyAVacgDhm0kq-ciz2DrJlPhYjI9v6tAQHbulojEz86TEyIyLmRuc2NyeXB0LWNlcnQuZG5zLmVhc3QuY29tc3Mub25l
-
-
 ## faelix-ch-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
@@ -1929,7 +1908,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
+sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0ICif6V9M6EF_9Xo_MHwkDN4ZJjERopSJN8hBuUWg9YeMJTIuZG5zY3J5cHQtY2VydC5jaGV3YmFjY2EubWVnYW5lcmQubmw
 
 
 ## meganerd-doh-ipv4
@@ -2351,6 +2330,20 @@ sdns://AQcAAAAAAAAAFTEzMy4xMzAuMTE4LjEwMzo1MDQ0MyB7SI0q4_Ff8lFRUCbjPtcAQ3HfdWlLx
 Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
 
 sdns://AQcAAAAAAAAAFDEzMy4xMzAuOTguMjUwOjUwNDQzIFl1NfOwMd24kRlr0mXR4rKo-c_jMV7DBUVooDEY1xFeIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMy50eXBlcS5vcmc
+
+
+## sby-doh-limotelu
+
+non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (DoH) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
+
+sdns://AgcAAAAAAAAADjE5OS4xODAuMTMwLjM5oDUJq9J2eoL0zQJHsLcq9AQ3obsl8h1hFreCavqWy4TdIGpQYrDReNVW8WOxOxsPGUNdAliCkcx1WJ3-5usRyNXDFHNieS1kb2gubGltb3RlbHUub3JnCi9kbnMtcXVlcnk
+
+
+## sby-limotelu
+
+non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (Dnscrypt) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
+
+sdns://AQcAAAAAAAAAEzE5OS4xODAuMTMwLjM5Ojg0NDMg1U5MYSDK58uVdJ8dKtp0UZaCKSG0znwQLVHYKk1QyuwcMi5kbnNjcnlwdC1jZXJ0LnNieS1saW1vdGVsdQ
 
 
 ## scaleway-ams

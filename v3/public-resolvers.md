@@ -1926,7 +1926,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
+sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0ICif6V9M6EF_9Xo_MHwkDN4ZJjERopSJN8hBuUWg9YeMJTIuZG5zY3J5cHQtY2VydC5jaGV3YmFjY2EubWVnYW5lcmQubmw
 
 
 ## meganerd-doh-ipv4
@@ -2374,18 +2374,18 @@ Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental [&mu;ODN
 sdns://AQcAAAAAAAAAFDEzMy4xMzAuOTguMjUwOjUwNDQzIFl1NfOwMd24kRlr0mXR4rKo-c_jMV7DBUVooDEY1xFeIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMy50eXBlcS5vcmc
 
 
-## sby-limotelu
-
-non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (Dnscrypt) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
-
-sdns://AQcAAAAAAAAAEzE5OS4xODAuMTMwLjM5Ojg0NDMg1U5MYSDK58uVdJ8dKtp0UZaCKSG0znwQLVHYKk1QyuwcMi5kbnNjcnlwdC1jZXJ0LnNieS1saW1vdGVsdQ
-
-
 ## sby-doh-limotelu
 
 non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (DoH) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
 
 sdns://AgcAAAAAAAAADjE5OS4xODAuMTMwLjM5oDUJq9J2eoL0zQJHsLcq9AQ3obsl8h1hFreCavqWy4TdIGpQYrDReNVW8WOxOxsPGUNdAliCkcx1WJ3-5usRyNXDFHNieS1kb2gubGltb3RlbHUub3JnCi9kbnMtcXVlcnk
+
+
+## sby-limotelu
+
+non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (Dnscrypt) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
+
+sdns://AQcAAAAAAAAAEzE5OS4xODAuMTMwLjM5Ojg0NDMg1U5MYSDK58uVdJ8dKtp0UZaCKSG0znwQLVHYKk1QyuwcMi5kbnNjcnlwdC1jZXJ0LnNieS1saW1vdGVsdQ
 
 
 ## scaleway-ams
