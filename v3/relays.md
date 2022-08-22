@@ -397,15 +397,6 @@ Anonymized DNS relay in London. https://www.dnscrypt.uk
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
-## anon-ibksturm
-
-Anonymized DNS relay, No Logging, No Filters, DNSSEC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://gQ4xMDkuMjQ4LjQzLjE1NA
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
