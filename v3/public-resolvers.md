@@ -1176,13 +1176,6 @@ Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service
 sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCnst84h0yLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMQ
 
 
-## dnscrypt.ca-1-doh
-
-Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
-
-sdns://AgcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRkbnMxLmRuc2NyeXB0LmNhOjQ1MwovZG5zLXF1ZXJ5
-
-
 ## dnscrypt.ca-1-doh-ipv6
 
 Free, Canadian, uncensored, no-logs, encrypted, and DNSSEC validated DNS service for your pleasure. https://dnscrypt.ca/
