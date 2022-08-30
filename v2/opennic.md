@@ -13,6 +13,26 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## dotya.ml
+
+Free, uncensored, DNSSEC-validated, non-logging DNSCrypt server hosted in Nuremberg, Germany on Contabo servers.
+Operated by dotya.ml, configs live here: https://git.dotya.ml/dotya.ml/dnscrypt-server.
+
+Available over both IPv4 and IPv6.
+
+sdns://AQcAAAAAAAAAETE0NC45MS43MC42Mjo1NDQzIHF-JiN46cNwFXJleEVWGWgrhe2QeysUtZoo9HwzYCMzITIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5kb3R5YS5tbA
+
+
+## dotya.ml-ipv6
+
+Free, uncensored, DNSSEC-validated, non-logging DNSCrypt server hosted in Nuremberg, Germany on Contabo servers.
+Operated by dotya.ml, configs live here: https://git.dotya.ml/dotya.ml/dnscrypt-server.
+
+Available over both IPv4 and IPv6.
+
+sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MjAzMDozOTY6OjFdOjU0NDMgcX4mI3jpw3AVcmV4RVYZaCuF7ZB7KxS1mij0fDNgIzMhMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmRvdHlhLm1s
+
+
 ## publicarray-au-doh
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
