@@ -131,13 +131,6 @@ US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQwyMy4xOS4xMTcuNTU
 
 
-## anon-cs-fl2
-
-US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4xMTcuNTE
-
-
 ## anon-cs-fr
 
 France Anonymized DNS relay server provided by https://cryptostorm.is/
