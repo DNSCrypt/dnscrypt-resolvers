@@ -675,13 +675,6 @@ US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADDIzLjE5LjExNy41NSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-fl2
-
-US - Miami, FL 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADDIzLjE5LjExNy41MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-fr
 
 France DNSCrypt server provided by https://cryptostorm.is/
@@ -1668,13 +1661,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.
 sdns://AgMAAAAAAAAADjEzOS4xNjIuMTEyLjQ3ABJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
-## doh-jp-blahdns-v6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTJmZjpmZTI3OjM0NGJdABJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
 ## doh.appliedprivacy.net
 
 Public DoH resolver operated by the Foundation for Applied Privacy (https://appliedprivacy.net).
@@ -1971,16 +1957,6 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IFPy18wOsK7U2g7ltJ0QrWD9OptayLfnLvZ654ujAK7hFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
-
-
-## meganerd-doh-ipv6
-
-DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gU_LXzA6wrtTaDuW0nRCtYP06m1rIt-cu9nrni6MAruEVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
 
 
 ## mullvad-adblock-doh
