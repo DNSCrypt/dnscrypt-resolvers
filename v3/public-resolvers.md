@@ -267,6 +267,13 @@ AT&T test DoH server.
 sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMzLX5bHX8txvaG7xGRjZ8Tr7aidcxjxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
 
+## banana
+
+Resolver in Lithuania.
+
+sdns://AQcAAAAAAAAAFDIxMy4yNTIuMjQ0LjEwMTo1MzUzIIt8UVUDZEmSdNf7WLmgDg_mr0m2rwt36xnXsVkyLjv1FjIuZG5zY3J5cHQtY2VydC5iYW5hbmE
+
+
 ## bortzmeyer
 
 Non-logging DoH server in France operated by Stéphane Bortzmeyer.
