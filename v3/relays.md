@@ -26,6 +26,13 @@ Anonymized DNS relay hosted in AMS on Scaleway
 sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
 
 
+## anon-banana
+
+Anonymized DNS relay hosted in Lithuania.
+
+sdns://gRQyMTMuMjUyLjI0NC4xMDE6NTM1Mw
+
+
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
