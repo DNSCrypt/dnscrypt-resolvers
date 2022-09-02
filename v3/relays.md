@@ -412,6 +412,13 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encry
 sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
 
 
+## anon-meganerd-ipv6
+
+Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
+
+sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
+
+
 ## anon-pwoss.org
 
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
