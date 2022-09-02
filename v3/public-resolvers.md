@@ -976,6 +976,13 @@ Server provided by Martin 'd0wn' Albus
 sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
 
 
+## dct-at1
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
+
+sdns://AQcAAAAAAAAADDgzLjEzOC41NS4zNiBWtFK5EGeqJCoA9qB6APgcgCUN9FZvR8T22eqqP615MBcyLmRuc2NyeXB0LWNlcnQuZGN0LWF0MQ
+
+
 ## decloudus-nogoogle-tst
 
 Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs.
