@@ -266,6 +266,7 @@ AT&T test DoH server.
 
 sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMzLX5bHX8txvaG7xGRjZ8Tr7aidcxjxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
+
 ## bebasdns
 
 DNS-over-HTTPS server. Non Logging, filters ads and malware.
