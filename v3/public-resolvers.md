@@ -269,9 +269,10 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 ## bebasdns
 
-DNS-over-HTTPS server. Filters ads and malware. Uses Cloudflare, Quad9, Google, OpenDNS & MyRepublic DNS as upstream resolvers.
+DNS-over-HTTPS server. Filters ads and malware. Uses Cloudflare, Quad9 & MyRepublic DNS as upstream resolvers.
 
-sdns://AgAAAAAAAAAADTQ3LjI1NC4xOTIuNjagRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gbRUvhB884La1AiO8t_jyzJR42o-YycLvKk3TLPWMUGQPZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTQ3LjI1NC4xOTIuNjagRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gbRUvhB884La1AiO8t_jyzJR42o-YycLvKk3TLPWMUGQPZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+
 
 ## bortzmeyer
 
