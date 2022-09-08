@@ -267,6 +267,13 @@ AT&T test DoH server.
 sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMzLX5bHX8txvaG7xGRjZ8Tr7aidcxjxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
 
+## bebasdns
+
+DNS-over-HTTPS server run by BebasID. Filters ads and malware. no-logs, support DNSSEC & ECS, Uses Cloudflare, Quad9 & MyRepublic DNS (unfiltered) as upstream resolvers.
+
+sdns://AgMAAAAAAAAADTQ3LjI1NC4xOTIuNjagRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gbRUvhB884La1AiO8t_jyzJR42o-YycLvKk3TLPWMUGQPZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+
+
 ## bortzmeyer
 
 Non-logging DoH server in France operated by Stéphane Bortzmeyer.
