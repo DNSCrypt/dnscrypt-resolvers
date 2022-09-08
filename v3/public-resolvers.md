@@ -269,9 +269,11 @@ sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMz
 
 ## bebasdns
 
-DNS-over-HTTPS server run by BebasID. Filters ads and malware. no-logs, support DNSSEC & ECS, Uses Cloudflare, Quad9 & MyRepublic DNS (unfiltered) as upstream resolvers.
+DNS-over-HTTPS forwarder run by BebasID. Filters ads and malware.
+Uses Cloudflare, Quad9 & MyRepublic DNS (unfiltered) as upstream resolvers.
+https://github.com/bebasid/bebasdns
 
-sdns://AgMAAAAAAAAADTQ3LjI1NC4xOTIuNjagRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984gbRUvhB884La1AiO8t_jyzJR42o-YycLvKk3TLPWMUGQPZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+sdns://AgIAAAAAAAAADTQ3LjI1NC4xOTIuNjagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984PZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
 
 
 ## bortzmeyer
