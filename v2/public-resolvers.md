@@ -134,28 +134,12 @@ Server statistics can be seen at: https://statistics.ahadns.com/?server=in
 sdns://AgMAAAAAAAAADTQ1Ljc5LjEyMC4yMzOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLmluLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
 
 
-## ahadns-doh-in-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Mumbai, India. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=in
-
-sdns://AgMAAAAAAAAAF1syNDAwOjg5MDQ6ZTAwMTo0Mzo6NDNdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRvaC5pbi5haGFkbnMubmV0Ci9kbnMtcXVlcnk
-
-
 ## ahadns-doh-la
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
 Server statistics can be seen at: https://statistics.ahadns.com/?server=la
 
 sdns://AgMAAAAAAAAADTQ1LjY3LjIxOS4yMDigzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLmxhLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
-
-
-## ahadns-doh-la-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=la
-
-sdns://AgMAAAAAAAAAFlsyYTA0OmJkYzc6MTAwOjcwOjo3MF2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLmxhLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## ahadns-doh-nl
@@ -241,13 +225,6 @@ sdns://AQcAAAAAAAAAGlsyYTBjOmI5YzA6Zjo0NTFkOjoxXTo0MzQzIKWHS9r0FoKY--wcnJl1Ar5aO
 Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
 
 sdns://AgcAAAAAAAAADDg5LjM4LjEzMS4zOKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNubC5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
-
-
-## ams-doh-nl-ipv6
-
-Resolver in Amsterdam. DoH protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AgcAAAAAAAAAFVsyYTBjOmI5YzA6Zjo0NTFkOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNubC5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## att
@@ -1969,26 +1946,6 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IFPy18wOsK7U2g7ltJ0QrWD9OptayLfnLvZ654ujAK7hFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
-
-
-## meganerd-doh-ipv6
-
-DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gU_LXzA6wrtTaDuW0nRCtYP06m1rIt-cu9nrni6MAruEVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
-
-
-## meganerd-ipv6
-
-DNSCrypt server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
 
 
 ## mullvad-adblock-doh
