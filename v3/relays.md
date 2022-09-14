@@ -375,7 +375,6 @@ US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is
 
 sdns://gQs0NS4zNS43Mi40Mw
 
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay in London. https://www.dnscrypt.uk
@@ -388,6 +387,13 @@ sdns://gQ0xNjUuMjMyLjMyLjk1
 Anonymized DNS relay in London. https://www.dnscrypt.uk
 
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
+
+
+## anon-dnswarden-swiss
+
+Relay hosted in swizterland. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
+
+sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
 ## anon-inconnu
