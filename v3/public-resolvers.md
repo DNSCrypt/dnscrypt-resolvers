@@ -1381,6 +1381,7 @@ https://www.dnshome.de/ public resolver in Germany
 
 sdns://AgYAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
 
+
 ## dnslow.me
 
 dnslow.me is an open source project, also your advertisement and threat blocking, privacy-first, encrypted DNS.
@@ -1389,7 +1390,7 @@ All DNS requests will be protected with threat-intelligence feeds and randomly d
 
 More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/PeterDaveHello/dnslow.me)
 
-sdns://AgEAAAAAAAAAAAAJZG5zbG93Lm1lCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zglkbnNsb3cubWUKL2Rucy1xdWVyeQ
 
 
 ## dnspod-doh
