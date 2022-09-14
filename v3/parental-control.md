@@ -223,7 +223,7 @@ sdns://AQMAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIBMl4s4AFc1JhxIkiipHn-JRjPztj
 
 Blocks adult content and enforces safe search on major search engines. For further customization look [here](https://dnswarden.com/customfilter.html).
 
-sdns://AgcAAAAAAAAAAAARZG5zLmRuc3dhcmRlbi5jb20ML2FkdWx0ZmlsdGVy
+sdns://AgMAAAAAAAAAAAARZG5zLmRuc3dhcmRlbi5jb20ML2FkdWx0ZmlsdGVy
 
 
 
