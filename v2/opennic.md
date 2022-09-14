@@ -33,6 +33,15 @@ Available over both IPv4 and IPv6.
 sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MjAzMDozOTY6OjFdOjU0NDMgcX4mI3jpw3AVcmV4RVYZaCuF7ZB7KxS1mij0fDNgIzMhMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmRvdHlhLm1s
 
 
+## ibksturm
+
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC, OPENNIC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgKmPSv6jOgF7lERDduUMH7a4Z5ShV7PrD-IcS23XUsPkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
+
 ## publicarray-au-doh
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com

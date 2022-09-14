@@ -1749,7 +1749,6 @@ Running privately by ibksturm in Thurgau, Switzerland
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgKmPSv6jOgF7lERDduUMH7a4Z5ShV7PrD-IcS23XUsPkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
-
 ## id-gmail
 
 Non-Logging DNSCrypt server located in Singapore.
