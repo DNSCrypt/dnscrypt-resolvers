@@ -1382,6 +1382,17 @@ https://www.dnshome.de/ public resolver in Germany
 sdns://AgYAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
 
 
+## dnslow.me
+
+dnslow.me is an open source project, also your advertisement and threat blocking, privacy-first, encrypted DNS.
+
+All DNS requests will be protected with threat-intelligence feeds and randomly distributed to some other DNS resolvers.
+
+More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/PeterDaveHello/dnslow.me)
+
+sdns://AgAAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zglkbnNsb3cubWUKL2Rucy1xdWVyeQ
+
+
 ## dnspod-doh
 
 A public DNS resolver in mainland China provided by DNSPod (Tencent Cloud).
@@ -1674,11 +1685,11 @@ sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmI
 
 ## ibksturm
 
-DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC, OPENNIC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgKmPSv6jOgF7lERDduUMH7a4Z5ShV7PrD-IcS23XUsPkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## id-gmail
