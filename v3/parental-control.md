@@ -219,60 +219,12 @@ Provided by: https://dnsforfamily.com
 sdns://AQMAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIBMl4s4AFc1JhxIkiipHn-JRjPztjg55wwsHzhoQAo-tEGRuc2ZvcmZhbWlseS5jb20
 
 
-## dnswarden-adult-fr1-dc
+## dnswarden-adult-doh
 
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
+Blocks adult content and enforces safe search on major search engines. For further customization look [here](https://dnswarden.com/customfilter.html).
 
-sdns://AQMAAAAAAAAAEjE0MS45NS4xNjAuMzg6MjA1MyBb2ys5hOrqMVXyrUT4kA4waTiPT-6wOM70BK9wQDnsXB8yLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLWFkdWx0
+sdns://AgMAAAAAAAAAAAARZG5zLmRuc3dhcmRlbi5jb20ML2FkdWx0ZmlsdGVy
 
-
-## dnswarden-adult-fr1-doh
-
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AgMAAAAAAAAADTE0MS45NS4xNjAuMzggRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZnIxLmRuc3dhcmRlbi5jb20ML2FkdWx0ZmlsdGVy
-
-
-## dnswarden-adult-ind1-dc
-
-Hosted in India. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AQMAAAAAAAAAEzE2NS4yMzIuMTg2Ljk1OjIwNTMgLr0BcXSh2_NLrkNA0Uv4OoXFAuMvb4F_TSgLvIkRZR8fMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi1hZHVsdA
-
-
-## dnswarden-adult-ind1-doh
-
-Hosted in India. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AgMAAAAAAAAADjE2NS4yMzIuMTg2Ljk1IEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEmluZDEuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
-
-
-## dnswarden-adult-sg1-dc
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AQMAAAAAAAAAEzE1LjIzNS4xNDEuMjA4OjIwNTMgkH4uLCjql6JM6bKO-vmgOnW0kuoLEO3VN8J5-vdF7uUfMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi1hZHVsdA
-
-
-## dnswarden-adult-sg1-doh
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).  Blocks adult content and enforces safe search on major search engines.
-
-sdns://AgMAAAAAAAAADjE1LjIzNS4xNDEuMjA4IEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEXNnMS5kbnN3YXJkZW4uY29tDC9hZHVsdGZpbHRlcg
-
-
-## dnswarden-adult-us1-dc
-
-Hosted in USA (Dallas) . For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AQMAAAAAAAAAEzE0OS4yOC4yNDQuMTMxOjIwNTMgn9q8wrULNpalR4ThCg7gE1yRhQ4uacOoqXoelOvSXjQfMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi1hZHVsdA
-
-
-## dnswarden-adult-us1-doh
-
-Hosted in USA (Dallas) . For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AgMAAAAAAAAADjE0OS4yOC4yNDQuMTMxIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEXVzMS5kbnN3YXJkZW4uY29tDC9hZHVsdGZpbHRlcg
 
 
 ## doh-cleanbrowsing-adult
