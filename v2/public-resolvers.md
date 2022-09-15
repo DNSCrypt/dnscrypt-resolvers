@@ -2004,13 +2004,6 @@ and YouTube are set to Safe mode.
 sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTZhMjpkMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
 
 
-## pwoss.org-dnscrypt
-
-No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://pwoss.org/ (Dan)
-
-sdns://AQcAAAAAAAAAEzQ1LjE0Mi4xNzYuMTcwOjQ0MzQgZF8FTkuFVFw6YP5x8ydebnTb8ONP7Ti6P0K1REyhUHgZMi5kbnNjcnlwdC1jZXJ0LnB3b3NzLm9yZw
-
-
 ## quad101
 
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
