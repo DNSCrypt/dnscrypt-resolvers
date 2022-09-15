@@ -221,10 +221,10 @@ sdns://AQMAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIBMl4s4AFc1JhxIkiipHn-JRjPztj
 
 ## dnswarden-adult-doh
 
-Blocks adult content and enforces safe search on major search engines. For further customization look [here](https://dnswarden.com/customfilter.html).
+Blocks adult content and enforces safe search on major search engines.
+For further customization look here: https://dnswarden.com/customfilter.html
 
-sdns://AgMAAAAAAAAAAAARZG5zLmRuc3dhcmRlbi5jb20ML2FkdWx0ZmlsdGVy
-
+sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
 
 
 ## doh-cleanbrowsing-adult

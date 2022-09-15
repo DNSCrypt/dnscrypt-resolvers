@@ -760,13 +760,6 @@ Milan, Italy DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADzIxNy4xMzguMjE5LjIxOSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-montreal
-
-Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADjE2Ny4xMTQuODQuMTMyIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-montreal2
 
 Montreal, Canada 2 DNSCrypt server provided by https://cryptostorm.is/
@@ -1389,88 +1382,29 @@ https://www.dnspod.cn/Products/Public.DNS?lang=en
 sdns://AgAAAAAAAAAAACDBlAfoWsQD52fP2oOBh_Ag-lY6yBaIr1EMIqd559RaVgdkb2gucHViCi9kbnMtcXVlcnk
 
 
-## dnswarden-adblock-fr1-dc
+## dnswarden-adult-doh
 
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
+Blocks adult content and enforces safe search on major search engines.
+For further customization look here: https://dnswarden.com/customfilter.html
 
-sdns://AQMAAAAAAAAAEjE0MS45NS4xNjAuMzg6MTQ0MyBb2ys5hOrqMVXyrUT4kA4waTiPT-6wOM70BK9wQDnsXCEyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLWFkYmxvY2s
-
-
-## dnswarden-adblock-fr1-doh
-
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AgMAAAAAAAAADTE0MS45NS4xNjAuMzigzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZnIxLmRuc3dhcmRlbi5jb20IL2FkYmxvY2s
+sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
 
 
-## dnswarden-adblock-sg1-dc
+## dnswarden-uncensor-dc
 
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
+Hosted in multiple locations.
+For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
+Note: Anonymized DNS may not work for this server.
 
-sdns://AQMAAAAAAAAAEzE1LjIzNS4xNDEuMjA4OjE0NDMgkH4uLCjql6JM6bKO-vmgOnW0kuoLEO3VN8J5-vdF7uUhMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi1hZGJsb2Nr
-
-
-## dnswarden-adblock-sg1-doh
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AgMAAAAAAAAADjE1LjIzNS4xNDEuMjA4oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEXNnMS5kbnN3YXJkZW4uY29tCC9hZGJsb2Nr
+sdns://AQcAAAAAAAAADDEzNy42Ni42LjE0NiDg_LCuCApY3CtucAKfyQyqk3g9NAq607r906qVDWVBLiwyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLXVuY2Vuc29yZWQtYW55Y2FzdA
 
 
-## dnswarden-adult-fr1-dc
+## dnswarden-uncensor-dc-swiss
 
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
+Hosted in switzerland.
+For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
 
-sdns://AQMAAAAAAAAAEjE0MS45NS4xNjAuMzg6MjA1MyBb2ys5hOrqMVXyrUT4kA4waTiPT-6wOM70BK9wQDnsXB8yLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLWFkdWx0
-
-
-## dnswarden-adult-fr1-doh
-
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AgMAAAAAAAAADTE0MS45NS4xNjAuMzigzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZnIxLmRuc3dhcmRlbi5jb20ML2FkdWx0ZmlsdGVy
-
-
-## dnswarden-adult-sg1-dc
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com). Blocks adult content and enforces safe search on major search engines.
-
-sdns://AQMAAAAAAAAAEzE1LjIzNS4xNDEuMjA4OjIwNTMgkH4uLCjql6JM6bKO-vmgOnW0kuoLEO3VN8J5-vdF7uUfMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi1hZHVsdA
-
-
-## dnswarden-adult-sg1-doh
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).  Blocks adult content and enforces safe search on major search engines.
-
-sdns://AgMAAAAAAAAADjE1LjIzNS4xNDEuMjA4oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEXNnMS5kbnN3YXJkZW4uY29tDC9hZHVsdGZpbHRlcg
-
-
-## dnswarden-uncensor-fr1-dc
-
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AQcAAAAAAAAAEjE0MS45NS4xNjAuMzg6NTM1MyBb2ys5hOrqMVXyrUT4kA4waTiPT-6wOM70BK9wQDnsXCQyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLXVuY2Vuc29yZWQ
-
-
-## dnswarden-uncensor-fr1-doh
-
-Hosted in France. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AgcAAAAAAAAADTE0MS45NS4xNjAuMzigzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZnIxLmRuc3dhcmRlbi5jb20LL3VuY2Vuc29yZWQ
-
-
-## dnswarden-uncensor-sg1-dc
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AQcAAAAAAAAAEzE1LjIzNS4xNDEuMjA4OjUzNTMgkH4uLCjql6JM6bKO-vmgOnW0kuoLEO3VN8J5-vdF7uUkMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi11bmNlbnNvcmVk
-
-
-## dnswarden-uncensor-sg1-doh
-
-Hosted in Singapore. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AgcAAAAAAAAADjE1LjIzNS4xNDEuMjA4oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEXNnMS5kbnN3YXJkZW4uY29tCy91bmNlbnNvcmVk
+sdns://AQcAAAAAAAAAFDE4OC4yNDQuMTE3LjExNDoxNDQzIOK0J6XON4YjPmXjlonI5Lx0ZenB5Din7hrX-8uYlDxHKjIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tdW5jZW5zb3JlZC1zd2lzcw
 
 
 ## doh-ch-blahdns

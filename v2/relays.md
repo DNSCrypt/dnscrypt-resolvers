@@ -202,13 +202,6 @@ Manchester, England Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gQ0xOTUuMTIuNDguMTcx
 
 
-## anon-cs-milan
-
-Milan, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8yMTcuMTM4LjIxOS4yMTk
-
-
 ## anon-cs-montreal
 
 Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -391,6 +384,14 @@ Anonymized DNS relay in London. https://www.dnscrypt.uk
 sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
 
 
+## anon-dnswarden-swiss
+
+Relay hosted in swizterland.
+For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
+
+sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
@@ -411,20 +412,6 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
 sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
-
-
-## anon-meganerd-ipv6
-
-Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
-
-sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
-
-
-## anon-pwoss.org
-
-Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://pwoss.org (Dan)
-
-sdns://gRM0NS4xNDIuMTc2LjE3MDo0NDM0
 
 
 ## anon-resolver4.dns.openinternet.io

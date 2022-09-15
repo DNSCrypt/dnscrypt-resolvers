@@ -35,14 +35,7 @@ dnsforfamily-doh
 dnsforfamily-doh-no-safe-search
 dnsforfamily-no-safe-search
 dnsforfamily-v6
-dnswarden-adult-fr1-dc
-dnswarden-adult-fr1-doh
-dnswarden-adult-ind1-dc
-dnswarden-adult-ind1-doh
-dnswarden-adult-sg1-dc
-dnswarden-adult-sg1-doh
-dnswarden-adult-us1-dc
-dnswarden-adult-us1-doh
+dnswarden-adult-doh
 doh-cleanbrowsing-adult
 doh-cleanbrowsing-family
 puredns-family-doh

@@ -773,13 +773,6 @@ Milan, Italy DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADzIxNy4xMzguMjE5LjIxOSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-montreal
-
-Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADjE2Ny4xMTQuODQuMTMyIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-montreal2
 
 Montreal, Canada 2 DNSCrypt server provided by https://cryptostorm.is/
@@ -1402,20 +1395,29 @@ https://www.dnspod.cn/Products/Public.DNS?lang=en
 sdns://AgAAAAAAAAAAACDBlAfoWsQD52fP2oOBh_Ag-lY6yBaIr1EMIqd559RaVgdkb2gucHViCi9kbnMtcXVlcnk
 
 
+## dnswarden-adult-doh
 
-## dnswarden-uncensor-dc-swiss
+Blocks adult content and enforces safe search on major search engines.
+For further customization look here: https://dnswarden.com/customfilter.html
 
-Hosted in switzerland. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-
-sdns://AQcAAAAAAAAAFDE4OC4yNDQuMTE3LjExNDoxNDQzIOK0J6XON4YjPmXjlonI5Lx0ZenB5Din7hrX-8uYlDxHKjIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tdW5jZW5zb3JlZC1zd2lzcw
+sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
 
 
 ## dnswarden-uncensor-dc
 
-Hosted in multiple locations. For more information look [here](https://github.com/bhanupratapys/dnswarden) or [here](https://dnswarden.com).
-Note: Anonymized dns may not work for this server.
+Hosted in multiple locations.
+For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
+Note: Anonymized DNS may not work for this server.
 
-sdns://AQcAAAAAAAAAEDEzNy42Ni42LjE0Njo0NDMg4PywrggKWNwrbnACn8kMqpN4PTQKutO6_dOqlQ1lQS4sMi5kbnNjcnlwdC1jZXJ0LmRuc3dhcmRlbi11bmNlbnNvcmVkLWFueWNhc3Q
+sdns://AQcAAAAAAAAADDEzNy42Ni42LjE0NiDg_LCuCApY3CtucAKfyQyqk3g9NAq607r906qVDWVBLiwyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLXVuY2Vuc29yZWQtYW55Y2FzdA
+
+
+## dnswarden-uncensor-dc-swiss
+
+Hosted in switzerland.
+For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
+
+sdns://AQcAAAAAAAAAFDE4OC4yNDQuMTE3LjExNDoxNDQzIOK0J6XON4YjPmXjlonI5Lx0ZenB5Din7hrX-8uYlDxHKjIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tdW5jZW5zb3JlZC1zd2lzcw
 
 
 ## doh-ch-blahdns
