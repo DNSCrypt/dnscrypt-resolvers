@@ -201,13 +201,6 @@ Manchester, England Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gQ0xOTUuMTIuNDguMTcx
 
 
-## anon-cs-montreal
-
-Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xNjcuMTE0Ljg0LjEzMg
-
-
 ## anon-cs-montreal2
 
 Montreal, Canada 2 Anonymized DNS relay server provided by https://cryptostorm.is/
