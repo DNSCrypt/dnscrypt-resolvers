@@ -1824,7 +1824,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IFPy18wOsK7U2g7ltJ0QrWD9OptayLfnLvZ654ujAK7hFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IJRq0Q0bVAt-COHOCim4PL_Nyl_hsJ6bi7sOV67HMIVpFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## mullvad-adblock-doh
