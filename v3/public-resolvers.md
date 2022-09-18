@@ -2321,6 +2321,20 @@ non-censoring, non-logging, DNSSEC-capable based on official docker image hosted
 sdns://AQcAAAAAAAAAGlsyNDAwOjYxODA6MDpkMDo6ZmY4OjcwMDFdIMLRw9hOLUWEcMQdArm8AZVHJmCg2F37Asq5oIgsfC0yGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
 
 
+## starrydns
+
+DNSCrypt server in Singapore, no filter, no logs, DNSSEC support
+
+sdns://AQcAAAAAAAAADzUyLjc3LjMuMjE1OjQ0MyA2_WM6DG8Pgw-EJdBhvpmhrLihQhKK_wFuvYuzZb1rlyAyLmRuc2NyeXB0LWNlcnQuc3RhcnJ5ZG5zLnBsYW5ldA
+
+
+## starrydns-ipv6
+
+DNSCrypt server in Singapore, no filter, no logs, DNSSEC support (IPv6 server)
+
+sdns://AQcAAAAAAAAALFsyNDA2OmRhMTg6Njc2OjQxMDI6ODdiOTplMjk5OjJhNWE6ODk0Yl06NDQzIDb9YzoMbw-DD4Ql0GG-maGsuKFCEor_AW69i7NlvWuXIDIuZG5zY3J5cHQtY2VydC5zdGFycnlkbnMucGxhbmV0
+
+
 ## sth-ads-doh-se
 
 Resolver in Stockholm, Sweden. DoH server. Non-logging, remove ads and malware, DNSSEC.
