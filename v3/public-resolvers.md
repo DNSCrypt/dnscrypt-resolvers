@@ -2408,6 +2408,13 @@ DoH server provided by Tsinghua University TUNA Association, located in mainland
 sdns://AgEAAAAAAAAACTEwMS42LjYuNiBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA4xMDEuNi42LjY6ODQ0MwovZG5zLXF1ZXJ5
 
 
+## uncensored
+
+Uncensored resolver in Ukraine.
+
+sdns://AQcAAAAAAAAAEzE5My4yMTguMTE4Ljk0OjUzNTMgfaAk-OVlAV1550IQ6vvE9EoEBOplg13A9kthLA7SpbkaMi5kbnNjcnlwdC1jZXJ0LnVuY2Vuc29yZWQ
+
+
 ## uncensoreddns-dk-ipv4
 
 Also known as censurfridns.
