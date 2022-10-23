@@ -1746,7 +1746,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
+sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0ICif6V9M6EF_9Xo_MHwkDN4ZJjERopSJN8hBuUWg9YeMJTIuZG5zY3J5cHQtY2VydC5jaGV3YmFjY2EubWVnYW5lcmQubmw
 
 
 ## meganerd-doh-ipv4
@@ -1775,7 +1775,7 @@ Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolv
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgMAAAAAAAAAACD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6EhdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 
 ## mullvad-doh
@@ -1784,7 +1784,7 @@ Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS reso
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgcAAAAAAAAAACD5_zfwLmMstzhwJcB-V5CKPTcbfJXYzdA5DeIx7ZQ6Eg9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6A9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
 ## nextdns
@@ -2195,14 +2195,14 @@ sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01W
 
 DNSCrypt server in Singapore, no filter, no logs, DNSSEC support
 
-sdns://AQcAAAAAAAAADzUyLjc3LjMuMjE1OjQ0MyA2_WM6DG8Pgw-EJdBhvpmhrLihQhKK_wFuvYuzZb1rlyAyLmRuc2NyeXB0LWNlcnQuc3RhcnJ5ZG5zLnBsYW5ldA
+sdns://AQcAAAAAAAAACzUyLjc3LjMuMjE1IDb9YzoMbw-DD4Ql0GG-maGsuKFCEor_AW69i7NlvWuXIDIuZG5zY3J5cHQtY2VydC5zdGFycnlkbnMucGxhbmV0
 
 
 ## starrydns-ipv6
 
 DNSCrypt server in Singapore, no filter, no logs, DNSSEC support (IPv6 server)
 
-sdns://AQcAAAAAAAAALFsyNDA2OmRhMTg6Njc2OjQxMDI6ODdiOTplMjk5OjJhNWE6ODk0Yl06NDQzIDb9YzoMbw-DD4Ql0GG-maGsuKFCEor_AW69i7NlvWuXIDIuZG5zY3J5cHQtY2VydC5zdGFycnlkbnMucGxhbmV0
+sdns://AQcAAAAAAAAAKFsyNDA2OmRhMTg6Njc2OjQxMDI6ODdiOTplMjk5OjJhNWE6ODk0Yl0gNv1jOgxvD4MPhCXQYb6Zoay4oUISiv8Bbr2Ls2W9a5cgMi5kbnNjcnlwdC1jZXJ0LnN0YXJyeWRucy5wbGFuZXQ
 
 
 ## sth-ads-doh-se
