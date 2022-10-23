@@ -82,19 +82,6 @@ By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
 
-## cleanbrowsing-adult-ipv6
-
-Blocks access to all adult, pornographic and explicit sites. It does
-not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
-are allowed. Google and Bing are set to the Safe Mode.
-
-Warning: This server is incompatible with anonymization.
-
-By https://cleanbrowsing.org/
-
-sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
-
-
 ## cleanbrowsing-family
 
 Blocks access to all adult, pornographic and explicit sites. It also
@@ -107,20 +94,6 @@ Warning: This server is incompatible with anonymization.
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
-
-
-## cleanbrowsing-family-ipv6
-
-Blocks access to all adult, pornographic and explicit sites. It also
-blocks proxy and VPN domains that are used to bypass the filters.
-Mixed content sites (like Reddit) are also blocked. Google, Bing and
-Youtube are set to the Safe Mode.
-
-Warning: This server is incompatible with anonymization.
-
-By https://cleanbrowsing.org/
-
-sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
 
 
 ## cloudflare-family
@@ -248,24 +221,6 @@ Youtube are set to the Safe Mode.
 By https://cleanbrowsing.org/
 
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
-
-
-## puredns-family-doh
-
-Public DNS resolver for Families in Indonesia - https://puredns.org/family/
-Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
-and YouTube are set to Safe mode.
-
-sdns://AgMAAAAAAAAADTE0Ni4xOTAuNi4xNDCgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
-
-
-## puredns-family-doh-ipv6
-
-Public DNS resolver for Families in Indonesia - https://puredns.org/family/
-Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
-and YouTube are set to Safe mode.
-
-sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTZhMjpkMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## safesurfer

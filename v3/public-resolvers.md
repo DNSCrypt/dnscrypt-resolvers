@@ -399,19 +399,6 @@ By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
 
 
-## cleanbrowsing-adult-ipv6
-
-Blocks access to all adult, pornographic and explicit sites. It does
-not block proxy or VPNs, nor mixed-content sites. Sites like Reddit
-are allowed. Google and Bing are set to the Safe Mode.
-
-Warning: This server is incompatible with anonymization.
-
-By https://cleanbrowsing.org/
-
-sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
-
-
 ## cleanbrowsing-family
 
 Blocks access to all adult, pornographic and explicit sites. It also
@@ -424,20 +411,6 @@ Warning: This server is incompatible with anonymization.
 By https://cleanbrowsing.org/
 
 sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
-
-
-## cleanbrowsing-family-ipv6
-
-Blocks access to all adult, pornographic and explicit sites. It also
-blocks proxy and VPN domains that are used to bypass the filters.
-Mixed content sites (like Reddit) are also blocked. Google, Bing and
-Youtube are set to the Safe Mode.
-
-Warning: This server is incompatible with anonymization.
-
-By https://cleanbrowsing.org/
-
-sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
 
 
 ## cleanbrowsing-security
@@ -1140,20 +1113,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyCFE6lrxOCDS5UNY7UC6NPi1U0ElmsmApM06QcduiP8KxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 
-## dnscrypt-sg-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAEzE5Mi41My4xNzUuMTQ5Ojg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## dnscrypt-sg-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Singapore. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAJVsyNDAwOjg5MDE6OmYwM2M6OTJmZjpmZTI3Ojg3MGFdOjg0NDMghROpa8Tgg0uVDWO1AujT4tVNBJZrJgKTNOkHHboj_CsbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
 ## dnscrypt.be
 
 Resolver in Leuven, Belgium (UCLL Campus Proximus). Non-logging/DNSSEC/Uncensored. https://dnscrypt.be
@@ -1384,15 +1343,6 @@ All DNS requests will be protected with threat-intelligence feeds and randomly d
 More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/PeterDaveHello/dnslow.me)
 
 sdns://AgAAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zglkbnNsb3cubWUKL2Rucy1xdWVyeQ
-
-
-## dnspod-doh
-
-A public DNS resolver in mainland China provided by DNSPod (Tencent Cloud).
-
-https://www.dnspod.cn/Products/Public.DNS?lang=en
-
-sdns://AgAAAAAAAAAAACDBlAfoWsQD52fP2oOBh_Ag-lY6yBaIr1EMIqd559RaVgdkb2gucHViCi9kbnMtcXVlcnk
 
 
 ## dnswarden-adult-doh
@@ -1837,16 +1787,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gcmltERMgbbjFDcVX5WLuhjrxlyeHvbfaW49CQMPMMLsVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
 
 
-## meganerd-ipv6
-
-DNSCrypt server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXTo0NDMgKJ_pX0zoQX_1ej8wfCQM3hkmMRGilIk3yEG5RaD1h4wlMi5kbnNjcnlwdC1jZXJ0LmNoZXdiYWNjYS5tZWdhbmVyZC5ubA
-
-
 ## mullvad-adblock-doh
 
 Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
@@ -2006,40 +1946,6 @@ DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
-
-
-## puredns-doh
-
-Public uncensored DNS resolver in Singapore - https://puredns.org
-** Only available in Indonesia and Singapore **
-
-sdns://AgcAAAAAAAAADDE0Ni4xOTAuNi4xM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
-
-
-## puredns-doh-ipv6
-
-Public uncensored DNS resolver in Singapore - https://puredns.org
-** Only available in Indonesia and Singapore **
-
-sdns://AgcAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTExMTpjMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
-
-
-## puredns-family-doh
-
-Public DNS resolver for Families in Indonesia - https://puredns.org/family/
-Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
-and YouTube are set to Safe mode.
-
-sdns://AgMAAAAAAAAADTE0Ni4xOTAuNi4xNDCgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
-
-
-## puredns-family-doh-ipv6
-
-Public DNS resolver for Families in Indonesia - https://puredns.org/family/
-Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
-and YouTube are set to Safe mode.
-
-sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTZhMjpkMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## quad101
@@ -2327,20 +2233,6 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
 
-## sgp-dn53
-
-non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
-
-sdns://AQcAAAAAAAAADTE1OS4yMjMuNDcuMjkgwtHD2E4tRYRwxB0CubwBlUcmYKDYXfsCyrmgiCx8LTIYMi5kbnNjcnlwdC1jZXJ0LnNncC1kbjUz
-
-
-## sgp-dn53-ipv6
-
-non-censoring, non-logging, DNSSEC-capable based on official docker image hosted in Singapore
-
-sdns://AQcAAAAAAAAAGlsyNDAwOjYxODA6MDpkMDo6ZmY4OjcwMDFdIMLRw9hOLUWEcMQdArm8AZVHJmCg2F37Asq5oIgsfC0yGDIuZG5zY3J5cHQtY2VydC5zZ3AtZG41Mw
-
-
 ## starrydns
 
 DNSCrypt server in Singapore, no filter, no logs, DNSSEC support
@@ -2406,13 +2298,6 @@ sdns://AQcAAAAAAAAAEjQ1LjEzMi4yNDUuOTU6NDQzNCAaKOG7s_XPRo0TVYMDCtgWPemMyDThFEe1o
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
 
 sdns://AgEAAAAAAAAACTEwMS42LjYuNiBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA4xMDEuNi42LjY6ODQ0MwovZG5zLXF1ZXJ5
-
-
-## uncensored
-
-Uncensored resolver in Ukraine.
-
-sdns://AQcAAAAAAAAAEzE5My4yMTguMTE4Ljk0OjUzNTMgfaAk-OVlAV1550IQ6vvE9EoEBOplg13A9kthLA7SpbkaMi5kbnNjcnlwdC1jZXJ0LnVuY2Vuc29yZWQ
 
 
 ## uncensoreddns-dk-ipv4
