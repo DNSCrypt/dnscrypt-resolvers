@@ -1327,13 +1327,6 @@ Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
-## dnshome-doh
-
-https://www.dnshome.de/ public resolver in Germany
-
-sdns://AgYAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
-
-
 ## dnslow.me
 
 dnslow.me is an open source project, also your advertisement and threat blocking, privacy-first, encrypted DNS.
