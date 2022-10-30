@@ -1727,16 +1727,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IHJpbRETIG24xQ3FV-Vi7oY68Zcnh7232luPQkDDzDC7FWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
-## meganerd-doh-ipv6
-
-DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gcmltERMgbbjFDcVX5WLuhjrxlyeHvbfaW49CQMPMMLsVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
-
-
 ## mullvad-adblock-doh
 
 Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
