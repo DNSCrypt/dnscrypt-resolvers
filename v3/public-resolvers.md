@@ -168,14 +168,6 @@ Server statistics can be seen at: https://statistics.ahadns.com/?server=ny
 sdns://AgMAAAAAAAAADjE4NS4yMTMuMjYuMTg3oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRvaC5ueS5haGFkbnMubmV0Ci9kbnMtcXVlcnk
 
 
-## ahadns-doh-ny-ipv6
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in New York. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=ny
-
-sdns://AgMAAAAAAAAAE1syYTBkOjU2MDA6MzM6Mzo6M12gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLm55LmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
-
-
 ## ahadns-doh-pl
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Poland. By https://ahadns.com/
