@@ -1412,6 +1412,20 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdn
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## doh-jp-blahdns
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAADDIxMi41Mi4wLjEyMgASZG9oLWpwLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
+
+
+## doh-jp-blahdns-v6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAAFVsyNDA2OmVmODA6NDoxNTM3OjoxXQASZG9oLWpwLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
+
+
 ## doh-ibksturm
 
 DoH & DoT Server, No Logging, No Filters, DNSSEC
