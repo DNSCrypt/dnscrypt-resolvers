@@ -1099,20 +1099,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdn
 sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyCFE6lrxOCDS5UNY7UC6NPi1U0ElmsmApM06QcduiP8KxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 
-## dnscrypt-jp-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAETIxMi41Mi4wLjEyMjo4NDQzIIUTqWvE4INLlQ1jtQLo0-LVTQSWayYCkzTpBx26I_wrGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
-
-## dnscrypt-jp-blahdns-ipv6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAGlsyNDA2OmVmODA6NDoxNTM3OjoxXTo4NDQzIIUTqWvE4INLlQ1jtQLo0-LVTQSWayYCkzTpBx26I_wrGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
-
 ## dnscrypt.be
 
 Resolver in Leuven, Belgium (UCLL Campus Proximus). Non-logging/DNSSEC/Uncensored. https://dnscrypt.be
@@ -1426,6 +1412,15 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Finland. By https://blahdn
 sdns://AgMAAAAAAAAAF1syYTAxOjRmOTpjMDEwOjQzY2U6OjFdABJkb2gtZmkuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## doh-ibksturm
+
+DoH & DoT Server, No Logging, No Filters, DNSSEC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+
+
 ## doh-jp-blahdns
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
@@ -1438,15 +1433,6 @@ sdns://AgMAAAAAAAAADDIxMi41Mi4wLjEyMiC00mapDYeq93KU38D1wQdQ8CGA8TJtF_1fknJi-Udrx
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
 
 sdns://AgMAAAAAAAAAFVsyNDA2OmVmODA6NDoxNTM3OjoxXSC00mapDYeq93KU38D1wQdQ8CGA8TJtF_1fknJi-UdrxBJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## doh-ibksturm
-
-DoH & DoT Server, No Logging, No Filters, DNSSEC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
 
 ## doh.appliedprivacy.net

@@ -1436,6 +1436,20 @@ Running privately by ibksturm in Thurgau, Switzerland
 sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
 
+## doh-jp-blahdns
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAADDIxMi41Mi4wLjEyMiC00mapDYeq93KU38D1wQdQ8CGA8TJtF_1fknJi-UdrxBJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## doh-jp-blahdns-v6
+
+Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
+
+sdns://AgMAAAAAAAAAFVsyNDA2OmVmODA6NDoxNTM3OjoxXSC00mapDYeq93KU38D1wQdQ8CGA8TJtF_1fknJi-UdrxBJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## doh.appliedprivacy.net
 
 Public DoH resolver operated by the Foundation for Applied Privacy (https://appliedprivacy.net).
