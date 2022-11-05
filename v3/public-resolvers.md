@@ -941,6 +941,13 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Düsseldorf, Germa
 sdns://AQcAAAAAAAAAFDEwMy4xNTguMjIzLjE2Mjo4NDQzIMyMcx-PSqcGqQgDXSsH4n9z5OKrTavSmV8mOton7CW7FzIuZG5zY3J5cHQtY2VydC5kY3QtZGUx
 
 
+## dct-nl1
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Naaldwijk, Netherlands.
+
+sdns://AQcAAAAAAAAADjIzLjEzNy4yNDkuMTE2IHMpw-wvp4z1FZcW_2ZmwKokMZTOL9AjG-lxUwgzs27IFzIuZG5zY3J5cHQtY2VydC5kY3Qtbmwx
+
+
 ## dct-ru1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
