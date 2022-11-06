@@ -941,6 +941,13 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Düsseldorf, Germa
 sdns://AQcAAAAAAAAAFDEwMy4xNTguMjIzLjE2Mjo4NDQzIMyMcx-PSqcGqQgDXSsH4n9z5OKrTavSmV8mOton7CW7FzIuZG5zY3J5cHQtY2VydC5kY3QtZGUx
 
 
+## dct-nl1
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Naaldwijk, Netherlands.
+
+sdns://AQcAAAAAAAAADjIzLjEzNy4yNDkuMTE2IHMpw-wvp4z1FZcW_2ZmwKokMZTOL9AjG-lxUwgzs27IFzIuZG5zY3J5cHQtY2VydC5kY3Qtbmwx
+
+
 ## dct-ru1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
@@ -1895,6 +1902,42 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
 
 
+## puredns-doh
+
+Public uncensored DNS resolver in Singapore - https://puredns.org
+** Only available in Indonesia and Singapore **
+
+sdns://AgcAAAAAAAAADDE0Ni4xOTAuNi4xM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
+
+
+## puredns-doh-ipv6
+
+Public uncensored DNS resolver in Singapore - https://puredns.org
+** Only available in Indonesia and Singapore **
+
+sdns://AgcAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTExMTpjMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
+
+
+## puredns-family-doh
+
+Public DNS resolver for Families in Indonesia - https://puredns.org/family/
+Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
+and YouTube are set to Safe mode.
+** Only available in Indonesia and Singapore **
+
+sdns://AgMAAAAAAAAADTE0Ni4xOTAuNi4xNDCgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
+
+
+## puredns-family-doh-ipv6
+
+Public DNS resolver for Families in Indonesia - https://puredns.org/family/
+Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
+and YouTube are set to Safe mode.
+** Only available in Indonesia and Singapore **
+
+sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTZhMjpkMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+
+
 ## quad101
 
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
@@ -2232,6 +2275,11 @@ Provides protection against malware, but does not block ads.
 
 sdns://AgMAAAAAAAAAACAqFfXWrLbnwJAa3k67x0OyzNSJAytG4WQvBpNoMAElig1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
 
+## techsaviours.org-dnscrypt
+
+No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://techsaviours.org/
+
+sdns://AQcAAAAAAAAAEDg5LjU4LjYuMTY5OjQ0MzQgB4isFl7gD2-efHhMEtFjyCz_nHFCaQ8OsbBTgZCa3zsgMi5kbnNjcnlwdC1jZXJ0LnRlY2hzYXZpb3Vycy5vcmc
 
 ## tuna-doh-ipv4
 
