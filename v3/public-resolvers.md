@@ -2088,16 +2088,6 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
 
 
-## resolver4.dns.openinternet.io
-
-DNSCrypt & DoH resolver on dedicated hardware colocated at Sonic.net in Santa Rosa, CA in the United States.
-
-No log, no filter, DNSSEC. Uses Sonic's recusrive DNS servers as upstream resolvers (but is not affiliated with Sonic
-in any way). Provided by https://openinternet.io
-
-sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgIMqRyWkPSPlDAmN_2ne3A6A6EQtQRyEJcXoCWPHbX5EtMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyNC5kbnMub3BlbmludGVybmV0Lmlv
-
-
 ## safesurfer
 
 Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
