@@ -1422,13 +1422,6 @@ Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.
 sdns://AgMAAAAAAAAADDIxMi41Mi4wLjEyMiC00mapDYeq93KU38D1wQdQ8CGA8TJtF_1fknJi-UdrxBJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
 
 
-## doh-jp-blahdns-v6
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Japan. By https://blahdns.com/
-
-sdns://AgMAAAAAAAAAFVsyNDA2OmVmODA6NDoxNTM3OjoxXSC00mapDYeq93KU38D1wQdQ8CGA8TJtF_1fknJi-UdrxBJkb2gtanAuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
 ## doh.appliedprivacy.net
 
 Public DoH resolver operated by the Foundation for Applied Privacy (https://appliedprivacy.net).
