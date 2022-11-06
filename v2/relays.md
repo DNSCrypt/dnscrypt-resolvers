@@ -484,7 +484,7 @@ sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://techsaviours.org
 
-sdns://gRI0NS4xMzIuMjQ1Ljk1OjQ0MzQ
+sdns://gRA4OS41OC42LjE2OTo0NDM0
 
 
 ## anon-tiarap
