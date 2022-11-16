@@ -632,13 +632,6 @@ France DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADTE2My4xNzIuMzQuNTYgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-ga
-
-US - Atlanta, GA DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADTY0LjQyLjE4MS4yMjcgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-hungary
 
 Budapest, Hungary DNSCrypt server provided by https://cryptostorm.is/
