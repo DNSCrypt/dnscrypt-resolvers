@@ -1687,7 +1687,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IJRq0Q0bVAt-COHOCim4PL_Nyl_hsJ6bi7sOV67HMIVpFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IOaSTdvwPj_u_RiUGT7gQuBqadbySK2eIW2kKyiPLBAZFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## mullvad-adblock-doh
@@ -1696,7 +1696,7 @@ Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolv
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgMAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAACDmkk3b8D4_7v0YlBk-4ELgamnW8kitniFtpCsojywQGRdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 
 ## mullvad-doh
@@ -1705,7 +1705,7 @@ Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS reso
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgcAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6A9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACDmkk3b8D4_7v0YlBk-4ELgamnW8kitniFtpCsojywQGQ9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
 ## nextdns
