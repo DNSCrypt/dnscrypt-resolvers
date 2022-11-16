@@ -136,14 +136,6 @@ Server statistics can be seen at: https://statistics.ahadns.com/?server=chi
 sdns://AgMAAAAAAAAADTE5My4yOS42Mi4xOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG9oLmNoaS5haGFkbnMubmV0Ci9kbnMtcXVlcnk
 
 
-## ahadns-doh-in
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Mumbai, India. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=in
-
-sdns://AgMAAAAAAAAADTQ1Ljc5LjEyMC4yMzOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984RZG9oLmluLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
-
-
 ## ahadns-doh-la
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
