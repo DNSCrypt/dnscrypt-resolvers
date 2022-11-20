@@ -2137,6 +2137,7 @@ DNSCrypt server in Singapore, no filter, no logs, DNSSEC support (IPv6 server)
 
 sdns://AQcAAAAAAAAAKFsyNDA2OmRhMTg6Njc2OjQxMDI6ODdiOTplMjk5OjJhNWE6ODk0Yl0gNv1jOgxvD4MPhCXQYb6Zoay4oUISiv8Bbr2Ls2W9a5cgMi5kbnNjcnlwdC1jZXJ0LnN0YXJyeWRucy5wbGFuZXQ
 
+
 ## sth-ads-doh-se
 
 Resolver in Stockholm, Sweden. DoH server. Non-logging, remove ads and malware, DNSSEC.
