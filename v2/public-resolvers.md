@@ -1670,7 +1670,17 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IOaSTdvwPj_u_RiUGT7gQuBqadbySK2eIW2kKyiPLBAZFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IPzeORHpBJHobi2cNX3_9XQfsFz8cUVhWC_BDJQm1PxCFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+
+
+## meganerd-doh-ipv6
+
+DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
+Hosted in Amsterdam (AMS1), The Netherlands.
+
+Non-logging, non-filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0g_N45EekEkehuLZw1ff_1dB-wXPxxRWFYL8EMlCbU_EIVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
 
 
 ## mullvad-adblock-doh
