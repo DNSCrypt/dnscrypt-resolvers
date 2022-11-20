@@ -1502,15 +1502,6 @@ Unknown logging policy.
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffODG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
-## ibksturm
-
-DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC, OPENNIC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgKmPSv6jOgF7lERDduUMH7a4Z5ShV7PrD-IcS23XUsPkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
-
-
 ## id-gmail
 
 Non-Logging DNSCrypt server located in Singapore.
@@ -1642,16 +1633,6 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IPzeORHpBJHobi2cNX3_9XQfsFz8cUVhWC_BDJQm1PxCFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
-
-
-## meganerd-doh-ipv6
-
-DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0g_N45EekEkehuLZw1ff_1dB-wXPxxRWFYL8EMlCbU_EIVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
 
 
 ## mullvad-adblock-doh
@@ -2114,34 +2095,6 @@ sdns://AQcAAAAAAAAACzUyLjc3LjMuMjE1IDb9YzoMbw-DD4Ql0GG-maGsuKFCEor_AW69i7NlvWuXI
 DNSCrypt server in Singapore, no filter, no logs, DNSSEC support (IPv6 server)
 
 sdns://AQcAAAAAAAAAKFsyNDA2OmRhMTg6Njc2OjQxMDI6ODdiOTplMjk5OjJhNWE6ODk0Yl0gNv1jOgxvD4MPhCXQYb6Zoay4oUISiv8Bbr2Ls2W9a5cgMi5kbnNjcnlwdC1jZXJ0LnN0YXJyeWRucy5wbGFuZXQ
-
-
-## sth-ads-doh-se
-
-Resolver in Stockholm, Sweden. DoH server. Non-logging, remove ads and malware, DNSSEC.
-
-sdns://AgMAAAAAAAAADTQ1LjE1My4xODcuOTYAGGRuc3NlLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
-## sth-dnscrypt-se
-
-Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyDxcH8AVvN5Rqr3-HUqRjpgUFVw3NgiJ-IGTCbEVu__7x8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LW5s
-
-
-## sth-dnscrypt-se-ipv6
-
-Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAGlsyYTA5OmNkNDI6Zjo0MjViOjoxXTo0MzQzIPFwfwBW83lGqvf4dSpGOmBQVXDc2CIn4gZMJsRW7__vHzIuZG5zY3J5cHQtY2VydC5zdGgtZG5zY3J5cHQtbmw
-
-
-## sth-doh-se
-
-Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
 ## switch
