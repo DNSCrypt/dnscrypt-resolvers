@@ -235,15 +235,6 @@ AT&T test DoH server.
 sdns://AgQAAAAAAAAAAKBLTrSwdCmLgotcADCVoQtFI_uVHAyINIsJxT5bq6QIoyD2Hldod9qWUClMzLX5bHX8txvaG7xGRjZ8Tr7aidcxjxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
 
-## bebasdns
-
-DNS-over-HTTPS forwarder run by BebasID. Filters ads and malware.
-Uses Cloudflare, Quad9 & MyRepublic DNS (unfiltered) as upstream resolvers.
-https://github.com/bebasid/bebasdns
-
-sdns://AgIAAAAAAAAADTQ3LjI1NC4xOTIuNjagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984PZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
-
-
 ## bortzmeyer
 
 Non-logging DoH server in France operated by Stéphane Bortzmeyer.
@@ -1456,26 +1447,6 @@ Non-Logging DNS-over-HTTPS server (IPv6), cached via Cloudflare.
 Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
-
-
-## dotya.ml
-
-Free, uncensored, DNSSEC-validated, non-logging DNSCrypt server hosted in Nuremberg, Germany on Contabo servers.
-Operated by dotya.ml, configs live here: https://git.dotya.ml/dotya.ml/dnscrypt-server.
-
-Available over both IPv4 and IPv6.
-
-sdns://AQcAAAAAAAAAETE0NC45MS43MC42Mjo1NDQzIHF-JiN46cNwFXJleEVWGWgrhe2QeysUtZoo9HwzYCMzITIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5kb3R5YS5tbA
-
-
-## dotya.ml-ipv6
-
-Free, uncensored, DNSSEC-validated, non-logging DNSCrypt server hosted in Nuremberg, Germany on Contabo servers.
-Operated by dotya.ml, configs live here: https://git.dotya.ml/dotya.ml/dnscrypt-server.
-
-Available over both IPv4 and IPv6.
-
-sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MjAzMDozOTY6OjFdOjU0NDMgcX4mI3jpw3AVcmV4RVYZaCuF7ZB7KxS1mij0fDNgIzMhMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmRvdHlhLm1s
 
 
 ## e-utp.net-ipv6-doh
