@@ -2137,6 +2137,33 @@ DNSCrypt server in Singapore, no filter, no logs, DNSSEC support (IPv6 server)
 
 sdns://AQcAAAAAAAAAKFsyNDA2OmRhMTg6Njc2OjQxMDI6ODdiOTplMjk5OjJhNWE6ODk0Yl0gNv1jOgxvD4MPhCXQYb6Zoay4oUISiv8Bbr2Ls2W9a5cgMi5kbnNjcnlwdC1jZXJ0LnN0YXJyeWRucy5wbGFuZXQ
 
+## sth-ads-doh-se
+
+Resolver in Stockholm, Sweden. DoH server. Non-logging, remove ads and malware, DNSSEC.
+
+sdns://AgMAAAAAAAAADTQ1LjE1My4xODcuOTYAGGRuc3NlLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
+
+
+## sth-dnscrypt-se
+
+Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyDxcH8AVvN5Rqr3-HUqRjpgUFVw3NgiJ-IGTCbEVu__7x8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LW5s
+
+
+## sth-dnscrypt-se-ipv6
+
+Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAGlsyYTA5OmNkNDI6Zjo0MjViOjoxXTo0MzQzIPFwfwBW83lGqvf4dSpGOmBQVXDc2CIn4gZMJsRW7__vHzIuZG5zY3J5cHQtY2VydC5zdGgtZG5zY3J5cHQtbmw
+
+
+## sth-doh-se
+
+Resolver in Stockholm, Sweden. DoH server. Non-logging, non-filtering, DNSSEC.
+
+sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
+
 
 ## switch
 
