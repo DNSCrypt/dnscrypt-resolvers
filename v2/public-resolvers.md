@@ -1501,6 +1501,14 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffODG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
+## ibksturm
+
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
 
 ## id-gmail
 
