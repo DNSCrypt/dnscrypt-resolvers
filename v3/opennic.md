@@ -13,33 +13,22 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## dotya.ml
+## doh-ibksturm
 
-Free, uncensored, DNSSEC-validated, non-logging DNSCrypt server hosted in Nuremberg, Germany on Contabo servers.
-Operated by dotya.ml, configs live here: https://git.dotya.ml/dotya.ml/dnscrypt-server.
+DoH & DoT Server, No Logging, No Filters, DNSSEC
 
-Available over both IPv4 and IPv6.
+Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AQcAAAAAAAAAETE0NC45MS43MC42Mjo1NDQzIHF-JiN46cNwFXJleEVWGWgrhe2QeysUtZoo9HwzYCMzITIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5kb3R5YS5tbA
-
-
-## dotya.ml-ipv6
-
-Free, uncensored, DNSSEC-validated, non-logging DNSCrypt server hosted in Nuremberg, Germany on Contabo servers.
-Operated by dotya.ml, configs live here: https://git.dotya.ml/dotya.ml/dnscrypt-server.
-
-Available over both IPv4 and IPv6.
-
-sdns://AQcAAAAAAAAAHFsyYTAyOmMyMDc6MjAzMDozOTY6OjFdOjU0NDMgcX4mI3jpw3AVcmV4RVYZaCuF7ZB7KxS1mij0fDNgIzMhMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmRvdHlhLm1s
+sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
 
 ## ibksturm
 
-DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC, OPENNIC
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgKmPSv6jOgF7lERDduUMH7a4Z5ShV7PrD-IcS23XUsPkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## publicarray-au-doh

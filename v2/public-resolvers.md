@@ -1501,6 +1501,7 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffODG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
+
 ## ibksturm
 
 DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
@@ -1707,6 +1708,14 @@ Non-logging DoH server in Sweden operated by Njalla.
 https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
+
+
+## openinternet
+
+DNSCrypt resolver colocated at Sonic.net in Santa Rosa, CA in the United States.
+No log, no filter, DNSSEC. Provided by https://openinternet.io
+
+sdns://AQcAAAAAAAAAETcwLjM2LjE3MC4xMjY6NDQzIB0YaHUp4ep9JcpfE9HeXtjkmqbK5eOebLKTklv3C5UNHDIuZG5zY3J5cHQtY2VydC5vcGVuaW50ZXJuZXQ
 
 
 ## oszx

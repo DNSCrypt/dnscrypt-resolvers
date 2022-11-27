@@ -391,6 +391,15 @@ For more information look at https://github.com/bhanupratapys/dnswarden or https
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
+## anon-ibksturm
+
+DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
@@ -411,6 +420,7 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
 sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
+
 
 ## anon-openinternet
 
