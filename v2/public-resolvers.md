@@ -1715,7 +1715,7 @@ sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5
 DNSCrypt resolver colocated at Sonic.net in Santa Rosa, CA in the United States.
 No log, no filter, DNSSEC. Provided by https://openinternet.io
 
-sdns://AQcAAAAAAAAAETcwLjM2LjE3MC4xMjY6NDQzIB0YaHUp4ep9JcpfE9HeXtjkmqbK5eOebLKTklv3C5UNHDIuZG5zY3J5cHQtY2VydC5vcGVuaW50ZXJuZXQ
+sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgHRhodSnh6n0lyl8T0d5e2OSapsrl455sspOSW_cLlQ0cMi5kbnNjcnlwdC1jZXJ0Lm9wZW5pbnRlcm5ldA
 
 
 ## oszx
