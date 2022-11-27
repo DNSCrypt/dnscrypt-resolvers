@@ -412,6 +412,12 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encry
 
 sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
 
+## anon-openinternet
+
+Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io
+
+sdns://gRE3MC4zNi4xNzAuMTI2OjQ0Mw
+
 
 ## anon-saldns01-conoha-ipv4
 
