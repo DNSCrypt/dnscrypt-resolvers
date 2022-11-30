@@ -35,14 +35,6 @@ Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDGgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
-## adfree.usableprivacy.net-ipv6
-
-Public updns DoH service with advertising, tracker and malware filters.
-Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
-
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984YYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
-
-
 ## adguard-dns
 
 Remove ads and protect your computer from malware
@@ -594,13 +586,6 @@ sdns://AQIAAAAAAAAADjg1LjExNC4xMzguMTE5IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw2
 Finland DNSCrypt server provided by https://cryptostorm.is
 
 sdns://AQIAAAAAAAAADjE4NS4xMTcuMTE4LjIwIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-fl
-
-US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADDIzLjE5LjExNy41NSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-fr
@@ -1551,15 +1536,6 @@ https://www.iij.ad.jp/
 sdns://AgUAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
 
-## iqdns-doh
-
-Non-logging DoH service runned by V2EX.com user johnsonwil.
-Returns "no such domain" for anti-Chinese government websites. Supports DNSSEC.
-For more information: https://www.v2ex.com/t/785666
-
-sdns://AgMAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_A9hLnBhc3NjbG91ZC54eXoKL2Rucy1xdWVyeQ
-
-
 ## jp.tiar.app
 
 Non-Logging, Non-Filtering DNSCrypt server in Japan.
@@ -1650,7 +1626,7 @@ Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolv
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgMAAAAAAAAAACDmkk3b8D4_7v0YlBk-4ELgamnW8kitniFtpCsojywQGRdhZGJsb2NrLmRvaC5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAAAAXYWRibG9jay5kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
 ## mullvad-doh
@@ -1659,7 +1635,7 @@ Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS reso
 Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgcAAAAAAAAAACDmkk3b8D4_7v0YlBk-4ELgamnW8kitniFtpCsojywQGQ9kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAAAAPZG9oLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 
 
 ## nextdns
@@ -1811,42 +1787,6 @@ DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
-
-
-## puredns-doh
-
-Public uncensored DNS resolver in Singapore - https://puredns.org
-** Only available in Indonesia and Singapore **
-
-sdns://AgcAAAAAAAAADDE0Ni4xOTAuNi4xM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
-
-
-## puredns-doh-ipv6
-
-Public uncensored DNS resolver in Singapore - https://puredns.org
-** Only available in Indonesia and Singapore **
-
-sdns://AgcAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTExMTpjMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtwdXJlZG5zLm9yZwovZG5zLXF1ZXJ5
-
-
-## puredns-family-doh
-
-Public DNS resolver for Families in Indonesia - https://puredns.org/family/
-Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
-and YouTube are set to Safe mode.
-** Only available in Indonesia and Singapore **
-
-sdns://AgMAAAAAAAAADTE0Ni4xOTAuNi4xNDCgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
-
-
-## puredns-family-doh-ipv6
-
-Public DNS resolver for Families in Indonesia - https://puredns.org/family/
-Blocks malware, adware, gambling, fakenews, and adult sites. Google, Bing,
-and YouTube are set to Safe mode.
-** Only available in Indonesia and Singapore **
-
-sdns://AgMAAAAAAAAAG1syNDAwOjYxODA6MDpkMDo6MTZhMjpkMDAxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## quad101
@@ -2261,14 +2201,6 @@ Private DNSCrypt service by WeVPN in New Jersey, USA - https://wevpn.com/dns
 With ad blocking.
 
 sdns://AQcAAAAAAAAAFDIzLjIyNi4xMzQuMjQyOjE1MzUzII_Le5DiGa3AfdRxR7DRt52ZaexL_22aLfjDJwp5saIsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
-
-
-## wevpn-uswest
-
-Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQcAAAAAAAAAEjcyLjExLjEzNC45MDoxNTM1MyAKLsInrJLgKMxBqSL1VvH74T3wwp1bn5wkvPwUlea3Kh8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
 
 
 ## yandex

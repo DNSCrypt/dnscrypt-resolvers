@@ -132,13 +132,6 @@ Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4xODUuMTE3LjExOC4yMA
 
 
-## anon-cs-fl
-
-US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4xMTcuNTU
-
-
 ## anon-cs-fr
 
 France Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -390,15 +383,6 @@ Relay hosted in swizterland.
 For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
 
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
-
-
-## anon-ibksturm
-
-DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
 
 
 ## anon-inconnu
