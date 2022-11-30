@@ -131,13 +131,6 @@ Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4xODUuMTE3LjExOC4yMA
 
 
-## anon-cs-fl
-
-US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4xMTcuNTU
-
-
 ## anon-cs-fr
 
 France Anonymized DNS relay server provided by https://cryptostorm.is/
