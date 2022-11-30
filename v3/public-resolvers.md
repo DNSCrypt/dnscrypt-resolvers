@@ -2282,14 +2282,6 @@ With ad blocking.
 sdns://AQcAAAAAAAAAFDIzLjIyNi4xMzQuMjQyOjE1MzUzII_Le5DiGa3AfdRxR7DRt52ZaexL_22aLfjDJwp5saIsHzIuZG5zY3J5cHQtY2VydC5zZWN1cmUuZG5zLnRlc3Q
 
 
-## wevpn-uswest
-
-Private DNSCrypt service by WeVPN in Los Angeles, USA - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQcAAAAAAAAAEjcyLjExLjEzNC45MDoxNTM1MyAKLsInrJLgKMxBqSL1VvH74T3wwp1bn5wkvPwUlea3Kh8yLmRuc2NyeXB0LWNlcnQuc2VjdXJlLmRucy50ZXN0
-
-
 ## yandex
 
 Yandex public DNS server (anycast)
