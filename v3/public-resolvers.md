@@ -601,13 +601,6 @@ Finland DNSCrypt server provided by https://cryptostorm.is
 sdns://AQIAAAAAAAAADjE4NS4xMTcuMTE4LjIwIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-fl
-
-US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADDIzLjE5LjExNy41NSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-fr
 
 France DNSCrypt server provided by https://cryptostorm.is/
