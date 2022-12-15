@@ -872,7 +872,7 @@ sdns://AQcAAAAAAAAADDgzLjEzOC41NS4zNiBWtFK5EGeqJCoA9qB6APgcgCUN9FZvR8T22eqqP615M
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Naaldwijk, Netherlands.
 
-sdns://AQcAAAAAAAAADjIzLjEzNy4yNDkuMTE2IHMpw-wvp4z1FZcW_2ZmwKokMZTOL9AjG-lxUwgzs27IFzIuZG5zY3J5cHQtY2VydC5kY3Qtbmwx
+sdns://AQcAAAAAAAAAEzIzLjEzNy4yNDkuMTE2Ojg0NDMgEWD0g0vsKFqwslGBKql8eTiu1RvK2dzZIxLfR7ctlAwXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ubDE
 
 
 ## dct-ru1
