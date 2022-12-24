@@ -160,7 +160,7 @@ Warning: GFW filtering rules are applied by that resolver.
 
 Homepage: https://alidns.com/
 
-sdns://AgAAAAAAAAAACTIyMy41LjUuNSAUZf-XFWhwvjDwNPWQzx8E3VDwpSDoT4pSfpwaLofrgA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACTIyMy41LjUuNSD8MVH_oSThyld4sg8AQIXdEmdMjQYJb7HXOSqL969Fgw5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## altername
