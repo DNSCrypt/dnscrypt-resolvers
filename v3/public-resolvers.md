@@ -981,22 +981,6 @@ Non-logging, non-filtering, DNSSEC DoH Server. Hosted in the UK.
 sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOFGRuczEucnlhbi1wYWxtZXIuY29tCi9kbnMtcXVlcnk
 
 
-## dns.sb
-
-DNSSEC-enabled DoH server by https://xtom.com/
-https://dns.sb/doh/
-
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQZkb2guc2IKL2Rucy1xdWVyeQ
-
-
-## dns.sb-ipv6
-
-DNSSEC-enabled DoH server by https://xtom.com/ - IPv6
-https://dns.sb/doh/
-
-sdns://AgcAAAAAAAAACFsyYTA5OjpdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZBmRvaC5zYgovZG5zLXF1ZXJ5
-
-
 ## dns.therifleman.name
 
 DNS-over-HTTPS DNS forwarder from Mumbai, India. Blocks web and Android trackers and ads.
