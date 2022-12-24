@@ -2130,22 +2130,6 @@ No logs | IPv6 | Filtered
 sdns://AQMAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
 
 
-## v.dnscrypt.uk-doh-ipv4
-
-DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAADTEzNi4yNDQuNjUuMjAAEXYuZG5zY3J5cHQudWs6NDQzCi9kbnMtcXVlcnk
-
-
-## v.dnscrypt.uk-doh-ipv6
-
-DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAAJ1syYTA1OmY0ODA6MTAwMDo5Njc6NTQwMDozZmY6ZmU3ZTo1NWQzXQARdi5kbnNjcnlwdC51azo0NDMKL2Rucy1xdWVyeQ
-
-
 ## v.dnscrypt.uk-ipv4
 
 DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
