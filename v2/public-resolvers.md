@@ -192,7 +192,7 @@ sdns://AgcAAAAAAAAAFVsyYTBjOmI5YzA6Zjo0NTFkOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmO
 
 AT&T test DoH server.
 
-sdns://AgUAAAAAAAAAACC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYxBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMBBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
 
 ## bortzmeyer
