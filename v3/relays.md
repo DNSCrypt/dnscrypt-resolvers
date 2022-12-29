@@ -173,13 +173,6 @@ Iceland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ04Mi4yMjEuMTI4LjQ0
 
 
-## anon-cs-la
-
-US - Los Angeles, CA Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS42Ny4xMTY
-
-
 ## anon-cs-london
 
 London, England Anonymized DNS relay server provided by https://cryptostorm.is/
