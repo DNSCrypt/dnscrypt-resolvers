@@ -55,13 +55,6 @@ Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0zNy4xMjAuMjE3Ljc1
 
 
-## anon-cs-brazil
-
-Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xNzcuNTQuMTQ1LjEzMQ
-
-
 ## anon-cs-bulgaria
 
 Sofia, Bulgaria Anonymized DNS relay server provided by https://cryptostorm.is/
