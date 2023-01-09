@@ -41,24 +41,6 @@ Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Clie
 sdns://AgMAAAAAAAAAHlsyNDAwOmM0MDE6OjUwNTQ6ZmY6ZmUxYjpiMDM2XSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
 
 
-## adfilter-syd
-
-Hosted in Sydney, Australia.
-
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-
-sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
-
-
-## adfilter-syd-ipv6
-
-Hosted in Sydney, Australia.
-
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-
-sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6MjE0ZTplYTAwOjoxXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBzeWQuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
-
-
 ## adfilter-per
 
 Hosted in Perth, Australia.
@@ -75,6 +57,24 @@ Hosted in Perth, Australia.
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
 sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NDFhOTo0ODAwOjoxXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBwZXIuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+
+
+## adfilter-syd
+
+Hosted in Sydney, Australia.
+
+Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
+
+
+## adfilter-syd-ipv6
+
+Hosted in Sydney, Australia.
+
+Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6MjE0ZTplYTAwOjoxXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBzeWQuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfree.usableprivacy.net
