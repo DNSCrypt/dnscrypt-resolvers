@@ -902,6 +902,7 @@ sdns://AQcAAAAAAAAADDgzLjEzOC41NS4zNiBWtFK5EGeqJCoA9qB6APgcgCUN9FZvR8T22eqqP615M
 ## dct-de1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
+
 sdns://AQcAAAAAAAAADzE0OS4xNTQuMTU5LjE5MSBCjJ9c_IkJLd7MVZP4wiqkOSy-sGt0GojSKJ48ztxbWRcyLmRuc2NyeXB0LWNlcnQuZGN0LWRlMQ
 
 
