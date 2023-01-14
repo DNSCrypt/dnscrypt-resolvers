@@ -1264,6 +1264,14 @@ More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/P
 
 sdns://AgAAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zglkbnNsb3cubWUKL2Rucy1xdWVyeQ
 
+## dns.sb-doh
+DoH server runned by  xTom.com. No logs, no filtering supports DNSSEC.
+
+Homepage: https://dns.sb
+
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
+
+sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 ## dnswarden-adult-doh
 
