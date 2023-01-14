@@ -1014,6 +1014,16 @@ Non-logging, non-filtering, DNSSEC DoH Server. Hosted in the UK.
 sdns://AgcAAAAAAAAADjY4LjE4My4yNTMuMjAwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOFGRuczEucnlhbi1wYWxtZXIuY29tCi9kbnMtcXVlcnk
 
 
+## dns.sb
+
+DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
+
+Homepage: https://dns.sb
+
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
+
+
 ## dns.therifleman.name
 
 DNS-over-HTTPS DNS forwarder from Mumbai, India. Blocks web and Android trackers and ads.
