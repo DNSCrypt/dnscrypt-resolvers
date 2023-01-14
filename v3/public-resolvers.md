@@ -1265,7 +1265,7 @@ More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/P
 sdns://AgAAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zglkbnNsb3cubWUKL2Rucy1xdWVyeQ
 
 ## dns.sb-doh
-DoH server runned by  xTom.com. No logs, no filtering supports DNSSEC.
+DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
 
 Homepage: https://dns.sb
 
