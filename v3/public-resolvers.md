@@ -785,9 +785,9 @@ sdns://AgUAAAAAAAAAAAAKZG9oLmRucy5zYgovZG5zLXF1ZXJ5
 
 ## dns.therifleman.name
 
-DNS-over-HTTPS DNS forwarder from Mumbai, India. Blocks web and Android trackers and ads.
-Does not log IP. Logs query for 24 hours for debugging.
-Report issues, send suggestions @ joker349 at protonmail.com.
+DNS-over-HTTPS DNS forwarder from Mumbai, India. Blocks web and Android trackers and ads.  
+Does not log IP. Logs query for 24 hours for debugging.  
+Report issues, send suggestions @ joker349 at protonmail.com.  
 Also supports DoT (for android) @ dns.therifleman.name and plain DNS @ 172.104.206.174 (Note: because of spam bots mostly from USA, I have limited plan DNS access to India and Singapore for now. If you not from these countries and would like to access plan DNS, please request at aforementioned email address. **DoT, DoH are available world-wide**)
 
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NCAyhv9lpl-vMghe6hOIw3OLp-N4c8kGzOPEootMwqWJiBRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
