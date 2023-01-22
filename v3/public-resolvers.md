@@ -1643,7 +1643,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0ICif6V9M6EF_9Xo_MHwkDN4ZJjERopSJN8hBuUWg9YeMJTIuZG5zY3J5cHQtY2VydC5jaGV3YmFjY2EubWVnYW5lcmQubmw
+sdns://AQcAAAAAAAAAEjEzNi4yNDQuOTcuMTE0OjQ0MyAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
 
 
 ## meganerd-doh-ipv4
@@ -1673,7 +1673,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
+sdns://AQcAAAAAAAAAK1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXTo0NDMgKJ_pX0zoQX_1ej8wfCQM3hkmMRGilIk3yEG5RaD1h4wlMi5kbnNjcnlwdC1jZXJ0LmNoZXdiYWNjYS5tZWdhbmVyZC5ubA
 
 
 ## mullvad-adblock-doh
