@@ -332,7 +332,7 @@ Remove your DNS blind spot (DoH protocol)
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiBoU4_HgY6B0kIqkGBjb6UoKkP2Dc4bumDC1_Orq2YAlw9kb2gub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w9kb2gub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## cisco-familyshield
@@ -378,7 +378,7 @@ Cisco OpenDNS over IPv6 (DoH protocol)
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gaFOPx4GOgdJCKpBgY2-lKCpD9g3OG7pgwtfzq6tmAJcPZG9oLm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMWpSkN98PZG9oLm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## cisco-sandbox
