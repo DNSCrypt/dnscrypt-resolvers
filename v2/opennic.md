@@ -31,6 +31,27 @@ Running privately by ibksturm in Thurgau, Switzerland
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
+## opennameserver-2-doh
+
+OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
+
+sdns://AgcAAAAAAAAAACBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczIub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
+
+
+## opennameserver-3-doh
+
+OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
+
+sdns://AgcAAAAAAAAAACBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczMub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
+
+
+## opennameserver-4-doh
+
+OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
+
+sdns://AgcAAAAAAAAAACBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczQub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
+
+
 ## publicarray-au-doh
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
