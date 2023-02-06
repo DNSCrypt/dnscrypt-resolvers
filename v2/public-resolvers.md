@@ -1273,6 +1273,17 @@ More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/P
 sdns://AgAAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zglkbnNsb3cubWUKL2Rucy1xdWVyeQ
 
 
+## dnspod
+
+A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
+
+Warning: GFW filtering rules are applied by that resolver.
+
+Homepage: https://dnspod.cn/
+
+sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgD3COiTWYzhCaz4188tVyp8i8EAR0UYsu0tkTgK_E7aYHZG9oLnB1YgovZG5zLXF1ZXJ5
+
+
 ## dnspod-doh
 
 DoH server runned by Tencent's DNSPod, has logs, support DNSSEC. China's GFW filtering rules are applied.
