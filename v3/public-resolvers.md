@@ -938,6 +938,16 @@ Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
 
 sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
 
+## dnspod
+
+A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
+
+Warning: GFW filtering rules are applied by that resolver.
+
+Homepage: https://dnspod.cn/
+
+sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgD3COiTWYzhCaz4188tVyp8i8EAR0UYsu0tkTgK_E7aYHZG9oLnB1YgovZG5zLXF1ZXJ5
+
 
 ## dns.b33.network-dnscrypt
 
