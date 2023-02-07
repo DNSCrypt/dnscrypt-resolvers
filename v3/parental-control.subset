@@ -30,6 +30,7 @@ cleanbrowsing-family
 cleanbrowsing-family-ipv6
 cloudflare-family
 cloudflare-family-ipv6
+dns0-kids
 dnsforfamily
 dnsforfamily-doh
 dnsforfamily-doh-no-safe-search

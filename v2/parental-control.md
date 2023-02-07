@@ -103,6 +103,21 @@ Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## dns0-kids
+
+A free, sovereign and GDPR-compliant recursive DNS resolver with a
+strong focus on security to protect the citizens and organizations of
+the European Union.
+
+This version blocks content not suitable for children.
+
+Also blocks new domains, dynamic DNS, parked domains, uncommon TLDs, etc.
+
+https://www.dns0.eu/
+
+sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxraWRzLmRuczAuZXUKL2Rucy1xdWVyeQ
+
+
 ## dnsforfamily
 
 (DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares and advertisements.
