@@ -1061,6 +1061,8 @@ A free, sovereign and GDPR-compliant recursive DNS resolver with a
 strong focus on security to protect the citizens and organizations of
 the European Union.
 
+Blocks new domains, dynamic DNS, parked domains, uncommon TLDs, etc.
+
 https://www.dns0.eu/
 
 sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQdkbnMwLmV1Ci9kbnMtcXVlcnk
