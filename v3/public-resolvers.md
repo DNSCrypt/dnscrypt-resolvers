@@ -1652,6 +1652,14 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzMDo6YWM0MzphZDNiXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
+## lacontrevoie
+
+DoH server hosted by La Contre-Voie, an association originating from Paris, France.
+https://lacontrevoie.fr/en/services/doh/
+
+sdns://AgcAAAAAAAAADjQ1LjE1NS4xNzEuMTYzABNkb2gubGFjb250cmV2b2llLmZyCi9kbnMtcXVlcnk
+
+
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
