@@ -1484,6 +1484,13 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
+## easymosdns-doh
+
+DoH server runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns), no filtering or logs, does not support DNSSEC because one of upstream servers alidns doesn't support it.
+
+Homepage: https://apad.pro/dns-doh/
+
+sdns://AgYAAAAAAAAAAAAMZG9oLmFwYWQucHJvCi9kbnMtcXVlcnk
 
 ## e-utp.net-ipv6-doh
 
