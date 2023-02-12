@@ -1516,13 +1516,6 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
-## easymosdns-doh
-
-DoH server runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns), no filtering or logs, does not support DNSSEC because one of upstream servers AliDNS doesn't support it. Upstream are AliDNS and DNSPod for resolving domains in mainland China, and another upstream GoogleDNS is for other domains. Cloudflare CDN is used for non-China areas, in China it uses China Mobile CDN.
-
-Homepage: https://apad.pro/dns-doh/
-
-sdns://AgQAAAAAAAAAAAAMZG9oLmFwYWQucHJvCi9kbnMtcXVlcnk
 
 ## e-utp.net-ipv6-doh
 
@@ -1530,6 +1523,19 @@ e-utp.net DNS Cache service, only accessible over IPv6
 https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
 
 sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0Ci9kbnMtcXVlcnk
+
+
+## easymosdns-doh
+
+DoH forwarded runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns).
+No filtering or logs (by the forwarder itself).
+No DNSSEC support due to one of the upstream servers (AliDNS) that doesn't support it.
+Upstreams are AliDNS and DNSPod for resolving domains in mainland China, and GoogleDNS is for domains.
+Cloudflare CDN is used as a front-end for non-China areas, and Mobile CDN is used in China.
+
+Homepage: https://apad.pro/dns-doh/
+
+sdns://AgQAAAAAAAAAAAAMZG9oLmFwYWQucHJvCi9kbnMtcXVlcnk
 
 
 ## faelix-ch-ipv4

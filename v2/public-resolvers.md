@@ -1509,6 +1509,19 @@ https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
 sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0Ci9kbnMtcXVlcnk
 
 
+## easymosdns-doh
+
+DoH forwarded runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns).
+No filtering or logs (by the forwarder itself).
+No DNSSEC support due to one of the upstream servers (AliDNS) that doesn't support it.
+Upstreams are AliDNS and DNSPod for resolving domains in mainland China, and GoogleDNS is for domains.
+Cloudflare CDN is used as a front-end for non-China areas, and Mobile CDN is used in China.
+
+Homepage: https://apad.pro/dns-doh/
+
+sdns://AgQAAAAAAAAAAAAMZG9oLmFwYWQucHJvCi9kbnMtcXVlcnk
+
+
 ## faelix-ch-ipv4
 
 An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https://faelix.net/ with IPv4 nodes anycast within AS41495 in Switzerland.
