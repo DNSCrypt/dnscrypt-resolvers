@@ -1490,7 +1490,7 @@ DoH server runned personally, as a example server of the project [EasyMosdns](ht
 
 Homepage: https://apad.pro/dns-doh/
 
-sdns://AgYAAAAAAAAAAAAMZG9oLmFwYWQucHJvCi9kbnMtcXVlcnk
+sdns://AgYAAAAAAAAAACA59q74zeUV4xVJXPXvLw0G1pi3YdoaF4FskwSxGJjS1Axkb2guYXBhZC5wcm8KL2Rucy1xdWVyeQ
 
 ## e-utp.net-ipv6-doh
 
