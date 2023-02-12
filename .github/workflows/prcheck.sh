@@ -92,6 +92,7 @@ while read -r stamp; do
 
     {
         echo 'listen_addresses = ["127.0.0.1:5300"]'
+        echo 'http3 = true'
         echo 'server_names = ["test"]'
         echo '[static."test"]'
         echo "stamp = '${stamp}'"

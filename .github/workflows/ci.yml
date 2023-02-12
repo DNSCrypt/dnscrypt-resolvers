@@ -22,6 +22,7 @@ jobs:
           sed -i -e 's/listen_addresses.*/listen_addresses = ["127.0.0.1:5300"]/' dnscrypt-proxy.toml
           sed -i -e 's/require_dnssec.*/require_dnssec = false/' dnscrypt-proxy.toml
           sed -i -e 's/require_nolog.*/require_nolog = false/' dnscrypt-proxy.toml
+          sed -i -e 's/http3.*/http3 = true/' dnscrypt-proxy.toml
           sed -i -e 's/require_nofilter.*/require_nofilter = false/' dnscrypt-proxy.toml
           ./dnscrypt-proxy -list-all
           ./dnscrypt-proxy -show-certs
