@@ -1486,7 +1486,7 @@ sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL
 
 ## easymosdns-doh
 
-DoH server runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns), no filtering or logs, does not support DNSSEC because one of upstream servers AliDNS doesn't support it. Upstream is AliDNS for resolving domains in mainland China, and another upstream GoogleDNS is for other domains.
+DoH server runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns), no filtering or logs, does not support DNSSEC because one of upstream servers AliDNS doesn't support it. Upstream are AliDNS and DNSPod for resolving domains in mainland China, and another upstream GoogleDNS is for other domains.
 
 Homepage: https://apad.pro/dns-doh/
 
