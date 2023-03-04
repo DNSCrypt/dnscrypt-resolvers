@@ -18,6 +18,11 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
     cache_file = 'odoh-relays.md'
 
 --
+## odohrelay-ams
+
+Oblivious DoH relay in The Netherlands. No logs.
+
+sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94eQ
 
 
 ## odohrelay-crypto-sx
@@ -35,18 +40,9 @@ Oblivious DoH relay hosted by Ibksturm. No Logs
 sdns://hQcAAAAAAAAADjIxMy4xOTYuMTkxLjk2ABRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
 
 
-## odohrelay-koki-ams
-
-Oblivious DoH relay in The Netherlands. No logs.
-Maintained by @kokial
-
-sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94eQ
-
-
-## odohrelay-koki-se
+## odohrelay-se
 
 Oblivious DoH relay in Sweden. No logs.
-Maintained by @kokial
 
 sdns://hQcAAAAAAAAADTQ1LjE1My4xODcuOTYAGG9kb2gtc2UuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
