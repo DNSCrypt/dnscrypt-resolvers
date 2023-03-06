@@ -12,20 +12,6 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-## anon-acsacsar-ams-ipv4
-
-Anonymized DNS relay hosted in AMS on Scaleway
-
-sdns://gQ01MS4xNTguMTY2Ljk3
-
-
-## anon-acsacsar-ams-ipv6
-
-Anonymized DNS relay hosted in AMS on Scaleway
-
-sdns://gRZbMjAwMTpiYzg6MTgyNDo3Mzg6OjFd
-
-
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
