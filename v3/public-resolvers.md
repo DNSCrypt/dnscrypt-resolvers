@@ -2255,6 +2255,13 @@ No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https
 sdns://AQcAAAAAAAAAEDg5LjU4LjYuMTY5OjQ0MzQgB4isFl7gD2-efHhMEtFjyCz_nHFCaQ8OsbBTgZCa3zsgMi5kbnNjcnlwdC1jZXJ0LnRlY2hzYXZpb3Vycy5vcmc
 
 
+## tiger
+
+No filter | No logs | Hungary
+
+sdns://AQcAAAAAAAAAETE4NS4xNjMuMjA0LjkzOjUzIFY9aoLXYHfqMopaw1r_WZfvsXocalygrwUd58mt0zICFTIuZG5zY3J5cHQtY2VydC50aWdlcg
+
+
 ## tuna-doh-ipv4
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
