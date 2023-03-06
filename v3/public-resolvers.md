@@ -160,14 +160,6 @@ Warning: This server is incompatible with anonymization.
 sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjE6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1ogUHb8uwGay2volMi5kbnNjcnlwdC51bmZpbHRlcmVkLm5zMS5hZGd1YXJkLmNvbQ
 
 
-## ahadns-doh-chi
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Chicago, USA. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=chi
-
-sdns://AgMAAAAAAAAADTE5My4yOS42Mi4xOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984SZG9oLmNoaS5haGFkbnMubmV0Ci9kbnMtcXVlcnk
-
-
 ## ahadns-doh-la
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
@@ -182,14 +174,6 @@ A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). B
 Server statistics can be seen at: https://statistics.ahadns.com/?server=nl
 
 sdns://AgMAAAAAAAAACTUuMi43NS43NaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkb2gubmwuYWhhZG5zLm5ldAovZG5zLXF1ZXJ5
-
-
-## ahadns-doh-pl
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Poland. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=pl
-
-sdns://AgMAAAAAAAAADDQ1LjEzMi43NS4xNqDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkb2gucGwuYWhhZG5zLm5ldAovZG5zLXF1ZXJ5
 
 
 ## alidns-doh
@@ -1517,14 +1501,6 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
 
-## e-utp.net-ipv6-doh
-
-e-utp.net DNS Cache service, only accessible over IPv6
-https://fido.e-utp.net/display/EUTPNET/Recursive+DNS
-
-sdns://AgcAAAAAAAAAE1syMDAxOjY3YzoyMWVjOjo1M10gXMJdnIoy7PLLu5Hr9wvZVsUgOfnyDoQJ2mFUcVI21x0SZG5zY2FjaGUuZS11dHAubmV0Ci9kbnMtcXVlcnk
-
-
 ## easymosdns-doh
 
 DoH forwarded runned personally, as a example server of the project [EasyMosdns](https://github.com/pmkol/easymosdns).
@@ -1795,25 +1771,11 @@ No log, no filter, DNSSEC. Provided by https://openinternet.io
 sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgHRhodSnh6n0lyl8T0d5e2OSapsrl455sspOSW_cLlQ0cMi5kbnNjcnlwdC1jZXJ0Lm9wZW5pbnRlcm5ldA
 
 
-## opennameserver-2-doh
-
-OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
-
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczIub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
-
-
 ## opennameserver-3-doh
 
 OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
 
 sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczMub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
-
-
-## opennameserver-4-doh
-
-OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
-
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczQub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
 
 
 ## oszx
