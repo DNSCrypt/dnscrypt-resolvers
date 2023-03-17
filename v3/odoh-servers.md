@@ -93,7 +93,7 @@ Oblivious DoH target server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-s
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://BQcAAAAAAAAAFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://BgcAAAAAAAAAFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## odoh-tiarap.org
