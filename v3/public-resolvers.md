@@ -1593,6 +1593,16 @@ https://www.iij.ad.jp/
 sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
 
+## invisv
+
+A DoH server using 3rd-party intermediate relays to avoid linking IP
+addresses with queries.
+
+https://invisv.com
+
+sdns://AgcAAAAAAAAAAAAOZG5zLmludmlzdi5jb20KL2Rucy1xdWVyeQ
+
+
 ## jp.tiar.app
 
 Non-Logging, Non-Filtering DNSCrypt server in Japan.
