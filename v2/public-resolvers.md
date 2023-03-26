@@ -975,22 +975,6 @@ DoT and DoH are available world-wide.
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
 
-## dns.watch
-
-Free, uncensored, non-logging server in Germany.
-https://dns.watch
-
-sdns://AQcAAAAAAAAADDg0LjIwMC43MC40MCBATVoA32LgIUTsC0hxmLlKGa_o5PRngHyldrEei5T5sCMyLmRuc2NyeXB0LWNlcnQucmVzb2x2ZXIyLmRucy53YXRjaA
-
-
-## dns.watch-ipv6
-
-Free, uncensored, non-logging server in Germany. IPv6 only.
-https://dns.watch
-
-sdns://AQcAAAAAAAAAHFsyMDAxOjE2MDg6MTA6MjU6OjkyNDk6ZDY5Yl0gQE1aAN9i4CFE7AtIcZi5Shmv6OT0Z4B8pXaxHouU-bAjMi5kbnNjcnlwdC1jZXJ0LnJlc29sdmVyMi5kbnMud2F0Y2g
-
-
 ## dns0
 
 A free, sovereign and GDPR-compliant recursive DNS resolver with a
