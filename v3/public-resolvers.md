@@ -1244,15 +1244,6 @@ Homepage: https://dnspod.cn/
 sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgD3COiTWYzhCaz4188tVyp8i8EAR0UYsu0tkTgK_E7aYHZG9oLnB1YgovZG5zLXF1ZXJ5
 
 
-## dnspod-doh
-
-DoH server runned by Tencent's DNSPod, has logs, support DNSSEC. China's GFW filtering rules are applied.
-
-Homepage: https://www.dnspod.cn/Products/publicdns
-
-sdns://AgEAAAAAAAAAACDBlAfoWsQD52fP2oOBh_Ag-lY6yBaIr1EMIqd559RaVgdkb2gucHViCi9kbnMtcXVlcnk
-
-
 ## dnswarden-adult-doh
 
 Blocks adult content and enforces safe search on major search engines.
