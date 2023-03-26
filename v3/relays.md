@@ -201,13 +201,6 @@ US - New York City, NY 1 Anonymized DNS relay server provided by https://cryptos
 sdns://gQwyMy4xOS4yNDUuODg
 
 
-## anon-cs-nyc2
-
-US - New York City, NY 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4yNDUuODQ
-
-
 ## anon-cs-ore
 
 US - Oregon Anonymized DNS relay server provided by https://cryptostorm.is/
