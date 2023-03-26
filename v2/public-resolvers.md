@@ -1102,22 +1102,6 @@ Free | Malware and phishing filtering | Zero logs | DNSSEC | Poland | https://dn
 sdns://AQMAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDU0IH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
 
 
-## dnscrypt.uk-doh-ipv4
-
-DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAADzE2NS4yMjcuMjMzLjIwMAATZG9oLmRuc2NyeXB0LnVrOjQ0MwovZG5zLXF1ZXJ5
-
-
-## dnscrypt.uk-doh-ipv6
-
-DoH, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AgcAAAAAAAAAGlsyYTAzOmIwYzA6MTpkMDo6ZWJlOmQwMDFdABNkb2guZG5zY3J5cHQudWs6NDQzCi9kbnMtcXVlcnk
-
-
 ## dnscrypt.uk-ipv4
 
 DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
