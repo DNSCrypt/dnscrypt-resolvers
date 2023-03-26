@@ -1792,14 +1792,6 @@ By pryv8, non Logging, uncensored, DNSSEC - hosted on contabo servers
 sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7LqwBBmSzdY9BIcMi5kbnNjcnlwdC1jZXJ0LnByeXY4Ym9pLm9yZw
 
 
-## publicarray-au-doh
-
-DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
-Maintained by publicarray - https://dns.seby.io
-
-sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
-
-
 ## publicarray-au2-doh
 
 DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on ovh.com.au
