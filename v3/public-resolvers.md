@@ -873,7 +873,7 @@ sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIPzthuna7r1J-i_Njw9AriFXZcuz9Lb406c1F9XLs
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
 
-sdns://AQcAAAAAAAAADzE0OS4xNTQuMTU5LjE5MSBCjJ9c_IkJLd7MVZP4wiqkOSy-sGt0GojSKJ48ztxbWRcyLmRuc2NyeXB0LWNlcnQuZGN0LWRlMQ
+sdns://AQcAAAAAAAAADTE2MC4yMC4xNDUuNjUgJtTq_n_KrYaFrdC536kVOhrN3wQSulwNo4kXbW4X8R8XMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZTE
 
 
 ## dct-nl1
