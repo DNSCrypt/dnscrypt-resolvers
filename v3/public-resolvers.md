@@ -866,7 +866,7 @@ sdns://AQIAAAAAAAAADDcxLjE5LjI1MS4zNCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupW
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 
-sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIPzthuna7r1J-i_Njw9AriFXZcuz9Lb406c1F9XLs56MFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
+sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIL3HqqP-DQCOOO3DIcdSXv-DixOZ4ExyvKykQknqHvYTFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
 
 
 ## dct-de1
