@@ -866,14 +866,14 @@ sdns://AQIAAAAAAAAADDcxLjE5LjI1MS4zNCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupW
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 
-sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIPzthuna7r1J-i_Njw9AriFXZcuz9Lb406c1F9XLs56MFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
+sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIL3HqqP-DQCOOO3DIcdSXv-DixOZ4ExyvKykQknqHvYTFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
 
 
 ## dct-de1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
 
-sdns://AQcAAAAAAAAADzE0OS4xNTQuMTU5LjE5MSBCjJ9c_IkJLd7MVZP4wiqkOSy-sGt0GojSKJ48ztxbWRcyLmRuc2NyeXB0LWNlcnQuZGN0LWRlMQ
+sdns://AQcAAAAAAAAADTE2MC4yMC4xNDUuNjUgJtTq_n_KrYaFrdC536kVOhrN3wQSulwNo4kXbW4X8R8XMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZTE
 
 
 ## dct-nl1
