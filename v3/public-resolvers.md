@@ -869,13 +869,6 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIL3HqqP-DQCOOO3DIcdSXv-DixOZ4ExyvKykQknqHvYTFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
 
 
-## dct-de1
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
-
-sdns://AQcAAAAAAAAADTE2MC4yMC4xNDUuNjUgJtTq_n_KrYaFrdC536kVOhrN3wQSulwNo4kXbW4X8R8XMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZTE
-
-
 ## dct-nl1
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Naaldwijk, Netherlands.
