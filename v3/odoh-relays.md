@@ -28,6 +28,13 @@ Maintained by Frank Denis.
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
+## odohrelay-ams
+
+Oblivious DoH relay in The Netherlands. No logs.
+
+sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94eQ
+
+
 ## odohrelay-se
 
 Oblivious DoH relay in Sweden. No logs.
