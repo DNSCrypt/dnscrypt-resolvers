@@ -1701,13 +1701,6 @@ No log, no filter, DNSSEC. Provided by https://openinternet.io
 sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgHRhodSnh6n0lyl8T0d5e2OSapsrl455sspOSW_cLlQ0cMi5kbnNjcnlwdC1jZXJ0Lm9wZW5pbnRlcm5ldA
 
 
-## opennameserver-3-doh
-
-OpenNIC • DoH • DoT • DNSSEC • No Logging • Uncensored - https://opennameserver.org
-
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhZuczMub3Blbm5hbWVzZXJ2ZXIub3JnCi9kbnMtcXVlcnk
-
-
 ## oszx
 
 Secure DNS Project by PumpleX - Hosted in the UK by OVH
