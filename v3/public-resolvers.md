@@ -980,9 +980,9 @@ and delegates DNS resolution to the default Linode DNS server.
 
 Report issues, and send suggestions to joker349 on protonmail.
 
-Also supports:  
-  * DoT @ dns.therifleman.name
-  * plain DNS @ 172.104.206.174
+Also supports:
+* DoT @ dns.therifleman.name
+* plain DNS @ 172.104.206.174
 
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
