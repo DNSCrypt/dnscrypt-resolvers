@@ -955,22 +955,19 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY
 
 ## dns.therifleman.name
 
-DNS-over-HTTPS DNS forwarder from Mumbai, India.
+DNS-over-HTTPS DNS forwarder from Mumbai, India 🇮🇳.
 
-Blocks web, Android trackers and ads.
+Blocks Web, Android trackers and Ads.
 
 Does not log client IP addresses, but logs queries for 24 hours for debugging
 and delegates DNS resolution to the default Linode DNS server.
 
-Report issues, and send suggestions to @ joker349 at protonmail.com.
+Report issues, and send suggestions to joker349 on protonmail.
 
-Also supports DoT (for android) @ dns.therifleman.name and plain
-DNS @ 172.104.206.174 (Note: because of spam bots mostly from USA,
-plain DNS access is limited to India and Singapore for now. If you
-are not from these countries and would like to access plain DNS, send
-a request at aforementioned email address.
+Also supports:  
+  * DoT @ dns.therifleman.name
+  * plain DNS @ 172.104.206.174
 
-DoT and DoH are available world-wide.
 
 sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
 
