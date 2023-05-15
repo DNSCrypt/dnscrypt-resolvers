@@ -1600,7 +1600,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IFDev8_1OF25hJldwxFEny-ZkBjtZ3kzo5lBJFOcpr10FWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IKtmfDbr2JUY2EaNRaqOgzT5COvXBHIKGgnYNr4fp-h9FWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## meganerd-doh-ipv6
@@ -1610,7 +1610,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDowM2ZmOmZlMDc6ZjcwZF0gUN6_z_U4XbmEmV3DEUSfL5mQGO1neTOjmUEkU5ymvXQVY2hld2JhY2NhLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSCrZnw269iVGNhGjUWqjoM0-Qjr1wRyChoJ2Da-H6fofRVjaGV3YmFjY2EubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
 
 
 ## meganerd-ipv6
