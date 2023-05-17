@@ -131,13 +131,6 @@ Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4zNy4xMjAuMjM1LjE4Nw
 
 
-## anon-cs-is
-
-Iceland Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ04Mi4yMjEuMTI4LjQ0
-
-
 ## anon-cs-london
 
 London, England Anonymized DNS relay server provided by https://cryptostorm.is/
