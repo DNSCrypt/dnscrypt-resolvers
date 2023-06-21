@@ -519,6 +519,14 @@ This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you wa
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
 
 
+## crimeflare.decloudflare.dns
+
+No logs, no statistics, no collection public DNS service.
+Block cloudflare domains. See https://0xacab.org/my-privacy-dns/deCloudflare/-/blob/master/subfiles/service/dns.md
+
+sdns://AQIAAAAAAAAAEjY1LjIxLjI1Mi4yMDE6NTM1MyBG15NtXmv0_HjeU4lFLUa5f61XrqAytIhDVtkS-zT7EisyLmRuc2NyeXB0LWNlcnQuY3JpbWVmbGFyZS5kZWNsb3VkZmxhcmUuZG5z
+
+
 ## cs-austria
 
 Wien, Austria DNSCrypt server provided by https://cryptostorm.is/
