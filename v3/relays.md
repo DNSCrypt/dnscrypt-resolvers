@@ -61,13 +61,6 @@ US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gQwxOTguNy41OC4yMjc
 
 
-## anon-cs-de
-
-Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQsxNDYuNzAuODIuMw
-
-
 ## anon-cs-dk
 
 Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
