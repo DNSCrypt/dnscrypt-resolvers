@@ -562,13 +562,6 @@ US - Washington, DC DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADDE5OC43LjU4LjIyNyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-de
-
-Frankfurt, Germany DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAACzE0Ni43MC44Mi4zIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-dk
 
 Denmark DNSCrypt server provided by https://cryptostorm.is/
@@ -992,13 +985,6 @@ https://www.dns0.eu/
 sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxraWRzLmRuczAuZXUKL2Rucy1xdWVyeQ
 
 
-## dnscrypt-ch-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAETQ1LjkxLjkyLjEyMTo4NDQzIIUTqWvE4INLlQ1jtQLo0-LVTQSWayYCkzTpBx26I_wrGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
-
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -1216,7 +1202,7 @@ Warning: GFW filtering rules are applied by that resolver.
 
 Homepage: https://dnspod.cn/
 
-sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgD3COiTWYzhCaz4188tVyp8i8EAR0UYsu0tkTgK_E7aYHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgj0tzmXxLBOpQ_q-pGiQx1CvKa1TCO8-du_VyJJOU4QwHZG9oLnB1YgovZG5zLXF1ZXJ5
 
 
 ## dnswarden-adult-doh
@@ -1480,16 +1466,6 @@ DoH server operated by Internet Initiative Japan in Tokyo. Blocks child pornogra
 https://www.iij.ad.jp/
 
 sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
-
-
-## invisv
-
-A DoH server using 3rd-party intermediate relays to avoid linking IP
-addresses with queries.
-
-https://invisv.com
-
-sdns://AgcAAAAAAAAAAAAOZG5zLmludmlzdi5jb20KL2Rucy1xdWVyeQ
 
 
 ## jp.tiar.app
