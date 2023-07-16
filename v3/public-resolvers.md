@@ -187,20 +187,6 @@ Homepage: https://alidns.com/
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## altername
-
-Protocol: DNSCrypt | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS | Location: Moscow, Russia
-
-sdns://AQcAAAAAAAAAEDE4NS4yMDQuMi44Ojg0NDMgmfGTecriYs8VCfSDIUo6U6yQ5g98itBT7FWH3yYVB1MZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
-
-
-## altername-ipv6
-
-Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS | Location: Moscow, Russia
-
-sdns://AQcAAAAAAAAAG1syYTA0OjUyMDA6ZmZmNDo6MTNmZl06ODQ0MyCZ8ZN5yuJizxUJ9IMhSjpTrJDmD3yK0FPsVYffJhUHUxkyLmRuc2NyeXB0LWNlcnQuYWx0ZXJuYW1l
-
-
 ## ams-ads-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
