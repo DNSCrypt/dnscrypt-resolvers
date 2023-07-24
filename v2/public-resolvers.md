@@ -177,20 +177,6 @@ Homepage: https://alidns.com/
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
-## altername
-
-Protocol: DNSCrypt | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS | Location: Moscow, Russia
-
-sdns://AQcAAAAAAAAAEDE4NS4yMDQuMi44Ojg0NDMgmfGTecriYs8VCfSDIUo6U6yQ5g98itBT7FWH3yYVB1MZMi5kbnNjcnlwdC1jZXJ0LmFsdGVybmFtZQ
-
-
-## altername-ipv6
-
-Protocol: DNSCrypt IPv6 | Features: Non-logging, Non-filtering, DNSSEC, EmerDNS | Location: Moscow, Russia
-
-sdns://AQcAAAAAAAAAG1syYTA0OjUyMDA6ZmZmNDo6MTNmZl06ODQ0MyCZ8ZN5yuJizxUJ9IMhSjpTrJDmD3yK0FPsVYffJhUHUxkyLmRuc2NyeXB0LWNlcnQuYWx0ZXJuYW1l
-
-
 ## ams-ads-doh-nl
 
 Resolver in Amsterdam. DoH protocol. Non-logging. Blocks ads, malware and trackers. DNSSEC enabled.
@@ -560,13 +546,6 @@ sdns://AQIAAAAAAAAADzIxNy4xMzguMjIwLjI0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkM
 US - Washington, DC DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQIAAAAAAAAADDE5OC43LjU4LjIyNyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-de
-
-Frankfurt, Germany DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAACzE0Ni43MC44Mi4zIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-dk
@@ -992,13 +971,6 @@ https://www.dns0.eu/
 sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxraWRzLmRuczAuZXUKL2Rucy1xdWVyeQ
 
 
-## dnscrypt-ch-blahdns-ipv4
-
-Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Switzerland. By https://blahdns.com/
-
-sdns://AQMAAAAAAAAAETQ1LjkxLjkyLjEyMTo4NDQzIIUTqWvE4INLlQ1jtQLo0-LVTQSWayYCkzTpBx26I_wrGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
-
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
@@ -1216,7 +1188,7 @@ Warning: GFW filtering rules are applied by that resolver.
 
 Homepage: https://dnspod.cn/
 
-sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgD3COiTWYzhCaz4188tVyp8i8EAR0UYsu0tkTgK_E7aYHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgj0tzmXxLBOpQ_q-pGiQx1CvKa1TCO8-du_VyJJOU4QwHZG9oLnB1YgovZG5zLXF1ZXJ5
 
 
 ## dnswarden-adult-doh
@@ -1482,16 +1454,6 @@ https://www.iij.ad.jp/
 sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzARcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
 
-## invisv
-
-A DoH server using 3rd-party intermediate relays to avoid linking IP
-addresses with queries.
-
-https://invisv.com
-
-sdns://AgcAAAAAAAAAAAAOZG5zLmludmlzdi5jb20KL2Rucy1xdWVyeQ
-
-
 ## jp.tiar.app
 
 Non-Logging, Non-Filtering DNSCrypt server in Japan.
@@ -1573,7 +1535,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IKtmfDbr2JUY2EaNRaqOgzT5COvXBHIKGgnYNr4fp-h9FWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IEtLHCMlHC1fxLVf9GXprwwhMV4De6hIxqxyHFvQyVyYFWNoZXdiYWNjYS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## meganerd-doh-ipv6
@@ -1583,7 +1545,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSCrZnw269iVGNhGjUWqjoM0-Qjr1wRyChoJ2Da-H6fofRVjaGV3YmFjY2EubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSBLSxwjJRwtX8S1X_Rl6a8MITFeA3uoSMaschxb0MlcmBVjaGV3YmFjY2EubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
 
 
 ## meganerd-ipv6
