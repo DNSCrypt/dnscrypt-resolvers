@@ -229,6 +229,20 @@ AT&T test DoH server.
 sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMBBkb2h0cmlhbC5hdHQubmV0Ci9kbnMtcXVlcnk
 
 
+## bebasdns
+
+BebasDNS default server by BebasID. DNSSEC supported. Filter ads, tracker, and malware
+
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNAAPZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+
+
+## bebasdns-security
+
+BebasDNS Security Variant by BebasID. DNSSEC supported. Only block malicious link
+
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yMwAVYW50aXZpcnVzLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+
+
 ## bortzmeyer
 
 Non-logging DoH server in France operated by Stéphane Bortzmeyer.
