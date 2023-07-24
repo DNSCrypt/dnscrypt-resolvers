@@ -231,16 +231,16 @@ sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vf
 
 ## bebasdns
 
-BebasDNS default server by BebasID. DNSSEC supported. Filter ads, tracker, and malware
+BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNAAPZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## bebasdns-security
 
-BebasDNS Security Variant by BebasID. DNSSEC supported. Only block malicious link
+BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yMwAVYW50aXZpcnVzLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yMyBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## bortzmeyer
