@@ -11,13 +11,15 @@ To use that list, add this to the `[sources]` section of your
     cache_file = 'opennic.md'
 
 --
-opennic-R4SAS
-publicarray-au-doh
-publicarray-au2-doh
+bebasdns
+bebasdns-security
+doh-ibksturm
 dotya.ml
 dotya.ml-ipv6
 ibksturm
-doh-ibksturm
 opennameserver-2-doh
 opennameserver-3-doh
 opennameserver-4-doh
+opennic-R4SAS
+publicarray-au-doh
+publicarray-au2-doh

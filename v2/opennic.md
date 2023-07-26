@@ -13,6 +13,20 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## bebasdns
+
+BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
+
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+
+
+## bebasdns-security
+
+BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
+
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yMyBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+
+
 ## doh-ibksturm
 
 DoH & DoT Server, No Logging, No Filters, DNSSEC
@@ -29,14 +43,6 @@ DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 Running privately by ibksturm in Thurgau, Switzerland
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
-
-
-## publicarray-au-doh
-
-DNSSEC • OpenNIC • Non-logging • Uncensored - hosted on vultr.com
-Maintained by publicarray - https://dns.seby.io
-
-sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
 
 
 ## publicarray-au2-doh
