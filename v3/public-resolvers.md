@@ -233,14 +233,14 @@ sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vf
 
 BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## bebasdns-security
 
 BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yMyBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## bortzmeyer
@@ -1939,12 +1939,28 @@ Maintained by Frank Denis - https://fr.dnscrypt.info
 sdns://AQcAAAAAAAAADTUxLjE1LjEyMi4yNTAg6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
 
 
+## scaleway-ams-ipv6
+
+DNSSEC/Non-logged/Uncensored in Amsterdam - IPv6 only - DEV1-S instance donated by Scaleway.com
+Maintained by Frank Denis - https://fr.dnscrypt.info
+
+sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODMwOmIwNzo6MV0g6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
+
+
 ## scaleway-fr
 
 DNSSEC/Non-logged/Uncensored in Paris - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
 sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+
+
+## scaleway-fr-ipv6
+
+DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - DEV1-S instance donated by Scaleway.com
+Maintained by Frank Denis - https://fr.dnscrypt.info
+
+sdns://AQcAAAAAAAAAFVsyMDAxOmJjODo2Mjg6YTBmOjoxXSDoAbhOpga_sLrAzkNEW7FeumSwL6PEqjGuEGNqB5AyTR8yLmRuc2NyeXB0LWNlcnQuZnIuZG5zY3J5cHQub3Jn
 
 
 ## serbica
