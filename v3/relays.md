@@ -61,13 +61,6 @@ US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gQwxOTguNy41OC4yMjc
 
 
-## anon-cs-dk
-
-Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ0zNy4xMjAuMjMyLjQz
-
-
 ## anon-cs-dus1
 
 Dusseldorf, Germany 1 Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -159,13 +152,6 @@ Netherlands Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0xODUuMTA3LjgwLjg0
 
 
-## anon-cs-nl2
-
-Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8xNzIuMTA3LjIyNi4xMDc
-
-
 ## anon-cs-norway
 
 Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -236,13 +222,6 @@ Belgrade, Serbia Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4zNy4xMjAuMTkzLjIxOQ
 
 
-## anon-cs-sk
-
-South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8xNzIuMTA3LjE1NC4yMTE
-
-
 ## anon-cs-slovakia
 
 Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -276,20 +255,6 @@ sdns://gQwxNDYuNzAuMzEuNDM
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQ0yMDkuNTguMTQ3LjM2
-
-
-## anon-cs-tx2
-
-US - Dallas, TX 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQs0NS4zNS4zNS45OQ
-
-
-## anon-cs-tx3
-
-US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQs0NS4zNS43Mi40Mw
 
 
 ## anon-dnscrypt.uk-ipv4
@@ -399,7 +364,7 @@ sdns://gQ01MS4xNS4xMjIuMjUw
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
 IPv6 only. Running on an instance donated by https://scaleway.com
 
-sdns://gRZbMjAwMTpiYzg6MTgyMDo1MGQ6OjFd
+sdns://gRZbMjAwMTpiYzg6MTgzMDpiMDc6OjFd
 
 
 ## anon-serbica
