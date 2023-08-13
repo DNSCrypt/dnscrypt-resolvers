@@ -103,13 +103,6 @@ US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4xNzMuMjM0LjU2LjExNQ
 
 
-## anon-cs-il2
-
-US - Chicago, IL 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xNzIuMTA3LjE5OS4xOQ
-
-
 ## anon-cs-ireland
 
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
