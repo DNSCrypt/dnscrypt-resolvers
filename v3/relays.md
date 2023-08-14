@@ -381,6 +381,20 @@ Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by htt
 sdns://gRA4OS41OC42LjE2OTo0NDM0
 
 
+## anon-tiarap
+
+Anonymized DNS relay hosted in Singapore
+
+sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
+
+
+## anon-tiarap-ipv6
+
+Anonymized IPv6 DNS relay hosted in Singapore
+
+sdns://gSBbMjQwMDo2MTgwOjA6ZDA6OjVmNzM6NDAwMV06MTQ0Mw
+
+
 ## anon-v.dnscrypt.uk-ipv4
 
 Anonymized DNS relay hosted in UK on Vultr
