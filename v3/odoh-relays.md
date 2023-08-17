@@ -35,17 +35,9 @@ Maintained by Frank Denis.
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
-## odohrelay-se
+## odohrelay-marco.cx
 
-Oblivious DoH relay in Sweden. No logs.
+Oblivious DoH relay by marco.cx - https://odoh-relay.marco.cx
 
-sdns://hQcAAAAAAAAADTQ1LjE1My4xODcuOTYAGG9kb2gtc2UuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
-
-
-## odohrelay-surf
-
-SURFdomeinen oblivious DoH relay.
-https://www.surf.nl
-
-sdns://hQcAAAAAAAAACjE0NS4wLjYuNTMgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4egVb2RvaDEuc3VyZmRvbWVpbmVuLm5sBi9wcm94eQ
+sdns://hQcAAAAAAAAADjEwNC4yMzguMTU4LjU0ABNvZG9oLXJlbGF5Lm1hcmNvLmN4Bi9wcm94eQ
 

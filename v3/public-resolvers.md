@@ -1564,24 +1564,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAIlsyYTAzOmNmYzA6ODAzZjo5NjQ6YjVmYTowOjE6OTZjNl0gGTI7Mx4Z1MLVl5rm44R7LrjMDUqjvZOanFXu88hjRjsZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-zürich-ipv4
-
-DNSCry.pt Zürich - no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAACjQ1LjY3Ljg2LjQgNzMQFbYoRPsD-Qu78tUhbD2etizccl0HpOb-jL13UQ8ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-zürich-ipv6
-
-DNSCry.pt Zürich - no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMjo1OjphXSA3MxAVtihE-wP5C7vy1SFsPZ62LNxyXQek5v6MvXdRDxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscrypt-de-blahdns-ipv4
 
 Blocks ad and Tracking, no Logging, DNSSEC, Hosted in Germany. By https://blahdns.com/
