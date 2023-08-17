@@ -89,7 +89,8 @@ sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 ## odoh-marco.cx
 
-ODoH target server by marco.cx
+ODoH target server by marco.cx.
+Warning: uses Cloudflare resolver.
 
 sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
 
