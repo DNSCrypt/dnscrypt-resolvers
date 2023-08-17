@@ -39,5 +39,5 @@ sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5L
 
 Oblivious DoH relay by marco.cx - https://odoh-relay.marco.cx
 
-sdns://hQcAAAAAAAAADjEwNC4yMzguMTU4LjU0ABNvZG9oLXJlbGF5Lm1hcmNvLmN4Bi9wcm94eQ
+sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
 
