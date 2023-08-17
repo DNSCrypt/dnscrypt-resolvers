@@ -87,6 +87,13 @@ Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
 sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
+## odoh-marco.cx
+
+ODoH target server by marco.cx
+
+sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
+
+
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
