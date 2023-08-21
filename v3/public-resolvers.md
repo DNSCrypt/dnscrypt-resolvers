@@ -952,6 +952,14 @@ https://www.dns0.eu/
 sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxraWRzLmRuczAuZXUKL2Rucy1xdWVyeQ
 
 
+## dns0-unfiltered
+
+The unfiltered version of dns0.eu.
+https://open.dns0.eu/
+
+sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxvcGVuLmRuczAuZXUKL2Rucy1xdWVyeQ
+
+
 ## dnscry.pt-amsterdam-ipv4
 
 DNSCry.pt Amsterdam - no filter, no logs, DNSSEC support (IPv4 server)
