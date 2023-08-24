@@ -2174,20 +2174,39 @@ sdns://AgEAAAAAAAAAACAl3vkEVF7va7q6n3EiBtr_9_TGsyZQ7-RvpLpJtdqibA1wZG5zLml0eGUub
 
 ## mullvad-adblock-doh
 
-Public ad-blocking, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
-Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
-https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+Same as mullvad but blocking ads and trackers.
 
-sdns://AgMAAAAAAAAAAAAXYWRibG9jay5kb2gubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi4zABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+
+
+## mullvad-all-doh
+
+Same as mullvad but blocking ads, trackers, malware, social media, adult and gambling.
+
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi45ABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+
+
+## mullvad-base-doh
+
+Same as mullvad but blocking ads, trackers and malware.
+
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi40ABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 
 ## mullvad-doh
 
 Public non-filtering, non-logging (audited), DNSSEC-capable, DNS-over-HTTPS resolver hosted by VPN provider Mullvad
-Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG
+Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU and SG.
 https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgcAAAAAAAAAAAAPZG9oLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAACzE5NC4yNDIuMi4yAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+
+
+## mullvad-extend-doh
+
+Same as mullvad but blocking ads, trackers, malware and social media.
+
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi41ABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
 ## nextdns
