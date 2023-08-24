@@ -2343,6 +2343,15 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
 
 
+## rethinkdns
+
+Rethink DNS is both a stub and a recursive resolver running on Cloudfare's network. sky.rethinkdns.com forwards user requests to another recursive resolver like Cloudflare's 1.1.1.1, but does so in a way that doesn't leak the identity of the client (user). 
+DNSSEC, no filter, no logs.
+https://www.rethinkdns.com/
+
+sdns://AgcAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## qihoo360-doh
 
 DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
