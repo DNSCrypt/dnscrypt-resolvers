@@ -870,6 +870,7 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDOgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
+
 ## dns.digitale-gesellschaft.ch-ipv6
 
 Public IPv6 DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch). Hosted in Zurich, Switzerland.
