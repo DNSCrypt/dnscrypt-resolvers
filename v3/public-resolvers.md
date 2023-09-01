@@ -2165,7 +2165,7 @@ sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSAon-lfT
 
 ## moedns-doh
 
-DoH server in mainland China operated by [Nyarime](https://about.x.gy), powered by AdGuard Home. Intro page: https://x.gy/article/moedns
+DoH server in mainland China operated by [Nyarime](https://naixi.net/), powered by AdGuard Home. Intro page: https://blog.naixi.net/article/moedns
 
 Keeps logs for 90 days according to law, filters ads and malicious websites, supports DNSSEC, no GFW poisoning
 
