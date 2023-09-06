@@ -2163,15 +2163,6 @@ Non-logging, non-filtering, supports DNSSEC.
 sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSAon-lfTOhBf_V6PzB8JAzeGSYxEaKUiTfIQblFoPWHjCUyLmRuc2NyeXB0LWNlcnQuY2hld2JhY2NhLm1lZ2FuZXJkLm5s
 
 
-## moedns-doh
-
-DoH server in mainland China operated by [Nyarime](https://naixi.net/), powered by AdGuard Home. Intro page: https://blog.naixi.net/article/moedns
-
-Keeps logs for 90 days according to law, filters ads and malicious websites, supports DNSSEC, no GFW poisoning
-
-sdns://AgEAAAAAAAAAACAl3vkEVF7va7q6n3EiBtr_9_TGsyZQ7-RvpLpJtdqibA1wZG5zLml0eGUubmV0Ci9kbnMtcXVlcnk
-
-
 ## mullvad-adblock-doh
 
 Same as mullvad but blocking ads and trackers.
