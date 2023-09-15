@@ -291,15 +291,14 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
-sdns://gRIxMzYuMjQ0Ljk3LjExNDo0NDM
+sdns://gRE5NS4xNzkuMTMxLjgyOjQ0Mw
 
 
 ## anon-meganerd-ipv6
 
 Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
 
-sdns://gStbMjAwMToxOWYwOjUwMDE6Y2JiOjU0MDA6M2ZmOmZlMDc6ZjcwZF06NDQz
-
+sdns://gRxbMmEwNTpmNDgwOjE0MDA6MmIwMDo6MV06NDQz
 
 ## anon-openinternet
 
