@@ -95,6 +95,13 @@ Warning: uses Cloudflare resolver.
 sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
 
 
+## odoh-meganerd
+
+ODoH target server by MegaNerd.nl - https://meganerd.nl/encrypted-dns-server Hosted in Amsterdam (AMS1), The Netherlands.
+
+sdns://BQcAAAAAAAAAEXNub2tlLm1lZ2FuZXJkLm5sCi9kbnMtcXVlcnk
+
+
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
