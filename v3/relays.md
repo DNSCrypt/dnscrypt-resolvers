@@ -300,6 +300,7 @@ Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encry
 
 sdns://gRxbMmEwNTpmNDgwOjE0MDA6MmIwMDo6MV06NDQz
 
+
 ## anon-openinternet
 
 Anonymized DNS relay colocated at Sonic.net in Santa Rosa, CA in the United States. Provided by https://openinternet.io

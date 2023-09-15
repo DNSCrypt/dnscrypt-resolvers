@@ -2132,6 +2132,7 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AQcAAAAAAAAAETk1LjE3OS4xMzEuODI6NDQzICEYmUHTZgyY_M0sUm29asxBAFNz46NLFQY6SXSApH4-ITIuZG5zY3J5cHQtY2VydC5zbm9rZS5tZWdhbmVyZC5ubA
 
+
 ## meganerd-doh-ipv4
 
 DoH server by MegaNerd.nl (IPv4) - https://meganerd.nl/encrypted-dns-server
@@ -2141,6 +2142,7 @@ Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAADTk1LjE3OS4xMzEuODIgzTW4grmL7hHRUEEM0vaOdI2ofnkJWzmig-0Np94LnpwRc25va2UubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
 
+
 ## meganerd-doh-ipv6
 
 DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
@@ -2149,6 +2151,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXSDNNbiCuYvuEdFQQQzS9o50jah-eQlbOaKD7Q2n3guenBFzbm9rZS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+
 
 ## meganerd-ipv6
 
