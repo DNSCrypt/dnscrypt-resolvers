@@ -34,6 +34,11 @@ Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
+## odohrelay-ibksturm
+Maintained by ibksturm, Thurgau Switzerland
+
+sdns://hQcAAAAAAAAADjIxMy4xOTYuMTkxLjk2ABhpYmtzdHVybS5zeW5vbG9neS5tZTo0NDMGL3Byb3h5
+
 
 ## odohrelay-se
 
