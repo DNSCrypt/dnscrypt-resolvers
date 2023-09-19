@@ -1874,8 +1874,7 @@ DoH & DoT Server, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
-
+sdns://AgcAAAAAAAAADjIxMy4xOTYuMTkxLjk2ABhpYmtzdHVybS5zeW5vbG9neS5tZTo0NDMKL2Rucy1xdWVyeQ
 
 ## doh.appliedprivacy.net
 
