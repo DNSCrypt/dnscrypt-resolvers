@@ -2050,6 +2050,7 @@ Running privately by ibksturm in Thurgau, Switzerland
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgiwvumeI8et789m3naGH-4xzM40t6c2xO_fCxHldawJgYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
+
 ## iij
 
 DoH server operated by Internet Initiative Japan in Tokyo. Blocks child pornography.
