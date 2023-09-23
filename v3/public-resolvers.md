@@ -2140,7 +2140,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADTk1LjE3OS4xMzEuODIgzTW4grmL7hHRUEEM0vaOdI2ofnkJWzmig-0Np94LnpwRc25va2UubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTk1LjE3OS4xMzEuODIgcnEzGvYS6ObYZFA4PozbbNTJ3vre9wWfijO0ZuDCe3YRc25va2UubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
 
 
 ## meganerd-doh-ipv6
@@ -2150,7 +2150,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXSDNNbiCuYvuEdFQQQzS9o50jah-eQlbOaKD7Q2n3guenBFzbm9rZS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXSBycTMa9hLo5thkUDg-jNts1Mne-t73BZ-KM7Rm4MJ7dhFzbm9rZS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## meganerd-ipv6
