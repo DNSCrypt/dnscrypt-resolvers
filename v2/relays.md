@@ -76,13 +76,6 @@ Dusseldorf, Germany 4 Anonymized DNS relay server provided by https://cryptostor
 sdns://gQ44NS4xMTQuMTM4LjExOQ
 
 
-## anon-cs-finland
-
-Finland Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xODUuMTE3LjExOC4yMA
-
-
 ## anon-cs-fr
 
 France Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -109,13 +102,6 @@ sdns://gQ4xNzMuMjM0LjU2LjExNQ
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQ4zNy4xMjAuMjM1LjE4Nw
-
-
-## anon-cs-london
-
-London, England Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ03OC4xMjkuMTQwLjY1
 
 
 ## anon-cs-madrid
