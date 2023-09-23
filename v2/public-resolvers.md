@@ -223,14 +223,14 @@ sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vf
 
 BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## bebasdns-security
 
 BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yM6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
 
 
 ## bortzmeyer
