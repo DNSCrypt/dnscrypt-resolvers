@@ -32,7 +32,7 @@ sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94e
 Oblivious DoH relay running on Fastly Compute@Edge.
 Maintained by Frank Denis.
 
-sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BtvZG9oLXByb3h5Mi5lZGdlY29tcHV0ZS5hcHABLw
+sdns://hQcAAAAAAAAAACCi3jNJDEdtNW4tvHN8J3lpIklSa2Wrj7qaNCgEgci9_BpvZG9oLXJlbGF5LmVkZ2Vjb21wdXRlLmFwcAEv
 
 
 ## odohrelay-ibksturm
