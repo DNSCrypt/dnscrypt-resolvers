@@ -2640,6 +2640,16 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
 
 
+## rethinkdns-doh
+
+DNSSEC, No-log, No-filter  
+RethinkDNS, a stub (sky.rethinkdns.com hosted on Cloudflare) and recursive (max.rethinkdns.com hosted on fly.io) resolver  
+The stub server strips identification parameters from the request and acts as a proxy to another recursive resolver.
+
+sdns://AgcAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACAyme2vEQzyViN8wggmaizWRjeVcfgKsF4V7mc1KEui0hJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## safesurfer
 
 Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
