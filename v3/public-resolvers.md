@@ -2445,7 +2445,8 @@ DNSSEC, No-filter, No-log by https://upset.dev
 Servers in Singapore and Indonesia  
 Homepage: https://puredns.org
 
-sdns://AgcAAAAAAAAAAAALcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACjMuMS45NC4yMTggWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACjMuMC44Ni4xMjYgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## qihoo360-doh
