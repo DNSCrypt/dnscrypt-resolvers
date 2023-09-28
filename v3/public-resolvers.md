@@ -2439,6 +2439,15 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
 
 
+## puredns-doh
+
+DNSSEC, No-filter, No-log by https://upset.dev  
+Servers in Singapore and Indonesia  
+Homepage: https://puredns.org
+
+sdns://AgcAAAAAAAAAAAALcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+
+
 ## qihoo360-doh
 
 DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
