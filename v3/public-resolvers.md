@@ -231,16 +231,28 @@ sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vf
 
 ## bebasdns
 
-BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
+BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
 
-sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6NDM0MyA7XBY8oz_jiv1lHO1obU52Q5bJTTyj8mj8ZlTRsmnzhB8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
+
+## bebasdns-unfiltered
+
+BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
+
+sdns://AgcAAAAAAAAADTEwMy44Ny42OC4xOTQAD2Rucy5iZWJhc2lkLmNvbQsvdW5maWx0ZXJlZA
 
 
 ## bebasdns-security
 
-BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
+BebasDNS Security Variant by BebasID. DNSSEC and OpenNIC supported. Only blocks malicious links.
 
-sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTU6ODQ0MyDxbZzPMadetG2FodrzRfoiJjJi3cxbOsvKAvMyJ09rfiUyLmRuc2NyeXB0LWNlcnQuYW50aXZpcnVzLmJlYmFzaWQuY29t
+
+## bebasdns-family
+
+BebasDNS Family Variant by BebasID. DNSSEC and OpenNIC supported. Blocks malicious link, pornography, gambling, and hate site.
+
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTY6ODQ0MyD5k4vgIHmBCZ2DeLtmoDVu1C6nVrRNzSVgZ1T0m0-3rCkyLmRuc2NyeXB0LWNlcnQuaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQ
 
 
 ## bortzmeyer
