@@ -233,7 +233,7 @@ sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vf
 
 BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
 
-sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6NDM0MyA7XBY8oz_jiv1lHO1obU52Q5bJTTyj8mj8ZlTRsmnzhB8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6trdMkje7QR8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
 
 ## bebasdns-unfiltered
 
