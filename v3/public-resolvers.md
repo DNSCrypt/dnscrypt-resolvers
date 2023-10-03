@@ -235,6 +235,12 @@ BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, t
 
 sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6trdMkje7QR8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
 
+## bebasdns-dnscrypt
+
+BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant is unfiltered and using DNSCrypt protocol.
+
+sdns://AQcAAAAAAAAAEzM0LjEwMS4xODUuMTMwOjU0NDMghpbY0AAjPtvOiDsSzDh7Few4-cUrb6D33KwcMl75TtkqMi5kbnNjcnlwdC1jZXJ0LnVuZmlsdGVyZWQuZG5zLmJlYmFzaWQuY29t
+
 ## bebasdns-unfiltered
 
 BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
