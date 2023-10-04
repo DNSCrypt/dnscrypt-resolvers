@@ -15,16 +15,37 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 ## bebasdns
 
-BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
+BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yNCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6trdMkje7QR8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
+
+
+## bebasdns-dnscrypt
+
+BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant is unfiltered and using DNSCrypt protocol.
+
+sdns://AQcAAAAAAAAAEzM0LjEwMS4xODUuMTMwOjU0NDMghpbY0AAjPtvOiDsSzDh7Few4-cUrb6D33KwcMl75TtkqMi5kbnNjcnlwdC1jZXJ0LnVuZmlsdGVyZWQuZG5zLmJlYmFzaWQuY29t
+
+
+## bebasdns-family
+
+BebasDNS Family Variant by BebasID. DNSSEC and OpenNIC supported. Blocks malicious link, pornography, gambling, and hate site.
+
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTY6ODQ0MyD5k4vgIHmBCZ2DeLtmoDVu1C6nVrRNzSVgZ1T0m0-3rCkyLmRuc2NyeXB0LWNlcnQuaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQ
 
 
 ## bebasdns-security
 
-BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
+BebasDNS Security Variant by BebasID. DNSSEC and OpenNIC supported. Only blocks malicious links.
 
-sdns://AgMAAAAAAAAADDEwMy44Ny42OC4yMyBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTU6ODQ0MyDxbZzPMadetG2FodrzRfoiJjJi3cxbOsvKAvMyJ09rfiUyLmRuc2NyeXB0LWNlcnQuYW50aXZpcnVzLmJlYmFzaWQuY29t
+
+
+## bebasdns-unfiltered
+
+BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
+
+sdns://AgcAAAAAAAAADTEwMy44Ny42OC4xOTQAD2Rucy5iZWJhc2lkLmNvbQsvdW5maWx0ZXJlZA
 
 
 ## doh-ibksturm
@@ -33,7 +54,7 @@ DoH & DoT Server, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AgcAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRpYmtzdHVybS5zeW5vbG9neS5tZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIxMy4xOTYuMTkxLjk2IFk-LUmnQCNVVSau-bdCKxnluLFnORtt7l7SkrHKI6dMGGlia3N0dXJtLnN5bm9sb2d5Lm1lOjQ0MwovZG5zLXF1ZXJ5
 
 
 ## ibksturm
@@ -42,7 +63,7 @@ DNSCRYPT V2 Server, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHK0AUhqiLSuBFR07jpBhKvko_oyqyWnot8z4cce7cKkYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgiwvumeI8et789m3naGH-4xzM40t6c2xO_fCxHldawJgYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## publicarray-au2-doh

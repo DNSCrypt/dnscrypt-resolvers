@@ -12,7 +12,10 @@ To use that list, add this to the `[sources]` section of your
 
 --
 bebasdns
+bebasdns-dnscrypt
+bebasdns-family
 bebasdns-security
+bebasdns-unfiltered
 doh-ibksturm
 dotya.ml
 dotya.ml-ipv6

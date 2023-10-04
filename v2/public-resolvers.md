@@ -221,16 +221,37 @@ sdns://AgUAAAAAAAAAAKC8hFRehaL-5iAWO74cDW6sa3toE6vGROtou_hQdtyuYyCY49XlNq8pWM0vf
 
 ## bebasdns
 
-BebasDNS default server by BebasID. DNSSEC supported. Filters ads, tracker, and malware.
+BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
 
-sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zg9kbnMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6trdMkje7QR8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
+
+
+## bebasdns-dnscrypt
+
+BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant is unfiltered and using DNSCrypt protocol.
+
+sdns://AQcAAAAAAAAAEzM0LjEwMS4xODUuMTMwOjU0NDMghpbY0AAjPtvOiDsSzDh7Few4-cUrb6D33KwcMl75TtkqMi5kbnNjcnlwdC1jZXJ0LnVuZmlsdGVyZWQuZG5zLmJlYmFzaWQuY29t
+
+
+## bebasdns-family
+
+BebasDNS Family Variant by BebasID. DNSSEC and OpenNIC supported. Blocks malicious link, pornography, gambling, and hate site.
+
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTY6ODQ0MyD5k4vgIHmBCZ2DeLtmoDVu1C6nVrRNzSVgZ1T0m0-3rCkyLmRuc2NyeXB0LWNlcnQuaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQ
 
 
 ## bebasdns-security
 
-BebasDNS Security Variant by BebasID. DNSSEC supported. Only blocks malicious links.
+BebasDNS Security Variant by BebasID. DNSSEC and OpenNIC supported. Only blocks malicious links.
 
-sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhVhbnRpdmlydXMuYmViYXNpZC5jb20KL2Rucy1xdWVyeQ
+sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTU6ODQ0MyDxbZzPMadetG2FodrzRfoiJjJi3cxbOsvKAvMyJ09rfiUyLmRuc2NyeXB0LWNlcnQuYW50aXZpcnVzLmJlYmFzaWQuY29t
+
+
+## bebasdns-unfiltered
+
+BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
+
+sdns://AgcAAAAAAAAADTEwMy44Ny42OC4xOTQAD2Rucy5iZWJhc2lkLmNvbQsvdW5maWx0ZXJlZA
 
 
 ## bortzmeyer
@@ -2225,7 +2246,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADTk1LjE3OS4xMzEuODIgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984Rc25va2UubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTk1LjE3OS4xMzEuODKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984Rc25va2UubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
 
 
 ## meganerd-doh-ipv6
@@ -2235,7 +2256,7 @@ Hosted in Amsterdam (AMS1), The Netherlands.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFzbm9rZS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFzbm9rZS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
 
 
 ## meganerd-ipv6
@@ -2419,6 +2440,24 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
 
 
+## puredns-doh
+
+DNSSEC, No-log, No-filter by https://upset.dev
+Servers in Singapore and Indonesia
+Homepage: https://puredns.org
+
+sdns://AgcAAAAAAAAACjMuMS45NC4yMTggWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+
+
+## puredns-family-doh
+
+DNSSEC, No-log, with malware, adware, gambling, fakenews, and NSFW blocking by https://upset.dev
+Servers in Singapore and Indonesia
+Homepage: https://puredns.org/family
+
+sdns://AgMAAAAAAAAADTEwOC4xMzcuNDQuMzMgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
+
+
 ## qihoo360-doh
 
 DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
@@ -2574,6 +2613,15 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMl0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 - 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
+
+
+## rethinkdns-doh
+
+DNSSEC, No-log, No-filter
+RethinkDNS, a stub (sky.rethinkdns.com hosted on Cloudflare) and recursive (max.rethinkdns.com hosted on fly.io) resolver
+The stub server strips identification parameters from the request and acts as a proxy to another recursive resolver.
+
+sdns://AgcAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## safesurfer
