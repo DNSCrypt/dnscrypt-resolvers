@@ -2439,6 +2439,26 @@ Maintained by publicarray - https://dns.seby.io
 sdns://AgcAAAAAAAAADTEzOS45OS4yMjIuNzKgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984NZG9oLTIuc2VieS5pbwovZG5zLXF1ZXJ5
 
 
+## puredns-doh
+
+DNSSEC, No-log, No-filter by https://upset.dev  
+Servers in Singapore and Indonesia  
+Homepage: https://puredns.org
+
+sdns://AgcAAAAAAAAACjMuMS45NC4yMTggWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACjMuMC44Ni4xMjYgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+
+
+## puredns-family-doh
+
+DNSSEC, No-log, with malware, adware, gambling, fakenews, and NSFW blocking by https://upset.dev  
+Servers in Singapore and Indonesia  
+Homepage: https://puredns.org/family
+
+sdns://AgMAAAAAAAAADTEwOC4xMzcuNDQuMzMgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDEwOC4xMzcuMzUuNCBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYivhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
+
+
 ## qihoo360-doh
 
 DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
@@ -2618,6 +2638,16 @@ Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 - 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
+
+
+## rethinkdns-doh
+
+DNSSEC, No-log, No-filter  
+RethinkDNS, a stub (sky.rethinkdns.com hosted on Cloudflare) and recursive (max.rethinkdns.com hosted on fly.io) resolver  
+The stub server strips identification parameters from the request and acts as a proxy to another recursive resolver.
+
+sdns://AgcAAAAAAAAAACARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACAyme2vEQzyViN8wggmaizWRjeVcfgKsF4V7mc1KEui0hJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## safesurfer
