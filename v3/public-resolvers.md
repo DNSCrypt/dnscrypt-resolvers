@@ -2908,6 +2908,32 @@ With ad blocking.
 sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuNzQ6MTUzNTMgFTXwu5MfYkBOrRpDeoB-yOWEjCnf-l3yixhtuzuPBskfMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
 
 
+## wikimedia
+
+Wikimedia DNS (formerly called Wikidough), is a caching, recursive,
+public resolver service that is run and managed by the Site
+Reliability Engineering (Traffic) team at the Foundation.
+
+Wikimedia DNS helps prevent some surveillance and censorship of our
+wikis and other websites by securing DNS lookups.
+
+sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4ABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1ZXJ5
+
+
+## wikimedia-ipv6
+
+Wikimedia DNS over IPv6.
+
+Wikimedia DNS (formerly called Wikidough), is a caching, recursive,
+public resolver service that is run and managed by the Site
+Reliability Engineering (Traffic) team at the Foundation.
+
+Wikimedia DNS helps prevent some surveillance and censorship of our
+wikis and other websites by securing DNS lookups.
+
+sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1ZXJ5
+
+
 ## yandex
 
 Yandex public DNS server (anycast)
