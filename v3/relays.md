@@ -258,6 +258,20 @@ For more information look at https://github.com/bhanupratapys/dnswarden or https
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
+## anon-gombadi-sydney
+
+Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
+
+sdns://gRIxOTQuMTk1LjEyNC40MTo0NDM
+
+
+## anon-gombadi-sydney-ipv6
+
+Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
+
+sdns://gSRbMjQwMDo4OTA3OjpmMDNjOjkzZmY6ZmVjNDo4YzQyXTo0NDM
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
