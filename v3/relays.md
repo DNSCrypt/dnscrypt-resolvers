@@ -272,6 +272,20 @@ Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/ed
 sdns://gSRbMjQwMDo4OTA3OjpmMDNjOjkzZmY6ZmVjNDo4YzQyXTo0NDM
 
 
+## anon-gombadi-tokyo
+
+Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
+
+sdns://gRMyMDIuMTgyLjExMS4yMzQ6NDQz
+
+
+## anon-gombadi-tokyo-ipv6
+
+Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
+
+sdns://gSxbMjQwMTpjMDgwOjEwMDA6NDhiNDo1NDAwOjRmZjpmZTlkOmQ0NTVdOjQ0Mw
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
