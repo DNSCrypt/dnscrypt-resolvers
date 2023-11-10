@@ -16,6 +16,8 @@ bebasdns-dnscrypt
 bebasdns-family
 bebasdns-security
 bebasdns-unfiltered
+bebasdns-unfiltered-dnscrypt
+bebasdns-unfiltered-doh
 doh-ibksturm
 dotya.ml
 dotya.ml-ipv6
