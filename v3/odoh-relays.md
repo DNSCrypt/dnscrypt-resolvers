@@ -19,14 +19,6 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 
 --
 
-
-## odohrelay-ams
-
-Oblivious DoH relay in The Netherlands. No logs.
-
-sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94eQ
-
-
 ## odohrelay-crypto-sx
 
 Oblivious DoH relay running on Fastly Compute@Edge.
@@ -41,10 +33,4 @@ Maintained by ibksturm, Thurgau Switzerland
 
 sdns://hQcAAAAAAAAADjIxMy4xOTYuMTkxLjk2ABhpYmtzdHVybS5zeW5vbG9neS5tZTo0NDMGL3Byb3h5
 
-
-## odohrelay-se
-
-Oblivious DoH relay in Sweden. No logs.
-
-sdns://hQcAAAAAAAAADTQ1LjE1My4xODcuOTYAGG9kb2gtc2UuYWxla2JlcmcubmV0OjQ0MwYvcHJveHk
 
