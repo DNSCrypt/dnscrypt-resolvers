@@ -59,34 +59,6 @@ ODoH target server via Cloudflare, no logs.
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
 
 
-## odoh-koki-ams
-
-Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAGG9kb2gtdGFyZ2V0LmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
-## odoh-koki-noads-ams
-
-Oblivious DoH target server in The Netherlands. No logs, filter ads and malware, DNSSEC.
-
-sdns://BQMAAAAAAAAAHm9kb2gtdGFyZ2V0LW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
-## odoh-koki-noads-se
-
-Oblivious DoH target server in Sweden. No logs, filter ads and malware, DNSSEC.
-
-sdns://BQMAAAAAAAAAIW9kb2gtdGFyZ2V0LW5vYWRzLXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
-## odoh-koki-se
-
-Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAG29kb2gtdGFyZ2V0LXNlLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
 ## odoh-marco.cx
 
 ODoH target server by marco.cx.
