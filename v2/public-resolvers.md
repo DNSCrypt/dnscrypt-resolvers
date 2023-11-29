@@ -2414,24 +2414,6 @@ By pryv8, non Logging, uncensored, DNSSEC - hosted on contabo servers
 sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7LqwBBmSzdY9BIcMi5kbnNjcnlwdC1jZXJ0LnByeXY4Ym9pLm9yZw
 
 
-## puredns-doh
-
-DNSSEC, No-log, No-filter by https://upset.dev
-Servers in Singapore and Indonesia
-Homepage: https://puredns.org
-
-sdns://AgcAAAAAAAAACjMuMS45NC4yMTggWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
-
-
-## puredns-family-doh
-
-DNSSEC, No-log, with malware, adware, gambling, fakenews, and NSFW blocking by https://upset.dev
-Servers in Singapore and Indonesia
-Homepage: https://puredns.org/family
-
-sdns://AgMAAAAAAAAADTEwOC4xMzcuNDQuMzMgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
-
-
 ## qihoo360-doh
 
 DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
