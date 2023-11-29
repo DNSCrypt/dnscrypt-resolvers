@@ -1356,24 +1356,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAG1syNjA2OjY2ODA6NDU6MTo6ZTg1OTo2ZjRlXSA5t4ByoJv8MM3ESDxoXNU0XHFHlV5ZT09MjMyDdH_wRBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-mumbai-ipv4
-
-DNSCry.pt Mumbai - no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDEwMy4xNzIuOTIuOSDQUtnu-6fRKKz9tWipku_5SO-TzFCEB7c77diubEYt5BkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-mumbai-ipv6
-
-DNSCry.pt Mumbai - no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAJFsyMDAxOmRmNzo2ODgwOjI6NjIzOmNiNzE6YzMwZjphZDRjXSDQUtnu-6fRKKz9tWipku_5SO-TzFCEB7c77diubEYt5BkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-munich-ipv4
 
 DNSCry.pt Munich - no filter, no logs, DNSSEC support (IPv4 server)
