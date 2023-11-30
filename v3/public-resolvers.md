@@ -806,11 +806,11 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIL3HqqP-DQCOOO3DIcdSXv-DixOZ4ExyvKykQknqHvYTFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
 
 
-## dct-nl1
+## dct-nl
 
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Naaldwijk, Netherlands.
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
 
-sdns://AQcAAAAAAAAAEzIzLjEzNy4yNDkuMTE2Ojg0NDMgEWD0g0vsKFqwslGBKql8eTiu1RvK2dzZIxLfR7ctlAwXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ubDE
+sdns://AQcAAAAAAAAAETUuMjU1LjEwNS4yNDo4NDQzIGYDjxqBuodg51XiBs8O31_1kxMBDNl_OebQ1wFrx79BFjIuZG5zY3J5cHQtY2VydC5kY3Qtbmw
 
 
 ## dct-ru1
