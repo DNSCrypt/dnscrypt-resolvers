@@ -806,11 +806,11 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIL3HqqP-DQCOOO3DIcdSXv-DixOZ4ExyvKykQknqHvYTFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
 
 
-## dct-nl1
+## dct-nl
 
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Naaldwijk, Netherlands.
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
 
-sdns://AQcAAAAAAAAAEzIzLjEzNy4yNDkuMTE2Ojg0NDMgEWD0g0vsKFqwslGBKql8eTiu1RvK2dzZIxLfR7ctlAwXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ubDE
+sdns://AQcAAAAAAAAAETUuMjU1LjEwNS4yNDo4NDQzIGYDjxqBuodg51XiBs8O31_1kxMBDNl_OebQ1wFrx79BFjIuZG5zY3J5cHQtY2VydC5kY3Qtbmw
 
 
 ## dct-ru1
@@ -1354,24 +1354,6 @@ DNSCry.pt Montreal - no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAG1syNjA2OjY2ODA6NDU6MTo6ZTg1OTo2ZjRlXSA5t4ByoJv8MM3ESDxoXNU0XHFHlV5ZT09MjMyDdH_wRBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-mumbai-ipv4
-
-DNSCry.pt Mumbai - no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDEwMy4xNzIuOTIuOSDQUtnu-6fRKKz9tWipku_5SO-TzFCEB7c77diubEYt5BkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-mumbai-ipv6
-
-DNSCry.pt Mumbai - no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAJFsyMDAxOmRmNzo2ODgwOjI6NjIzOmNiNzE6YzMwZjphZDRjXSDQUtnu-6fRKKz9tWipku_5SO-TzFCEB7c77diubEYt5BkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-munich-ipv4
@@ -2452,26 +2434,6 @@ By pryv8, non Logging, uncensored, DNSSEC - hosted on contabo servers
 sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7LqwBBmSzdY9BIcMi5kbnNjcnlwdC1jZXJ0LnByeXY4Ym9pLm9yZw
 
 
-## puredns-doh
-
-DNSSEC, No-log, No-filter by https://upset.dev
-Servers in Singapore and Indonesia
-Homepage: https://puredns.org
-
-sdns://AgcAAAAAAAAACjMuMS45NC4yMTggWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACjMuMC44Ni4xMjYgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4LcHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
-
-
-## puredns-family-doh
-
-DNSSEC, No-log, with malware, adware, gambling, fakenews, and NSFW blocking by https://upset.dev
-Servers in Singapore and Indonesia
-Homepage: https://puredns.org/family
-
-sdns://AgMAAAAAAAAADTEwOC4xMzcuNDQuMzMgWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4SZmFtaWx5LnB1cmVkbnMub3JnCi9kbnMtcXVlcnk
-sdns://AgMAAAAAAAAADDEwOC4xMzcuMzUuNCBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYivhJmYW1pbHkucHVyZWRucy5vcmcKL2Rucy1xdWVyeQ
-
-
 ## qihoo360-doh
 
 DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
@@ -2810,13 +2772,6 @@ sdns://AgMAAAAAAAAAACAqFfXWrLbnwJAa3k67x0OyzNSJAytG4WQvBpNoMAElig1kbnMuc3dpdGNoL
 No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://techsaviours.org/
 
 sdns://AQcAAAAAAAAAEDg5LjU4LjYuMTY5OjQ0MzQgB4isFl7gD2-efHhMEtFjyCz_nHFCaQ8OsbBTgZCa3zsgMi5kbnNjcnlwdC1jZXJ0LnRlY2hzYXZpb3Vycy5vcmc
-
-
-## tuna-doh-ipv4
-
-DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
-
-sdns://AgEAAAAAAAAACTEwMS42LjYuNiBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA4xMDEuNi42LjY6ODQ0MwovZG5zLXF1ZXJ5
 
 
 ## tuna-doh-ipv6
