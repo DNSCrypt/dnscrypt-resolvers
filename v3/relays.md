@@ -258,6 +258,48 @@ For more information look at https://github.com/bhanupratapys/dnswarden or https
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
+## anon-gombadi-chennai
+
+Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
+
+sdns://gRIxNzIuMjMyLjk3LjE5Njo0NDM
+
+
+## anon-gombadi-chennai-ipv6
+
+Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
+
+sdns://gSdbMjYwMDozYzA4OmUwMDE6ODowOmE3ODk6YjQ1NjpjMTIzXTo0NDM
+
+
+## anon-gombadi-saopaulo
+
+Anonymized DNS relay hosted in Sao Paulo Brazil. https://www.gombadi.com/edns/edns.html
+
+sdns://gRIyMTYuMjM4LjExMy41ODo0NDM
+
+
+## anon-gombadi-saopaulo-ipv6
+
+Anonymized DNS relay hosted in Sao Paulo Brazil. https://www.gombadi.com/edns/edns.html
+
+sdns://gSxbMjAwMToxOWYwOmI4MDA6MThiOTo1NDAwOjRmZjpmZThkOjczNGJdOjQ0Mw
+
+
+## anon-gombadi-singapore
+
+Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
+
+sdns://gRIxNzIuMTA0LjQ0LjEyMDo0NDM
+
+
+## anon-gombadi-singapore-ipv6
+
+Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
+
+sdns://gSlbMjQwMDo4OTAxOmUwMDE6MmZmOjA6YTc4OTpiNDU2OmMxMjNdOjQ0Mw
+
+
 ## anon-gombadi-sydney
 
 Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
