@@ -2110,6 +2110,41 @@ An open (non-logging, non-filtering, no ECS) DNSCrypt resolver operated by https
 sdns://AQYAAAAAAAAAFFsyYTAxOjllMDA6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
 sdns://AQYAAAAAAAAAFFsyYTAxOjllMDA6OjU1XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
 
+## fdn-doh-ipv4-dnssec-nofilter-nologs
+doh server in France operated by FDN - French Data Network (associative internet service provider) https://www.fdn.fr/
+
+ns0.fdn.fr port 443  
+ns1.fdn.fr port 443  
+
+sdns://AgcAAAAAAAAADDgwLjY3LjE2OS4xMiC_yiywM19fRDPOjQt-ZF06i244klTuV8RKksh63MWx4wpuczAuZmRuLmZyCi9kbnMtcXVlcnk  
+sdns://AgcAAAAAAAAADDgwLjY3LjE2OS40MCDjoMn7A5UBltM7s0Vsq-agMe8f6mAGbp9nVS6HaSBiigpuczEuZmRuLmZyCi9kbnMtcXVlcnk  
+
+## fdn-doh-ipv6-dnssec-nofilter-nologs
+doh server in France operated by FDN - French Data Network (associative internet service provider) https://www.fdn.fr/
+
+ns0.fdn.fr port 443  
+ns1.fdn.fr port 443  
+
+sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjEyXSC_yiywM19fRDPOjQt-ZF06i244klTuV8RKksh63MWx4wpuczAuZmRuLmZyCi9kbnMtcXVlcnk  
+sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSDjoMn7A5UBltM7s0Vsq-agMe8f6mAGbp9nVS6HaSBiigpuczEuZmRuLmZyCi9kbnMtcXVlcnk  
+
+## fdn-dot-ipv4-dnssec-nofilter-nologs
+dot server in France operated by FDN - French Data Network (associative internet service provider) https://www.fdn.fr/
+
+ns0.fdn.fr port 853  
+ns1.fdn.fr port 853  
+
+sdns://AwcAAAAAAAAADDgwLjY3LjE2OS4xMiC_yiywM19fRDPOjQt-ZF06i244klTuV8RKksh63MWx4wpuczAuZmRuLmZy  
+sdns://AwcAAAAAAAAADDgwLjY3LjE2OS40MCDjoMn7A5UBltM7s0Vsq-agMe8f6mAGbp9nVS6HaSBiigpuczEuZmRuLmZy  
+
+## fdn-dot-ipv6-dnssec-nofilter-nologs
+dot server in France operated by FDN - French Data Network (associative internet service provider) https://www.fdn.fr/
+
+ns0.fdn.fr port 853  
+ns1.fdn.fr port 853  
+
+sdns://AwcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjEyXSC_yiywM19fRDPOjQt-ZF06i244klTuV8RKksh63MWx4wpuczAuZmRuLmZy  
+sdns://AwcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSDjoMn7A5UBltM7s0Vsq-agMe8f6mAGbp9nVS6HaSBiigpuczEuZmRuLmZy  
 
 ## ffmuc.net
 
