@@ -799,11 +799,11 @@ Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADDcxLjE5LjI1MS4zNCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## dct-at1
+## dct-at
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
 
-sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIL3HqqP-DQCOOO3DIcdSXv-DixOZ4ExyvKykQknqHvYTFzIuZG5zY3J5cHQtY2VydC5kY3QtYXQx
+sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIAnp3m8PUYh5Cyppt-OUsmYHRcFaK9PJFqnbf9QRQKEuFjIuZG5zY3J5cHQtY2VydC5kY3QtYXQ
 
 
 ## dct-nl
@@ -813,11 +813,11 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlan
 sdns://AQcAAAAAAAAAETUuMjU1LjEwNS4yNDo4NDQzIGYDjxqBuodg51XiBs8O31_1kxMBDNl_OebQ1wFrx79BFjIuZG5zY3J5cHQtY2VydC5kY3Qtbmw
 
 
-## dct-ru1
+## dct-ru
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
 
-sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgaWn7WaFj7FQw_9F1qge8LMND5xUdAtagWFZPPYRok1kXMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydTE
+sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgLAeIPVz7a5qz4uU0W98UXxtNPDYwGNfvwxGBM2pZST0WMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydQ
 
 
 ## decloudus-nogoogle-tst
