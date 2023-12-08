@@ -424,16 +424,6 @@ By https://cleanbrowsing.org/
 sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
 
 
-## cleanbrowsing-security
-
-Block access to phishing, malware and malicious domains. It does not block adult content.
-By https://cleanbrowsing.org/
-
-Warning: This server is incompatible with anonymization.
-
-sdns://AQMAAAAAAAAAEjE4NS4yMjguMTY4Ljk6ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
-
-
 ## cloudflare
 
 Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
