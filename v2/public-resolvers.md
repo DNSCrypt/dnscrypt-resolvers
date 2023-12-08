@@ -1106,24 +1106,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAJFsyYTBmOjNiMDU6MTAxOjE1OjUwNTQ6ZmY6ZmUwMDplMDU3XSC7ML6bwChOgZ9lQzKCTVsYCVYYx84HxCPQ8wgS0_vhFxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-durham-ipv4
-
-DNSCry.pt Durham - no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDM4LjQ1LjY0LjExNyAS3jjOGrb2p9i5bpMiO0WB-XlTLq7Ek3soP2xndELQ8xkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-durham-ipv6
-
-DNSCry.pt Durham - no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAHVsyMDAxOjU1MDo1YTAwOjVlYjo6ZGI1OmYwMDFdIBLeOM4atvan2LlukyI7RYH5eVMursSTeyg_bGd0QtDzGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-dusseldorf-ipv4
 
 DNSCry.pt Düsseldorf - no filter, no logs, DNSSEC support (IPv4 server)
