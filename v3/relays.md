@@ -11,6 +11,19 @@ See the link below for more information:
 
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
+## anon-ams
+
+Anonymized DNS relay hosted in Amsterdam
+
+sdns://gRE4OS4zOC4xMzEuMzg6NDM0Mw
+
+
+## anon-ams-ipv6
+
+Anonymized DNS relay hosted in Amsterdam
+
+sdns://gRgyYTBjOmI5YzA6Zjo0NTFkOjoxOjQzNDM
+
 
 ## anon-cs-austria
 
