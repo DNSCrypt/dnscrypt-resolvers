@@ -24,7 +24,7 @@ sdns://gRE4OS4zOC4xMzEuMzg6NDM0Mw
 
 Anonymized DNS relay hosted in Amsterdam
 
-sdns://gRgyYTBjOmI5YzA6Zjo0NTFkOjoxOjQzNDM
+sdns://gRpbMmEwYzpiOWMwOmY6NDUxZDo6MV06NDM0Mw
 
 
 ## anon-cs-austria
