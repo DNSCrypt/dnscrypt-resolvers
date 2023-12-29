@@ -889,24 +889,6 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY
 sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
-## dns.therifleman.name
-
-DNS-over-HTTPS DNS forwarder from Mumbai, India 🇮🇳.
-
-Blocks Web, Android trackers and Ads.
-
-Does not log client IP addresses, but logs queries for 24 hours for debugging
-and delegates DNS resolution to the default Linode DNS server.
-
-Report issues, and send suggestions to joker349 on protonmail.
-
-Also supports:
-* DoT @ dns.therifleman.name
-* plain DNS @ 172.104.206.174
-
-sdns://AgMAAAAAAAAADzE3Mi4xMDQuMjA2LjE3NKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhRkbnMudGhlcmlmbGVtYW4ubmFtZQovZG5zLXF1ZXJ5
-
-
 ## dns0
 
 A free, sovereign and GDPR-compliant recursive DNS resolver with a
