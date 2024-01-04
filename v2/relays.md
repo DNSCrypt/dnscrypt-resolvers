@@ -301,13 +301,6 @@ Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
 sdns://gRIxNzIuMTA0LjQ0LjEyMDo0NDM
 
 
-## anon-gombadi-singapore-ipv6
-
-Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
-
-sdns://gSlbMjQwMDo4OTAxOmUwMDE6MmZmOjA6YTc4OTpiNDU2OmMxMjNdOjQ0Mw
-
-
 ## anon-gombadi-sydney
 
 Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
