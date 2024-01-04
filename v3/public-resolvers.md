@@ -1221,24 +1221,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAF1syNjAyOmZmNzU6NzpiNzk6OmI0YjRdIIhxeSuGQHwchZdstQqcoKD_RAuV4w8Qr_1XmXFZucGEGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-madrid-ipv4
-
-DNSCry.pt Madrid - no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTUuMTM0LjExOS4yNDYgJbmq1K1l2Xn23vnFtmTu5lSXsfl0y4x4e-9ntiRYtlcZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-madrid-ipv6
-
-DNSCry.pt Madrid - no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyYTAzOmM3YzA6MzM6NDU6OmIwY10gJbmq1K1l2Xn23vnFtmTu5lSXsfl0y4x4e-9ntiRYtlcZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-miami-ipv4
 
 DNSCry.pt Miami - no filter, no logs, DNSSEC support (IPv4 server)
