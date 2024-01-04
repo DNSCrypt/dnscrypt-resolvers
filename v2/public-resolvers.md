@@ -1779,15 +1779,6 @@ For further customization look here: https://dnswarden.com/customfilter.html
 sdns://AgMAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
 
 
-## dnswarden-uncensor-dc
-
-Hosted in multiple locations.
-For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
-Note: Anonymized DNS may not work for this server.
-
-sdns://AQcAAAAAAAAADDEzNy42Ni42LjE0NiDg_LCuCApY3CtucAKfyQyqk3g9NAq607r906qVDWVBLiwyLmRuc2NyeXB0LWNlcnQuZG5zd2FyZGVuLXVuY2Vuc29yZWQtYW55Y2FzdA
-
-
 ## dnswarden-uncensor-dc-swiss
 
 Hosted in switzerland.
