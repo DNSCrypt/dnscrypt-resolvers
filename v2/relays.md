@@ -13,13 +13,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
-## anon-ams
-
-Anonymized DNS relay hosted in Amsterdam
-
-sdns://gRE4OS4zOC4xMzEuMzg6NDM0Mw
-
-
 ## anon-ams-ipv6
 
 Anonymized DNS relay hosted in Amsterdam
