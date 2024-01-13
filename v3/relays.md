@@ -272,13 +272,6 @@ Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.
 sdns://gRIxNzIuMjMyLjk3LjE5Njo0NDM
 
 
-## anon-gombadi-chennai-ipv6
-
-Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
-
-sdns://gSdbMjYwMDozYzA4OmUwMDE6ODowOmE3ODk6YjQ1NjpjMTIzXTo0NDM
-
-
 ## anon-gombadi-saopaulo
 
 Anonymized DNS relay hosted in Sao Paulo Brazil. https://www.gombadi.com/edns/edns.html
