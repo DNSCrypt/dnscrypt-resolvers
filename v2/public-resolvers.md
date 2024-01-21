@@ -3304,7 +3304,7 @@ sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1Z
 
 ## yandex
 
-Yandex public DNS server
+Yandex public DNS server (anycast)
 
 sdns://AgUAAAAAAAAACTc3Ljg4LjguOAAZY29tbW9uLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
 
