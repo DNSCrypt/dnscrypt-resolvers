@@ -3304,9 +3304,9 @@ sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1Z
 
 ## yandex
 
-Yandex public DNS server (anycast IPv6)
+Yandex public DNS server
 
-sdns://AgUAAAAAAAAAFSBbMmEwMjo2Yjg6OmZlZWQ6MGZmXQAZY29tbW9uLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAACTc3Ljg4LjguOAAZY29tbW9uLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
 
 
 ## yandex-family
@@ -3320,7 +3320,14 @@ sdns://AgUAAAAAAAAACTc3Ljg4LjguNwAZZmFtaWx5LmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1Z
 
 Yandex public DNS server filtering content not suitable for kids (anycast IPv6)
 
-sdns://AgUAAAAAAAAAFSBbMmEwMjo2Yjg6OmZlZWQ6YTExXQAZZmFtaWx5LmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdABlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+
+
+## yandex-ipv6
+
+Yandex public DNS server (anycast IPv6)
+
+sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDowZmZdABljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
 
 
 ## yandex-safe
@@ -3334,5 +3341,5 @@ sdns://AgEAAAAAAAAACjc3Ljg4LjguODgAF3NhZmUuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlc
 
 Yandex public DNS server with malware filtering (anycast IPv6)
 
-sdns://AgEAAAAAAAAAFSBbMmEwMjo2Yjg6OmZlZWQ6YmFkXQAXc2FmZS5kb3QuZG5zLnlhbmRleC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdABdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
 
