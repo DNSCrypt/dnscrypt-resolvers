@@ -2649,6 +2649,20 @@ Cached via Cloudflare.
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzMDo6YWM0MzphZDNiXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
 
 
+## ksol.io-ns2-dnscrypt-ipv4
+
+DNSCrypt on IPv4 (UDP/TCP). No DoH, doesn't log, doesn't filter, DNSSEC enforced. No EDNS Client-Subnet, padding enabled, as per `dnscrypt-server-docker` default unbound configuration. Location: Hungary
+
+sdns://AQcAAAAAAAAAEjE5My4yMDEuMTg4LjQ4OjQ0MyARESnUCYC0o6gkivfXtn_1kU0MxKvf_w3l5UBb8cYWehsyLmRuc2NyeXB0LWNlcnQubnMyLmtzb2wuaW8
+
+
+## ksol.io-ns2-dnscrypt-ipv6
+
+DNSCrypt on IPv6 (UDP/TCP). No DoH, doesn't log, doesn't filter, DNSSEC enforced. No EDNS Client-Subnet, padding enabled, as per `dnscrypt-server-docker` default unbound configuration. Location: Hungary
+
+sdns://AQcAAAAAAAAAGFsyYTAxOjZlZTA6MTo6MjQxOjFdOjQ0MyARESnUCYC0o6gkivfXtn_1kU0MxKvf_w3l5UBb8cYWehsyLmRuc2NyeXB0LWNlcnQubnMyLmtzb2wuaW8
+
+
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
