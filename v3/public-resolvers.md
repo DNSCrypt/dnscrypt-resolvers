@@ -782,13 +782,6 @@ Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADDcxLjE5LjI1MS4zNCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## dct-at
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Vienna, Austria.
-
-sdns://AQcAAAAAAAAADjQ2LjEwMi4xNTcuMTEwIAnp3m8PUYh5Cyppt-OUsmYHRcFaK9PJFqnbf9QRQKEuFjIuZG5zY3J5cHQtY2VydC5kY3QtYXQ
-
-
 ## dct-nl
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
