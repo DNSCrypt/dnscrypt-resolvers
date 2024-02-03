@@ -523,88 +523,11 @@ This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you wa
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
 
 
-## cs-fr
-
-France DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETE2My4xNzIuMzQuNTY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-india
-
-India DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEzE2NS4yMzEuMjUzLjE2Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-ireland
-
-Dublin, Ireland DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjM3LjEyMC4yMzUuMTg3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-finland
-
-Finland DNSCrypt server provided by https://cryptostorm.is
-
-sdns://AQYAAAAAAAAAEjE4NS4xMTcuMTE4LjIwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-poland
-
-Warsaw, Poland DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETM3LjEyMC4yMTEuOTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-hungary
-
-Budapest, Hungary DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETg2LjEwNi43NC4yMTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-bulgaria
-
-Sofia, Bulgaria DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjM3LjEyMC4xNTIuMjM1OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-czech
-
-Prague, Czech Republic DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEzIxNy4xMzguMjIwLjI0Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-austria
 
 Wien, Austria DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAETk0LjE5OC40MS4yMzU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-milan
-
-Milan, Italy DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEzIxNy4xMzguMjE5LjIxOTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-rome
-
-Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjM3LjEyMC4yMDcuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-madrid
-
-Madrid, Spain DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjE4NS4xODMuMTA2LjgzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-barcelona
@@ -621,41 +544,6 @@ Brussels, Belgium DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAETM3LjEyMC4yMzYuMTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-norway
-
-Oslo, Norway DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjkxLjIxOS4yMTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-serbia
-
-Belgrade, Serbia DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjM3LjEyMC4xOTMuMjE5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-slovakia
-
-Bratislava, Slovakia DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjE5My4zNy4yNTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-nl
-
-Netherlands DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETE4NS4xMDcuODAuODQ6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-nl2
-
-Netherlands 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADjEwOC4xODEuMTI0LjI3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-berlin
 
 Berlin, Germany DNSCrypt server provided by https://cryptostorm.is/
@@ -663,11 +551,60 @@ Berlin, Germany DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAETM3LjEyMC4yMTcuNzU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
+## cs-brazil
+
+Sao Paulo, Brazil DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjE3Ny41NC4xNDUuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-bulgaria
+
+Sofia, Bulgaria DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjM3LjEyMC4xNTIuMjM1OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-ch
+
+Switzerland DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzE5MC4yMTEuMjU1LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-ch2
+
+Switzerland 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETE0Ni43MC4xMzUuNTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-czech
+
+Prague, Czech Republic DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzIxNy4xMzguMjIwLjI0Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-dc
+
+US - Washington, DC DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDE5OC43LjU4LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
 ## cs-de
 
 Frankfurt, Germany DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAADzE0Ni43MC44Mi4zOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-dk
+
+Denmark DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETM3LjEyMC4yMzIuNDM6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-dus1
@@ -698,144 +635,46 @@ Dusseldorf, Germany 4 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjg1LjExNC4xMzguMTE5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-manchester
+## cs-finland
 
-Manchester, England DNSCrypt server provided by https://cryptostorm.is/
+Finland DNSCrypt server provided by https://cryptostorm.is
 
-sdns://AQYAAAAAAAAAETE5NS4xMi40OC4xNzE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAEjE4NS4xMTcuMTE4LjIwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-london
+## cs-fl
 
-London, England DNSCrypt server provided by https://cryptostorm.is/
+US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETc4LjEyOS4xNDAuNjU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41NTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-swe
+## cs-fl2
 
-Sweden DNSCrypt server provided by https://cryptostorm.is/
+US - Miami, FL 2 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEzEyOC4xMjcuMTA0LjEwODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-dk
+## cs-fr
 
-Denmark DNSCrypt server provided by https://cryptostorm.is/
+France DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETM3LjEyMC4yMzIuNDM6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAETE2My4xNzIuMzQuNTY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-ch
+## cs-ga
 
-Switzerland DNSCrypt server provided by https://cryptostorm.is/
+US - Atlanta, GA DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEzE5MC4yMTEuMjU1LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAETY0LjQyLjE4MS4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-ch2
+## cs-hungary
 
-Switzerland 2 DNSCrypt server provided by https://cryptostorm.is/
+Budapest, Hungary DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETE0Ni43MC4xMzUuNTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-pt
-
-Portugal DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjkxLjIwNS4yMzAuMjI0OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-ro
-
-Romania DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETE0Ni43MC42Ni4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-lv
-
-Latvia DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEzEwOS4yNDguMTQ5LjEzMzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-md
-
-Moldova DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjE3OC4xNzUuMTI5LjE2OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-sk
-
-South Korea DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADjEwOC4xODEuNTAuMjE4IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-sydney
-
-Sydney, Australia DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjM3LjEyMC4yMzQuMjUxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-tokyo
-
-Tokyo, Japan DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDE0Ni43MC4zMS40Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-brazil
-
-Sao Paulo, Brazil DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjE3Ny41NC4xNDUuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-mexico
-
-Mexico City, Mexico DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETEwMy4xNC4yNi4xOTA6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-singapore
-
-Singapore DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETM3LjEyMC4xNTEuMTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-montreal
-
-Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETE3Ni4xMTMuNzQuMTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-vancouver
-
-Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDcxLjE5LjI1MS4zNDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-nyc1
-
-US - New York City, NY 1 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44ODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-nyc2
-
-US - New York City, NY 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44NDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAETg2LjEwNi43NC4yMTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-il
@@ -852,6 +691,83 @@ US - Chicago, IL 2 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjEwOC4xODEuNjMuMTYzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## cs-india
+
+India DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzE2NS4yMzEuMjUzLjE2Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-ireland
+
+Dublin, Ireland DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjM3LjEyMC4yMzUuMTg3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-la
+
+US - Los Angeles, CA DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzE5NS4yMDYuMTA0LjIwMzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-london
+
+London, England DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETc4LjEyOS4xNDAuNjU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-lv
+
+Latvia DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzEwOS4yNDguMTQ5LjEzMzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-madrid
+
+Madrid, Spain DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjE4NS4xODMuMTA2LjgzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-manchester
+
+Manchester, England DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETE5NS4xMi40OC4xNzE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-md
+
+Moldova DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjE3OC4xNzUuMTI5LjE2OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-mexico
+
+Mexico City, Mexico DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETEwMy4xNC4yNi4xOTA6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-milan
+
+Milan, Italy DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzIxNy4xMzguMjE5LjIxOTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-montreal
+
+Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETE3Ni4xMTMuNzQuMTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
 ## cs-nc
 
 US - North Carolina DNSCrypt server provided by https://cryptostorm.is/
@@ -859,11 +775,137 @@ US - North Carolina DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjE1NS4yNTQuMjEuMjUwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-ga
+## cs-nl
 
-US - Atlanta, GA DNSCrypt server provided by https://cryptostorm.is/
+Netherlands DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETY0LjQyLjE4MS4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAETE4NS4xMDcuODAuODQ6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-nl2
+
+Netherlands 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQIAAAAAAAAADjEwOC4xODEuMTI0LjI3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-norway
+
+Oslo, Norway DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjkxLjIxOS4yMTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-nv
+
+US - Las Vegas, NV DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDM3LjEyMC4xNDcuMjo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-nyc1
+
+US - New York City, NY 1 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44ODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-nyc2
+
+US - New York City, NY 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44NDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-ore
+
+US - Oregon DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETEwNC4yNTUuMTc1LjI6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-poland
+
+Warsaw, Poland DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETM3LjEyMC4yMTEuOTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-pt
+
+Portugal DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjkxLjIwNS4yMzAuMjI0OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-ro
+
+Romania DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETE0Ni43MC42Ni4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-rome
+
+Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjM3LjEyMC4yMDcuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-sea
+
+US - Seattle, WA DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDY0LjEyMC41LjI1MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-serbia
+
+Belgrade, Serbia DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjM3LjEyMC4xOTMuMjE5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-singapore
+
+Singapore DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETM3LjEyMC4xNTEuMTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-sk
+
+South Korea DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQIAAAAAAAAADjEwOC4xODEuNTAuMjE4IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-slovakia
+
+Bratislava, Slovakia DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjE5My4zNy4yNTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-swe
+
+Sweden DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzEyOC4xMjcuMTA0LjEwODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-sydney
+
+Sydney, Australia DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjM3LjEyMC4yMzQuMjUxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-tokyo
+
+Tokyo, Japan DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDE0Ni43MC4zMS40Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-tx
@@ -887,53 +929,11 @@ US - Dallas, TX 3 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjEwOC4xODEuMTAxLjY3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-la
+## cs-vancouver
 
-US - Los Angeles, CA DNSCrypt server provided by https://cryptostorm.is/
+Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEzE5NS4yMDYuMTA0LjIwMzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-sea
-
-US - Seattle, WA DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDY0LjEyMC41LjI1MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-nv
-
-US - Las Vegas, NV DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDM3LjEyMC4xNDcuMjo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-ore
-
-US - Oregon DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETEwNC4yNTUuMTc1LjI6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-dc
-
-US - Washington, DC DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDE5OC43LjU4LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-fl
-
-US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41NTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-fl2
-
-US - Miami, FL 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAEDcxLjE5LjI1MS4zNDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## dct-nl
