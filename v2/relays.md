@@ -713,24 +713,6 @@ https://www.dnscry.pt
 sdns://gRdbMjYwMDo0YzAwOjgwOjg6OmFdOjQ0Mw
 
 
-## dnscry.pt-anon-castlegar-ipv4
-
-DNSCry.pt Castlegar - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gRExNTguNTEuNzguMTc3OjQ0Mw
-
-
-## dnscry.pt-anon-castlegar-ipv6
-
-DNSCry.pt Castlegar - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSFbMjYwMjpmZTY5OmEyYTo6ZTU1MDphNGExOjE3XTo0NDM
-
-
 ## dnscry.pt-anon-chicago-ipv4
 
 DNSCry.pt Chicago - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1044,15 +1026,6 @@ DNSCry.pt Istanbul - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRtbMmExMjplMzQyOjIwMDo6MjoxODE5XTo0NDM
-
-
-## dnscry.pt-anon-jakarta-ipv4
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gRExMDMuNzYuMTI5Ljk0OjQ0Mw
 
 
 ## dnscry.pt-anon-johannesburg-ipv4
