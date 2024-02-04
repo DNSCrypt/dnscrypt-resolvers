@@ -233,13 +233,6 @@ BebasDNS Security Variant by BebasID. DNSSEC and OpenNIC supported. Only blocks 
 sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTU6ODQ0MyDxbZzPMadetG2FodrzRfoiJjJi3cxbOsvKAvMyJ09rfiUyLmRuc2NyeXB0LWNlcnQuYW50aXZpcnVzLmJlYmFzaWQuY29t
 
 
-## bebasdns-unfiltered-dnscrypt
-
-BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant is unfiltered and using DNSCrypt protocol.
-
-sdns://AQcAAAAAAAAAEjM1LjIxOS42Ny4xNTA6NTQ0MyAtDC9I4194j3U0lZcEBPPd43IvR8gGNOS5QNVIx_7PNyoyLmRuc2NyeXB0LWNlcnQudW5maWx0ZXJlZC5kbnMuYmViYXNpZC5jb20
-
-
 ## bebasdns-unfiltered-doh
 
 BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
@@ -1144,24 +1137,6 @@ DNSCry.pt Auckland - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAHFsyYTA2OjEyODA6YmVlMToyOjplZTEyOjIwOF0gFZBlBK4zOYv9gA2x2vbrAU4eYkJgS0DY_YkjrDX7R7MZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-castlegar-ipv4
-
-DNSCry.pt Castlegar - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE1OC41MS43OC4xNzcgurJW_fikRgrhfOQxhncyLbmXBT_A6tXB9j15-ihILpYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-castlegar-ipv6
-
-DNSCry.pt Castlegar - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAHVsyNjAyOmZlNjk6YTJhOjplNTUwOmE0YTE6MTddILqyVv34pEYK4XzkMYZ3Mi25lwU_wOrVwfY9efooSC6WGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-chicago-ipv4
@@ -2949,14 +2924,6 @@ Non-logging DoH server in Sweden operated by Njalla.
 https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
-
-
-## openinternet
-
-DNSCrypt resolver colocated at Sonic.net in Santa Rosa, CA in the United States.
-No log, no filter, DNSSEC. Provided by https://openinternet.io
-
-sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgHRhodSnh6n0lyl8T0d5e2OSapsrl455sspOSW_cLlQ0cMi5kbnNjcnlwdC1jZXJ0Lm9wZW5pbnRlcm5ldA
 
 
 ## plan9dns-fl
