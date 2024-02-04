@@ -2973,14 +2973,6 @@ https://dns.njal.la/
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
-## openinternet
-
-DNSCrypt resolver colocated at Sonic.net in Santa Rosa, CA in the United States.
-No log, no filter, DNSSEC. Provided by https://openinternet.io
-
-sdns://AQcAAAAAAAAADTcwLjM2LjE3MC4xMjYgHRhodSnh6n0lyl8T0d5e2OSapsrl455sspOSW_cLlQ0cMi5kbnNjcnlwdC1jZXJ0Lm9wZW5pbnRlcm5ldA
-
-
 ## plan9dns-fl
 
 Miami Florida, US No-logs, no-filters, DNSSEC -info https://jlongua.github.io/plan9-dns
