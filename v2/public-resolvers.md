@@ -3310,7 +3310,7 @@ https://www.switch.ch
 
 Provides protection against malware, but does not block ads.
 
-sdns://AgMAAAAAAAAAACAqFfXWrLbnwJAa3k67x0OyzNSJAytG4WQvBpNoMAElig1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
 
 
 ## techsaviours.org-dnscrypt
