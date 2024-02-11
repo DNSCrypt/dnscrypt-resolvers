@@ -49,6 +49,14 @@ Running privately by ibksturm in Thurgau, Switzerland
 
 sdns://AgcAAAAAAAAADjIxMy4xOTYuMTkxLjk2IFk-LUmnQCNVVSau-bdCKxnluLFnORtt7l7SkrHKI6dMGGlia3N0dXJtLnN5bm9sb2d5Lm1lOjQ0MwovZG5zLXF1ZXJ5
 
+## ibksturm
+
+Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgiwvumeI8et789m3naGH-4xzM40t6c2xO_fCxHldawJgYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
 
 ## tirapan-doh-ipv4
 
