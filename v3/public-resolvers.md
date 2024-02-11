@@ -2736,6 +2736,7 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffODG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
+
 ## ibksturm
 
 Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC

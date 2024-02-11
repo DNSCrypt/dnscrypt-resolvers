@@ -504,6 +504,13 @@ Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.ht
 sdns://gSxbMjQwMTpjMDgwOjEwMDA6NDhiNDo1NDAwOjRmZjpmZTlkOmQ0NTVdOjQ0Mw
 
 
+## anon-ibksturm
+
+Anonymized DNS relay hosted Switzerland, maintained by Andreas Ziegler (@ibksturm)
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric

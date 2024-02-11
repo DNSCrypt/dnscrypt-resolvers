@@ -2715,6 +2715,15 @@ Unknown logging policy.
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffODG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## ibksturm
+
+Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
+
+Running privately by ibksturm in Thurgau, Switzerland
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgiwvumeI8et789m3naGH-4xzM40t6c2xO_fCxHldawJgYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
+
 ## iij
 
 DoH server operated by Internet Initiative Japan in Tokyo. Blocks child pornography.
