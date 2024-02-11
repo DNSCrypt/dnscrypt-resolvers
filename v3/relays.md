@@ -511,6 +511,12 @@ Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 
+## anon-ibksturm
+
+Anonymized DNS relay hosted Switzerland, maintained by Andreas Ziegler (@ibksturm)
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+
 ## anon-kama
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
