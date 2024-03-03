@@ -814,7 +814,7 @@ sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44NDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 
 US - Oregon DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETEwNC4yNTUuMTc1LjI6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAETE3OS42MS4yMjMuNDc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-poland
