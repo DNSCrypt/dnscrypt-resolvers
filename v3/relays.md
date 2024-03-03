@@ -310,7 +310,7 @@ sdns://gRAyMy4xOS4yNDUuODQ6NDQz
 
 US - Oregon Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExMDQuMjU1LjE3NS4yOjQ0Mw
+sdns://gRExNzkuNjEuMjIzLjQ3OjQ0Mw
 
 
 ## anon-cs-poland
