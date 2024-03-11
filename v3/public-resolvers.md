@@ -2910,15 +2910,6 @@ Hosted on Vultr, jlongua.github.io/plan9-dns
 sdns://AQcAAAAAAAAAEzE0OS4yOC4xMDEuMTE5Ojg0NDMgVaFV4a8StIfx8fnCxDxVlxppqm-hJYyCKqtMtQENnCwkMi5kbnNjcnlwdC1jZXJ0LnBsdXRvbi5wbGFuOS1kbnMuY29t
 
 
-## plan9dns-fl-ipv6
-
-Miami Florida, USA. DNSCrypt, no filters, no logs, DNSSEC
-
-Hosted on Vultr, jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXTo4NDQzIFWhVeGvErSH8fH5wsQ8VZcaaapvoSWMgiqrTLUBDZwsJDIuZG5zY3J5cHQtY2VydC5wbHV0b24ucGxhbjktZG5zLmNvbQ
-
-
 ## plan9dns-fl-doh
 
 Miami Florida, USA. DoH, DoH3 via the Alt-Svc header, no-logs, no-filters, DNSSEC
@@ -2937,6 +2928,15 @@ Hosted on Vultr, jlongua.github.io/plan9-dns, DoT & DoQ supported.
 sdns://AgcAAAAAAAAAJ1syMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRRwbHV0b24ucGxhbjktZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
+## plan9dns-fl-ipv6
+
+Miami Florida, USA. DNSCrypt, no filters, no logs, DNSSEC
+
+Hosted on Vultr, jlongua.github.io/plan9-dns
+
+sdns://AQcAAAAAAAAALFsyMDAxOjE5ZjA6OTAwMjpkZTQ6NTQwMDo0ZmY6ZmUwODo3ZGUzXTo4NDQzIFWhVeGvErSH8fH5wsQ8VZcaaapvoSWMgiqrTLUBDZwsJDIuZG5zY3J5cHQtY2VydC5wbHV0b24ucGxhbjktZG5zLmNvbQ
+
+
 ## plan9dns-mx
 
 Mexico City, MX. DNSCrypt, no filters, no logs, DNSSEC
@@ -2944,15 +2944,6 @@ Mexico City, MX. DNSCrypt, no filters, no logs, DNSSEC
 Hosted on Vultr, jlongua.github.io/plan9-dns
 
 sdns://AQcAAAAAAAAAEzIxNi4yMzguODAuMjE5Ojg0NDMgKmPCui35rtOj9yk7c07sEtC_Khyo_9_HcpO23GCroNskMi5kbnNjcnlwdC1jZXJ0LmhlbGlvcy5wbGFuOS1kbnMuY29t
-
-
-## plan9dns-mx-ipv6
-
-Mexico City, MX. DNSCrypt, no filters, no logs, DNSSEC
-
-Hosted on Vultr, jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAALVsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV06ODQ0MyAqY8K6Lfmu06P3KTtzTuwS0L8qHKj_38dyk7bcYKug2yQyLmRuc2NyeXB0LWNlcnQuaGVsaW9zLnBsYW45LWRucy5jb20
 
 
 ## plan9dns-mx-doh
@@ -2973,6 +2964,15 @@ Hosted on Vultr, jlongua.github.io/plan9-dns, DoT & DoQ supported.
 sdns://AgcAAAAAAAAAKFsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV0gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUaGVsaW9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## plan9dns-mx-ipv6
+
+Mexico City, MX. DNSCrypt, no filters, no logs, DNSSEC
+
+Hosted on Vultr, jlongua.github.io/plan9-dns
+
+sdns://AQcAAAAAAAAALVsyMDAxOjE5ZjA6YjQwMDoxZDhjOjU0MDA6NGZmOmZlMTE6YjE1YV06ODQ0MyAqY8K6Lfmu06P3KTtzTuwS0L8qHKj_38dyk7bcYKug2yQyLmRuc2NyeXB0LWNlcnQuaGVsaW9zLnBsYW45LWRucy5jb20
+
+
 ## plan9dns-nj
 
 Piscataway New Jersey, USA. DNSCrypt, no filters, no logs, DNSSEC
@@ -2980,15 +2980,6 @@ Piscataway New Jersey, USA. DNSCrypt, no filters, no logs, DNSSEC
 Hosted on Vultr, jlongua.github.io/plan9-dns
 
 sdns://AQcAAAAAAAAAEjIwNy4yNDYuODcuOTY6ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
-
-
-## plan9dns-nj.ipv6
-
-Piscataway New Jersey, USA. DNSCrypt, no filters, no logs, DNSSEC
-
-Hosted on Vultr, jlongua.github.io/plan9-dns
-
-sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
 ## plan9dns-nj-doh
@@ -3007,6 +2998,15 @@ Piscataway New Jersey, USA. DoH, DoH3 via the Alt-Svc header, no-logs, no-filter
 Hosted on Vultr, jlongua.github.io/plan9-dns, DoT & DoQ supported.
 
 sdns://AgcAAAAAAAAAJVsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M10gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkUa3Jvbm9zLnBsYW45LWRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## plan9dns-nj.ipv6
+
+Piscataway New Jersey, USA. DNSCrypt, no filters, no logs, DNSSEC
+
+Hosted on Vultr, jlongua.github.io/plan9-dns
+
+sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
 ## pryv8boi
