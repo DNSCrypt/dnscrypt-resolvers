@@ -447,6 +447,20 @@ For more information look at https://github.com/bhanupratapys/dnswarden or https
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
+## anon-fluffycat-fr-01
+
+Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
+
+sdns://gRQxMjkuMTUxLjIyNC4xODI6NTM1Mw
+
+
+## anon-fluffycat-fr-02
+
+Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
+
+sdns://gRQxMjkuMTUxLjI0My4xNDM6NTM1Mw
+
+
 ## anon-gombadi-chennai
 
 Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
@@ -1824,4 +1838,3 @@ DNSCry.pt Warsaw 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRpbMmEwOTpiMjgwOmZlMDA6MjQ6OmFdOjQ0Mw
-
