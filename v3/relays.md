@@ -1838,3 +1838,4 @@ DNSCry.pt Warsaw 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRpbMmEwOTpiMjgwOmZlMDA6MjQ6OmFdOjQ0Mw
+

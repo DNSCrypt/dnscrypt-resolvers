@@ -3531,3 +3531,4 @@ sdns://AgEAAAAAAAAACjc3Ljg4LjguODgAF3NhZmUuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlc
 Yandex public DNS server with malware filtering (anycast IPv6)
 
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdABdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
+
