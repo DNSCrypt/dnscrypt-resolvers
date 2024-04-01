@@ -238,6 +238,13 @@ By https://cleanbrowsing.org/
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 
+## mullvad-family-doh
+
+Same as mullvad-doh but blocks ads, trackers, malware, adult content, and gambling.
+
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+
+
 ## safesurfer
 
 Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
