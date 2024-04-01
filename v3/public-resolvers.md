@@ -2867,6 +2867,13 @@ Same as mullvad but blocking ads, trackers, malware and social media.
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi41ABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
+## mullvad-family-doh
+
+Same as mullvad but blocking ads, trackers, malware, adult and gambling.
+
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+
+
 ## nextdns
 
 NextDNS is a cloud-based private DNS service that gives you full control
