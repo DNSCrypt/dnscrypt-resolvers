@@ -422,7 +422,7 @@ sdns://gRIxMDguMTgxLjEwMS42Nzo0NDM
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRA3MS4xOS4yNTEuMzQ6NDQz
+sdns://gRIxOTYuMjQwLjc5LjE2Mzo0NDM
 
 
 ## anon-dnscrypt.uk-ipv4
