@@ -2590,7 +2590,7 @@ sdns://AQcAAAAAAAAAGlsyMDAxOjY3ODplNjg6ZjAwMDo6XTo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZ
 
 DNSCrypt resolver hosted in Marseille, FR on Oracle Cloud. No logs, no filters, DNSSEC.
 
-sdns://AQcAAAAAAAAAFDEyOS4xNTEuMjI0LjE4Mjo1MzUzIK48BW5VVkqtyPOiCp34VJ9o_McSuvEcHzER-8-_IrygHzIuZG5zY3J5cHQtY2VydC5mbHVmZnljYXQtZnItMDE
+sdns://AQcAAAAAAAAAFDEyOS4xNTEuMjI0LjE4Mjo1MzUzICo3YofAHoNsHkixOFHSQXY6G7z1MCrxXxGyfovtQvsGHzIuZG5zY3J5cHQtY2VydC5mbHVmZnljYXQtZnItMDE
 
 
 ## fluffycat-fr-02
@@ -3466,4 +3466,3 @@ sdns://AgEAAAAAAAAACjc3Ljg4LjguODgAF3NhZmUuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlc
 Yandex public DNS server with malware filtering (anycast IPv6)
 
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdABdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
-
