@@ -423,7 +423,7 @@ sdns://gRIxMDguMTgxLjEwMS42Nzo0NDM
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRA3MS4xOS4yNTEuMzQ6NDQz
+sdns://gRIxOTYuMjQwLjc5LjE2Mzo0NDM
 
 
 ## anon-dnscrypt.uk-ipv4
@@ -516,13 +516,6 @@ sdns://gRMyMDIuMTgyLjExMS4yMzQ6NDQz
 Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
 
 sdns://gSxbMjQwMTpjMDgwOjEwMDA6NDhiNDo1NDAwOjRmZjpmZTlkOmQ0NTVdOjQ0Mw
-
-
-## anon-ibksturm
-
-Anonymized DNS relay hosted Switzerland, maintained by Andreas Ziegler (@ibksturm)
-
-sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
 
 
 ## anon-inconnu
@@ -833,24 +826,6 @@ https://www.dnscry.pt
 sdns://gR5bMjYwNjo2NjgwOjY6MTo6M2VhOTozY2U2XTo0NDM
 
 
-## dnscry.pt-anon-detroit-ipv4
-
-DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gRA2Ni4xODcuNy4xNDA6NDQz
-
-
-## dnscry.pt-anon-detroit-ipv6
-
-DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSdbMjYwNjo2NWMwOjQwOjQ6NWYzOjU0YzQ6OGQxMDo5Yjk4XTo0NDM
-
-
 ## dnscry.pt-anon-durham-ipv4
 
 DNSCry.pt Durham - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -903,15 +878,6 @@ DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gSNbMmMwZjplOGY4OjIwMDA6MjMzOjphMzliOjcxMjNdOjQ0Mw
-
-
-## dnscry.pt-anon-eygelshoven-ipv4
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gRA5My45NS4xMTUuMjE6NDQz
 
 
 ## dnscry.pt-anon-flint-ipv4
@@ -1722,15 +1688,6 @@ DNSCry.pt Taos - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gR9bMjYwNjo2NjgwOjUzOjE6Ojg0NmE6YmQ3OV06NDQz
-
-
-## dnscry.pt-anon-tbilisi-ipv6
-
-DNSCry.pt Tbilisi - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMmExMjplMzQwOjIwMDA6YjQ6OjUyYTRdOjQ0Mw
 
 
 ## dnscry.pt-anon-tokyo-ipv4
