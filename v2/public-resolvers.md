@@ -226,13 +226,6 @@ BebasDNS Family Variant by BebasID. DNSSEC and OpenNIC supported. Blocks malicio
 sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTY6ODQ0MyD5k4vgIHmBCZ2DeLtmoDVu1C6nVrRNzSVgZ1T0m0-3rCkyLmRuc2NyeXB0LWNlcnQuaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQ
 
 
-## bebasdns-security
-
-BebasDNS Security Variant by BebasID. DNSSEC and OpenNIC supported. Only blocks malicious links.
-
-sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTU6ODQ0MyDxbZzPMadetG2FodrzRfoiJjJi3cxbOsvKAvMyJ09rfiUyLmRuc2NyeXB0LWNlcnQuYW50aXZpcnVzLmJlYmFzaWQuY29t
-
-
 ## bebasdns-unfiltered-doh
 
 BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
@@ -720,13 +713,6 @@ Manchester, England DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTE5NS4xMi40OC4xNzEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-md
-
-Moldova DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADjE3OC4xNzUuMTI5LjE2IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-mexico
 
 Mexico City, Mexico DNSCrypt server provided by https://cryptostorm.is/
@@ -928,15 +914,6 @@ sdns://AQcAAAAAAAAAETUuMjU1LjEwNS4yNDo4NDQzIGYDjxqBuodg51XiBs8O31_1kxMBDNl_OebQ1
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
 
 sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgLAeIPVz7a5qz4uU0W98UXxtNPDYwGNfvwxGBM2pZST0WMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydQ
-
-
-## decloudus-nogoogle-tst
-
-Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. Supports DNSSEC. No Logs.
-
-Contributed by: https://decloudus.com
-
-sdns://AQMAAAAAAAAAEjc4LjQ3LjIxMi4yMTE6OTQ0MyBNRN4TaVynkcwkVAbSBrCvr4X3c3Cygz_4VDUcRhhhYx4yLmRuc2NyeXB0LWNlcnQuRGVDbG91ZFVzLXRlc3Q
 
 
 ## decloudus-nogoogle-tstipv6
@@ -1211,15 +1188,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADDIwMi41LjI2LjEzMCByWgqIl3-1ziwwXmWDEb77lh--7sJegQ80R-WGMpqmeBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-dallas-ipv6
-
-DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAGVsyNjAyOmZmYzU6NDA3OjdmZjo6MTY0N10gcloKiJd_tc4sMF5lgxG--5Yfvu7CXoEPNEflhjKapngZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-denver-ipv4
 
 DNSCry.pt Denver - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1398,15 +1366,6 @@ DNSCry.pt Helsinki - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAADTE4NS4yNTMuMTExLjYg0dTSOAcqwZKuSUDc2NFSGMgbgX-h0mEtcc_L2gCIcpYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-helsinki-ipv6
-
-DNSCry.pt Helsinki - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAElsyYTEyOjFmYzA6MDpjOjozXSDR1NI4ByrBkq5JQNzY0VIYyBuBf6HSYS1xz8vaAIhylhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-hongkong-ipv4
