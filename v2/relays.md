@@ -13,13 +13,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
-## anon-ams-ipv6
-
-Anonymized DNS relay hosted in Amsterdam
-
-sdns://gRpbMmEwYzpiOWMwOmY6NDUxZDo6MV06NDM0Mw
-
-
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -790,15 +783,6 @@ DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gRAyMDIuNS4yNi4xMzA6NDQz
-
-
-## dnscry.pt-anon-dallas-ipv6
-
-DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMjYwMjpmZmM1OjQwNzo3ZmY6OjE2NDddOjQ0Mw
 
 
 ## dnscry.pt-anon-denver-ipv4
