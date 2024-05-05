@@ -51,3 +51,17 @@ Running privately by ibksturm in Thurgau, Switzerland
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgiwvumeI8et789m3naGH-4xzM40t6c2xO_fCxHldawJgYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
+
+## tirapan-doh-ipv4
+
+Recursive and caching resolver, no-log/filter, DNSSEC. Homepage: https://www.tirapan.top
+
+sdns://AgcAAAAAAAAADDkxLjEwNy4yMzUuMCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgt0aXJhcGFuLnRvcBAvbm9tZW4tcXVhZXNpdHVt
+
+
+## tirapan-doh-ipv6
+
+Recursive and caching resolver, no-log/filter, DNSSEC, IPv6 variant. Homepage: https://www.tirapan.top
+
+sdns://AgcAAAAAAAAAF1syYTAxOjRmODoxYzFlOjhjYmE6OjFdIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOC3RpcmFwYW4udG9wEC9ub21lbi1xdWFlc2l0dW0
+

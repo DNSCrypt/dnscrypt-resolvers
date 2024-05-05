@@ -3177,6 +3177,20 @@ No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https
 sdns://AQcAAAAAAAAAEDg5LjU4LjYuMTY5OjQ0MzQgB4isFl7gD2-efHhMEtFjyCz_nHFCaQ8OsbBTgZCa3zsgMi5kbnNjcnlwdC1jZXJ0LnRlY2hzYXZpb3Vycy5vcmc
 
 
+## tirapan-doh-ipv4
+
+Recursive and caching resolver, no-log/filter, DNSSEC. Homepage: https://www.tirapan.top
+
+sdns://AgcAAAAAAAAADDkxLjEwNy4yMzUuMCBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgt0aXJhcGFuLnRvcBAvbm9tZW4tcXVhZXNpdHVt
+
+
+## tirapan-doh-ipv6
+
+Recursive and caching resolver, no-log/filter, DNSSEC, IPv6 variant. Homepage: https://www.tirapan.top
+
+sdns://AgcAAAAAAAAAF1syYTAxOjRmODoxYzFlOjhjYmE6OjFdIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOC3RpcmFwYW4udG9wEC9ub21lbi1xdWFlc2l0dW0
+
+
 ## tuna-doh-ipv6
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
