@@ -3072,6 +3072,20 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
 
 
+## restena-doh-ipv4
+
+DNSSEC, No-log and No-filter DoH operated by RESTENA. Homepage: https://www.restena.lu
+
+sdns://AgcAAAAAAAAACzE1OC42NC4xLjI5IFk-LUmnQCNVVSau-bdCKxnluLFnORtt7l7SkrHKI6dMEWRuc3B1Yi5yZXN0ZW5hLmx1Ci9kbnMtcXVlcnk
+
+
+## restena-doh-ipv6
+
+DNSSEC, No-log and No-filter DoH (IPv6) operated by RESTENA. Homepage: https://www.restena.lu
+
+sdns://AgcAAAAAAAAAEFsyMDAxOmExODoxOjoyOV0gWT4tSadAI1VVJq75t0IrGeW4sWc5G23uXtKSscojp0wRZG5zcHViLnJlc3RlbmEubHUKL2Rucy1xdWVyeQ
+
+
 ## rethinkdns-doh
 
 DNSSEC, No-log, No-filter
