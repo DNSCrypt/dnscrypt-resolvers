@@ -205,6 +205,20 @@ Resolver in Amsterdam. HTTP3, DoH protocol. Non-logging, non-filtering, DNSSEC.
 sdns://AgcAAAAAAAAADDg5LjM4LjEzMS4zOKARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhJkbnNubC5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
 
 
+## artikel10-doh-ipv4
+
+DNSSEC, No-filter and No-log DoH resolver operated by Artikel10 association. Homepage: https://artikel10.org
+
+sdns://AgcAAAAAAAAADjIxNy4xOTcuOTEuMTUzIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
+
+
+## artikel10-doh-ipv6
+
+DNSSEC, No-filter and No-log DoH resolver (IPv6) operated by Artikel10 association. Homepage: https://artikel10.org
+
+sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
+
+
 ## bebasdns
 
 BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
@@ -3024,6 +3038,20 @@ sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMl0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJ
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 - 2620:fe::fe:10
 
 sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoUZG5zMTAucXVhZDkubmV0OjUwNTMKL2Rucy1xdWVyeQ
+
+
+## restena-doh-ipv4
+
+DNSSEC, No-log and No-filter DoH operated by RESTENA. Homepage: https://www.restena.lu
+
+sdns://AgcAAAAAAAAACzE1OC42NC4xLjI5IFk-LUmnQCNVVSau-bdCKxnluLFnORtt7l7SkrHKI6dMEWRuc3B1Yi5yZXN0ZW5hLmx1Ci9kbnMtcXVlcnk
+
+
+## restena-doh-ipv6
+
+DNSSEC, No-log and No-filter DoH (IPv6) operated by RESTENA. Homepage: https://www.restena.lu
+
+sdns://AgcAAAAAAAAAEFsyMDAxOmExODoxOjoyOV0gWT4tSadAI1VVJq75t0IrGeW4sWc5G23uXtKSscojp0wRZG5zcHViLnJlc3RlbmEubHUKL2Rucy1xdWVyeQ
 
 
 ## rethinkdns-doh
