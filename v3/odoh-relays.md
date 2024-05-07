@@ -29,7 +29,7 @@ sdns://hQcAAAAAAAAADDg5LjM4LjEzMS4zOAAYb2RvaC1ubC5hbGVrYmVyZy5uZXQ6NDQzBi9wcm94e
 
 ## odohrelay-crypto-sx
 
-Oblivious DoH relay running on Fastly Compute@Edge.
+Oblivious DoH relay running on Fastly Compute. https://fastly.com
 Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
