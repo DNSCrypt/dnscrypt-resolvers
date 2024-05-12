@@ -931,6 +931,14 @@ Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjE5Ni4yNDAuNzkuMTYzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## cz-nic
+
+Open, DNSSEC, No-log and No-filter DoH operated by https://nic.cz
+
+sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMQALb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACzE5My4xNy40Ny4xAAtvZHZyLm5pYy5jegovZG5zLXF1ZXJ5
+
+
 ## dct-nl
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
