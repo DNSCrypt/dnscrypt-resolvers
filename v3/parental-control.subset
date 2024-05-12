@@ -22,6 +22,8 @@ also want to enable cloaking (`cloaking_rules` in the configuration file).
 adguard-dns-family
 adguard-dns-family-doh
 adguard-dns-family-ipv6
+bebasdns-family
+bebasdns-family-doh
 cisco-familyshield
 cisco-familyshield-ipv6
 cleanbrowsing-adult
