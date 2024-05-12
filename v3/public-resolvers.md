@@ -3068,7 +3068,8 @@ sdns://AgEAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuC
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
 https://101.101.101.101/index_en.html
 
-sdns://AgcAAAAAAAAAACC2vD25TAYM7EnyCH8Xw1-0g5OccnTsGH9vQUUH0njRtAxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwMS4xMDEuMTAxLjEwMSC2vD25TAYM7EnyCH8Xw1-0g5OccnTsGH9vQUUH0njRtA8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAD1syMDAxOmRlNDo6MTAyXSC2vD25TAYM7EnyCH8Xw1-0g5OccnTsGH9vQUUH0njRtAxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
 
 
 ## quad9-dnscrypt-ip4-filter-ecs-pri
