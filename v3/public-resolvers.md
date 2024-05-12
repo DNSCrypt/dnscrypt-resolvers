@@ -190,7 +190,7 @@ sdns://AgMAAAAAAAAACTUuMi43NS43NaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa7
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud. 
 Homepage: https://alidns.com
 
-Warning: GFW filtering rules are applied by that resolver (but only if connected from China).
+Warning: GFW filtering rules are applied by this resolver (but only if connected from China).
 
 sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNS41LjUKL2Rucy1xdWVyeQ
 sdns://AgAAAAAAAAAACTIyMy42LjYuNiCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNi42LjYKL2Rucy1xdWVyeQ
@@ -214,7 +214,7 @@ sdns://AgAAAAAAAAAACjEuNzEuMjAuMzcgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAKM
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud (over IPv6).
 Homepage: https://alidns.com
 
-Warning: GFW filtering rules are applied by that resolver (but only if connected from China).
+Warning: GFW filtering rules are applied by this resolver (but only if connected from China).
 
 sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwDmRucy5hbGlkbnMuY29tCi9kbnMtcXVlcnk
 sdns://AgAAAAAAAAAAE1syNDAwOjMyMDA6YmFiYTo6MV0gmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAOZG5zLmFsaWRucy5jb20KL2Rucy1xdWVyeQ
@@ -505,6 +505,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS blocks Malware domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMQ
+sdns://AgMAAAAAAAAAD1syNjA2OjFhNDA6OjExXQAUZnJlZWRucy5jb250cm9sZC5jb20DL3Ax
 
 
 ## controld-block-malware-ad
@@ -514,6 +515,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS blocks Malware, Ads & Tracking domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMg
+sdns://AgMAAAAAAAAAD1syNjA2OjFhNDA6OjExXQAUZnJlZWRucy5jb250cm9sZC5jb20DL3Ay
 
 
 ## controld-block-malware-ad-social
@@ -523,6 +525,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS blocks Malware, Ads & Tracking and Social Networks domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMw
+sdns://AgMAAAAAAAAAD1syNjA2OjFhNDA6OjExXQAUZnJlZWRucy5jb250cm9sZC5jb20DL3Az
 
 
 ## controld-family-friendly
@@ -532,6 +535,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS blocks Malware, Ads & Tracking, Adult Content and Drugs domains.
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tBy9mYW1pbHk
+sdns://AgMAAAAAAAAAD1syNjA2OjFhNDA6OjExXQAUZnJlZWRucy5jb250cm9sZC5jb20HL2ZhbWlseQ
 
 
 ## controld-uncensored
@@ -541,6 +545,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This DNS unblocks censored domains from various countries.
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
+sdns://AgcAAAAAAAAAD1syNjA2OjFhNDA6OjExXQAUZnJlZWRucy5jb250cm9sZC5jb20LL3VuY2Vuc29yZWQ
 
 
 ## controld-unfiltered
@@ -550,6 +555,7 @@ ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass
 This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking or Social Network domains, use the other ControlD DNS configs.
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
+sdns://AgcAAAAAAAAAD1syNjA2OjFhNDA6OjExXQAUZnJlZWRucy5jb250cm9sZC5jb20DL3Aw
 
 
 ## cs-austria
@@ -2359,7 +2365,7 @@ sdns://AgAAAAAAAAAAAKARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1B
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
 Homepage: https://dnspod.cn/
 
@@ -2945,9 +2951,9 @@ sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7Lqw
 
 ## qihoo360-doh
 
-DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
+DoH server runned by Qihoo 360, has logs, supports DNSSEC. Homepage: https://sdns.360.net
 
-Homepage: https://sdns.360.net/
+Warning: GFW filtering rules are applied by this resolver.
 
 sdns://AgEAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuCi9kbnMtcXVlcnk
 
