@@ -3506,7 +3506,7 @@ Reliability Engineering (Traffic) team at the Foundation.
 Wikimedia DNS helps prevent some surveillance and censorship of our
 wikis and other websites by securing DNS lookups.
 
-sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4ABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4IBGxAuax9j5SiYTWAl8ysTgkH8iLvXUZV01wyYMtU-HoEXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## wikimedia-ipv6
@@ -3520,7 +3520,7 @@ Reliability Engineering (Traffic) team at the Foundation.
 Wikimedia DNS helps prevent some surveillance and censorship of our
 wikis and other websites by securing DNS lookups.
 
-sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdIBGxAuax9j5SiYTWAl8ysTgkH8iLvXUZV01wyYMtU-HoEXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## yandex
