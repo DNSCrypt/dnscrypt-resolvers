@@ -270,12 +270,28 @@ sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6t
 sdns://AQMAAAAAAAAAIlsyYTA2OjlmNDQ6ZjNlMDpiZWJhOjUxZDo6NTNdOjg0NDMgMVwypHazmqPGXi8ru7051a09Au2JTzTX-ra3TJI3u0EfMi5kbnNjcnlwdC1jZXJ0LmRucy5iZWJhc2lkLmNvbQ
 
 
+## bebasdns-doh
+
+BebasDNS default DoH server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
+
+sdns://AgMAAAAAAAAADTEwMy44Ny42OC4xOTQgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984PZG5zLmJlYmFzaWQuY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAHVsyYTA2OjlmNDQ6ZjNlMDpiZWJhOjUxZDo6NTNdIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOD2Rucy5iZWJhc2lkLmNvbQovZG5zLXF1ZXJ5
+
+
 ## bebasdns-family
 
 BebasDNS Family Variant by BebasID. DNSSEC and OpenNIC supported. Blocks malicious links, pornography, gambling, and hate websites.
 
 sdns://AQMAAAAAAAAAEjEwMy44Ny42OC4xOTY6ODQ0MyD5k4vgIHmBCZ2DeLtmoDVu1C6nVrRNzSVgZ1T0m0-3rCkyLmRuc2NyeXB0LWNlcnQuaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQ
 sdns://AQMAAAAAAAAAF1s6OmZmZmY6Njc1Nzo0NGM0XTo4NDQzIPmTi-AgeYEJnYN4u2agNW7ULqdWtE3NJWBnVPSbT7esKTIuZG5zY3J5cHQtY2VydC5pbnRlcm5ldHNlaGF0LmJlYmFzaWQuY29t
+
+
+## bebasdns-family-doh
+
+BebasDNS Family Variant (DoH) by BebasID. DNSSEC and OpenNIC supported. Blocks malicious links, pornography, gambling, and hate websites.
+
+sdns://AgMAAAAAAAAADTEwMy44Ny42OC4xOTYgRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984ZaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAH1syYTA2OjlmNDQ6ZjNlMDpiMDBiOmJlYmE6OjUxZF0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984ZaW50ZXJuZXRzZWhhdC5iZWJhc2lkLmNvbQovZG5zLXF1ZXJ5
 
 
 ## bebasdns-unfiltered-doh
