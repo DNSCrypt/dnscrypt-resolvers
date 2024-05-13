@@ -364,7 +364,7 @@ sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMW
 
 ## cisco-sandbox
 
-Cisco OpenDNS Sandbox (anycast) - RFC-compliant DNS service without filtering
+Cisco OpenDNS Sandbox (anycast) - DNS service without filtering
 
 dnssec/log/no-filter/ecs 146.112.41.4
 
