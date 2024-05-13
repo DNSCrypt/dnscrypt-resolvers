@@ -1648,15 +1648,6 @@ https://www.dnscry.pt
 sdns://gQ00NS4xNC4xMTUuMTI1
 
 
-## dnscry.pt-anon-seattle-ipv6
-
-DNSCry.pt Seattle - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRtbMjYwNjo2NjgwOjE5OjE6OjRmYjQ6NzFhN10
-
-
 ## dnscry.pt-anon-singapore-ipv4
 
 DNSCry.pt Singapore - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
