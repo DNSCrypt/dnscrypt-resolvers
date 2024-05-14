@@ -3590,40 +3590,28 @@ sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1Z
 
 Yandex public DNS server (anycast)
 
-sdns://AgUAAAAAAAAACTc3Ljg4LjguOAAZY29tbW9uLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjEKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjgKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMQovZG5zLXF1ZXJ5
 
 
 ## yandex-family
 
 Yandex public DNS server filtering content not suitable for kids (anycast)
 
-sdns://AgUAAAAAAAAACTc3Ljg4LjguNwAZZmFtaWx5LmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
-
-
-## yandex-family-ipv6
-
-Yandex public DNS server filtering content not suitable for kids (anycast IPv6)
-
-sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdABlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
-
-
-## yandex-ipv6
-
-Yandex public DNS server (anycast IPv6)
-
-sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDowZmZdABljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjMKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjcKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMwovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YTExXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjMKL2Rucy1xdWVyeQ
 
 
 ## yandex-safe
 
 Yandex public DNS server with malware filtering (anycast)
 
-sdns://AgEAAAAAAAAACjc3Ljg4LjguODgAF3NhZmUuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
-
-
-## yandex-safe-ipv6
-
-Yandex public DNS server with malware filtering (anycast IPv6)
-
-sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdABdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQo3Ny44OC44Ljg4Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
