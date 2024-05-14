@@ -2513,10 +2513,9 @@ sdns://AgAAAAAAAAAAAKARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1B
 ## dnspod
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
+Homepage: https://dnspod.cn
 
 Warning: GFW filtering rules are applied by this resolver.
-
-Homepage: https://dnspod.cn
 
 sdns://AgAAAAAAAAAADDE2Mi4xNC4yMS41NiCPS3OZfEsE6lD-r6kaJDHUK8prVMI7z5279XIkk5ThDAdkb2gucHViCi9kbnMtcXVlcnk
 sdns://AgAAAAAAAAAADTE2Mi4xNC4yMS4xNzggj0tzmXxLBOpQ_q-pGiQx1CvKa1TCO8-du_VyJJOU4QwHZG9oLnB1YgovZG5zLXF1ZXJ5
