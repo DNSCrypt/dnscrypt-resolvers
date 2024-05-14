@@ -184,16 +184,30 @@ Server statistics can be seen at: https://statistics.ahadns.com/?server=nl
 
 sdns://AgMAAAAAAAAACTUuMi43NS43NaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFkb2gubmwuYWhhZG5zLm5ldAovZG5zLXF1ZXJ5
 
-
 ## alidns-doh
 
-A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
+A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud. 
+Homepage: https://alidns.com
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
-Homepage: https://alidns.com/
-
-sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNS41LjUKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAACTIyMy42LjYuNiCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNi42LjYKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAADTEyMC41NS4yMDMuNDQgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzANMTIwLjU1LjIwMy40NAovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADTQ3LjEwMy4xNjYuNTcgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzANNDcuMTAzLjE2Ni41NwovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACzQ3LjEwOC4wLjYzIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwCzQ3LjEwOC4wLjYzCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADTM5LjEwMy4yNi4yMDQgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzANMzkuMTAzLjI2LjIwNAovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADzEzOS4xMjkuMTM3LjEzNyCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA8xMzkuMTI5LjEzNy4xMzcKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAACzQ3LjEyMi44LjExIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwCzQ3LjEyMi44LjExCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADjEyMy4xODQuMTk4LjIyIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwDjEyMy4xODQuMTk4LjIyCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADjExMy4xNDIuODMuMTMyIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwDjExMy4xNDIuODMuMTMyCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADjExMy4yNDAuODguMTcyIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwDjExMy4yNDAuODguMTcyCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADTEyMy4xNTEuMTA3LjUgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzANMTIzLjE1MS4xMDcuNQovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADDE4Mi40MC43MC4xMiCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAwxODIuNDAuNzAuMTIKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAADTguMTI5LjE1Mi4yMzAgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzANOC4xMjkuMTUyLjIzMAovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACjEuNzEuMjAuMzcgmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAKMS43MS4yMC4zNwovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwDmRucy5hbGlkbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAE1syNDAwOjMyMDA6YmFiYTo6MV0gmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAOZG5zLmFsaWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## ams-ads-doh-nl
@@ -2514,9 +2528,9 @@ sdns://AgAAAAAAAAAAAKARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1B
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
-Homepage: https://dnspod.cn/
+Homepage: https://dnspod.cn
 
 sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgj0tzmXxLBOpQ_q-pGiQx1CvKa1TCO8-du_VyJJOU4QwHZG9oLnB1YgovZG5zLXF1ZXJ5
 
@@ -3120,9 +3134,10 @@ sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7Lqw
 
 ## qihoo360-doh
 
-DoH server runned by Qihoo 360, has logs, supports DNSSEC. GFW filtering rules are applied.
+DoH server runned by Qihoo 360, has logs, supports DNSSEC.
+Homepage: https://sdns.360.net
 
-Homepage: https://sdns.360.net/
+Warning: GFW filtering rules are applied by this resolver.
 
 sdns://AgEAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuCi9kbnMtcXVlcnk
 
