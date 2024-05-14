@@ -2961,6 +2961,13 @@ instead of anycast.
 sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ5kbnMubmV4dGRucy5pbw8vZG5zY3J5cHQtcHJveHk
 
 
+## nic.cz
+
+Open, DNSSEC, No-log and No-filter DoH operated by https://nic.cz
+
+sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtvZHZyLm5pYy5jegovZG5zLXF1ZXJ5
+
+
 ## njalla-doh
 
 Non-logging DoH server in Sweden operated by Njalla.
