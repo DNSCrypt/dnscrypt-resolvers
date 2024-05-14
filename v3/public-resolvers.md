@@ -423,45 +423,48 @@ sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 
 Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
 
-sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNwcxLjEuMS4xCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNwcxLjAuMC4xCi9kbnMtcXVlcnk
 
 
 ## cloudflare-family
 
 Cloudflare DNS (anycast) with malware protection and parental control - aka 1.1.1.3 / 1.0.0.3
 
-sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNwcxLjEuMS4zCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNwcxLjAuMC4zCi9kbnMtcXVlcnk
 
 
 ## cloudflare-family-ipv6
 
 Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
 
-sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNxZbMjYwNjo0NzAwOjQ3MDA6OjExMTNdCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNxZbMjYwNjo0NzAwOjQ3MDA6OjEwMDNdCi9kbnMtcXVlcnk
 
 
 ## cloudflare-ipv6
 
 Cloudflare DNS over IPv6 (anycast)
 
-sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0AIDFkb3QxZG90MWRvdDEuY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
-sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMV0AIDFkb3QxZG90MWRvdDEuY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNxZbMjYwNjo0NzAwOjQ3MDA6OjExMTFdCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNxZbMjYwNjo0NzAwOjQ3MDA6OjEwMDFdCi9kbnMtcXVlcnk
 
 
 ## cloudflare-security
 
 Cloudflare DNS (anycast) with malware blocking - aka 1.1.1.2 / 1.0.0.2
 
-sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNwcxLjEuMS4yCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNwcxLjAuMC4yCi9kbnMtcXVlcnk
 
 
 ## cloudflare-security-ipv6
 
 Cloudflare DNS over IPv6 (anycast) with malware blocking
 
-sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNxZbMjYwNjo0NzAwOjQ3MDA6OjExMTJdCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACCjhQ4zsKyW_PJeneTFpG4w5J2tiOeO1qgn6NwROcpxNxZbMjYwNjo0NzAwOjQ3MDA6OjEwMDJdCi9kbnMtcXVlcnk
 
 
 ## comodo-02
