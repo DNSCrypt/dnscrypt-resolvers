@@ -187,7 +187,7 @@ sdns://AgMAAAAAAAAACTUuMi43NS43NaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa7
 
 ## alidns-doh
 
-A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud. 
+A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
 Homepage: https://alidns.com
 
 Warning: GFW filtering rules are applied by this resolver.
@@ -211,7 +211,7 @@ sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAoxLjcxLjIwLjM3C
 
 ## alidns-doh-ipv6
 
-A public DNS resolver over IPv6 that supports DoH/DoT in mainland China, provided by Alibaba-Cloud. 
+A public DNS resolver over IPv6 that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
 Homepage: https://alidns.com
 
 Warning: GFW filtering rules are applied by this resolver.
