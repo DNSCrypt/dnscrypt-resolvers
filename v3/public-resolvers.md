@@ -3008,6 +3008,16 @@ instead of anycast.
 sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ5kbnMubmV4dGRucy5pbw8vZG5zY3J5cHQtcHJveHk
 
 
+## nic.cz
+
+Open, DNSSEC, No-log and No-filter DoH operated by https://nic.cz
+
+sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtvZHZyLm5pYy5jegovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzE5My4xNy40Ny4xIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOC29kdnIubmljLmN6Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZTo6MV0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984Lb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZjo6MV0gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984Lb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
+
+
 ## njalla-doh
 
 Non-logging DoH server in Sweden operated by Njalla.
