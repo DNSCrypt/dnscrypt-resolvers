@@ -3602,8 +3602,6 @@ Yandex public DNS server (anycast)
 
 sdns://AgUAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjEKL2Rucy1xdWVyeQ
 sdns://AgUAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjgKL2Rucy1xdWVyeQ
-sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
-sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMQovZG5zLXF1ZXJ5
 
 
 ## yandex-family
@@ -3612,8 +3610,22 @@ Yandex public DNS server filtering content not suitable for kids (anycast)
 
 sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjMKL2Rucy1xdWVyeQ
 sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjcKL2Rucy1xdWVyeQ
+
+
+## yandex-family-ipv6
+
+Yandex public DNS server filtering content not suitable for kids (anycast IPv6)
+
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMwovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YTExXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjMKL2Rucy1xdWVyeQ
+
+
+## yandex-ipv6
+
+Yandex public DNS server (anycast IPv6)
+
+sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMQovZG5zLXF1ZXJ5
 
 
 ## yandex-safe
@@ -3622,6 +3634,12 @@ Yandex public DNS server with malware filtering (anycast)
 
 sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQo3Ny44OC44Ljg4Ci9kbnMtcXVlcnk
+
+
+## yandex-safe-ipv6
+
+Yandex public DNS server with malware filtering (anycast IPv6)
+
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
