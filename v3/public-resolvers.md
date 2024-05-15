@@ -206,6 +206,15 @@ sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA0xMjMuMTUxLjEwN
 sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAwxODIuNDAuNzAuMTIKL2Rucy1xdWVyeQ
 sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA04LjEyOS4xNTIuMjMwCi9kbnMtcXVlcnk
 sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAoxLjcxLjIwLjM3Ci9kbnMtcXVlcnk
+
+
+## alidns-doh-ipv6
+
+A public DNS resolver over IPv6 that supports DoH/DoT in mainland China, provided by Alibaba-Cloud. 
+Homepage: https://alidns.com
+
+Warning: GFW filtering rules are applied by this resolver.
+
 sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwCTIyMy41LjUuNQovZG5zLXF1ZXJ5
 sdns://AgAAAAAAAAAAE1syNDAwOjMyMDA6YmFiYTo6MV0gmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAJMjIzLjUuNS41Ci9kbnMtcXVlcnk
 
