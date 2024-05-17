@@ -3149,7 +3149,7 @@ DNSSEC-aware DoH resolver by the Taiwan Network Information Center (TWNIC)
 Homepage: https://101.101.101.101
 
 sdns://AgcAAAAAAAAAACDgJuD2ivMkQjTMR2HRZIPk4Brhd7eA_XiSwRQS_h9DmQ8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAADzEwMS4xMDIuMTAzLjEwNCBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwMS4xMDIuMTAzLjEwNCDgJuD2ivMkQjTMR2HRZIPk4Brhd7eA_XiSwRQS_h9DmQ8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
 
 
 ## quad101-ipv6
@@ -3157,7 +3157,7 @@ sdns://AgcAAAAAAAAADzEwMS4xMDIuMTAzLjEwNCBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxy
 DNSSEC-aware DoH resolver by the Taiwan Network Information Center (TWNIC) over IPv6
 Homepage: https://101.101.101.101
 
-sdns://AgcAAAAAAAAAD1syMDAxOmRlNDo6MTAyXSBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAD1syMDAxOmRlNDo6MTAyXSDgJuD2ivMkQjTMR2HRZIPk4Brhd7eA_XiSwRQS_h9DmQ8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
 
 
 ## quad9-dnscrypt-ip4-filter-ecs-pri
