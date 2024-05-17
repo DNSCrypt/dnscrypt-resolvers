@@ -3145,10 +3145,19 @@ sdns://AgEAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuC
 
 ## quad101
 
-DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
-https://101.101.101.101/index_en.html
+DNSSEC-aware DoH resolver by the Taiwan Network Information Center (TWNIC)
+Homepage: https://101.101.101.101
 
-sdns://AgcAAAAAAAAAACC2vD25TAYM7EnyCH8Xw1-0g5OccnTsGH9vQUUH0njRtAxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACDgJuD2ivMkQjTMR2HRZIPk4Brhd7eA_XiSwRQS_h9DmQ8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwMS4xMDIuMTAzLjEwNCBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
+
+
+## quad101-ipv6
+
+DNSSEC-aware DoH resolver by the Taiwan Network Information Center (TWNIC) over IPv6
+Homepage: https://101.101.101.101
+
+sdns://AgcAAAAAAAAAD1syMDAxOmRlNDo6MTAyXSBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTA8xMDEuMTAxLjEwMS4xMDEKL2Rucy1xdWVyeQ
 
 
 ## quad9-dnscrypt-ip4-filter-ecs-pri
