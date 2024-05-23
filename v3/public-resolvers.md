@@ -2538,12 +2538,15 @@ sdns://AgAAAAAAAAAAAKARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1B
 ## dnspod
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
+Homepage: https://dnspod.cn
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
-Homepage: https://dnspod.cn/
-
-sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgMpntrxEM8lYjfMIIJmos1kY3lXH4CrBeFe5nNShLotIHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADDE2Mi4xNC4yMS41NgAHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADTE2Mi4xNC4yMS4xNzgAB2RvaC5wdWIKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAAAAMMTIwLjUzLjUzLjUzCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAAAAKMS4xMi4xMi4xMgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACjEuMTIuMzQuNTYACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 
 
 ## dnswarden-adult-doh
@@ -3509,7 +3512,6 @@ sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4
 
 Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
 Homepage: https://www.switch.ch
-
 
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjQ4Ci9kbnMtcXVlcnk
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjUxCi9kbnMtcXVlcnk
