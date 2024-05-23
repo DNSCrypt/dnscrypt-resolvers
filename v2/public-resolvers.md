@@ -3425,13 +3425,18 @@ sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4
 
 ## switch
 
-Public DoH service provided by SWITCH in Switzerland
+Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
+Homepage: https://www.switch.ch
 
-https://www.switch.ch
+sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjQ4Ci9kbnMtcXVlcnk
 
-Provides protection against malware, but does not block ads.
 
-sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw1kbnMuc3dpdGNoLmNoCi9kbnMtcXVlcnk
+## switch-ipv6
+
+Public DoH (IPv6) service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
+Homepage: https://www.switch.ch
+
+sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxJbMjAwMTo2MjA6MDpmZjo6Ml0KL2Rucy1xdWVyeQ
 
 
 ## techsaviours.org-dnscrypt
