@@ -11,7 +11,7 @@ jobs:
   prcheck:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: new entries
         run: .github/workflows/prcheck.sh
