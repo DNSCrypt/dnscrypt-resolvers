@@ -1,6 +1,6 @@
 #! /bin/sh
 
-DNSLOOKUP_VERSION=1.5.1
+DNSLOOKUP_VERSION=1.10.1
 
 case "$(uname -ms)" in
 Darwin\ x86_64) DNSLOOKUP_ARCH=darwin-amd64 ;;
