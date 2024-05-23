@@ -469,6 +469,8 @@ sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZ
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
 
 sdns://AQUAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
+sdns://AQUAAAAAAAAACzguMjAuMjQ3LjIwINLCVKqWHB7KF5mW9V-8gB8INscjeatSfs2ohhvg4LOwKDIuZG5zY3J5cHQtY2VydC5zaGllbGQtMi5kbnNieWNvbW9kby5jb20
+sdns://AQUAAAAAAAAACjguMjYuNTYuMjYg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
 
 
 ## controld-block-malware
