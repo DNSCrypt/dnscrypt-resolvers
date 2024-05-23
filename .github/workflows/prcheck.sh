@@ -1,6 +1,6 @@
 #! /bin/sh
 
-DNSLOOKUP_VERSION=1.5.1
+DNSLOOKUP_VERSION=1.10.1
 
 case "$(uname -ms)" in
 Darwin\ x86_64) DNSLOOKUP_ARCH=darwin-amd64 ;;
@@ -74,7 +74,7 @@ if [ ! -s "$NEW_ENTRIES" ]; then
     exit 0
 fi
 
-curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.3/dnscrypt-proxy-linux_x86_64-2.1.3.tar.gz | tar xzvf -
+curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.5/dnscrypt-proxy-linux_x86_64-2.1.5.tar.gz | tar xzvf -
 cd linux-x86_64 || exit 1
 
 exit_code=0
@@ -83,6 +83,8 @@ CONFIG="test-dnscrypt-proxy.toml"
 PIDFILE="dnscrypt-proxy.pid"
 LOGFILE="dnscrypt-proxy.log"
 while read -r stamp; do
+    echo
+    echo ========================
     echo
     echo "* Checking resolver with stamp:"
     echo "$stamp"
@@ -97,7 +99,24 @@ while read -r stamp; do
         echo '[static."test"]'
         echo "stamp = '${stamp}'"
     } >"$CONFIG"
+
+    if ! ./dnscrypt-proxy -config "$CONFIG" -show-certs; then
+        exit_code=1
+    fi
+    echo
+    echo ---
+    echo
+
+    dnssec=false
+    if ./dnscrypt-proxy -config "$CONFIG" -list -json | grep -F '"dnssec": true' >/dev/null; then
+        dnssec=true
+        echo "DNSSEC support is expected"
+    else
+        echo "DNSSEC support is not expected"
+    fi
+
     ./dnscrypt-proxy -config "$CONFIG" -pidfile "$PIDFILE" -logfile "$LOGFILE" -loglevel 1 &
+
     sleep 5
     skip_log=false
     if grep -q 'DNSCrypt relay' "$LOGFILE"; then
@@ -110,6 +129,11 @@ while read -r stamp; do
         echo "** UNABLE TO GET A RESPONSE FROM THE RESOLVER **"
         echo "Bogus stamp: ${stamp}"
         exit_code=1
+    elif $dnssec; then
+        if ./dnscrypt-proxy -config "$CONFIG" -resolve -check example.com | grep -F "resolver doesn't support DNSSEC" >/dev/null; then
+            echo "** DNSSEC SUPPORT IS EXPECTED BUT NOT DETECTED **"
+            exit_code=1
+        fi
     fi
     kill $(cat "$PIDFILE")
     if [ "$skip_log" = false ]; then
