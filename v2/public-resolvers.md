@@ -169,12 +169,21 @@ sdns://AgMAAAAAAAAACTUuMi43NS43NaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa7
 ## alidns-doh
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
+Homepage: https://alidns.com
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
-Homepage: https://alidns.com/
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNS41LjUKL2Rucy1xdWVyeQ
 
-sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+
+## alidns-doh-ipv6
+
+A public DNS resolver over IPv6 that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
+Homepage: https://alidns.com
+
+Warning: GFW filtering rules are applied by this resolver.
+
+sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwCTIyMy41LjUuNQovZG5zLXF1ZXJ5
 
 
 ## ams-ads-doh-nl
@@ -3120,9 +3129,8 @@ sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7Lqw
 
 ## qihoo360-doh
 
-DoH server runned by Qihoo 360. Has logs. GFW filtering rules are applied.
-
-Homepage: https://sdns.360.net/
+DoH server runned by Qihoo 360, has logs, GFW filtering rules are applied.
+Homepage: https://sdns.360.net
 
 sdns://AgAAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuCi9kbnMtcXVlcnk
 
