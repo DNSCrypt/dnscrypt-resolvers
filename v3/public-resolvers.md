@@ -3064,6 +3064,13 @@ https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6ARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
+## openbld.net
+
+OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+
+https://openbld.net/
+
+sdns://AgAAAAAAAAAAAAAPYWRhLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
 
 ## plan9dns-fl
 
