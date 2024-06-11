@@ -188,12 +188,35 @@ sdns://AgMAAAAAAAAACTUuMi43NS43NaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa7
 ## alidns-doh
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
+Homepage: https://alidns.com
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
-Homepage: https://alidns.com/
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNS41LjUKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAkyMjMuNi42LjYKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA0xMjAuNTUuMjAzLjQ0Ci9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAs0Ny4xMDguMC42MwovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA0zOS4xMDMuMjYuMjA0Ci9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA8xMzkuMTI5LjEzNy4xMzcKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAs0Ny4xMjIuOC4xMQovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA4xMjMuMTg0LjE5OC4yMgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA4xMTMuMTQyLjgzLjEzMgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA4xMTMuMjQwLjg4LjE3MgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA0xMjMuMTUxLjEwNy41Ci9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAwxODIuNDAuNzAuMTIKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA04LjEyOS4xNTIuMjMwCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMAoxLjcxLjIwLjM3Ci9kbnMtcXVlcnk
 
-sdns://AgAAAAAAAAAACTIyMy41LjUuNSCY49XlNq8pWM0vfxT3BO9KJ20l4zzWXy5l9eTycnwTMA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+
+## alidns-doh-ipv6
+
+A public DNS resolver over IPv6 that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
+Homepage: https://alidns.com
+
+Warning: GFW filtering rules are applied by this resolver.
+
+sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwCTIyMy41LjUuNQovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAE1syNDAwOjMyMDA6YmFiYTo6MV0gmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAJMjIzLjUuNS41Ci9kbnMtcXVlcnk
 
 
 ## ams-ads-doh-nl
@@ -750,13 +773,6 @@ US - Atlanta, GA DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTY0LjQyLjE4MS4yMjcgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-hungary
-
-Budapest, Hungary DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADTg2LjEwNi43NC4yMTkgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-il
 
 US - Chicago, IL DNSCrypt server provided by https://cryptostorm.is/
@@ -925,13 +941,6 @@ Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADjM3LjEyMC4yMDcuMTMxIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-sea
-
-US - Seattle, WA DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADDY0LjEyMC41LjI1MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-serbia
 
 Belgrade, Serbia DNSCrypt server provided by https://cryptostorm.is/
@@ -1047,8 +1056,8 @@ Hosted in Zurich, Switzerland.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDKgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4eigWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDOgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4eigWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIg9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw0cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDMg9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw0cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
 
 ## dns.digitale-gesellschaft.ch-ipv6
@@ -1058,8 +1067,8 @@ Hosted in Zurich, Switzerland.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
-sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXSD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDRxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXSD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDRxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
 
 
 ## dns.digitalsize.net
@@ -1172,15 +1181,6 @@ DNSCry.pt Amsterdam - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAADTQ1Ljg2LjE2Mi4xMTAgblxXPJozaH3d0T9h_69Op1nnYQYbW4yIWd8ypOORnK8ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-amsterdam-ipv6
-
-DNSCry.pt Amsterdam - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAG1syYTA3OmVmYzA6MTAwMTphNWNlOjpiNGI0XSBuXFc8mjNofd3RP2H_r06nWedhBhtbjIhZ3zKk45GcrxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-atlanta-ipv4
@@ -2110,15 +2110,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADTE5NC4zMi4xMDcuNDggXTsyJ8l_6LJ4TCwKbGyVeIVM1yLzf8sxL2PmKjZIMvcZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-sandefjord-ipv6
-
-DNSCry.pt Sandefjord - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyYTAzOjk0ZTA6MjcxZjo6NWIxXSBdOzInyX_osnhMLApsbJV4hUzXIvN_yzEvY-YqNkgy9xkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-santaclara-ipv4
 
 DNSCry.pt Santa Clara - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2591,12 +2582,15 @@ sdns://AgAAAAAAAAAAAKARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1B
 ## dnspod
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by dnspod/Tencent-cloud.
+Homepage: https://dnspod.cn
 
-Warning: GFW filtering rules are applied by that resolver.
+Warning: GFW filtering rules are applied by this resolver.
 
-Homepage: https://dnspod.cn/
-
-sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIgMpntrxEM8lYjfMIIJmos1kY3lXH4CrBeFe5nNShLotIHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADDE2Mi4xNC4yMS41NgAHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADTE2Mi4xNC4yMS4xNzgAB2RvaC5wdWIKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAAAAMMTIwLjUzLjUzLjUzCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAAAAKMS4xMi4xMi4xMgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAACjEuMTIuMzQuNTYACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 
 
 ## dnswarden-adult-doh
@@ -2967,46 +2961,6 @@ no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hos
 sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2oBGxAuax9j5SiYTWAl8ysTgkH8iLvXUZV01wyYMtU-HooFrvhD_88uxwVfUEoWLyKfg5HDcP86YWPS2z89YE1iK-IEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOD2RvaC5saWJyZWRucy5ncgQvYWRz
 
 
-## meganerd
-
-DNSCrypt server by MegaNerd.nl (IPv4) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAADTk1LjE3OS4xMzEuODIgIRiZQdNmDJj8zSxSbb1qzEEAU3Pjo0sVBjpJdICkfj4hMi5kbnNjcnlwdC1jZXJ0LnNub2tlLm1lZ2FuZXJkLm5s
-
-
-## meganerd-doh
-
-DoH server by MegaNerd.nl (IPv4) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAADTk1LjE3OS4xMzEuODKgEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4eigWu-EP_zy7HBV9QShYvIp-DkcNw_zphY9LbPz1gTWIr4gRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN984Rc25va2UubWVnYW5lcmQubmwKL2Rucy1xdWVyeQ
-
-
-## meganerd-doh-ipv6
-
-DoH server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AgcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXaARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhFzbm9rZS5tZWdhbmVyZC5ubAovZG5zLXF1ZXJ5
-
-
-## meganerd-ipv6
-
-DNSCrypt server by MegaNerd.nl (IPv6) - https://meganerd.nl/encrypted-dns-server
-Hosted in Amsterdam (AMS1), The Netherlands.
-
-Non-logging, non-filtering, supports DNSSEC.
-
-sdns://AQcAAAAAAAAAGFsyYTA1OmY0ODA6MTQwMDoyYjAwOjoxXSAhGJlB02YMmPzNLFJtvWrMQQBTc-OjSxUGOkl0gKR-PiEyLmRuc2NyeXB0LWNlcnQuc25va2UubWVnYW5lcmQubmw
-
-
 ## mullvad-adblock-doh
 
 Same as mullvad-doh but blocks ads and trackers.
@@ -3232,9 +3186,8 @@ sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7Lqw
 
 ## qihoo360-doh
 
-DoH server runned by Qihoo 360. Has logs. GFW filtering rules are applied.
-
-Homepage: https://sdns.360.net/
+DoH server runned by Qihoo 360, has logs, GFW filtering rules are applied.
+Homepage: https://sdns.360.net
 
 sdns://AgAAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuCi9kbnMtcXVlcnk
 
@@ -3564,7 +3517,6 @@ sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagEbEC5rH2PlKJhNYCXzKxOCQfyIu9dRlXTXDJgy1T4
 Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
 Homepage: https://www.switch.ch
 
-
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjQ4Ci9kbnMtcXVlcnk
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjUxCi9kbnMtcXVlcnk
 
@@ -3672,14 +3624,6 @@ https://www.dnscrypt.uk
 sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs
 
 
-## wevpn-singapore
-
-Private DNSCrypt service by WeVPN in Singapore - https://wevpn.com/dns
-With ad blocking.
-
-sdns://AQcAAAAAAAAAEzE0My4yNDQuMzMuNzQ6MTUzNTMgFTXwu5MfYkBOrRpDeoB-yOWEjCnf-l3yixhtuzuPBskfMi5kbnNjcnlwdC1jZXJ0LnNlY3VyZS5kbnMudGVzdA
-
-
 ## wikimedia
 
 Wikimedia DNS (formerly called Wikidough), is a caching, recursive,
@@ -3710,40 +3654,30 @@ sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdoBGxAuax9j5SiYTWAl8ysTgkH8iLvXUZV01wy
 
 Yandex public DNS server (anycast)
 
-sdns://AgUAAAAAAAAACTc3Ljg4LjguOAAZY29tbW9uLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
-
-
-## yandex-family
-
-Yandex public DNS server filtering content not suitable for kids (anycast)
-
-sdns://AgUAAAAAAAAACTc3Ljg4LjguNwAZZmFtaWx5LmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
-
-
-## yandex-family-ipv6
-
-Yandex public DNS server filtering content not suitable for kids (anycast IPv6)
-
-sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdABlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjEKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjgKL2Rucy1xdWVyeQ
 
 
 ## yandex-ipv6
 
 Yandex public DNS server (anycast IPv6)
 
-sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDowZmZdABljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMQovZG5zLXF1ZXJ5
 
 
 ## yandex-safe
 
 Yandex public DNS server with malware filtering (anycast)
 
-sdns://AgEAAAAAAAAACjc3Ljg4LjguODgAF3NhZmUuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQo3Ny44OC44Ljg4Ci9kbnMtcXVlcnk
 
 
 ## yandex-safe-ipv6
 
 Yandex public DNS server with malware filtering (anycast IPv6)
 
-sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdABdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
