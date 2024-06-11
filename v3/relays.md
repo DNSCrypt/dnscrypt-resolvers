@@ -440,32 +440,11 @@ Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
 sdns://gRQxMjkuMTUxLjIyNC4xODI6NTM1Mw
 
 
-## anon-fluffycat-fr-02
-
-Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
-
-sdns://gRQxMjkuMTUxLjI0My4xNDM6NTM1Mw
-
-
 ## anon-gombadi-chennai
 
 Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
 
 sdns://gQ4xNzIuMjMyLjk3LjE5Ng
-
-
-## anon-gombadi-saopaulo
-
-Anonymized DNS relay hosted in Sao Paulo Brazil. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4yMTYuMjM4LjExMy41OA
-
-
-## anon-gombadi-saopaulo-ipv6
-
-Anonymized DNS relay hosted in Sao Paulo Brazil. https://www.gombadi.com/edns/edns.html
-
-sdns://gShbMjAwMToxOWYwOmI4MDA6MThiOTo1NDAwOjRmZjpmZThkOjczNGJd
 
 
 ## anon-gombadi-singapore
@@ -516,20 +495,6 @@ sdns://gQ4xMDQuMjM4LjE1My40Ng
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 
 sdns://gQ4xMzcuNzQuMjIzLjIzNA
-
-
-## anon-meganerd
-
-Anonymized DNS relay hosted by MegaNerd.nl (IPv4) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
-
-sdns://gQ05NS4xNzkuMTMxLjgy
-
-
-## anon-meganerd-ipv6
-
-Anonymized DNS relay hosted by MegaNerd.nl (IPv6) (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands (AMS1)
-
-sdns://gRhbMmEwNTpmNDgwOjE0MDA6MmIwMDo6MV0
 
 
 ## anon-openinternet
@@ -683,15 +648,6 @@ DNSCry.pt Amsterdam - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ00NS44Ni4xNjIuMTEw
-
-
-## dnscry.pt-anon-amsterdam-ipv6
-
-DNSCry.pt Amsterdam - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRtbMmEwNzplZmMwOjEwMDE6YTVjZTo6YjRiNF0
 
 
 ## dnscry.pt-anon-atlanta-ipv4
@@ -1610,15 +1566,6 @@ DNSCry.pt Sandefjord - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server
 https://www.dnscry.pt
 
 sdns://gQ0xOTQuMzIuMTA3LjQ4
-
-
-## dnscry.pt-anon-sandefjord-ipv6
-
-DNSCry.pt Sandefjord - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMmEwMzo5NGUwOjI3MWY6OjViMV0
 
 
 ## dnscry.pt-anon-santaclara-ipv4
