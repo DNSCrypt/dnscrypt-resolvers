@@ -441,48 +441,6 @@ Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
 sdns://gRQxMjkuMTUxLjIyNC4xODI6NTM1Mw
 
 
-## anon-gombadi-chennai
-
-Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xNzIuMjMyLjk3LjE5Ng
-
-
-## anon-gombadi-singapore
-
-Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xNzIuMTA0LjQ0LjEyMA
-
-
-## anon-gombadi-sydney
-
-Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xOTQuMTk1LjEyNC40MQ
-
-
-## anon-gombadi-sydney-ipv6
-
-Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
-
-sdns://gSBbMjQwMDo4OTA3OjpmMDNjOjkzZmY6ZmVjNDo4YzQyXQ
-
-
-## anon-gombadi-tokyo
-
-Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ8yMDIuMTgyLjExMS4yMzQ
-
-
-## anon-gombadi-tokyo-ipv6
-
-Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
-
-sdns://gShbMjQwMTpjMDgwOjEwMDA6NDhiNDo1NDAwOjRmZjpmZTlkOmQ0NTVd
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
