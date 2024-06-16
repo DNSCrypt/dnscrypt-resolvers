@@ -2522,7 +2522,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnFS9kb2gvc2VjdXJpdHktZmlsdGVyL
 ## doh-crypto-sx
 
 DNS-over-HTTPS server. Anycast, no logs, no censorship, DNSSEC.
-Backend hosted by Scaleway, globally cached via Cloudflare.
+Globally cached via Cloudflare.
 Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAACzEwNC4yMS42Ljc4AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
@@ -2531,7 +2531,7 @@ sdns://AgcAAAAAAAAACzEwNC4yMS42Ljc4AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 ## doh-crypto-sx-ipv6
 
 DNS-over-HTTPS server accessible over IPv6. Anycast, no logs, no censorship, DNSSEC.
-Backend hosted by Scaleway, globally cached via Cloudflare.
+Globally cached via Cloudflare.
 Maintained by Frank Denis.
 
 sdns://AgcAAAAAAAAAGlsyNjA2OjQ3MDA6MzAzNzo6NjgxNTo2NGVdABJkb2gtaXB2Ni5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
@@ -3291,34 +3291,34 @@ sdns://AQcAAAAAAAAAEzE5OS4xODAuMTMwLjM5Ojg0NDMg1U5MYSDK58uVdJ8dKtp0UZaCKSG0znwQL
 
 ## scaleway-ams
 
-DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Germany
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAADTUxLjE1LjEyMi4yNTAg6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
+sdns://AQcAAAAAAAAAEDY1LjIxLjIyOC40ODo0NDMg0MV68DSIBRoq31N-T4dxt8h6yo0jlrkXOlZ27lkUy8UXMi5kbnNjcnlwdC1jZXJ0LmhldHpuZXI
 
 
 ## scaleway-ams-ipv6
 
-DNSSEC/Non-logged/Uncensored in Amsterdam - IPv6 only - DEV1-S instance donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Germany - IPv6 only
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODMwOmIwNzo6MV0g6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
+sdns://AQcAAAAAAAAAGVsyYTAxOjRmOTo2YToxYWRiOjoyXTo0NDMg0MV68DSIBRoq31N-T4dxt8h6yo0jlrkXOlZ27lkUy8UXMi5kbnNjcnlwdC1jZXJ0LmhldHpuZXI
 
 
 ## scaleway-fr
 
-DNSSEC/Non-logged/Uncensored in Paris - DEV1-S instance donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Germany
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+sdns://AQcAAAAAAAAAEDY1LjIxLjIyOC40ODo0NDMg0MV68DSIBRoq31N-T4dxt8h6yo0jlrkXOlZ27lkUy8UXMi5kbnNjcnlwdC1jZXJ0LmhldHpuZXI
 
 
 ## scaleway-fr-ipv6
 
-DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - DEV1-S instance donated by Scaleway.com
+DNSSEC/Non-logged/Uncensored in Germany - IPv6 only
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAAFVsyMDAxOmJjODo2Mjg6YTBmOjoxXSDoAbhOpga_sLrAzkNEW7FeumSwL6PEqjGuEGNqB5AyTR8yLmRuc2NyeXB0LWNlcnQuZnIuZG5zY3J5cHQub3Jn
+sdns://AQcAAAAAAAAAGVsyYTAxOjRmOTo2YToxYWRiOjoyXTo0NDMg0MV68DSIBRoq31N-T4dxt8h6yo0jlrkXOlZ27lkUy8UXMi5kbnNjcnlwdC1jZXJ0LmhldHpuZXI
 
 
 ## serbica
@@ -3331,10 +3331,9 @@ sdns://AQcAAAAAAAAAEzE4NS42Ni4xNDMuMTc4OjUzNTMg-Y2MQmGOXiggAEKulN-ITGEn_Kj3TIP1U
 ## sfw.scaleway-fr
 
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
-Hosted in Paris, running on a 1-XS server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
-sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
+sdns://AQcAAAAAAAAAEDY1LjIxLjIyOC40ODo0NDMg0MV68DSIBRoq31N-T4dxt8h6yo0jlrkXOlZ27lkUy8UXMi5kbnNjcnlwdC1jZXJ0LmhldHpuZXI
 
 
 ## sth-ads-doh-se

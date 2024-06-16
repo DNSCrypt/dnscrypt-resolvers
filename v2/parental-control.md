@@ -251,8 +251,7 @@ sdns://AQIAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2
 ## sfw.scaleway-fr
 
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
-Hosted in Paris, running on a 1-XS server donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
-sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
+sdns://AQcAAAAAAAAAEDY1LjIxLjIyOC40ODo0NDMg0MV68DSIBRoq31N-T4dxt8h6yo0jlrkXOlZ27lkUy8UXMi5kbnNjcnlwdC1jZXJ0LmhldHpuZXI
 
