@@ -2233,24 +2233,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAG1syNjA2OjY2ODA6NTM6MTo6ODQ2YTpiZDc5XSCIIMuO6jU7NLND5y7gyuVHKUibf7e11Zk69LVp9UJajRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-tokyo-ipv4
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDg0LjMzLjEyLjE1OCBC4lKrcLl4N_Ic0EZTdNoL2swk-zY2FVRgygyoZFEzChkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-tokyo-ipv6
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAGlsyYTBjOjhmYzE6NjQ0MTo6NDEyOmFiMzRdIELiUqtwuXg38hzQRlN02gvazCT7NjYVVGDKDKhkUTMKGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-tokyo02-ipv4
 
 DNSCry.pt Tokyo 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
