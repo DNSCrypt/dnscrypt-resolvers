@@ -1283,15 +1283,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADzEwMi4yMjIuMTA2LjE2NSBgatfPF03NfypARpsP4HbLOQbtu1RAh97lsjEVJVhR9BkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-ebene-ipv6
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAH1syYzBmOmU4Zjg6MjAwMDoyMzM6OmEzOWI6NzEyM10gYGrXzxdNzX8qQEabD-B2yzkG7btUQIfe5bIxFSVYUfQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-eygelshoven-ipv4
 
 DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
