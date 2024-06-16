@@ -493,25 +493,23 @@ sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 ## anon-scaleway
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
-Running on an instance donated by https://scaleway.com
 
-sdns://gQ8xNjMuMTcyLjE4MC4xMjU
+sdns://gRA2NS4yMS4yMjguNDg6NDQz
 
 
 ## anon-scaleway-ams
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
-Running on an instance donated by https://scaleway.com
 
-sdns://gQ01MS4xNS4xMjIuMjUw
+sdns://gRA2NS4yMS4yMjguNDg6NDQz
 
 
 ## anon-scaleway-ams-ipv6
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
-IPv6 only. Running on an instance donated by https://scaleway.com
+IPv6 only.
 
-sdns://gRZbMjAwMTpiYzg6MTgzMDpiMDc6OjFd
+sdns://gRlbMmEwMTo0Zjk6NmE6MWFkYjo6Ml06NDQz
 
 
 ## anon-serbica
