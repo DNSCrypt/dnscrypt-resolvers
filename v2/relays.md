@@ -1329,24 +1329,6 @@ https://www.dnscry.pt
 sdns://gR1bMmEwZDo4MTQwOjA6MTM6MjkxNTphZjowOjE4XQ
 
 
-## dnscry.pt-anon-ottoville-ipv4
-
-DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4yNi4xMzguMTk
-
-
-## dnscry.pt-anon-ottoville-ipv6
-
-DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRRbMjYwMjoyYTg6ODExOjEwOjphXQ
-
-
 ## dnscry.pt-anon-paris-ipv4
 
 DNSCry.pt Paris - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
