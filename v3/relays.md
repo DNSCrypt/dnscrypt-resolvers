@@ -526,13 +526,6 @@ Anonymized DNS relay hosted in Sweden - SE
 sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 
-## anon-techsaviours.org
-
-Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://techsaviours.org
-
-sdns://gRA4OS41OC42LjE2OTo0NDM0
-
-
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
@@ -730,6 +723,13 @@ DNSCry.pt Coventry - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gSBbMmEwYzpiODQwOjI6MTYyOjE4MDg6MDoxYzo5YjZjXQ
+
+
+## anon-digitalprivacy.diy
+
+Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://digitalprivacy.diy
+
+sdns://gRIzNy4yMjEuMTk0Ljg0OjQ0MzQ
 
 
 ## dnscry.pt-anon-dallas-ipv4

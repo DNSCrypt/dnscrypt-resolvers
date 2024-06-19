@@ -965,6 +965,13 @@ Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
 sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
 
 
+## digitalprivacy.diy-dnscrypt
+
+No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://digitalprivacy.diy/
+
+sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTQuODQ6NDQzNCCiyGRvm0TcyJmI7lTXstgh-8AoAAiFcTQQp7Od_brTYCIyLmRuc2NyeXB0LWNlcnQuZGlnaXRhbHByaXZhY3kuZGl5
+
+
 ## dns.digitale-gesellschaft.ch
 
 Public DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
@@ -3416,13 +3423,6 @@ Homepage: https://www.switch.ch
 
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxJbMjAwMTo2MjA6MDpmZjo6Ml0KL2Rucy1xdWVyeQ
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxJbMjAwMTo2MjA6MDpmZjo6M10KL2Rucy1xdWVyeQ
-
-
-## techsaviours.org-dnscrypt
-
-No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://techsaviours.org/
-
-sdns://AQcAAAAAAAAAEDg5LjU4LjYuMTY5OjQ0MzQgB4isFl7gD2-efHhMEtFjyCz_nHFCaQ8OsbBTgZCa3zsgMi5kbnNjcnlwdC1jZXJ0LnRlY2hzYXZpb3Vycy5vcmc
 
 
 ## tirapan-doh-ipv4
