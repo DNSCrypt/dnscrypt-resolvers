@@ -412,6 +412,13 @@ Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gQ4xOTYuMjQwLjc5LjE2Mw
 
 
+## anon-digitalprivacy.diy
+
+Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://digitalprivacy.diy
+
+sdns://gRIzNy4yMjEuMTk0Ljg0OjQ0MzQ
+
+
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay in London. https://www.dnscrypt.uk
@@ -525,13 +532,6 @@ sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 Anonymized DNS relay hosted in Sweden - SE
 
 sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
-
-
-## anon-techsaviours.org
-
-Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://techsaviours.org
-
-sdns://gRA4OS41OC42LjE2OTo0NDM0
 
 
 ## anon-tiarap
