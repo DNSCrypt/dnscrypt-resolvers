@@ -927,11 +927,18 @@ Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
 sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
 
 
-## digitalprivacy.diy-dnscrypt
+## digitalprivacy.diy-dnscrypt-ipv4
 
-No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://digitalprivacy.diy/
+IPv4 server | No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://digitalprivacy.diy/
 
 sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTQuODQ6NDQzNCCiyGRvm0TcyJmI7lTXstgh-8AoAAiFcTQQp7Od_brTYCIyLmRuc2NyeXB0LWNlcnQuZGlnaXRhbHByaXZhY3kuZGl5
+
+
+## digitalprivacy.diy-dnscrypt-ipv6
+
+IPv6 server | No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://digitalprivacy.diy/
+
+sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6ODoxMjY6OjFdOjQ0MzQgoshkb5tE3MiZiO5U17LYIfvAKAAIhXE0EKeznf2602AiMi5kbnNjcnlwdC1jZXJ0LmRpZ2l0YWxwcml2YWN5LmRpeQ
 
 
 ## dns.digitale-gesellschaft.ch
