@@ -23,6 +23,8 @@ adguard-dns-family
 adguard-dns-family-doh
 adguard-dns-family-ipv6
 cisco-familyshield
+cisco-familyshield-doh
+cisco-familyshield-doh-ipv6
 cisco-familyshield-ipv6
 cleanbrowsing-adult
 cleanbrowsing-adult-ipv6
