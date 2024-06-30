@@ -42,6 +42,8 @@ sdns://AQMAAAAAAAAAGVsyYTEwOjUwYzA6OmJhZDE6ZmZdOjU0NDMguDFd17FLbuMgpHDcLtaxqjmMy
 
 Block websites not suitable for children (DNSCrypt protocol)
 
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
@@ -53,6 +55,8 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 ## cisco-familyshield-ipv6
 
 Block websites not suitable for children (IPv6)
+
+Warning: Doesn't work any more in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 

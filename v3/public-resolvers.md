@@ -332,6 +332,8 @@ sdns://AgYAAAAAAAAAElsyYTAwOjU5ODA6OTQ6OjcxXQAMZG5zLmNpcmNsLmx1Ci9kbnMtcXVlcnk
 
 Remove your DNS blind spot (DNSCrypt protocol)
 
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
 Warning: This server is incompatible with anonymization.
 
 Warning: modifies your queries to include a copy of your network
@@ -344,6 +346,8 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 
 Remove your DNS blind spot (DoH protocol)
 
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
@@ -353,6 +357,8 @@ sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33
 ## cisco-familyshield
 
 Block websites not suitable for children (DNSCrypt protocol)
+
+Warning: Doesn't work any more in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
@@ -366,6 +372,8 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 
 Block websites not suitable for children (IPv6)
 
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
 Warning: This server is incompatible with anonymization.
 
 Warning: modifies your queries to include a copy of your network
@@ -377,6 +385,8 @@ sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev
 ## cisco-ipv6
 
 Cisco OpenDNS over IPv6 (DNSCrypt protocol)
+
+Warning: Doesn't work any more in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
@@ -390,6 +400,8 @@ sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-ry
 
 Cisco OpenDNS over IPv6 (DoH protocol)
 
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
@@ -398,13 +410,13 @@ sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMW
 
 ## cisco-sandbox
 
-Cisco OpenDNS Sandbox (anycast) - DNS service without filtering
+Cisco OpenDNS Sandbox (anycast)
 
-dnssec/log/no-filter/ecs 146.112.41.4
+Warning: Doesn't work any more in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
-sdns://AQUAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
 
 ## cleanbrowsing-adult
