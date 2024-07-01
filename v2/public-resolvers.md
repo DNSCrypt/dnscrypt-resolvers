@@ -3264,18 +3264,18 @@ sdns://AQcAAAAAAAAAFVsyYTAxOjRmOTo2YToxYWRiOjoyXSDQxXrwNIgFGirfU35Ph3G3yHrKjSOWu
 
 ## scaleway-fr
 
-DNSSEC/Non-logged/Uncensored in Germany
+DNSSEC/Non-logged/Uncensored in Paris - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAADDY1LjIxLjIyOC40OCDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
 
 
 ## scaleway-fr-ipv6
 
-DNSSEC/Non-logged/Uncensored in Germany - IPv6 only
+-DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAAFVsyYTAxOjRmOTo2YToxYWRiOjoyXSDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAAFVsyMDAxOmJjODo2Mjg6YTBmOjoxXSDoAbhOpga_sLrAzkNEW7FeumSwL6PEqjGuEGNqB5AyTR8yLmRuc2NyeXB0LWNlcnQuZnIuZG5zY3J5cHQub3Jn
 
 
 ## serbica
