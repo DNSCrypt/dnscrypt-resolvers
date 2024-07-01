@@ -508,14 +508,14 @@ sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 
-sdns://gRA2NS4yMS4yMjguNDg6NDQz
+sdns://gRIyMTIuNDcuMjI4LjEzNjo0NDM
 
 
 ## anon-scaleway-ams
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
 
-sdns://gRA2NS4yMS4yMjguNDg6NDQz
+sdns://gRE1MS4xNS4xMjIuMjUwOjQ0Mw
 
 
 ## anon-scaleway-ams-ipv6
@@ -523,7 +523,15 @@ sdns://gRA2NS4yMS4yMjguNDg6NDQz
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
 IPv6 only.
 
-sdns://gRlbMmEwMTo0Zjk6NmE6MWFkYjo6Ml06NDQz
+sdns://gSpbMjAwMTpiYzg6MTY0MDoxY2UyOmRjMDA6ZmY6ZmUyODo1YjE3XTo0NDM
+
+
+## anon-scaleway-ipv6
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+IPv6 only.
+
+sdns://gSlbMjAwMTpiYzg6NzEwOjU4MTg6ZGMwMDpmZjpmZTViOjNmNjNdOjQ0Mw
 
 
 ## anon-serbica
