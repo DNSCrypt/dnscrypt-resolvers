@@ -419,13 +419,6 @@ IPv4 server. Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and main
 sdns://gRIzNy4yMjEuMTk0Ljg0OjQ0MzQ
 
 
-## anon-digitalprivacy.diy-ipv6
-
-IPv6 server. Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://digitalprivacy.diy
-
-sdns://gRlbMmEwMzo0MDAwOjg6MTI2OjoxXTo0NDM0
-
-
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay in London. https://www.dnscrypt.uk
@@ -509,14 +502,14 @@ sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
 
-sdns://gRA2NS4yMS4yMjguNDg6NDQz
+sdns://gRIyMTIuNDcuMjI4LjEzNjo0NDM
 
 
 ## anon-scaleway-ams
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
 
-sdns://gRA2NS4yMS4yMjguNDg6NDQz
+sdns://gRE1MS4xNS4xMjIuMjUwOjQ0Mw
 
 
 ## anon-scaleway-ams-ipv6
@@ -524,7 +517,22 @@ sdns://gRA2NS4yMS4yMjguNDg6NDQz
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
 IPv6 only.
 
-sdns://gRlbMmEwMTo0Zjk6NmE6MWFkYjo6Ml06NDQz
+sdns://gSpbMjAwMTpiYzg6MTY0MDoxY2UyOmRjMDA6ZmY6ZmUyODo1YjE3XTo0NDM
+
+
+## anon-scaleway-ipv6
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+IPv6 only.
+
+sdns://gSlbMjAwMTpiYzg6NzEwOjU4MTg6ZGMwMDpmZjpmZTViOjNmNjNdOjQ0Mw
+
+
+## anon-scaleway2
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+
+sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
 
 
 ## anon-serbica
@@ -794,15 +802,6 @@ DNSCry.pt Durham - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQwzOC40NS42NC4xMTc
-
-
-## dnscry.pt-anon-durham-ipv6
-
-DNSCry.pt Durham - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMjAwMTo1NTA6NWEwMDo1ZWI6OmRiNTpmMDAxXQ
 
 
 ## dnscry.pt-anon-dusseldorf-ipv4
@@ -1496,24 +1495,6 @@ DNSCry.pt Seattle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ00NS4xNC4xMTUuMTI1
-
-
-## dnscry.pt-anon-singapore-ipv4
-
-DNSCry.pt Singapore - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw4NC4zMy4xNi4xMjQ
-
-
-## dnscry.pt-anon-singapore-ipv6
-
-DNSCry.pt Singapore - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRlbMmEwYzo4ZmMxOjg4OjozMjo2NDoxMjhd
 
 
 ## dnscry.pt-anon-singapore02-ipv4
