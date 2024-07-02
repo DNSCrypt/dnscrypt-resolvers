@@ -412,6 +412,13 @@ Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gQ4xOTYuMjQwLjc5LjE2Mw
 
 
+## anon-digitalprivacy.diy-ipv4
+
+IPv4 server. Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://digitalprivacy.diy
+
+sdns://gRIzNy4yMjEuMTk0Ljg0OjQ0MzQ
+
+
 ## anon-dnscrypt.uk-ipv4
 
 Anonymized DNS relay in London. https://www.dnscrypt.uk
@@ -439,48 +446,6 @@ sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 Anonymized DNS relay hosted in Marseille, FR on Oracle Cloud.
 
 sdns://gRQxMjkuMTUxLjIyNC4xODI6NTM1Mw
-
-
-## anon-gombadi-chennai
-
-Anonymized DNS relay hosted in Chennai India. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xNzIuMjMyLjk3LjE5Ng
-
-
-## anon-gombadi-singapore
-
-Anonymized DNS relay hosted in Singapore. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xNzIuMTA0LjQ0LjEyMA
-
-
-## anon-gombadi-sydney
-
-Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ4xOTQuMTk1LjEyNC40MQ
-
-
-## anon-gombadi-sydney-ipv6
-
-Anonymized DNS relay hosted in Sydney Australia. https://www.gombadi.com/edns/edns.html
-
-sdns://gSBbMjQwMDo4OTA3OjpmMDNjOjkzZmY6ZmVjNDo4YzQyXQ
-
-
-## anon-gombadi-tokyo
-
-Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
-
-sdns://gQ8yMDIuMTgyLjExMS4yMzQ
-
-
-## anon-gombadi-tokyo-ipv6
-
-Anonymized DNS relay hosted in Tokyo Japan. https://www.gombadi.com/edns/edns.html
-
-sdns://gShbMjQwMTpjMDgwOjEwMDA6NDhiNDo1NDAwOjRmZjpmZTlkOmQ0NTVd
 
 
 ## anon-inconnu
@@ -536,25 +501,38 @@ sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 ## anon-scaleway
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
-Running on an instance donated by https://scaleway.com
 
-sdns://gQ8xNjMuMTcyLjE4MC4xMjU
+sdns://gRIyMTIuNDcuMjI4LjEzNjo0NDM
 
 
 ## anon-scaleway-ams
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
-Running on an instance donated by https://scaleway.com
 
-sdns://gQ01MS4xNS4xMjIuMjUw
+sdns://gRE1MS4xNS4xMjIuMjUwOjQ0Mw
 
 
 ## anon-scaleway-ams-ipv6
 
 Anonymized DNS relay hosted in Amsterdam and maintained by Frank Denis (@jedisct1).
-IPv6 only. Running on an instance donated by https://scaleway.com
+IPv6 only.
 
-sdns://gRZbMjAwMTpiYzg6MTgzMDpiMDc6OjFd
+sdns://gSpbMjAwMTpiYzg6MTY0MDoxY2UyOmRjMDA6ZmY6ZmUyODo1YjE3XTo0NDM
+
+
+## anon-scaleway-ipv6
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+IPv6 only.
+
+sdns://gSlbMjAwMTpiYzg6NzEwOjU4MTg6ZGMwMDpmZjpmZTViOjNmNjNdOjQ0Mw
+
+
+## anon-scaleway2
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+
+sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
 
 
 ## anon-serbica
@@ -571,25 +549,11 @@ Anonymized DNS relay hosted in Sweden - SE
 sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
 
 
-## anon-techsaviours.org
-
-Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and maintained by https://techsaviours.org
-
-sdns://gRA4OS41OC42LjE2OTo0NDM0
-
-
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
 
 sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
-
-
-## anon-tiarap-ipv6
-
-Anonymized IPv6 DNS relay hosted in Singapore
-
-sdns://gSBbMjQwMDo2MTgwOjA6ZDA6OjVmNzM6NDAwMV06MTQ0Mw
 
 
 ## anon-v.dnscrypt.uk-ipv4
@@ -840,15 +804,6 @@ https://www.dnscry.pt
 sdns://gQwzOC40NS42NC4xMTc
 
 
-## dnscry.pt-anon-durham-ipv6
-
-DNSCry.pt Durham - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMjAwMTo1NTA6NWEwMDo1ZWI6OmRiNTpmMDAxXQ
-
-
 ## dnscry.pt-anon-dusseldorf-ipv4
 
 DNSCry.pt Düsseldorf - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -865,24 +820,6 @@ DNSCry.pt Düsseldorf - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serve
 https://www.dnscry.pt
 
 sdns://gRhbMmEwZjo1NzA3OmFhODE6NWUzYzo6MV0
-
-
-## dnscry.pt-anon-ebene-ipv4
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ8xMDIuMjIyLjEwNi4xNjU
-
-
-## dnscry.pt-anon-ebene-ipv6
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR9bMmMwZjplOGY4OjIwMDA6MjMzOjphMzliOjcxMjNd
 
 
 ## dnscry.pt-anon-eygelshoven-ipv4
@@ -1036,24 +973,6 @@ DNSCry.pt Istanbul - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRdbMmExMjplMzQyOjIwMDo6MjoxODE5XQ
-
-
-## dnscry.pt-anon-jakarta-ipv4
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xMDMuNzYuMTI5Ljk0
-
-
-## dnscry.pt-anon-jakarta-ipv6
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSBbMjQwNzo2YWMwOjM6NToxMjM0OmUzNGU6NzJlNDoxXQ
 
 
 ## dnscry.pt-anon-johannesburg-ipv4
@@ -1416,24 +1335,6 @@ https://www.dnscry.pt
 sdns://gR1bMmEwZDo4MTQwOjA6MTM6MjkxNTphZjowOjE4XQ
 
 
-## dnscry.pt-anon-ottoville-ipv4
-
-DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4yNi4xMzguMTk
-
-
-## dnscry.pt-anon-ottoville-ipv6
-
-DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRRbMjYwMjoyYTg6ODExOjEwOjphXQ
-
-
 ## dnscry.pt-anon-paris-ipv4
 
 DNSCry.pt Paris - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1594,24 +1495,6 @@ DNSCry.pt Seattle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ00NS4xNC4xMTUuMTI1
-
-
-## dnscry.pt-anon-singapore-ipv4
-
-DNSCry.pt Singapore - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw4NC4zMy4xNi4xMjQ
-
-
-## dnscry.pt-anon-singapore-ipv6
-
-DNSCry.pt Singapore - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRlbMmEwYzo4ZmMxOjg4OjozMjo2NDoxMjhd
 
 
 ## dnscry.pt-anon-singapore02-ipv4
@@ -1776,24 +1659,6 @@ https://www.dnscry.pt
 sdns://gRtbMjYwNjo2NjgwOjUzOjE6Ojg0NmE6YmQ3OV0
 
 
-## dnscry.pt-anon-tokyo-ipv4
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw4NC4zMy4xMi4xNTg
-
-
-## dnscry.pt-anon-tokyo-ipv6
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMmEwYzo4ZmMxOjY0NDE6OjQxMjphYjM0XQ
-
-
 ## dnscry.pt-anon-tokyo02-ipv4
 
 DNSCry.pt Tokyo 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1828,42 +1693,6 @@ DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRVbMjYwMjpmYmExOmQwMDo6MjM6MV0
-
-
-## dnscry.pt-anon-valdivia-ipv4
-
-DNSCry.pt Valdivia - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0yMTYuNzMuMTU5LjI2
-
-
-## dnscry.pt-anon-valdivia-ipv6
-
-DNSCry.pt Valdivia - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMmEwNjphMDA2OmQxZDE6OjExNl0
-
-
-## dnscry.pt-anon-vienna-ipv4
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ04My4xMzguNTUuMTg2
-
-
-## dnscry.pt-anon-vienna-ipv6
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMmEwZDpmMzAyOjExMDo2NTE3OjpiYjQ6MjE0XQ
 
 
 ## dnscry.pt-anon-warsaw02-ipv4
