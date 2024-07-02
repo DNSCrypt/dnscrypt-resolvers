@@ -946,11 +946,18 @@ Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADjE5Ni4yNDAuNzkuMTYzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
+## dct-de
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
+
+sdns://AQcAAAAAAAAADTE4NS4xNy4xNDYuODAgj59Zfjt7-XPMmhsZtTS5HZP_oA9SLu8gqWl3Ve2M27EWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
+
+
 ## dct-nl
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
 
-sdns://AQcAAAAAAAAAETUuMjU1LjEwNS4yNDo4NDQzIGYDjxqBuodg51XiBs8O31_1kxMBDNl_OebQ1wFrx79BFjIuZG5zY3J5cHQtY2VydC5kY3Qtbmw
+sdns://AQcAAAAAAAAADDUuMjU1LjEwNS4yNCBmA48agbqHYOdV4gbPDt9f9ZMTAQzZfznm0NcBa8e_QRYyLmRuc2NyeXB0LWNlcnQuZGN0LW5s
 
 
 ## dct-ru
