@@ -82,6 +82,8 @@ Public updns DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
+sdns://AgMAAAAAAAAAAKDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6BhhZGZyZWUudXNhYmxlcHJpdmFjeS5uZXQKL2Rucy1xdWVyeQ
+
 sdns://
 
 ## adguard-dns
