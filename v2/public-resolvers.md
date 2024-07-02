@@ -960,13 +960,6 @@ IPv4 server | No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maint
 sdns://AQcAAAAAAAAAEjM3LjIyMS4xOTQuODQ6NDQzNCCiyGRvm0TcyJmI7lTXstgh-8AoAAiFcTQQp7Od_brTYCIyLmRuc2NyeXB0LWNlcnQuZGlnaXRhbHByaXZhY3kuZGl5
 
 
-## digitalprivacy.diy-dnscrypt-ipv6
-
-IPv6 server | No filter | No logs | DNSSEC | Nuremberg, Germany (netcup) | Maintained by https://digitalprivacy.diy/
-
-sdns://AQcAAAAAAAAAGVsyYTAzOjQwMDA6ODoxMjY6OjFdOjQ0MzQgoshkb5tE3MiZiO5U17LYIfvAKAAIhXE0EKeznf2602AiMi5kbnNjcnlwdC1jZXJ0LmRpZ2l0YWxwcml2YWN5LmRpeQ
-
-
 ## dns.digitale-gesellschaft.ch
 
 Public DoH resolver operated by the Digital Society (https://www.digitale-gesellschaft.ch).
