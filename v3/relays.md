@@ -534,6 +534,13 @@ IPv6 only.
 sdns://gSlbMjAwMTpiYzg6NzEwOjU4MTg6ZGMwMDpmZjpmZTViOjNmNjNdOjQ0Mw
 
 
+## anon-scaleway2
+
+Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
+
+sdns://gRMxNjMuMTcyLjE4MC4xMjU6NDQz
+
+
 ## anon-serbica
 
 Anonymized DNS relay hosted in Netherlands by https://litepay.ch
