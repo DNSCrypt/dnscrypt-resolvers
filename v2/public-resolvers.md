@@ -3248,34 +3248,34 @@ sdns://AQcAAAAAAAAAEzE5OS4xODAuMTMwLjM5Ojg0NDMg1U5MYSDK58uVdJ8dKtp0UZaCKSG0znwQL
 
 ## scaleway-ams
 
-DNSSEC/Non-logged/Uncensored in Germany
+DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAADDY1LjIxLjIyOC40OCDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAADTUxLjE1LjEyMi4yNTAg6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
 
 
 ## scaleway-ams-ipv6
 
-DNSSEC/Non-logged/Uncensored in Germany - IPv6 only
+DNSSEC/Non-logged/Uncensored in Amsterdam - IPv6 only - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAAFVsyYTAxOjRmOTo2YToxYWRiOjoyXSDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAAJlsyMDAxOmJjODoxNjQwOjFjZTI6ZGMwMDpmZjpmZTI4OjViMTddIOkN2X2qXGx4Ihyixe0BaJYtE8tVbM90V7NUVG8VK8GQHDIuZG5zY3J5cHQtY2VydC5zY2FsZXdheS1hbXM
 
 
 ## scaleway-fr
 
-DNSSEC/Non-logged/Uncensored in Germany
+DNSSEC/Non-logged/Uncensored in Paris - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAADDY1LjIxLjIyOC40OCDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
 
 
 ## scaleway-fr-ipv6
 
-DNSSEC/Non-logged/Uncensored in Germany - IPv6 only
+-DNSSEC/Non-logged/Uncensored in Paris - IPv6 only - DEV1-S instance donated by Scaleway.com
 Maintained by Frank Denis - https://fr.dnscrypt.info
 
-sdns://AQcAAAAAAAAAFVsyYTAxOjRmOTo2YToxYWRiOjoyXSDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAAJVsyMDAxOmJjODo3MTA6NTgxODpkYzAwOmZmOmZlNWI6M2Y2M10g6AG4TqYGv7C6wM5DRFuxXrpksC-jxKoxrhBjageQMk0fMi5kbnNjcnlwdC1jZXJ0LmZyLmRuc2NyeXB0Lm9yZw
 
 
 ## serbica
@@ -3288,9 +3288,11 @@ sdns://AQcAAAAAAAAAEzE4NS42Ni4xNDMuMTc4OjUzNTMg-Y2MQmGOXiggAEKulN-ITGEn_Kj3TIP1U
 ## sfw.scaleway-fr
 
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
+Hosted in Paris, running on a 1-XS server donated by Scaleway.com
+
 Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 
-sdns://AQcAAAAAAAAADDY1LjIxLjIyOC40OCDQxXrwNIgFGirfU35Ph3G3yHrKjSOWuRc6VnbuWRTLxRcyLmRuc2NyeXB0LWNlcnQuaGV0em5lcg
+sdns://AQcAAAAAAAAAEzE2My4xNzIuMTgwLjEyNTo0NDMg32Jzv8dSGSqLWjm8DIWsP_lkRdc2RPZicoJdNVjxof8fMi5kbnNjcnlwdC1jZXJ0LnNmdy5zY2FsZXdheS1mcg
 
 
 ## sth-ads-doh-se
