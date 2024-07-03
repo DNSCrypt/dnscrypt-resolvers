@@ -48,7 +48,7 @@ for name in servers:
             alt_ip = servers[alt_name].description.split(" ")[-1]
             description += " - " + alt_ip
             stamps += servers[alt_name].stamps
-    print("## " + name)
+    print("## quad9-" + name)
     print(description)
     print("\n".join(stamps))
     print()
