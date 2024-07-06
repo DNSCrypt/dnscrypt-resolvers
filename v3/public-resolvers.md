@@ -23,6 +23,24 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
+## 0ms-adblock
+
+Caching DNS-over-HTTPS and web-proxy service hosted on Cloudflare, using Adguard filters.
+Homepage: https://0ms.dev
+
+sdns://AgEAAAAAAAAAAAAHMG1zLmRldgwvZG5zLWFkYmxvY2s
+sdns://AgEAAAAAAAAAAAALY2RuLjBtcy5kZXYML2Rucy1hZGJsb2Nr
+
+
+## 0ms
+
+Caching DNS-over-HTTPS and web-proxy service hosted on Cloudflare.
+Homepage: https://0ms.dev
+
+sdns://AgUAAAAAAAAAAAAHMG1zLmRldgovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAAAALY2RuLjBtcy5kZXYKL2Rucy1xdWVyeQ
+
+
 ## adfilter-adl
 
 Hosted in Adelaide, Australia.
