@@ -1082,24 +1082,6 @@ https://www.dnscry.pt
 sdns://gSVbMjYwNTo2NDAwOjIwOjIyNTg6N2FjYjo5MWZmOjIwOTg6YTld
 
 
-## dnscry.pt-anon-libertylake-ipv4
-
-DNSCry.pt Liberty Lake - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4xODQuNDguMTk
-
-
-## dnscry.pt-anon-libertylake-ipv6
-
-DNSCry.pt Liberty Lake - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRhbMjYwMjpmYzI0OjE4OjMzZjI6OmFiMV0
-
-
 ## dnscry.pt-anon-lima-ipv4
 
 DNSCry.pt Lima - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
