@@ -3537,34 +3537,6 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQcAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
 
-## sth-ads-doh-se
-
-Resolver in Stockholm, Sweden. HTTP/3 DoH server. Non-logging, remove ads and malware, DNSSEC.
-
-sdns://AgMAAAAAAAAADTQ1LjE1My4xODcuOTYAGGRuc3NlLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
-
-
-## sth-dnscrypt-se
-
-Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyAwkzvlkzabRkYs-RrxrcuyTjr9R73mBsx1Y-Ud2o-Whx8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
-
-
-## sth-doh-se
-
-Resolver in Stockholm, Sweden. HTTP/3 DoH server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AgcAAAAAAAAADTQ1LjE1My4xODcuOTagzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1USZG5zc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
-
-
-## sth-doh-se-ipv6
-
-Resolver in Stockholm, Sweden. HTTP/3 DoH server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AgcAAAAAAAAAFVsyYTA5OmNkNDI6Zjo0MjViOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRJkbnNzZS5hbGVrYmVyZy5uZXQKL2Rucy1xdWVyeQ
-
-
 ## switch
 
 Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
