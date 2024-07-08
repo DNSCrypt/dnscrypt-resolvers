@@ -2605,6 +2605,14 @@ https://www.dnscrypt.uk
 sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZb8UtNpEBKT_BG19qWg8GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC51aw
 
 
+## dnsfilter
+
+A DNS service provider that offers a secure and private DNS solution. Log, no-filter and no-DNSSEC.
+Homepage: https://www.dnsfilter.com/
+
+sdns://AgQAAAAAAAAADjEwMy4yNDcuMzYuMTUwIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRvaC5kbnNmaWx0ZXIuY29tCi9kbnMtcXVlcnk
+
+
 ## dnsforfamily
 
 (DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares and advertisements.
