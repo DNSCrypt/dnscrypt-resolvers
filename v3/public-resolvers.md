@@ -3673,8 +3673,8 @@ sdns://AgcAAAAAAAAAFVsyYTA5OmNkNDI6Zjo0MjViOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmO
 Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
 Homepage: https://www.switch.ch
 
-sdns://AgMAAAAAAAAADTEzMC41OS4zMS4yNDggsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8NMTMwLjU5LjMxLjI0OAovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAADTEzMC41OS4zMS4yNTEgsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8NMTMwLjU5LjMxLjI1MQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjQ4Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLw0xMzAuNTkuMzEuMjUxCi9kbnMtcXVlcnk
 
 
 ## switch-ipv6
