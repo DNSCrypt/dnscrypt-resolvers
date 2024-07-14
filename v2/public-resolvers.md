@@ -3656,20 +3656,6 @@ Homepage: https://www.switch.ch
 sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxJbMjAwMTo2MjA6MDpmZjo6Ml0KL2Rucy1xdWVyeQ
 
 
-## tirapan-doh-ipv4
-
-Recursive and caching resolver, no-log/filter, DNSSEC. Homepage: https://www.tirapan.top
-
-sdns://AgcAAAAAAAAADDkxLjEwNy4yMzUuMKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVQt0aXJhcGFuLnRvcBAvbm9tZW4tcXVhZXNpdHVt
-
-
-## tirapan-doh-ipv6
-
-Recursive and caching resolver, no-log/filter, DNSSEC, IPv6 variant. Homepage: https://www.tirapan.top
-
-sdns://AgcAAAAAAAAAF1syYTAxOjRmODoxYzFlOjhjYmE6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVC3RpcmFwYW4udG9wEC9ub21lbi1xdWFlc2l0dW0
-
-
 ## tuna-doh-ipv6
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
