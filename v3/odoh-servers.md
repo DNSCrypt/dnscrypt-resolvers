@@ -102,11 +102,3 @@ Filter ads, trackers and malware.
 
 sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
-
-## odoh-tirapan
-
-ODoH target by Tirapan. No-log, No-filter and DNSSEC.
-Homepage: https://www.tirapan.top
-
-sdns://BQcAAAAAAAAAC3RpcmFwYW4udG9wEC9ub21lbi1xdWFlc2l0dW0
-
