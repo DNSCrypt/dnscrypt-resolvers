@@ -3616,7 +3616,9 @@ No-log, No-filter
 RethinkDNS, a stub (sky.rethinkdns.com hosted on Cloudflare) and recursive (max.rethinkdns.com hosted on fly.io) resolver
 The stub server strips identification parameters from the request and acts as a proxy to another recursive resolver.
 
-sdns://AgYAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAAAASc2t5LnJldGhpbmtkbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAAAAUYmFzaWMucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAAAAOcmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 sdns://AgYAAAAAAAAAACAyme2vEQzyViN8wggmaizWRjeVcfgKsF4V7mc1KEui0hJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 
 
