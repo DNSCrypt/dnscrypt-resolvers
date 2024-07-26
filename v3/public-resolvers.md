@@ -3064,13 +3064,46 @@ https://dns.njal.la/
 
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6ARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6KBa74Q__PLscFX1BKFi8in4ORw3D_OmFj0ts_PWBNYiviBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
-## openbld.net
+
+## openbld.net-ada-ipv4
 
 OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
 
 https://openbld.net/
 
-sdns://AgAAAAAAAAAAAAAPYWRhLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDQ2LjE1MS4yOS4xNQAPYWRhLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTg4LjIxMC4xMS4xMjAAD2FkYS5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+
+
+## openbld.net-ada-ipv6
+
+OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+
+https://openbld.net/
+
+sdns://AgMAAAAAAAAAGFsyYTAyOmMyMDY6MjE1Njo3OTE1OjoxXQAPYWRhLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAE1syYTBkOjg0ODA6MzpiOTo6MV0AD2FkYS5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+
+
+## openbld.net-ric-ipv4
+
+OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+
+https://openbld.net/
+
+sdns://AgMAAAAAAAAADTExNi4yMDMuODQuNjUAD3JpYy5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTIxMy4xOTkuNDkuMTEAD3JpYy5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+
+
+## openbld.net-ric-ipv6
+
+OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+
+https://openbld.net/
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMGM6NTQ5MTo6MV0AD3JpYy5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGFsyYTAyOmMyMDY6MjE3Mjo5NDYxOjoxXQAPcmljLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
+
 
 ## plan9dns-fl
 
