@@ -3067,7 +3067,7 @@ sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6ARsQLmsfY-UomE1gJfMrE4JB_Ii711GVdNcMmDLVPh6
 
 ## openbld.net-ada-ipv4
 
-OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+OpenBLD.net is a cloud-based public DoH service with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
 
 https://openbld.net/
 
