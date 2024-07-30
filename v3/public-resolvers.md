@@ -1,4 +1,4 @@
-# public-resolvers
+ri# public-resolvers
 
 This is an extensive list of public DNS resolvers supporting the
 DNSCrypt and DNS-over-HTTP2 protocols.
@@ -83,7 +83,7 @@ Public updns DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgJMDCcXhcb_MSalmIxClhGOov_5PNfxMeTDDB3xSfphsYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDGgJMDCcXhcb_MSalmIxClhGOov_5PNfxMeTDDB3xSfphsg5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfree.usableprivacy.net-ipv6
@@ -92,7 +92,7 @@ Public updns IPv6 DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gJMDCcXhcb_MSalmIxClhGOov_5PNfxMeTDDB3xSfphsYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol2gJMDCcXhcb_MSalmIxClhGOov_5PNfxMeTDDB3xSfphsg5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adguard-dns
