@@ -83,7 +83,7 @@ Public updns DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDGgzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1UYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTc4LjQ3LjE2My4xNDEgJMDCcXhcb_MSalmIxClhGOov_5PNfxMeTDDB3xSfphsYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfree.usableprivacy.net-ipv6
@@ -92,7 +92,7 @@ Public updns IPv6 DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1UYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gJMDCcXhcb_MSalmIxClhGOov_5PNfxMeTDDB3xSfphsYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adguard-dns
@@ -1157,8 +1157,8 @@ DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
 
 Homepage: https://dns.sb
 
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiAOp5Svj-oV-Fz-65-8H2VKHLKJ0egmfEgrdPeAQlUFFA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIA6nlK-P6hX4XP7rn7wfZUocsonR6CZ8SCt094BCVQUUCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
 ## dns0
@@ -2686,7 +2686,7 @@ sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZ
 A DNS service provider that offers a secure and private DNS solution. Log, no-filter and no-DNSSEC.
 Homepage: https://www.dnsfilter.com/
 
-sdns://AgQAAAAAAAAADjEwMy4yNDcuMzYuMTUwIEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOEWRvaC5kbnNmaWx0ZXIuY29tCi9kbnMtcXVlcnk
+sdns://AgQAAAAAAAAADjEwMy4yNDcuMzYuMTUwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEWRvaC5kbnNmaWx0ZXIuY29tCi9kbnMtcXVlcnk
 
 
 ## dnsforfamily
@@ -2877,7 +2877,7 @@ DoH & DoT Server, No Logging, No Filters, DNSSEC
 
 Running privately by ibksturm in Thurgau, Switzerland
 
-sdns://AgcAAAAAAAAADjIxMy4xOTYuMTkxLjk2IFk-LUmnQCNVVSau-bdCKxnluLFnORtt7l7SkrHKI6dMGGlia3N0dXJtLnN5bm9sb2d5Lm1lOjQ0MwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIxMy4xOTYuMTkxLjk2IJRq0Q0bVAt-COHOCim4PL_Nyl_hsJ6bi7sOV67HMIVpGGlia3N0dXJtLnN5bm9sb2d5Lm1lOjQ0MwovZG5zLXF1ZXJ5
 
 
 ## doh.appliedprivacy.net
@@ -3041,18 +3041,18 @@ sdns://AQcAAAAAAAAAFDEyOS4xNTEuMjQzLjE0Mzo1MzUzICaU0eKbEtcmoE0ljHjvADPHNyZBX23wJ
 
 Google DNS (anycast)
 
-sdns://AgUAAAAAAAAABzguOC44LjigBiWsZbUh2pJVwVwLgG4qPJDQELDNxwRd9l0F9ctpPbkgalBisNF41VbxY7E7Gw8ZQ10CWIKRzHVYnf7m6xHI1cMHOC44LjguOAovZG5zLXF1ZXJ5
-sdns://AgUAAAAAAAAABzguOC40LjSgBiWsZbUh2pJVwVwLgG4qPJDQELDNxwRd9l0F9ctpPbkgalBisNF41VbxY7E7Gw8ZQ10CWIKRzHVYnf7m6xHI1cMHOC44LjQuNAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAABzguOC44LjggsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkHOC44LjguOAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAABzguOC40LjQgsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkHOC44LjQuNAovZG5zLXF1ZXJ5
 
 
 ## google-ipv6
 
 Google DNS (anycast)
 
-sdns://AgUAAAAAAAAAAKAGJaxltSHaklXBXAuAbio8kNAQsM3HBF32XQX1y2k9uSBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxZbMjAwMTo0ODYwOjQ4NjA6Ojg4ODhdCi9kbnMtcXVlcnk
-sdns://AgUAAAAAAAAAAKAGJaxltSHaklXBXAuAbio8kNAQsM3HBF32XQX1y2k9uSBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxZbMjAwMTo0ODYwOjQ4NjA6Ojg4NDRdCi9kbnMtcXVlcnk
-sdns://AgUAAAAAAAAAAKAGJaxltSHaklXBXAuAbio8kNAQsM3HBF32XQX1y2k9uSBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxRbMjAwMTo0ODYwOjQ4NjA6OjY0XQovZG5zLXF1ZXJ5
-sdns://AgUAAAAAAAAAAKAGJaxltSHaklXBXAuAbio8kNAQsM3HBF32XQX1y2k9uSBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxZbMjAwMTo0ODYwOjQ4NjA6OjY0NjRdCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAACCwoooTgTC-0hs2MaNqAjbrTsR0pJUejBhm3K8P2I-uSRZbMjAwMTo0ODYwOjQ4NjA6Ojg4ODhdCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAACCwoooTgTC-0hs2MaNqAjbrTsR0pJUejBhm3K8P2I-uSRZbMjAwMTo0ODYwOjQ4NjA6Ojg4NDRdCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAACCwoooTgTC-0hs2MaNqAjbrTsR0pJUejBhm3K8P2I-uSRRbMjAwMTo0ODYwOjQ4NjA6OjY0XQovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAACCwoooTgTC-0hs2MaNqAjbrTsR0pJUejBhm3K8P2I-uSRZbMjAwMTo0ODYwOjQ4NjA6OjY0NjRdCi9kbnMtcXVlcnk
 
 
 ## he
@@ -3387,7 +3387,7 @@ sdns://AQcAAAAAAAAAEzE2NC42OC4xMjEuMTYyOjQ0NDMgHtKNfXpUMzPyLnXK8DauHpWm1Rqhz7Lqw
 DoH server runned by Qihoo 360, has logs, GFW filtering rules are applied.
 Homepage: https://sdns.360.net
 
-sdns://AgAAAAAAAAAAACBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTApkb2guMzYwLmNuCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAACBGRinMfizEpf6XTTrC4BNXB3syOlkxKYNaWpRbX7u40Qpkb2guMzYwLmNuCi9kbnMtcXVlcnk
 
 
 ## quad101
@@ -3468,33 +3468,33 @@ sdns://AQYAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC
 
 Quad9 (anycast) dnssec/no-log/filter/ecs 9.9.9.11 - 149.112.112.11
 
-sdns://AgMAAAAAAAAACDkuOS45LjExICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwASWKE2RuczExLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAADjE0OS4xMTIuMTEyLjExICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwASWKE2RuczExLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAACDkuOS45LjExILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczExLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE0OS4xMTIuMTEyLjExILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczExLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
 
 
 ## quad9-doh-ip4-port443-filter-pri
 
 Quad9 (anycast) dnssec/no-log/filter 9.9.9.9 - 149.112.112.9 - 149.112.112.112
 
-sdns://AgMAAAAAAAAABzkuOS45LjkgKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoSZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
-sdns://AgMAAAAAAAAADTE0OS4xMTIuMTEyLjkgKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoSZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
-sdns://AgMAAAAAAAAADzE0OS4xMTIuMTEyLjExMiAqFfXWrLbnwJAa3k67x0OyzNSJAytG4WQvBpNoMAElihFkbnMucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAABzkuOS45LjkgsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8SZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTE0OS4xMTIuMTEyLjkgsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8SZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADzE0OS4xMTIuMTEyLjExMiCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxFkbnMucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
 ## quad9-doh-ip4-port443-nofilter-ecs-pri
 
 Quad9 (anycast) no-dnssec/no-log/no-filter/ecs 9.9.9.12 - 149.112.112.12
 
-sdns://AgYAAAAAAAAACDkuOS45LjEyICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwASWKE2RuczEyLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
-sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEyICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwASWKE2RuczEyLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAACDkuOS45LjEyILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczEyLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEyILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczEyLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
 
 
 ## quad9-doh-ip4-port443-nofilter-pri
 
 Quad9 (anycast) no-dnssec/no-log/no-filter 9.9.9.10 - 149.112.112.10
 
-sdns://AgYAAAAAAAAACDkuOS45LjEwICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwASWKE2RuczEwLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
-sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEwICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwASWKE2RuczEwLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAACDkuOS45LjEwILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczEwLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEwILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczEwLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
 
 
 ## quad9-doh-ip4-port5053-filter-ecs-pri
@@ -3534,33 +3534,33 @@ sdns://AgYAAAAAAAAADjE0OS4xMTIuMTEyLjEwICoV9dastufAkBreTrvHQ7LM1IkDK0bhZC8Gk2gwA
 
 Quad9 (anycast) dnssec/no-log/filter/ecs 2620:fe::11 - 2620:fe::fe:11
 
-sdns://AgMAAAAAAAAADVsyNjIwOmZlOjoxMV0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoTZG5zMTEucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAEFsyNjIwOmZlOjpmZToxMV0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoTZG5zMTEucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADVsyNjIwOmZlOjoxMV0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTEucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAEFsyNjIwOmZlOjpmZToxMV0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTEucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
 ## quad9-doh-ip6-port443-filter-pri
 
 Quad9 (anycast) dnssec/no-log/filter 2620:fe::fe - 2620:fe::9 - 2620:fe::fe:9
 
-sdns://AgMAAAAAAAAADVsyNjIwOmZlOjpmZV0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoRZG5zLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XSAqFfXWrLbnwJAa3k67x0OyzNSJAytG4WQvBpNoMAElihFkbnMucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAD1syNjIwOmZlOjpmZTo5XSAqFfXWrLbnwJAa3k67x0OyzNSJAytG4WQvBpNoMAElihJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADVsyNjIwOmZlOjpmZV0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8RZG5zLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADFsyNjIwOmZlOjo5XSCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxFkbnMucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAD1syNjIwOmZlOjpmZTo5XSCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxJkbnM5LnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
 
 
 ## quad9-doh-ip6-port443-nofilter-ecs-pri
 
 Quad9 (anycast) no-dnssec/no-log/no-filter/ecs 2620:fe::12 - 2620:fe::fe:12
 
-sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMl0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoTZG5zMTIucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMl0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoTZG5zMTIucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMl0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTIucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMl0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTIucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
 ## quad9-doh-ip6-port443-nofilter-pri
 
 Quad9 (anycast) no-dnssec/no-log/no-filter 2620:fe::10 - 2620:fe::fe:10
 
-sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoTZG5zMTAucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
-sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTaDABJYoTZG5zMTAucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAADVsyNjIwOmZlOjoxMF0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTAucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTAucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
 
 
 ## quad9-doh-ip6-port5053-filter-ecs-pri
@@ -3600,14 +3600,14 @@ sdns://AgYAAAAAAAAAEFsyNjIwOmZlOjpmZToxMF0gKhX11qy258CQGt5Ou8dDsszUiQMrRuFkLwaTa
 
 DNSSEC, No-log and No-filter DoH operated by RESTENA. Homepage: https://www.restena.lu
 
-sdns://AgcAAAAAAAAACzE1OC42NC4xLjI5IFk-LUmnQCNVVSau-bdCKxnluLFnORtt7l7SkrHKI6dMEWRuc3B1Yi5yZXN0ZW5hLmx1Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAACzE1OC42NC4xLjI5IGDJBNhGNSOSEa34Gom8fB_myqDD7-nW-TeU7KcLNV6oEWRuc3B1Yi5yZXN0ZW5hLmx1Ci9kbnMtcXVlcnk
 
 
 ## restena-doh-ipv6
 
 DNSSEC, No-log and No-filter DoH (IPv6) operated by RESTENA. Homepage: https://www.restena.lu
 
-sdns://AgcAAAAAAAAAEFsyMDAxOmExODoxOjoyOV0gWT4tSadAI1VVJq75t0IrGeW4sWc5G23uXtKSscojp0wRZG5zcHViLnJlc3RlbmEubHUKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAEFsyMDAxOmExODoxOjoyOV0gYMkE2EY1I5IRrfgaibx8H-bKoMPv6db5N5Tspws1XqgRZG5zcHViLnJlc3RlbmEubHUKL2Rucy1xdWVyeQ
 
 
 ## rethinkdns-doh
@@ -3616,8 +3616,8 @@ No-log, No-filter
 RethinkDNS, a stub (sky.rethinkdns.com hosted on Cloudflare) and recursive (max.rethinkdns.com hosted on fly.io) resolver
 The stub server strips identification parameters from the request and acts as a proxy to another recursive resolver.
 
-sdns://AgYAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
-sdns://AgYAAAAAAAAAACAyme2vEQzyViN8wggmaizWRjeVcfgKsF4V7mc1KEui0hJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAACBdzvEcz84tL6QcR78t69kc0nufblyYal5di10An6SyUBJza3kucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## safesurfer
@@ -3637,7 +3637,7 @@ Family safety focused blocklist for over 2 million adult sites, as well as phish
 Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
 usage, data never sold - https://safesurfer.io
 
-sdns://AgAAAAAAAAAAACBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAACBW1D4A3rPRi8QazGGnZq98S8bEb0ZyDjFdjqVEtSPc3BFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
 
 
 ## saldns01-conoha-ipv4
@@ -3774,7 +3774,7 @@ sdns://AgMAAAAAAAAAACCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxJbMjAwMTo2MjA6M
 
 DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
 
-sdns://AgAAAAAAAAAAG1syNDAyOmYwMDA6MTo0MTY6MTAxOjY6Njo2XSBZPi1Jp0AjVVUmrvm3QisZ5bixZzkbbe5e0pKxyiOnTB1kbnMudHVuYS50c2luZ2h1YS5lZHUuY246ODQ0MwovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAAG1syNDAyOmYwMDA6MTo0MTY6MTAxOjY6Njo2XSACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J14JbB1kbnMudHVuYS50c2luZ2h1YS5lZHUuY246ODQ0MwovZG5zLXF1ZXJ5
 
 
 ## uncensoreddns-dk-ipv4
