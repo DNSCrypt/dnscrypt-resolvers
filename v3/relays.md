@@ -837,15 +837,6 @@ https://www.dnscry.pt
 sdns://gQw5My45NS4xMTUuMjE
 
 
-## dnscry.pt-anon-eygelshoven-ipv6
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR9bMmEwZjpjYTgxOjEzM2I6M2NiNTo6YjFiMTo2NDFd
-
-
 ## dnscry.pt-anon-flint-ipv4
 
 DNSCry.pt Flint - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
