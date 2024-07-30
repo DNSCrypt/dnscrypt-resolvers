@@ -1539,15 +1539,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADDkzLjk1LjExNS4yMSDit1FyUAiu0W-x936EJIC1keajbwu1pvb6yVKVj0KVYhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-eygelshoven-ipv6
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAH1syYTBmOmNhODE6MTMzYjozY2I1OjpiMWIxOjY0MV0g4rdRclAIrtFvsfd-hCSAtZHmo28Ltab2-slSlY9ClWIZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-flint-ipv4
 
 DNSCry.pt Flint - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1978,24 +1969,6 @@ DNSCry.pt Milan - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAFlsyYTBlOjFkODA6MjE6OWNjMjo6MV0gUjkX7nXh6Lfn1wuvsca7nm85e_I5RbNqLBNHkJU2CPgZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-montreal-ipv4
-
-DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADzE0Ny4xODkuMTM2LjE4MyCsCFB6EkMJdZLQ-IlsBbtjtSlasCfsTx7Q6u0bOI8OwBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-montreal-ipv6
-
-DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAGlsyNjA2OjY2ODA6NDU6MTo6Zjc4Yzo5YjBdIKwIUHoSQwl1ktD4iWwFu2O1KVqwJ-xPHtDq7Rs4jw7AGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-mumbai-ipv4
@@ -2491,24 +2464,6 @@ DNSCry.pt Taos - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAG1syNjA2OjY2ODA6NTM6MTo6ODQ2YTpiZDc5XSCIIMuO6jU7NLND5y7gyuVHKUibf7e11Zk69LVp9UJajRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-tokyo-ipv4
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE1Ny4yMC4xMDQuNDcg3wKy0q2DVC6Woxwp2noqU2ptX9jTwLAybAHdjnJy5IUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-tokyo-ipv6
-
-DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyYTEyOmY4YzI6MjAwMDoyNjo6YV0g3wKy0q2DVC6Woxwp2noqU2ptX9jTwLAybAHdjnJy5IUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-tokyo02-ipv4
