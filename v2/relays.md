@@ -1189,24 +1189,6 @@ https://www.dnscry.pt
 sdns://gRZbMmEwZToxZDgwOjIxOjljYzI6OjFd
 
 
-## dnscry.pt-anon-montreal-ipv4
-
-DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ8xNDcuMTg5LjEzNi4xODM
-
-
-## dnscry.pt-anon-montreal-ipv6
-
-DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMjYwNjo2NjgwOjQ1OjE6OmY3OGM6OWIwXQ
-
-
 ## dnscry.pt-anon-mumbai-ipv4
 
 DNSCry.pt Mumbai - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
