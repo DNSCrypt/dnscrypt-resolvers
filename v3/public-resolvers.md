@@ -25,20 +25,20 @@ To use that list, add this to the `[sources]` section of your
 
 ## a&a-doh-ipv4
 
-Non-filtering, No-logging DoH operated by Andrews & Arnold LTD.
+Non-filtering, No-logging, DNSSEC DoH operated by Andrews & Arnold LTD.
 Homepage: https://www.aa.net.uk/dns/
 
-sdns://AgYAAAAAAAAADTIxNy4xNjkuMjAuMjIADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
-sdns://AgYAAAAAAAAADTIxNy4xNjkuMjAuMjMADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjIADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
 
 
 ## a&a-doh-ipv6
 
-Non-filtering, No-logging DoH over IPv6 operated by Andrews & Arnold LTD.
+Non-filtering, No-logging, DNSSEC DoH over IPv6 operated by Andrews & Arnold LTD.
 Homepage: https://www.aa.net.uk/dns/
 
-sdns://AgYAAAAAAAAAEFsyMDAxOjhiMDo6MjAyMl0ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
-sdns://AgYAAAAAAAAAEFsyMDAxOjhiMDo6MjAyM10ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyMl0ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyM10ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
 
 
 ## adfilter-adl
