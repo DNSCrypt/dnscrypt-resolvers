@@ -12,6 +12,13 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
+## anon-ams
+
+Anonymized DNS relay hosted in NL
+
+sdns://gRE4OS4zOC4xMzEuMzg6NDM0Mw
+
+
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -830,15 +837,6 @@ https://www.dnscry.pt
 sdns://gQw5My45NS4xMTUuMjE
 
 
-## dnscry.pt-anon-eygelshoven-ipv6
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR9bMmEwZjpjYTgxOjEzM2I6M2NiNTo6YjFiMTo2NDFd
-
-
 ## dnscry.pt-anon-flint-ipv4
 
 DNSCry.pt Flint - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1188,24 +1186,6 @@ DNSCry.pt Milan - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRZbMmEwZToxZDgwOjIxOjljYzI6OjFd
-
-
-## dnscry.pt-anon-montreal-ipv4
-
-DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ8xNDcuMTg5LjEzNi4xODM
-
-
-## dnscry.pt-anon-montreal-ipv6
-
-DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMjYwNjo2NjgwOjQ1OjE6OmY3OGM6OWIwXQ
 
 
 ## dnscry.pt-anon-mumbai-ipv4
