@@ -23,6 +23,24 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
+## a-and-a
+
+Non-filtering, No-logging, DNSSEC DoH operated by Andrews & Arnold LTD.
+Homepage: https://www.aa.net.uk/dns/
+
+sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjIADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+
+
+## a-and-a-ipv6
+
+Non-filtering, No-logging, DNSSEC DoH over IPv6 operated by Andrews & Arnold LTD.
+Homepage: https://www.aa.net.uk/dns/
+
+sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyMl0ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyM10ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+
+
 ## adfilter-adl
 
 Hosted in Adelaide, Australia.
