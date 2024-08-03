@@ -2572,10 +2572,10 @@ sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZ
 
 ## dnsfilter
 
-A DNS service provider that offers a secure and private DNS solution. Log, no-filter and no-DNSSEC.
+A DNS service provider that offers a secure and private DNS solution. Logs, no DNSSEC, filters some malicious domains.
 Homepage: https://www.dnsfilter.com/
 
-sdns://AgQAAAAAAAAADjEwMy4yNDcuMzYuMTUwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEWRvaC5kbnNmaWx0ZXIuY29tCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADjEwMy4yNDcuMzYuMTUwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEWRvaC5kbnNmaWx0ZXIuY29tCi9kbnMtcXVlcnk
 
 
 ## dnsforfamily
@@ -3502,20 +3502,6 @@ sdns://AQcAAAAAAAAAFTEzMy4xMzAuMTE4LjEwMzo1MDQ0MyB7SI0q4_Ff8lFRUCbjPtcAQ3HfdWlLx
 Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
 
 sdns://AQcAAAAAAAAAFDEzMy4xMzAuOTguMjUwOjUwNDQzIFl1NfOwMd24kRlr0mXR4rKo-c_jMV7DBUVooDEY1xFeIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMy50eXBlcS5vcmc
-
-
-## sby-doh-limotelu
-
-non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (DoH) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
-
-sdns://AgcAAAAAAAAADjE5OS4xODAuMTMwLjM5oDUJq9J2eoL0zQJHsLcq9AQ3obsl8h1hFreCavqWy4TdIGpQYrDReNVW8WOxOxsPGUNdAliCkcx1WJ3-5usRyNXDFHNieS1kb2gubGltb3RlbHUub3JnCi9kbnMtcXVlcnk
-
-
-## sby-limotelu
-
-non-censoring, non-logging, DNSSEC-capable Hosted in Surabaya, Indonesia (Dnscrypt) https://limotelu.org maintained by poentodewo (https://github.com/poentodewo)
-
-sdns://AQcAAAAAAAAAEzE5OS4xODAuMTMwLjM5Ojg0NDMg1U5MYSDK58uVdJ8dKtp0UZaCKSG0znwQLVHYKk1QyuwcMi5kbnNjcnlwdC1jZXJ0LnNieS1saW1vdGVsdQ
 
 
 ## scaleway-ams
