@@ -151,7 +151,7 @@ sdns://AgMAAAAAAAAADDk0LjE0MC4xNS4xNiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCG
 
 ## adguard-dns-family-ipv6
 
-Adguard DNS with safesearch and adult content blocking (Over IPv6)
+Adguard DNS with safesearch and adult content blocking (over IPv6)
 
 Warning: This server is incompatible with anonymization.
 
@@ -382,7 +382,12 @@ Warning: This server is incompatible with anonymization.
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
+sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuNSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAADzIwNC4xOTQuMjMyLjIwMCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAADzIwNC4xOTQuMjM0LjIwMCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjIuMjIyILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
 
 ## cisco-doh
@@ -394,7 +399,25 @@ Warning: Doesn't work any more in some countries such as France and Portugal.
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w9kb2gub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33wwxNDYuMTEyLjQxLjIKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33wwxNDYuMTEyLjQxLjUKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w8yMDQuMTk0LjIzMi4yMDAKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w8yMDQuMTk0LjIzNC4yMDAKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w4yMDguNjcuMjIwLjIyMAovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w4yMDguNjcuMjIyLjIyMgovZG5zLXF1ZXJ5
+
+
+## cisco-doh-ipv6
+
+Cisco OpenDNS (IPv6, DoH protocol)
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xFbMjYyMDoxMTk6MzU6OjM1XQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xFbMjYyMDoxMTk6NTM6OjUzXQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xBbMjYyMDoxMTk6ZmM6OjJdCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xBbMjYyMDoxMTk6ZmM6OjVdCi9kbnMtcXVlcnk
 
 
 ## cisco-familyshield
@@ -406,14 +429,54 @@ Warning: Doesn't work any more in some countries such as France and Portugal.
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-Currently incompatible with DNS anonymization.
-
+sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuMyC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjIuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+
+
+## cisco-familyshield-doh
+
+Block websites not suitable for children (DoH protocol)
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33wwxNDYuMTEyLjQxLjMKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w4yMDguNjcuMjIwLjEyMwovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w4yMDguNjcuMjIyLjEyMwovZG5zLXF1ZXJ5
+
+
+## cisco-familyshield-doh-ipv6
+
+Block websites not suitable for children (IPv6, DoH protocol)
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xJbMjYyMDoxMTk6MzU6OjEyM10KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xJbMjYyMDoxMTk6NTM6OjEyM10KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xBbMjYyMDoxMTk6ZmM6OjNdCi9kbnMtcXVlcnk
 
 
 ## cisco-familyshield-ipv6
 
-Block websites not suitable for children (IPv6)
+Block websites not suitable for children (IPv6, DNSCrypt protocol)
+
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
+Warning: This server is incompatible with anonymization.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AQEAAAAAAAAAElsyNjIwOjExOTozNTo6MTIzXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAAElsyNjIwOjExOTo1Mzo6MTIzXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAAEFsyNjIwOjExOTpmYzo6M10gtzURQCBvIl0-K9gi1_1pHqHDPMjWZo0MvgS_q8pD-3kbMi5kbnNjcnlwdC1jZXJ0Lm9wZW5kbnMuY29t
+
+
+## cisco-ipv6
+
+Cisco OpenDNS (IPv6, DNSCrypt protocol)
 
 Warning: Doesn't work any more in some countries such as France and Portugal.
 
@@ -423,43 +486,72 @@ Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
 sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
-
-
-## cisco-ipv6
-
-Cisco OpenDNS over IPv6 (DNSCrypt protocol)
-
-Warning: Doesn't work any more in some countries such as France and Portugal.
-
-Warning: This server is incompatible with anonymization.
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
-
-
-## cisco-ipv6-doh
-
-Cisco OpenDNS over IPv6 (DoH protocol)
-
-Warning: Doesn't work any more in some countries such as France and Portugal.
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMWpSkN98PZG9oLm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AQEAAAAAAAAAEVsyNjIwOjExOTo1Mzo6NTNdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+sdns://AQEAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gtzURQCBvIl0-K9gi1_1pHqHDPMjWZo0MvgS_q8pD-3kbMi5kbnNjcnlwdC1jZXJ0Lm9wZW5kbnMuY29t
+sdns://AQEAAAAAAAAAEFsyNjIwOjExOTpmYzo6NV0gtzURQCBvIl0-K9gi1_1pHqHDPMjWZo0MvgS_q8pD-3kbMi5kbnNjcnlwdC1jZXJ0Lm9wZW5kbnMuY29t
 
 
 ## cisco-sandbox
 
-Cisco OpenDNS Sandbox (anycast)
+Cisco OpenDNS Sandbox (anycast) - DNS service without filtering (DNSCrypt protocol)
+
+dnssec/log/no-filter/ecs 146.112.41.4
+
+Warning: This server is incompatible with anonymization.
+
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AQUAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQUAAAAAAAAADDIwOC42Ny4yMjAuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQUAAAAAAAAADDIwOC42Ny4yMjIuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+
+
+## cisco-sandbox-doh
+
+Cisco OpenDNS Sandbox (anycast) - DNS service without filtering (DoH protocol)
+
+dnssec/log/no-filter/ecs 146.112.41.4
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AgUAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33wwxNDYuMTEyLjQxLjQKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33wwyMDguNjcuMjIwLjIKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33wwyMDguNjcuMjIyLjIKL2Rucy1xdWVyeQ
+
+
+## cisco-sandbox-doh-ipv6
+
+
+Cisco OpenDNS Sandbox (anycast) - DNS service without filtering (IPv6, DoH protocol)
+
+dnssec/log/no-filter/ecs 146.112.41.4
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AgUAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w9bMjYyMDowOmNjYzo6Ml0KL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w9bMjYyMDowOmNjZDo6Ml0KL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAACCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xBbMjYyMDoxMTk6ZmM6OjRdCi9kbnMtcXVlcnk
+
+
+## cisco-sandbox-ipv6
+
+Cisco OpenDNS Sandbox (anycast) - DNS service without filtering (IPv6, DNSCrypt protocol)
 
 Warning: Doesn't work any more in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
-sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AQUAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQUAAAAAAAAAD1syNjIwOjA6Y2NkOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQUAAAAAAAAAEFsyNjIwOjExOTpmYzo6NF0gtzURQCBvIl0-K9gi1_1pHqHDPMjWZo0MvgS_q8pD-3kbMi5kbnNjcnlwdC1jZXJ0Lm9wZW5kbnMuY29t
 
 
 ## cleanbrowsing-adult
