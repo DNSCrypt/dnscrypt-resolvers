@@ -244,15 +244,17 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
     # Signatures
 
-    for path in [md_path, md_legacy_path, csv_historic_path]:
-        try:
-            subprocess.run(
-                ["minisign", "-V", "-P", MINISIGN_PK, "-m", path], check=True
-            )
-        except subprocess.CalledProcessError:
-            signatures_to_update.append(path)
+    if signatures_to_update is not None:
+        for path in [md_path, md_legacy_path, csv_historic_path]:
+            try:
+                subprocess.run(
+                    ["minisign", "-V", "-P", MINISIGN_PK, "-m", path], check=True
+                )
+            except subprocess.CalledProcessError:
+                signatures_to_update.append(path)
 
 
+# Change to None to skip signature updates, e.g. during development.
 signatures_to_update = []
 
 for md_path in glob(CURRENT_DIR + "/*.md"):
