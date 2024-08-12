@@ -197,6 +197,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
     else:
         with open(md_path + ".tmp", "wt") as f:
             f.write(out)
+        os.unlink(md_path)
         os.rename(md_path + ".tmp", md_path)
 
     # Legacy
@@ -214,7 +215,8 @@ If you want to contribute changes to a resolvers list, only edit files from the 
         else:
             with open(md_legacy_path + ".tmp", "wt") as f:
                 f.write(out_legacy)
-                os.rename(md_legacy_path + ".tmp", md_legacy_path)
+            os.unlink(md_legacy_path)
+            os.rename(md_legacy_path + ".tmp", md_legacy_path)
 
     # Historic
 
