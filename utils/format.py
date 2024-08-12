@@ -182,7 +182,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
     for name in sorted(entries.keys()):
         entry = entries[name]
         out = out + "\n" + entry.format() + "\n"
-        if not name in INCOMPATIBLE_WITH_LEGACY_VERSIONS:
+        if name not in INCOMPATIBLE_WITH_LEGACY_VERSIONS:
             out_legacy = out_legacy + "\n" + entry.format_legacy() + "\n"
 
     if os.path.basename(md_path) == "public-resolvers.md":
