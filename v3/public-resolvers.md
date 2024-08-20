@@ -368,13 +368,13 @@ sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6ZWM2Nzo6MV0AEmRvaC1kZS5ibGFoZG5zLmNvbQovZ
 ## blahdns-de-dnscrypt-v4
 DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
 
-sdns://AQMAAAAAAAAAEjc4LjQ2LjI0NC4xNDM6ODQ0MyCFE6lrxOCDS5UNY7UC6NPi1U0ElmsmApM06QcduiP8KxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+sdns://AQMAAAAAAAAAEjc4LjQ2LjI0NC4xNDM6ODQ0MyDwRPCkhRTWv0NpkRQ3nwfF6IP-4Nd5_Xe-78yb9_M6gRsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 
 ## blahdns-de-dnscrypt-v6
 DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
 
-sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyCFE6lrxOCDS5UNY7UC6NPi1U0ElmsmApM06QcduiP8KxsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyDwRPCkhRTWv0NpkRQ3nwfF6IP-4Nd5_Xe-78yb9_M6gRsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
 
 
 ## blahdns-sg-doh
