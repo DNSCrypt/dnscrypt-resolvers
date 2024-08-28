@@ -282,6 +282,62 @@ BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block an
 sdns://AgcAAAAAAAAADTEwMy44Ny42OC4xOTQAD2Rucy5iZWJhc2lkLmNvbQsvdW5maWx0ZXJlZA
 
 
+## blahdns-de-dnscrypt-v4
+
+DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AQMAAAAAAAAAEjc4LjQ2LjI0NC4xNDM6ODQ0MyDwRPCkhRTWv0NpkRQ3nwfF6IP-4Nd5_Xe-78yb9_M6gRsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+
+
+## blahdns-de-dnscrypt-v6
+
+DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AQMAAAAAAAAAG1syYTAxOjRmODpjMTc6ZWM2Nzo6MV06ODQ0MyDwRPCkhRTWv0NpkRQ3nwfF6IP-4Nd5_Xe-78yb9_M6gRsyLmRuc2NyeXB0LWNlcnQuYmxhaGRucy5jb20
+
+
+## blahdns-de-doh
+
+DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAADTc4LjQ2LjI0NC4xNDMAEmRvaC1kZS5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## blahdns-de-doh-v6
+
+DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6ZWM2Nzo6MV0AEmRvaC1kZS5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## blahdns-sg-dnscrypt-v4
+
+DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AQMAAAAAAAAAEzQ2LjI1MC4yMjYuMjQyOjg0NDMge4v0PGGlIHzs-ANifiSX0ydVdYWDeoW4focA6NmJrYcbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
+
+
+## blahdns-sg-dnscrypt-v6
+
+DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AQMAAAAAAAAAHVsyNDA3OjM2NDA6MjIwNToxNjY4OjoxXTo4NDQzIHuL9DxhpSB87PgDYn4kl9MnVXWFg3qFuH6HAOjZia2HGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
+
+
+## blahdns-sg-doh
+
+DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAADjQ2LjI1MC4yMjYuMjQyABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
+
+
+## blahdns-sg-doh-v6
+
+DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAAGFsyNDA3OjM2NDA6MjIwNToxNjY4OjoxXQASZG9oLXNnLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
+
+
 ## bortzmeyer
 
 Non-logging DoH server in France operated by Stéphane Bortzmeyer.
