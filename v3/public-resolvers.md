@@ -1144,13 +1144,6 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany
 sdns://AQcAAAAAAAAADjE4NS4xMTAuMjE3LjM2IF155R5iNkc83Qk-NGW0gD_yA2fM7hL3tnsFVIQrqolkFjIuZG5zY3J5cHQtY2VydC5kY3QtZGU
 
 
-## dct-fr
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
-
-sdns://AQcAAAAAAAAADTQ1LjEzLjExOS4yMDkg3Alg3_zo5l6MKxMIm3B2e3gHB5onv0Y-scq60MUc-SMWMi5kbnNjcnlwdC1jZXJ0LmRjdC1mcg
-
-
 ## dct-nl
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
@@ -1162,7 +1155,7 @@ sdns://AQcAAAAAAAAADDUuMjU1LjEwNS4yNCBmA48agbqHYOdV4gbPDt9f9ZMTAQzZfznm0NcBa8e_Q
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
 
-sdns://AQcAAAAAAAAADTE4NS4yMi4xNTQuMTkgLAeIPVz7a5qz4uU0W98UXxtNPDYwGNfvwxGBM2pZST0WMi5kbnNjcnlwdC1jZXJ0LmRjdC1ydQ
+sdns://AQcAAAAAAAAACzQ2LjE3LjQ0LjQ2IDo_h-1I6m6NadiQS7aAkxNDqHjJM1Ibx2JlZN6EQBD2FjIuZG5zY3J5cHQtY2VydC5kY3QtcnU
 
 
 ## decloudus-nogoogle-tstipv6
