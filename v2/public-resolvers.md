@@ -2841,14 +2841,6 @@ Warning: GFW filtering rules are applied by this resolver.
 sdns://AgAAAAAAAAAADDE2Mi4xNC4yMS41NgAHZG9oLnB1YgovZG5zLXF1ZXJ5
 
 
-## dnswarden-adult-doh
-
-Blocks adult content and enforces safe search on major search engines.
-For further customization look here: https://dnswarden.com/customfilter.html
-
-sdns://AgIAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
-
-
 ## dnswarden-uncensor-dc-swiss
 
 Hosted in switzerland.
