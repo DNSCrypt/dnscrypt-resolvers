@@ -789,13 +789,6 @@ Denmark DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADTM3LjEyMC4yMzIuNDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-dus1
-
-Dusseldorf, Germany 1 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAADjIxMy4yMDIuMjE2LjEyIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-dus2
 
 Dusseldorf, Germany 2 DNSCrypt server provided by https://cryptostorm.is/
