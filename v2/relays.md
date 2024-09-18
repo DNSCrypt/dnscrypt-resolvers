@@ -13,13 +13,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
-## anon-ams
-
-Anonymized DNS relay hosted in NL
-
-sdns://gRE4OS4zOC4xMzEuMzg6NDM0Mw
-
-
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -102,13 +95,6 @@ sdns://gQsxNDYuNzAuODIuMw
 Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQ0zNy4xMjAuMjMyLjQz
-
-
-## anon-cs-dus1
-
-Dusseldorf, Germany 1 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4yMTMuMjAyLjIxNi4xMg
 
 
 ## anon-cs-dus2
