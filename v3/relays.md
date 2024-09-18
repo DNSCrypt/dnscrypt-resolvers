@@ -607,15 +607,6 @@ https://www.dnscry.pt
 sdns://gQ4xOTguMTQwLjE0MS40Ng
 
 
-## dnscry.pt-anon-amsterdam-ipv6
-
-DNSCry.pt Amsterdam - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRZbMmEwMzo5NGUzOjIyMmI6OjEwMzJd
-
-
 ## dnscry.pt-anon-amsterdam02-ipv4
 
 DNSCry.pt Amsterdam 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -758,24 +749,6 @@ DNSCry.pt Chicago - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gR9bMjYwMjpmZWE3OmUwYzplOmJmZjo2OjcwOjE5NGNd
-
-
-## dnscry.pt-anon-chisinau-ipv4
-
-DNSCry.pt Chișinău - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ4xNzYuMTIzLjEwLjEwNQ
-
-
-## dnscry.pt-anon-chisinau-ipv6
-
-DNSCry.pt Chișinău - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMjAwMTo2Nzg6NmQ0OjUwODA6OjNkZWE6MTA5XQ
 
 
 ## dnscry.pt-anon-coeurdalene-ipv4
@@ -947,15 +920,6 @@ DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ8xMDIuMjIyLjEwNi4xNjU
-
-
-## dnscry.pt-anon-ebene-ipv6
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR9bMmMwZjplOGY4OjIwMDA6MjMzOjphMzliOjcxMjNd
 
 
 ## dnscry.pt-anon-eygelshoven-ipv4
@@ -1154,15 +1118,6 @@ DNSCry.pt Hong Kong 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serv
 https://www.dnscry.pt
 
 sdns://gRdbMjQwNjo0MzAwOmJhZTo2YjA4OjoxXQ
-
-
-## dnscry.pt-anon-istanbul-ipv4
-
-DNSCry.pt Istanbul - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xOTMuMjI4LjEuMTMw
 
 
 ## dnscry.pt-anon-istanbul-ipv6
@@ -1723,15 +1678,6 @@ https://www.dnscry.pt
 sdns://gQ0xOTQuMzIuMTA3LjQ4
 
 
-## dnscry.pt-anon-sandefjord-ipv6
-
-DNSCry.pt Sandefjord - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMmEwMzo5NGUwOjI3MWY6OjViMV0
-
-
 ## dnscry.pt-anon-santaclara-ipv4
 
 DNSCry.pt Santa Clara - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1775,15 +1721,6 @@ DNSCry.pt Seattle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ00NS4xNC4xMTUuMTI1
-
-
-## dnscry.pt-anon-seattle-ipv6
-
-DNSCry.pt Seattle - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRtbMjYwNjo2NjgwOjE5OjE6OjRmYjQ6NzFhN10
 
 
 ## dnscry.pt-anon-singapore-ipv4
@@ -2063,15 +2000,6 @@ DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ04My4xMzguNTUuMTg2
-
-
-## dnscry.pt-anon-vienna-ipv6
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR1bMmEwZDpmMzAyOjExMDo2NTE3OjpiYjQ6MjE0XQ
 
 
 ## dnscry.pt-anon-vilnius-ipv4
