@@ -12,13 +12,6 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-## anon-ams
-
-Anonymized DNS relay hosted in NL
-
-sdns://gRE4OS4zOC4xMzEuMzg6NDM0Mw
-
-
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
