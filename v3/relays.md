@@ -96,13 +96,6 @@ Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0zNy4xMjAuMjMyLjQz
 
 
-## anon-cs-dus1
-
-Dusseldorf, Germany 1 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4yMTMuMjAyLjIxNi4xMg
-
-
 ## anon-cs-dus2
 
 Dusseldorf, Germany 2 Anonymized DNS relay server provided by https://cryptostorm.is/
