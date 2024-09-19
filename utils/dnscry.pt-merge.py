@@ -9,17 +9,17 @@ in_header = True
 
 with sys.stdin as f:
     while True:
-        head = f.readline()
-        if not head:
+        line = f.readline()
+        if not line:
             break
         if in_header == True:
-            if head.startswith("## "):
+            if line.startswith("## "):
                 in_header = False
             else:
                 continue
-        if head.startswith("## "):
-            name = head.split("## ")[1]
+        if line.startswith("## "):
+            name = line.split("## ")[1]
             name = f"dnscry.pt-{name}".replace(" ", "")
             print(f"## {name}")
         else:
-            print(head)
+            print(line)
