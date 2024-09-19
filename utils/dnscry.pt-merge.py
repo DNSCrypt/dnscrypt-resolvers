@@ -5,8 +5,6 @@
 import sys
 
 
-servers = {}
-
 in_header = True
 
 with sys.stdin as f:
