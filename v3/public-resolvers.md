@@ -3837,7 +3837,6 @@ Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSS
 sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyDE1pgPAnfh06z6updfy39KN8PbJQHdDzVU4zEMfbeoQR8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
 
 
-
 ## sth-doh-se
 
 Resolver in Stockholm, Sweden. HTTP/3 DoH server. Non-logging, non-filtering, DNSSEC.
