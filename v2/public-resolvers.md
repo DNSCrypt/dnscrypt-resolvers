@@ -98,7 +98,7 @@ Public updns IPv6 DoH service with advertising, tracker and malware filters.
 
 Hosted in Europe by @usableprivacy, details see: https://docs.usableprivacy.com
 
-sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0gyWbnW9xlsPpB-nAh_ZszY6E2qgnaECVhar2621czd3kYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODoxYzBjOjgzMmQ6Ol0g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwYYWRmcmVlLnVzYWJsZXByaXZhY3kubmV0Ci9kbnMtcXVlcnk
 
 
 ## adguard-dns
