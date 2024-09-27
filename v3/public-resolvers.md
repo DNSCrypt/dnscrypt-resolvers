@@ -1118,7 +1118,6 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzIPw1gIRq8zr1ToLoDc3i8bVAHw-7tck7WccvJtTyJ2T2FjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
 
 
-
 ## dct-nl
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
