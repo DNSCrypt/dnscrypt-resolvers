@@ -1108,7 +1108,15 @@ sdns://AQYAAAAAAAAADjE5Ni4yNDAuNzkuMTYzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw2
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
 
-sdns://AQcAAAAAAAAADjE4NS4xMTAuMjE3LjM2IF155R5iNkc83Qk-NGW0gD_yA2fM7hL3tnsFVIQrqolkFjIuZG5zY3J5cHQtY2VydC5kY3QtZGU
+sdns://AQcAAAAAAAAADTE4NS4xNDAuMTIuOTMgK4UG-UiZwUJhkj7RtUmAR6b0tunp7iVmJgQqTxM3x6MWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
+
+
+## dct-fr
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
+
+sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzIPw1gIRq8zr1ToLoDc3i8bVAHw-7tck7WccvJtTyJ2T2FjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
+
 
 
 ## dct-nl
