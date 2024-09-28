@@ -1,8 +1,6 @@
 #! /usr/bin/env python3
 
-from copyreg import constructor
 import sys
-from glob import glob
 
 
 class Entry:
@@ -72,8 +70,7 @@ def process(names_path, md_path):
         for i in range(0, len(raw_entries)):
             entry = Entry.parse(raw_entries[i])
             if not entry:
-                print(
-                    "Invalid entry: [" + raw_entries[i] + "]", file=sys.stderr)
+                print("Invalid entry: [" + raw_entries[i] + "]", file=sys.stderr)
                 continue
             if entry.name in entries:
                 print("Duplicate entry: [" + entry.name + "]", file=sys.stderr)
