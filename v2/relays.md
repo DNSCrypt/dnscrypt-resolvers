@@ -907,15 +907,6 @@ https://www.dnscry.pt
 sdns://gRhbMmEwZjo1NzA3OmFhODE6NWUzYzo6MV0
 
 
-## dnscry.pt-anon-ebene-ipv4
-
-DNSCry.pt Ebène - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ8xMDIuMjIyLjEwNi4xNjU
-
-
 ## dnscry.pt-anon-eygelshoven-ipv4
 
 DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
