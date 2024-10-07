@@ -271,13 +271,6 @@ US - Las Vegas, NV Anonymized DNS relay server provided by https://cryptostorm.i
 sdns://gQwzNy4xMjAuMTQ3LjI
 
 
-## anon-cs-nyc1
-
-US - New York City, NY 1 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4yNDUuODg
-
-
 ## anon-cs-nyc2
 
 US - New York City, NY 2 Anonymized DNS relay server provided by https://cryptostorm.is/
