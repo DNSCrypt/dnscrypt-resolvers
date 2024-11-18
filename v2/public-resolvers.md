@@ -201,20 +201,6 @@ Resolver in Amsterdam. HTTP/3, DoH protocol. Non-logging. Blocks ads, malware an
 sdns://AgMAAAAAAAAADDg5LjM4LjEzMS4zOAAYZG5zbmwtbm9hZHMuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
-## ams-dnscrypt-nl
-
-Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAETg5LjM4LjEzMS4zODo0MzQzIOoBI0nFrS_oaPmVWnu4ScGIgQdvHC11rRWC6iiLZ4IFHzIuZG5zY3J5cHQtY2VydC5hbXMtZG5zY3J5cHQtbmw
-
-
-## ams-dnscrypt-nl-ipv6
-
-Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAGlsyYTBjOmI5YzA6Zjo0NTFkOjoxXTo0MzQzIOoBI0nFrS_oaPmVWnu4ScGIgQdvHC11rRWC6iiLZ4IFHzIuZG5zY3J5cHQtY2VydC5hbXMtZG5zY3J5cHQtbmw
-
-
 ## ams-doh-nl
 
 Resolver in Amsterdam. HTTP/3, DoH protocol. Non-logging, non-filtering, DNSSEC.
