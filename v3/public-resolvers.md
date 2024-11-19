@@ -1534,15 +1534,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADDkzLjk1LjExNS4yMSDit1FyUAiu0W-x936EJIC1keajbwu1pvb6yVKVj0KVYhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-eygelshoven-ipv6
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAH1syYTBmOmNhODE6MTMzYjozY2I1OjpiMWIxOjY0MV0g4rdRclAIrtFvsfd-hCSAtZHmo28Ltab2-slSlY9ClWIZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-flint-ipv4
 
 DNSCry.pt Flint - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
