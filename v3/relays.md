@@ -61,13 +61,6 @@ Switzerland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ8xOTAuMjExLjI1NS4yMjc
 
 
-## anon-cs-ch2
-
-Switzerland 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ0xNDYuNzAuMTM1LjU5
-
-
 ## anon-cs-czech
 
 Prague, Czech Republic Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -96,13 +89,6 @@ Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0zNy4xMjAuMjMyLjQz
 
 
-## anon-cs-dus2
-
-Dusseldorf, Germany 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8yMTMuMjAyLjIxNi4yMzY
-
-
 ## anon-cs-dus3
 
 Dusseldorf, Germany 3 Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -110,32 +96,11 @@ Dusseldorf, Germany 3 Anonymized DNS relay server provided by https://cryptostor
 sdns://gQ44OS4xNjMuMjIxLjE4MQ
 
 
-## anon-cs-dus4
-
-Dusseldorf, Germany 4 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ44NS4xMTQuMTM4LjExOQ
-
-
 ## anon-cs-finland
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQ4xODUuMTE3LjExOC4yMA
-
-
-## anon-cs-fl
-
-US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4xMTcuNTU
-
-
-## anon-cs-fl2
-
-US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4xMTcuNTE
 
 
 ## anon-cs-fr
@@ -157,13 +122,6 @@ sdns://gQ02NC40Mi4xODEuMjI3
 Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQ04Ni4xMDYuNzQuMjE5
-
-
-## anon-cs-il
-
-US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xNzMuMjM0LjU2LjExNQ
 
 
 ## anon-cs-il2
@@ -250,13 +208,6 @@ Netherlands Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0xODUuMTA3LjgwLjg0
 
 
-## anon-cs-nl2
-
-Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xMDguMTgxLjEyNC4yNw
-
-
 ## anon-cs-norway
 
 Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -269,13 +220,6 @@ sdns://gQ45MS4yMTkuMjE1LjIyNw
 US - Las Vegas, NV Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQwzNy4xMjAuMTQ3LjI
-
-
-## anon-cs-nyc2
-
-US - New York City, NY 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQwyMy4xOS4yNDUuODQ
 
 
 ## anon-cs-ore
@@ -374,20 +318,6 @@ sdns://gQwxNDYuNzAuMzEuNDM
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gQ0yMDkuNTguMTQ3LjM2
-
-
-## anon-cs-tx2
-
-US - Dallas, TX 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xMDguMTgxLjEwMS4yNw
-
-
-## anon-cs-tx3
-
-US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ4xMDguMTgxLjEwMS42Nw
 
 
 ## anon-cs-vancouver
@@ -843,15 +773,6 @@ https://www.dnscry.pt
 sdns://gQw2Ni4xODcuNy4xNDA
 
 
-## dnscry.pt-anon-detroit-ipv6
-
-DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSNbMjYwNjo2NWMwOjQwOjQ6NWYzOjU0YzQ6OGQxMDo5Yjk4XQ
-
-
 ## dnscry.pt-anon-dublin-ipv4
 
 DNSCry.pt Dublin - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -913,15 +834,6 @@ DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 serve
 https://www.dnscry.pt
 
 sdns://gQw5My45NS4xMTUuMjE
-
-
-## dnscry.pt-anon-eygelshoven-ipv6
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR9bMmEwZjpjYTgxOjEzM2I6M2NiNTo6YjFiMTo2NDFd
 
 
 ## dnscry.pt-anon-flint-ipv4
@@ -1120,15 +1032,6 @@ DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ0xMDMuNzYuMTI5Ljk0
-
-
-## dnscry.pt-anon-jakarta-ipv6
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSBbMjQwNzo2YWMwOjM6NToxMjM0OmUzNGU6NzJlNDoxXQ
 
 
 ## dnscry.pt-anon-johannesburg-ipv4
@@ -1975,15 +1878,6 @@ DNSCry.pt Vancouver - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gSBbMjYwNzo3YjAwOjMwMDQ6ZmZmZjo6YTY4ZDo1YTJlXQ
-
-
-## dnscry.pt-anon-vienna-ipv4
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ04My4xMzguNTUuMTg2
 
 
 ## dnscry.pt-anon-vilnius-ipv4
