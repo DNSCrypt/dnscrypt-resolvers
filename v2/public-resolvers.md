@@ -963,20 +963,6 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzIPw1gIRq8zr1ToLoDc3i8bVAHw-7tck7WccvJtTyJ2T2FjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
 
 
-## dct-nl
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Dronten, Netherlands.
-
-sdns://AQcAAAAAAAAADDUuMjU1LjEwNS4yNCBmA48agbqHYOdV4gbPDt9f9ZMTAQzZfznm0NcBa8e_QRYyLmRuc2NyeXB0LWNlcnQuZGN0LW5s
-
-
-## dct-ru
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Moscow, Russia.
-
-sdns://AQcAAAAAAAAACzQ2LjE3LjQ0LjQ2IDo_h-1I6m6NadiQS7aAkxNDqHjJM1Ibx2JlZN6EQBD2FjIuZG5zY3J5cHQtY2VydC5kY3QtcnU
-
-
 ## decloudus-nogoogle-tstipv6
 
 Servers helps you deGoogle and unGoogle by completely blocking Google tracking in addition to annoying ads, online trackers, and malware. No Logs. For IPv6.
