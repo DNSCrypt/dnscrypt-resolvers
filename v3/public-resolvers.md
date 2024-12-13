@@ -2808,14 +2808,6 @@ sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 sdns://AgAAAAAAAAAACjEuMTIuMzQuNTYACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 
 
-## dnswarden-uncensor-dc-swiss
-
-Hosted in switzerland.
-For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
-
-sdns://AQcAAAAAAAAAFDE4OC4yNDQuMTE3LjExNDoxNDQzIOK0J6XON4YjPmXjlonI5Lx0ZenB5Din7hrX-8uYlDxHKjIuZG5zY3J5cHQtY2VydC5kbnN3YXJkZW4tdW5jZW5zb3JlZC1zd2lzcw
-
-
 ## doh-cleanbrowsing-adult
 
 Blocks access to adult, pornographic and explicit sites. It does
