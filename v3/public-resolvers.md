@@ -3192,6 +3192,26 @@ https://dns.njal.la/
 sdns://AgcAAAAAAAAADDk1LjIxNS4xOS41M6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVQtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
+## openbld.net-ada-ipv4
+
+OpenBLD.net is a cloud-based public DoH service with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+
+https://openbld.net/
+
+sdns://AgMAAAAAAAAADDQ2LjE1MS4yOS4xNQAPYWRhLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADTg4LjIxMC4xMS4xMjAAD2FkYS5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+
+
+## openbld.net-ric-ipv4
+
+OpenBLD.net is a cloud-based public DoH service with with blocking: advertising, tracking, adware, malware, malicious activities and phishing companies. Has 24h/48h logs for DDoS/Flood attack mitigation. Supports DNSSEC.
+
+https://openbld.net/
+
+sdns://AgMAAAAAAAAADTExNi4yMDMuODQuNjUAD3JpYy5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTIxMy4xOTkuNDkuMTEAD3JpYy5vcGVuYmxkLm5ldAovZG5zLXF1ZXJ5
+
+
 ## plan9dns-fl
 
 Miami Florida, USA. DNSCrypt, no filters, no logs, DNSSEC
