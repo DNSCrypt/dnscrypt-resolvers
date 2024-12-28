@@ -201,6 +201,20 @@ Resolver in Amsterdam. HTTP/3, DoH protocol. Non-logging. Blocks ads, malware an
 sdns://AgMAAAAAAAAADDg5LjM4LjEzMS4zOAAYZG5zbmwtbm9hZHMuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
+## ams-dnscrypt-nl
+
+Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAETg5LjM4LjEzMS4zODo0MzQzIBI197wcfHaxuMFi9_YgoxSJ1yIDWPfO75iztVhWzk0aHzIuZG5zY3J5cHQtY2VydC5hbXMtZG5zY3J5cHQtbmw
+
+
+## ams-dnscrypt-nl-ipv6
+
+Resolver in Amsterdam. Dnscrypt protocol. Non-logging, non-filtering, DNSSEC.
+
+sdns://AQcAAAAAAAAAGlsyYTBjOmI5YzA6Zjo0NTFkOjoxXTo0MzQzIBI197wcfHaxuMFi9_YgoxSJ1yIDWPfO75iztVhWzk0aHzIuZG5zY3J5cHQtY2VydC5hbXMtZG5zY3J5cHQtbmw
+
+
 ## ams-doh-nl
 
 Resolver in Amsterdam. HTTP/3, DoH protocol. Non-logging, non-filtering, DNSSEC.
@@ -953,14 +967,14 @@ sdns://AQYAAAAAAAAADjE5Ni4yNDAuNzkuMTYzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw2
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
 
-sdns://AQcAAAAAAAAADTE4NS4xNDAuMTIuOTMgK4UG-UiZwUJhkj7RtUmAR6b0tunp7iVmJgQqTxM3x6MWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
+sdns://AQcAAAAAAAAADTE4NS4xNDAuMTIuOTMgx50la90EKLdawfQ6ouxuYvCpUqJsIU-DHL1Yz9W6auUWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
 
 
 ## dct-fr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 
-sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzIPw1gIRq8zr1ToLoDc3i8bVAHw-7tck7WccvJtTyJ2T2FjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
+sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzINCNcA60VX87arjzoo9aWX28No2O70kH6IGdtTgEfyJRFjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
 
 
 ## decloudus-nogoogle-tstipv6
