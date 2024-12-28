@@ -20,10 +20,10 @@ servers = {}
 
 with sys.stdin as f:
     while True:
-        head = f.readline()
-        if head == "":
+        line = f.readline()
+        if line == "":
             break
-        parts = head.strip().split("## ")
+        parts = line.strip().split("## ")
         name = parts[1].strip()
         description = f.readline().strip()
         stamp = f.readline().strip()

@@ -184,7 +184,7 @@ sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxraWRzLmRuczAuZ
 
 ## dnsforfamily
 
-(DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares and advertisements.
+(DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -201,7 +201,7 @@ sdns://AQMAAAAAAAAADDc4LjQ3LjY0LjE2MSATJeLOABXNSYcSJIoqR5_iUYz87Y4OecMLB84aEAKPr
 
 ## dnsforfamily-doh
 
-(DoH Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares and advertisements.
+(DoH Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -216,7 +216,7 @@ sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwN6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj
 
 ## dnsforfamily-doh-no-safe-search
 
-(DoH Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares and advertisements.
+(DoH Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 Unlike other dnsforfamily servers, this one does not enforces safe search. So Google, YouTube, Bing, DuckDuckGo and Yandex are completely accessible without any restriction.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -233,7 +233,7 @@ sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwN6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj
 
 ## dnsforfamily-no-safe-search
 
-(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares and advertisements.
+(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 Unlike other dnsforfamily servers, this one does not enforces safe search. So Google, YouTube, Bing, DuckDuckGo and Yandex are completely accessible without any restriction.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -250,7 +250,7 @@ sdns://AQMAAAAAAAAADzEzNS4xODEuMTkzLjIyMiDrxcZ_hFtGE6tfATvQZYjxgl5pTY_e2cRH_ms8b
 
 ## dnsforfamily-v6
 
-(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares and advertisements.
+(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -261,14 +261,6 @@ Completely free, no ads or any commercial motive. Operating for 4 years now.
 Provided by: https://dnsforfamily.com
 
 sdns://AQMAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIBMl4s4AFc1JhxIkiipHn-JRjPztjg55wwsHzhoQAo-tEGRuc2ZvcmZhbWlseS5jb20
-
-
-## dnswarden-adult-doh
-
-Blocks adult content and enforces safe search on major search engines.
-For further customization look here: https://dnswarden.com/customfilter.html
-
-sdns://AgIAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRFkbnMuZG5zd2FyZGVuLmNvbQwvYWR1bHRmaWx0ZXI
 
 
 ## doh-cleanbrowsing-adult
