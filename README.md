@@ -37,3 +37,7 @@ Oblivious DoH relays:
 ```text
 RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3
 ```
+
+# Contributing
+
+If you want to update existing services, or add new services to these lists, check out [how to contribute to these lists](CONTRIBUTING.md).
