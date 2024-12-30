@@ -182,7 +182,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
     for name in sorted(entries.keys()):
         entry = entries[name]
         out = out + "\n" + entry.format() + "\n"
-        if not name in INCOMPATIBLE_WITH_LEGACY_VERSIONS:
+        if name not in INCOMPATIBLE_WITH_LEGACY_VERSIONS:
             out_legacy = out_legacy + "\n" + entry.format_legacy() + "\n"
 
     if os.path.basename(md_path) == "public-resolvers.md":
@@ -197,6 +197,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
     else:
         with open(md_path + ".tmp", "wt") as f:
             f.write(out)
+        os.unlink(md_path)
         os.rename(md_path + ".tmp", md_path)
 
     # Legacy
@@ -214,7 +215,8 @@ If you want to contribute changes to a resolvers list, only edit files from the 
         else:
             with open(md_legacy_path + ".tmp", "wt") as f:
                 f.write(out_legacy)
-                os.rename(md_legacy_path + ".tmp", md_legacy_path)
+            os.unlink(md_legacy_path)
+            os.rename(md_legacy_path + ".tmp", md_legacy_path)
 
     # Historic
 
@@ -244,15 +246,17 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
     # Signatures
 
-    for path in [md_path, md_legacy_path, csv_historic_path]:
-        try:
-            subprocess.run(
-                ["minisign", "-V", "-P", MINISIGN_PK, "-m", path], check=True
-            )
-        except subprocess.CalledProcessError:
-            signatures_to_update.append(path)
+    if signatures_to_update is not None:
+        for path in [md_path, md_legacy_path, csv_historic_path]:
+            try:
+                subprocess.run(
+                    ["minisign", "-V", "-P", MINISIGN_PK, "-m", path], check=True
+                )
+            except subprocess.CalledProcessError:
+                signatures_to_update.append(path)
 
 
+# Change to None to skip signature updates, e.g. during development.
 signatures_to_update = []
 
 for md_path in glob(CURRENT_DIR + "/*.md"):
