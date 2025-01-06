@@ -23,6 +23,15 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
+## 0ms-dns-unfiltered
+
+This is a global DNS resolution service provided by 0ms Group. It serves as an alternative to your current DNS provider. 0ms DNS has gained recognition in several Chinese forums and articles, establishing itself as a popular overseas DNS provider in China and neighboring countries. This particular variant offers an unfiltered experience.
+
+Homepage: https://0ms.dev/
+
+sdns://AgcAAAAAAAAAAAAHMG1zLmRldgovZG5zLXF1ZXJ5
+
+
 ## a-and-a
 
 Non-filtering, No-logging, DNSSEC DoH operated by Andrews & Arnold LTD.
