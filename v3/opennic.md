@@ -13,20 +13,6 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## bebasdns
-
-BebasDNS default server by BebasID. DNSSEC and OpenNIC supported. Filters ads, tracker, and malware.
-
-sdns://AQIAAAAAAAAAEjEwMy44Ny42OC4xOTQ6ODQ0MyAxXDKkdrOao8ZeLyu7vTnVrT0C7YlPNNf6trdMkje7QR8yLmRuc2NyeXB0LWNlcnQuZG5zLmJlYmFzaWQuY29t
-
-
-## bebasdns-unfiltered-doh
-
-BebasDNS by BebasID. DNSSEC and OpenNIC supported. This variant doesn't block anything
-
-sdns://AgcAAAAAAAAADTEwMy44Ny42OC4xOTQAD2Rucy5iZWJhc2lkLmNvbQsvdW5maWx0ZXJlZA
-
-
 ## doh-ibksturm
 
 DoH & DoT Server, No Logging, No Filters, DNSSEC
