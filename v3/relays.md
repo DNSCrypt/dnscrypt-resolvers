@@ -901,15 +901,6 @@ https://www.dnscry.pt
 sdns://gRhbMjQwNDpmYmMwOjA6MTFjODo6YTMyNF0
 
 
-## dnscry.pt-anon-helsinki-ipv6
-
-DNSCry.pt Helsinki - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRJbMmExMjoxZmMwOjA6Yzo6M10
-
-
 ## dnscry.pt-anon-hochiminhcity-ipv4
 
 DNSCry.pt Ho-Chi-Minh City - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
