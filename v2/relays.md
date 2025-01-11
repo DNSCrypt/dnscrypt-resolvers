@@ -1757,24 +1757,6 @@ https://www.dnscry.pt
 sdns://gRVbMmEwNjphMDA2OmQxZDE6OjExNl0
 
 
-## dnscry.pt-anon-vancouver-ipv4
-
-DNSCry.pt Vancouver - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xMDQuMzYuMTQ4LjQ2
-
-
-## dnscry.pt-anon-vancouver-ipv6
-
-DNSCry.pt Vancouver - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSBbMjYwNzo3YjAwOjMwMDQ6ZmZmZjo6YTY4ZDo1YTJlXQ
-
-
 ## dnscry.pt-anon-vilnius-ipv4
 
 DNSCry.pt Vilnius - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
