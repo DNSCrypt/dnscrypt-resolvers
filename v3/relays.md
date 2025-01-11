@@ -730,15 +730,6 @@ https://www.dnscry.pt
 sdns://gRpbMjYwNjo2NjgwOjY6MTo6M2VhOTozY2U2XQ
 
 
-## dnscry.pt-anon-detroit-ipv4
-
-DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw2Ni4xODcuNy4xNDA
-
-
 ## dnscry.pt-anon-dublin-ipv4
 
 DNSCry.pt Dublin - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
