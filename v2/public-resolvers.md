@@ -2410,24 +2410,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAFVsyYTA2OmEwMDY6ZDFkMTo6MTE2XSCemvW2HFhPhKRYrfw4RuI85Brc1JVrIE3t_wGQxVEQLxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-vancouver-ipv4
-
-DNSCry.pt Vancouver - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTEwNC4zNi4xNDguNDYgtfMJd8tAE6dqf5ttVuNplwXDILR4cdhJpktOYiBCEoAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-vancouver-ipv6
-
-DNSCry.pt Vancouver - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAIFsyNjA3OjdiMDA6MzAwNDpmZmZmOjphNjhkOjVhMmVdILXzCXfLQBOnan-bbVbjaZcFwyC0eHHYSaZLTmIgQhKAGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-vienna-ipv4
 
 DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
