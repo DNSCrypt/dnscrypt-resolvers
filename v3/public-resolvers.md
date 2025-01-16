@@ -1987,7 +1987,7 @@ DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 
 https://www.dnscry.pt
 
-sdns://AQcAAAAAAAAACzE2MC4zMC41LjEyIEqgV701rJQq50ORl-HqG20LWx8W30NVOc0svAL2cI2kGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
+sdns://AQcAAAAAAAAADTQ1LjI0OS45MS4xNTAgHONiOhMA1VOPBBcvrkvy9IW-Q0dhA1aY-g5rKbpy9noZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-johor-ipv6
@@ -1996,7 +1996,7 @@ DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://AQcAAAAAAAAAFVsyMDAxOmRmNDoxODQwOjJmOjphXSBKoFe9NayUKudDkZfh6httC1sfFt9DVTnNLLwC9nCNpBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+sdns://AQcAAAAAAAAAFVsyMDAxOmRmNDoxODQwOjlmOjphXSAc42I6EwDVU48EFy-uS_L0hb5DR2EDVpj6DmspunL2ehkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-kansascity-ipv4
