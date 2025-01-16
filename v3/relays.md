@@ -1294,7 +1294,7 @@ DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 
 https://www.dnscry.pt
 
-sdns://gQsxNjAuMzAuNS4xMg
+sdns://gQ00NS4yNDkuOTEuMTUw
 
 
 ## dnscry.pt-anon-johor-ipv6
@@ -1303,7 +1303,7 @@ DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRVbMjAwMTpkZjQ6MTg0MDoyZjo6YV0
+sdns://gRVbMjAwMTpkZjQ6MTg0MDo5Zjo6YV0
 
 
 ## dnscry.pt-anon-kansascity-ipv4
