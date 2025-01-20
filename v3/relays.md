@@ -951,7 +951,7 @@ DNSCry.pt Hong Kong - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 
 https://www.dnscry.pt
 
-sdns://gQ40NS4xMjMuMTg4LjEyOQ
+sdns://gQs5Ni45LjIyOC4yNw
 
 
 ## dnscry.pt-anon-hongkong-ipv6
@@ -960,7 +960,7 @@ DNSCry.pt Hong Kong - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRdbMjQwNjo0MzAwOmJhZTo2YjA4OjoxXQ
+sdns://gRlbMjAwMTpkZjE6ODAxOmEwMjI6OmM0OmFd
 
 
 ## dnscry.pt-anon-istanbul-ipv6
