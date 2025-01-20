@@ -1473,7 +1473,7 @@ DNSCry.pt Singapore 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serv
 
 https://www.dnscry.pt
 
-sdns://gRdbMjQwMzpjZmMwOjExMTQ6MTBlOjphXQ
+sdns://gRNbMjQwMTo0NTIwOjExMjI6OmFd
 
 
 ## dnscry.pt-anon-sofia-ipv4
