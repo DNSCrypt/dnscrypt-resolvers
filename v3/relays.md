@@ -597,6 +597,15 @@ https://www.dnscry.pt
 sdns://gQ8xNjAuMTkxLjE4Mi4yMTY
 
 
+## dnscry.pt-anon-bengaluru-ipv6
+
+DNSCry.pt Bengaluru - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gRZbMjQwMTpkNGUwOjE6YmMzYzo6NTNd
+
+
 ## dnscry.pt-anon-bogota-ipv4
 
 DNSCry.pt Bogotá - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
