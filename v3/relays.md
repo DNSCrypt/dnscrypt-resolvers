@@ -603,7 +603,7 @@ DNSCry.pt Bengaluru - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRZbMjQwMTpkNGUwOjE6YmMzYzo6NTNd
+sdns://gRZbMjQwMTpkNGUwOjE6ZjdmZDo6NTNd
 
 
 ## dnscry.pt-anon-bogota-ipv4
