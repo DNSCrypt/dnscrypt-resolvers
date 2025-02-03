@@ -2151,7 +2151,7 @@ DNSCry.pt Tampa - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gSJbMjYwMjpmY2MwOjIyMjI6MDpmZjI0OmEyYzc6MTljOjFd
+sdns://gRlbMjYwMjpmY2MwOjIyMjI6OWQyZTo6NTNd
 
 
 ## dnscry.pt-anon-taos-ipv4
