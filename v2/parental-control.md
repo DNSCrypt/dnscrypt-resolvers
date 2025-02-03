@@ -15,7 +15,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 ## adguard-dns-family
 
-Adguard DNS with safesearch and adult content blocking
+AdGuard DNS with safesearch and adult content blocking
 
 Warning: This server is incompatible with anonymization.
 
@@ -24,14 +24,21 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNTo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWu
 
 ## adguard-dns-family-doh
 
-Adguard DNS with safesearch and adult content blocking (over DoH)
+AdGuard DNS with safesearch and adult content blocking (over DoH)
 
-sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQw5NC4xNDAuMTQuMTUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRZmYW1pbHkuYWRndWFyZC1kbnMuY29tCi9kbnMtcXVlcnk
+
+
+## adguard-dns-family-doh-ipv6
+
+AdGuard DNS with safesearch and adult content blocking (over DoH, over IPv6)
+
+sdns://AgMAAAAAAAAAFFsyYTEwOjUwYzA6OmJhZDE6ZmZdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZFmZhbWlseS5hZGd1YXJkLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## adguard-dns-family-ipv6
 
-Adguard DNS with safesearch and adult content blocking (Over IPv6)
+AdGuard DNS with safesearch and adult content blocking (over IPv6)
 
 Warning: This server is incompatible with anonymization.
 
