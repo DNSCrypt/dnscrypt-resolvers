@@ -21,6 +21,7 @@ also want to enable cloaking (`cloaking_rules` in the configuration file).
 
 adguard-dns-family
 adguard-dns-family-doh
+adguard-dns-family-doh-ipv6
 adguard-dns-family-ipv6
 cisco-familyshield
 cisco-familyshield-ipv6
@@ -41,8 +42,8 @@ dnsforfamily-v6
 dnswarden-adult-doh
 doh-cleanbrowsing-adult
 doh-cleanbrowsing-family
+mullvad-family-doh
 puredns-family-doh
 puredns-family-doh-ipv6
 safesurfer
 sfw.scaleway-fr
-mullvad-family-doh
