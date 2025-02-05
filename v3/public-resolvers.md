@@ -3501,6 +3501,15 @@ Unknown logging policy.
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## he-ipv6
+
+Hurricane Electric DoH server (anycast) over IPv6
+
+Unknown logging policy.
+
+sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1UMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
+
+
 ## ibksturm
 
 Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
