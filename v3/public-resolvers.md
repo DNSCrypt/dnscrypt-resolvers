@@ -4309,6 +4309,22 @@ sdns://AgUAAAAAAAAACTc3Ljg4LjguOCCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRljb
 sdns://AgUAAAAAAAAACTc3Ljg4LjguMSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
 
 
+## yandex-family
+
+Yandex public DNS server (DoH, anycast, malware filtering, adult content filtering)
+
+sdns://AgEAAAAAAAAACTc3Ljg4LjguNyCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAACTc3Ljg4LjguMyCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+
+
+## yandex-family-ipv6
+
+Yandex public DNS server (DoH, IPv6, anycast, malware filtering, adult content filtering)
+
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRGWZhbWlseS5kb3QuZG5zLnlhbmRleC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YTExXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+
+
 ## yandex-ipv6
 
 Yandex public DNS server (DoH, IPv6, anycast)
