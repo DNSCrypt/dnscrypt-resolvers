@@ -4303,7 +4303,7 @@ sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-
 
 ## yandex
 
-Yandex public DNS server (anycast)
+Yandex public DNS server (DoH, anycast)
 
 sdns://AgUAAAAAAAAACTc3Ljg4LjguMSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjEKL2Rucy1xdWVyeQ
 sdns://AgUAAAAAAAAACTc3Ljg4LjguOCCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjgKL2Rucy1xdWVyeQ
@@ -4311,7 +4311,7 @@ sdns://AgUAAAAAAAAACTc3Ljg4LjguOCCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3N
 
 ## yandex-ipv6
 
-Yandex public DNS server (anycast IPv6)
+Yandex public DNS server (DoH, IPv6, anycast)
 
 sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
 sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMQovZG5zLXF1ZXJ5
@@ -4319,7 +4319,7 @@ sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9Ik
 
 ## yandex-safe
 
-Yandex public DNS server with malware filtering (anycast)
+Yandex public DNS server (DoH, anycast, malware filtering)
 
 sdns://AgEAAAAAAAAACTc3Ljg4LjguMiCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 sdns://AgEAAAAAAAAACjc3Ljg4LjguODggqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEKNzcuODguOC44OAovZG5zLXF1ZXJ5
@@ -4327,7 +4327,7 @@ sdns://AgEAAAAAAAAACjc3Ljg4LjguODggqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEKN
 
 ## yandex-safe-ipv6
 
-Yandex public DNS server with malware filtering (anycast IPv6)
+Yandex public DNS server (DoH, IPv6, anycast, malware filtering)
 
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
