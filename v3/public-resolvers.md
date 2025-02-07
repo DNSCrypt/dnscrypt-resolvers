@@ -486,7 +486,8 @@ Warning: Doesn't work anymore in some countries such as France and Portugal.
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMWpSkN98PZG9oLm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAEVsyNjIwOjExOTo1Mzo6NTNdIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cisco-sandbox
