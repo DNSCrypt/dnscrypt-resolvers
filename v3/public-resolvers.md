@@ -404,9 +404,9 @@ sdns://AgYAAAAAAAAAElsyYTAwOjU5ODA6OTQ6OjcxXQAMZG5zLmNpcmNsLmx1Ci9kbnMtcXVlcnk
 
 ## cisco
 
-Remove your DNS blind spot (DNSCrypt protocol)
+Cisco OpenDNS (DNSCrypt)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
@@ -418,9 +418,9 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 
 ## cisco-doh
 
-Remove your DNS blind spot (DoH protocol)
+Cisco OpenDNS (DoH)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
@@ -430,23 +430,23 @@ sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33
 
 ## cisco-familyshield
 
-Block websites not suitable for children (DNSCrypt protocol)
+Cisco OpenDNS (DNSCrypt, adult content filtering)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-Currently incompatible with DNS anonymization.
+Warning: This server is incompatible with anonymization.
 
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
 
 ## cisco-familyshield-ipv6
 
-Block websites not suitable for children (IPv6)
+Cisco OpenDNS (DNSCrypt, IPv6, adult content filtering)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
@@ -458,9 +458,9 @@ sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev
 
 ## cisco-ipv6
 
-Cisco OpenDNS over IPv6 (DNSCrypt protocol)
+Cisco OpenDNS (DNSCrypt, IPv6)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
@@ -472,9 +472,9 @@ sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-ry
 
 ## cisco-ipv6-doh
 
-Cisco OpenDNS over IPv6 (DoH protocol)
+Cisco OpenDNS (DoH, IPv6)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
@@ -484,9 +484,9 @@ sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMW
 
 ## cisco-sandbox
 
-Cisco OpenDNS Sandbox (anycast)
+Cisco OpenDNS sandbox (DNSCrypt, anycast)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
