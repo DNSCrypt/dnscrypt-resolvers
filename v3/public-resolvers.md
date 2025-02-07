@@ -500,6 +500,18 @@ sdns://AQEAAAAAAAAADDIwOC42Ny4yMjAuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7e
 sdns://AQEAAAAAAAAADDIwOC42Ny4yMjIuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
 
+## cisco-sandbox-ipv6
+
+Cisco OpenDNS sandbox (DNSCrypt, IPv6, anycast)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NkOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+
+
 ## cleanbrowsing-adult
 
 Blocks access to adult, pornographic and explicit sites. It does
