@@ -428,7 +428,8 @@ Warning: Doesn't work anymore in some countries such as France and Portugal.
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w9kb2gub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAADjIwOC42Ny4yMjIuMjIyIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjIwOC42Ny4yMjAuMjIwIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cisco-familyshield
