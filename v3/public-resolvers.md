@@ -546,6 +546,21 @@ sdns://AgEAAAAAAAAADDIwOC42Ny4yMjAuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33
 sdns://AgEAAAAAAAAADDIwOC42Ny4yMjIuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
 
 
+## cisco-sandbox-doh-ipv6
+
+Cisco OpenDNS sandbox (DoH, IPv6, anycast)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AgEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAD1syNjIwOjA6Y2NkOjoyXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+
+
 ## cisco-sandbox-ipv6
 
 Cisco OpenDNS sandbox (DNSCrypt, IPv6, anycast)
