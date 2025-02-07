@@ -461,6 +461,21 @@ sdns://AgEAAAAAAAAADjIwOC42Ny4yMjIuMTIzIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUp
 sdns://AgEAAAAAAAAADjIwOC42Ny4yMjAuMTIzIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffGGZhbWlseXNoaWVsZC5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
+## cisco-familyshield-doh-ipv6
+
+Cisco OpenDNS (DoH, IPv6, adult content filtering)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AgEAAAAAAAAAElsyNjIwOjExOTozNTo6MTIzXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xhmYW1pbHlzaGllbGQub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAElsyNjIwOjExOTo1Mzo6MTIzXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xhmYW1pbHlzaGllbGQub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+
+
 ## cisco-familyshield-ipv6
 
 Cisco OpenDNS (DNSCrypt, IPv6, adult content filtering)
