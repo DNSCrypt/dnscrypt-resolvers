@@ -404,49 +404,98 @@ sdns://AgYAAAAAAAAAElsyYTAwOjU5ODA6OTQ6OjcxXQAMZG5zLmNpcmNsLmx1Ci9kbnMtcXVlcnk
 
 ## cisco
 
-Remove your DNS blind spot (DNSCrypt protocol)
+Cisco OpenDNS (DNSCrypt)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjIuMjIyILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjIuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIyILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
 
 ## cisco-doh
 
-Remove your DNS blind spot (DoH protocol)
+Cisco OpenDNS (DoH)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33w9kb2gub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAADjIwOC42Ny4yMjIuMjIyIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjIwOC42Ny4yMjAuMjIwIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cisco-familyshield
 
-Block websites not suitable for children (DNSCrypt protocol)
+Cisco OpenDNS (DNSCrypt, adult content filtering)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-Currently incompatible with DNS anonymization.
+Warning: This server is incompatible with anonymization.
 
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjIuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+
+## cisco-familyshield-doh
+
+Cisco OpenDNS (DoH, adult content filtering)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AgEAAAAAAAAADjIwOC42Ny4yMjIuMTIzIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffGGZhbWlseXNoaWVsZC5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjIwOC42Ny4yMjAuMTIzIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffGGZhbWlseXNoaWVsZC5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
+## cisco-familyshield-doh-ipv6
+
+Cisco OpenDNS (DoH, IPv6, adult content filtering)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AgEAAAAAAAAAElsyNjIwOjExOTozNTo6MTIzXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xhmYW1pbHlzaGllbGQub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAElsyNjIwOjExOTo1Mzo6MTIzXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xhmYW1pbHlzaGllbGQub3BlbmRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## cisco-familyshield-ipv6
 
-Block websites not suitable for children (IPv6)
+Cisco OpenDNS (DNSCrypt, IPv6, adult content filtering)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: This server is incompatible with anonymization.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AQEAAAAAAAAAElsyNjIwOjExOTozNTo6MTIzXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAAElsyNjIwOjExOTo1Mzo6MTIzXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+
+
+## cisco-ipv6
+
+Cisco OpenDNS (DNSCrypt, IPv6)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
@@ -454,43 +503,74 @@ Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
 sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
-
-
-## cisco-ipv6
-
-Cisco OpenDNS over IPv6 (DNSCrypt protocol)
-
-Warning: Doesn't work any more in some countries such as France and Portugal.
-
-Warning: This server is incompatible with anonymization.
-
-Warning: modifies your queries to include a copy of your network
-address when forwarding them to a selection of companies and organizations.
-
-sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAAEVsyNjIwOjExOTo1Mzo6NTNdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
 
 
 ## cisco-ipv6-doh
 
-Cisco OpenDNS over IPv6 (DoH protocol)
+Cisco OpenDNS (DoH, IPv6)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: modifies your queries to include a copy of your network
 address when forwarding them to a selection of companies and organizations.
 
-sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMWpSkN98PZG9oLm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAEVsyNjIwOjExOTo1Mzo6NTNdIJhk7ffuqFlnUnSw-t-9JpNlqaueunc9qGdJTFqUpDffD2Rucy5vcGVuZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cisco-sandbox
 
-Cisco OpenDNS Sandbox (anycast)
+Cisco OpenDNS sandbox (DNSCrypt, anycast)
 
-Warning: Doesn't work any more in some countries such as France and Portugal.
+Warning: Doesn't work anymore in some countries such as France and Portugal.
 
 Warning: This server is incompatible with anonymization.
 
-sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAADDIwOC42Ny4yMjAuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAADDIwOC42Ny4yMjIuMiC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+
+
+## cisco-sandbox-doh
+
+Cisco OpenDNS sandbox (DoH, anycast)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AgEAAAAAAAAADDIwOC42Ny4yMjAuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADDIwOC42Ny4yMjIuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+
+
+## cisco-sandbox-doh-ipv6
+
+Cisco OpenDNS sandbox (DoH, IPv6, anycast)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AgEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAD1syNjIwOjA6Y2NkOjoyXSCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33xNzYW5kYm94Lm9wZW5kbnMuY29tCi9kbnMtcXVlcnk
+
+
+## cisco-sandbox-ipv6
+
+Cisco OpenDNS sandbox (DNSCrypt, IPv6, anycast)
+
+Warning: Doesn't work anymore in some countries such as France and Portugal.
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
+sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NkOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7eRsyLmRuc2NyeXB0LWNlcnQub3BlbmRucy5jb20
 
 
 ## cleanbrowsing-adult
@@ -600,59 +680,48 @@ sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6Mjo6Ml06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn
 
 Cloudflare DNS (anycast) - aka 1.1.1.1 / 1.0.0.1
 
-sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAABzEuMS4xLjEABzEuMS4xLjEKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAABzEuMC4wLjEABzEuMC4wLjEKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAADDE2Mi4xNTkuMzYuMQAMMTYyLjE1OS4zNi4xCi9kbnMtcXVlcnk
-sdns://AgcAAAAAAAAADDE2Mi4xNTkuNDYuMQAMMTYyLjE1OS40Ni4xCi9kbnMtcXVlcnk
-sdns://AgcAAAAAAAAADjEwNC4xNi4xMzIuMjI5ABJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAADjEwNC4xNi4xMzMuMjI5ABJkbnMuY2xvdWRmbGFyZS5jb20KL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAADjEwNC4xNi4yNDkuMjQ5ABJjbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAADjEwNC4xNi4yNDguMjQ5ABJjbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAABzEuMS4xLjEAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAABzEuMC4wLjEAEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cloudflare-family
 
 Cloudflare DNS (anycast) with malware protection and parental control - aka 1.1.1.3 / 1.0.0.3
 
-sdns://AgMAAAAAAAAABzEuMS4xLjMABzEuMS4xLjMKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAABzEuMC4wLjMABzEuMC4wLjMKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAABzEuMS4xLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAABzEuMC4wLjMAGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## cloudflare-family-ipv6
 
 Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
 
-sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMTEzXQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMDAzXQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGWZhbWlseS5jbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## cloudflare-ipv6
 
 Cloudflare DNS over IPv6 (anycast)
 
-sdns://AgcAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMTExXQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMDAxXQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6OjY4MTA6ODRlNV0AEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6OjY4MTA6ODVlNV0AEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6OjY4MTA6ZjhmOV0AEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6OjY4MTA6ZjlmOV0AEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0AEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMV0AEmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cloudflare-security
 
 Cloudflare DNS (anycast) with malware blocking - aka 1.1.1.2 / 1.0.0.2
 
-sdns://AgMAAAAAAAAABzEuMS4xLjIABzEuMS4xLjIKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAABzEuMC4wLjIABzEuMC4wLjIKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAABzEuMS4xLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAABzEuMC4wLjIAG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## cloudflare-security-ipv6
 
 Cloudflare DNS over IPv6 (anycast) with malware blocking
 
-sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMTEyXQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMDAyXQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AG3NlY3VyaXR5LmNsb3VkZmxhcmUtZG5zLmNvbQovZG5zLXF1ZXJ5
 
 
 ## comodo-02
@@ -3489,18 +3558,18 @@ sdns://AQcAAAAAAAAAFDEyOS4xNTEuMjQzLjE0Mzo1MzUzICaU0eKbEtcmoE0ljHjvADPHNyZBX23wJ
 
 ## google
 
-Google DNS (anycast)
+Google Public DNS (DoH, anycast)
 
-sdns://AgUAAAAAAAAABzguOC44LjggsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkHOC44LjguOAovZG5zLXF1ZXJ5
-sdns://AgUAAAAAAAAABzguOC40LjQgsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkHOC44LjQuNAovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAABzguOC44LjggsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAABzguOC40LjQgsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
 
 
 ## google-ipv6
 
-Google DNS (anycast)
+Google Public DNS (DoH, anycast)
 
-sdns://AgUAAAAAAAAAACCwoooTgTC-0hs2MaNqAjbrTsR0pJUejBhm3K8P2I-uSRZbMjAwMTo0ODYwOjQ4NjA6Ojg4ODhdCi9kbnMtcXVlcnk
-sdns://AgUAAAAAAAAAACCwoooTgTC-0hs2MaNqAjbrTsR0pJUejBhm3K8P2I-uSRZbMjAwMTo0ODYwOjQ4NjA6Ojg4NDRdCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF0gsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg0NF0gsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
 
 
 ## he
@@ -3510,6 +3579,15 @@ Hurricane Electric DoH server (anycast)
 Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
+
+
+## he-ipv6
+
+Hurricane Electric DoH server (anycast) over IPv6
+
+Unknown logging policy.
+
+sdns://AgUAAAAAAAAAEFsyMDAxOjQ3MDoyMDo6Ml2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1UMb3JkbnMuaGUubmV0Ci9kbnMtcXVlcnk
 
 
 ## ibksturm
@@ -4305,32 +4383,48 @@ sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-
 
 ## yandex
 
-Yandex public DNS server (anycast)
+Yandex public DNS server (DoH, anycast)
 
-sdns://AgUAAAAAAAAACTc3Ljg4LjguMSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjEKL2Rucy1xdWVyeQ
-sdns://AgUAAAAAAAAACTc3Ljg4LjguOCCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjgKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAACTc3Ljg4LjguOCCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAACTc3Ljg4LjguMSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+
+
+## yandex-family
+
+Yandex public DNS server (DoH, anycast, malware filtering, adult content filtering)
+
+sdns://AgEAAAAAAAAACTc3Ljg4LjguNyCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAACTc3Ljg4LjguMyCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+
+
+## yandex-family-ipv6
+
+Yandex public DNS server (DoH, IPv6, anycast, malware filtering, adult content filtering)
+
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDphMTFdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRGWZhbWlseS5kb3QuZG5zLnlhbmRleC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YTExXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRlmYW1pbHkuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
 
 
 ## yandex-ipv6
 
-Yandex public DNS server (anycast IPv6)
+Yandex public DNS server (DoH, IPv6, anycast)
 
-sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
-sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMQovZG5zLXF1ZXJ5
+sdns://AgUAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDowZmZdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRGWNvbW1vbi5kb3QuZG5zLnlhbmRleC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6MGZmXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRljb21tb24uZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
 
 
 ## yandex-safe
 
-Yandex public DNS server with malware filtering (anycast)
+Yandex public DNS server (DoH, anycast, malware filtering)
 
-sdns://AgEAAAAAAAAACTc3Ljg4LjguMiCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
-sdns://AgEAAAAAAAAACjc3Ljg4LjguODggqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEKNzcuODguOC44OAovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAACjc3Ljg4LjguODggqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEXc2FmZS5kb3QuZG5zLnlhbmRleC5uZXQKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAACTc3Ljg4LjguMiCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
 
 
 ## yandex-safe-ipv6
 
-Yandex public DNS server with malware filtering (anycast IPv6)
+Yandex public DNS server (DoH, IPv6, anycast, malware filtering)
 
-sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
-sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRF3NhZmUuZG90LmRucy55YW5kZXgubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkRdzYWZlLmRvdC5kbnMueWFuZGV4Lm5ldAovZG5zLXF1ZXJ5
 
