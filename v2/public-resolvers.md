@@ -3999,13 +3999,6 @@ Resolver in Stockholm, Sweden. HTTP/3 DoH server. Non-logging, remove ads and ma
 sdns://AgMAAAAAAAAADTQ1LjE1My4xODcuOTYAGGRuc3NlLW5vYWRzLmFsZWtiZXJnLm5ldAovZG5zLXF1ZXJ5
 
 
-## sth-dnscrypt-se
-
-Resolver in Stockholm, Sweden. DNSCrypt server. Non-logging, non-filtering, DNSSEC.
-
-sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyDE1pgPAnfh06z6updfy39KN8PbJQHdDzVU4zEMfbeoQR8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
-
-
 ## sth-doh-se
 
 Resolver in Stockholm, Sweden. HTTP/3 DoH server. Non-logging, non-filtering, DNSSEC.
