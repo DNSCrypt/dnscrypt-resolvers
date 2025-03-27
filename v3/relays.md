@@ -436,13 +436,6 @@ Anonymized DNS relay hosted in Netherlands by https://litepay.ch
 sdns://gRMxODUuNjYuMTQzLjE3ODo1MzUz
 
 
-## anon-sth-se
-
-Anonymized DNS relay hosted in Sweden - SE
-
-sdns://gRI0NS4xNTMuMTg3Ljk2OjQzNDM
-
-
 ## anon-tiarap
 
 Anonymized DNS relay hosted in Singapore
@@ -590,33 +583,6 @@ https://www.dnscry.pt
 sdns://gQ8xNjAuMTkxLjE4Mi4yMTY
 
 
-## dnscry.pt-anon-bengaluru-ipv6
-
-DNSCry.pt Bengaluru - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRZbMjQwMTpkNGUwOjE6ZjdmZDo6NTNd
-
-
-## dnscry.pt-anon-bogota-ipv4
-
-DNSCry.pt Bogotá - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xMDMuNTcuMjUwLjM5
-
-
-## dnscry.pt-anon-bogota-ipv6
-
-DNSCry.pt Bogotá - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMmEwMzpmODA6NTc6MzRkMTo6MV0
-
-
 ## dnscry.pt-anon-bratislava-ipv4
 
 DNSCry.pt Bratislava - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -687,24 +653,6 @@ DNSCry.pt Bucharest - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRhbMmEwZDo5ZWMyOjA6ZjAzZDo6YzQ5ZV0
-
-
-## dnscry.pt-anon-budapest-ipv4
-
-DNSCry.pt Budapest - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xOTQuMTAyLjIyNy41
-
-
-## dnscry.pt-anon-budapest-ipv6
-
-DNSCry.pt Budapest - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRZbMmEwZToxZDgwOjI3OjYyODk6OjFd
 
 
 ## dnscry.pt-anon-calgary-ipv4
@@ -2109,24 +2057,6 @@ DNSCry.pt Tbilisi - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRpbMmExMjplMzQwOjMwMDo6YmMzNDo5M2U0XQ
-
-
-## dnscry.pt-anon-telaviv-ipv4
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ4xNDYuMTg1LjIxOS4yNA
-
-
-## dnscry.pt-anon-telaviv-ipv6
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRJbMmEwMzo5MGMwOjFlNTo6ZF0
 
 
 ## dnscry.pt-anon-tokyo-ipv4
