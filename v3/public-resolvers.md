@@ -656,7 +656,7 @@ sdns://AQUAAAAAAAAACjguMjYuNTYuMjYg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoM
 
 Comss.one DNS - DNS with adblock filters and antiphishing, gaining popularity among russian-speaking users.
 
-sdns://AgMAAAAAAAAAEjgzLjIyMC4xNjkuMTU1OjQ0MyDlYf7EfFodzcLpsnzlRBa83ccyBvW2elZdpzXyaa6KeQ1kbnMuY29tc3Mub25lCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADjgzLjIyMC4xNjkuMTU1IOVh_sR8Wh3NwumyfOVEFrzdxzIG9bZ6Vl2nNfJprop5DWRucy5jb21zcy5vbmUKL2Rucy1xdWVyeQ
 
 
 ## controld-block-malware
@@ -2947,7 +2947,7 @@ sdns://AQcAAAAAAAAAEzE4NS4xMTEuMTg4LjQ2Ojg0NDMgC-tbTwd-08e_JtBJmgsvjAG9i10itE-LB
 
 Canadian based, unfiltered, DNSSEC validating, and no logs... for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEGRuczEuZG5zY3J5cHQuY2EKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2ID8EEe3pxEdwV9V-V4g7HyBbIM3A8yYxKbHuAmmiZ49jEGRuczEuZG5zY3J5cHQuY2EKL2Rucy1xdWVyeQ
 
 
 ## dnscrypt.pl
