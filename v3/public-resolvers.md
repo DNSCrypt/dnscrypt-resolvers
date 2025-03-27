@@ -655,6 +655,13 @@ sdns://AQUAAAAAAAAACzguMjAuMjQ3LjIwINLCVKqWHB7KF5mW9V-8gB8INscjeatSfs2ohhvg4LOwK
 sdns://AQUAAAAAAAAACjguMjYuNTYuMjYg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
 
 
+## comss.one
+
+Comss.one DNS - DNS with adblock filters and antiphishing, gaining popularity among russian-speaking users.
+
+sdns://AgMAAAAAAAAAEjgzLjIyMC4xNjkuMTU1OjQ0MyDlYf7EfFodzcLpsnzlRBa83ccyBvW2elZdpzXyaa6KeQ1kbnMuY29tc3Mub25lCi9kbnMtcXVlcnk
+
+
 ## controld-block-malware
 
 ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
