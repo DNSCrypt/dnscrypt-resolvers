@@ -22,6 +22,11 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
+## 2.dnscrypt-cert.dnscrypt.endorisk.nl
+
+Hosted in Warsaw, Poland. Provides encrypted DNS over TLS. Prioritizes user privacy with anonymized DNS relays, no persistent logs, and DNSSEC support. No filtering.
+
+sdns://AQcAAAAAAAAAETE0Ni41OS41My43Nzo0NDQzIOkqyVUw7h3gPYOQDWZFzWl5uqHq2NY7qWWeMlEv1HxCJDIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5lbmRvcmlzay5ubA
 
 ## a-and-a
 
