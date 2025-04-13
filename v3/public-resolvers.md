@@ -2953,7 +2953,7 @@ sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2ID8EEe3pxEdwV9V-V4g7HyBbIM3A8yYxKbHuAmmiZ
 
 Hosted in Frankfurt am Main, Germany. Provides encrypted DNS over TLS with a focus on privacy. Supports DNSSEC and anonymized DNS relays. No persistent logs and no filtering.
 
-sdns://AQcAAAAAAAAAEzE3Mi4yMzYuMjA2LjE0NTo0NDMgjsqAlv2xABSApKzwamyr1B5WG0fsqOQDVOFz3Zo0u70gMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lmp3OC5vcmc
+sdns://AQcAAAAAAAAAEzE3Mi4yMzYuMjA2LjE0NTo0NDMgjsqAlv2xABSApKzwamyr1B5WG0fsqOQDVOFz3Zo0u70gMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lmo3OC5vcmc
 
 
 ## dnscrypt.pl
