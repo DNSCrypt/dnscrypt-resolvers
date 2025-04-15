@@ -3776,18 +3776,25 @@ usage, data never sold - https://safesurfer.io
 sdns://AgAAAAAAAAAAACBW1D4A3rPRi8QazGGnZq98S8bEb0ZyDjFdjqVEtSPc3BFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
 
 
+## saldns01-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
+
+sdns://AQcAAAAAAAAAFDE2My40NC4xMjQuMjA0OjUwNDQzIGvWmxvhx79edG-xPZxrQR1g9jFOofVRDbPFCGWVGV1PIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMS50eXBlcS5vcmc
+
+
 ## saldns02-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
 
-sdns://AQcAAAAAAAAAFTEzMy4xMzAuMTE4LjEwMzo1MDQ0MyB7SI0q4_Ff8lFRUCbjPtcAQ3HfdWlLxyGDUUNc3NUZdiIyLmRuc2NyeXB0LWNlcnQuc2FsZG5zMDIudHlwZXEub3Jn
+sdns://AQcAAAAAAAAAFTE2MC4yNTEuMjE0LjE3Mjo1MDQ0MyB7SI0q4_Ff8lFRUCbjPtcAQ3HfdWlLxyGDUUNc3NUZdiIyLmRuc2NyeXB0LWNlcnQuc2FsZG5zMDIudHlwZXEub3Jn
 
 
 ## saldns03-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
 
-sdns://AQcAAAAAAAAAFDEzMy4xMzAuOTguMjUwOjUwNDQzIFl1NfOwMd24kRlr0mXR4rKo-c_jMV7DBUVooDEY1xFeIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMy50eXBlcS5vcmc
+sdns://AQcAAAAAAAAAFDE2MC4yNTEuMTY4LjI1OjUwNDQzIFl1NfOwMd24kRlr0mXR4rKo-c_jMV7DBUVooDEY1xFeIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMy50eXBlcS5vcmc
 
 
 ## scaleway-ams

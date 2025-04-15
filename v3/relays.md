@@ -366,30 +366,23 @@ sdns://gQ4xMzcuNzQuMjIzLjIzNA
 
 ## anon-saldns01-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
 
-sdns://gRQxMTguMjcuMTA4LjE0MDo1MDQ0Mw
+sdns://gRQxNjMuNDQuMTI0LjIwNDo1MDQ0Mw
 
 
 ## anon-saldns02-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
 
-sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
+sdns://gRUxNjAuMjUxLjIxNC4xNzI6NTA0NDM
 
 
 ## anon-saldns03-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
+Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
 
-sdns://gRQxMzMuMTMwLjk4LjI1MDo1MDQ0Mw
-
-
-## anon-saldns99-conoha-ipv4
-
-Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log. From experimental [&mu;ODNS project](https://junkurihara.github.io/dns/).
-
-sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
+sdns://gRQxNjAuMjUxLjE2OC4yNTo1MDQ0Mw
 
 
 ## anon-scaleway
