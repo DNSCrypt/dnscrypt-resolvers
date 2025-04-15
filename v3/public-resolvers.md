@@ -3905,6 +3905,7 @@ Hosted on ConoHa VPS Tokyo region. No log. No filter. From experimental &mu;ODNS
 
 sdns://AQcAAAAAAAAAFDE2MC4yNTEuMTY4LjI1OjUwNDQzIFl1NfOwMd24kRlr0mXR4rKo-c_jMV7DBUVooDEY1xFeIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMy50eXBlcS5vcmc
 
+
 ## scaleway-ams
 
 DNSSEC/Non-logged/Uncensored in Amsterdam - DEV1-S instance donated by Scaleway.com
@@ -4101,3 +4102,4 @@ Yandex public DNS server with malware filtering (anycast IPv6)
 
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
+

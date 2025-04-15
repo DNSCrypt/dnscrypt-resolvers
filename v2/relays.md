@@ -2204,3 +2204,4 @@ DNSCry.pt Yerevan - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRlbMmEwMzo5MGMwOjVmMToyOTAzOjo1Mzld
+
