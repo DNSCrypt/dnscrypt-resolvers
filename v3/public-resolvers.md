@@ -2980,6 +2980,13 @@ https://www.dnscrypt.uk
 sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZb8UtNpEBKT_BG19qWg8GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC51aw
 
 
+## j78
+
+Hosted in Frankfurt am Main, Germany. Provides encrypted DNS over TLS with a focus on privacy. Supports DNSSEC and anonymized DNS relays. No persistent logs and no filtering.
+
+sdns://AQcAAAAAAAAADzE3Mi4yMzYuMjA2LjE0NSBnWDTijOYkXn_ihufvYNU1Q5wu4xa884qLbgQcPGZzCCAyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuajc4Lm9yZw
+
+
 ## dnsforfamily
 
 (DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
