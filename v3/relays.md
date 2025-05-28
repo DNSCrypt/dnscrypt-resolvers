@@ -594,6 +594,24 @@ https://www.dnscry.pt
 sdns://gRZbMjYwMjpmYmExOmEwMDo6MTAwOjFd
 
 
+## dnscry.pt-anon-barcelona-ipv4
+
+DNSCry.pt Barcelona - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://gQ00NS4xMzQuOTEuMTY0
+
+
+## dnscry.pt-anon-barcelona-ipv6
+
+DNSCry.pt Barcelona - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gRVbMmEwYzo5YTQwOjEwODA6OjQ2Nl0
+
+
 ## dnscry.pt-anon-bengaluru-ipv4
 
 DNSCry.pt Bengaluru - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1962,6 +1980,24 @@ https://www.dnscry.pt
 sdns://gRhbMjYwMjpmYzI0OjEyOjk4NzM6OmFiMV0
 
 
+## dnscry.pt-anon-newcastle-ipv4
+
+DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://gQ04OS4yMTMuMTk2Ljc3
+
+
+## dnscry.pt-anon-newcastle-ipv6
+
+DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gRRbMmEwMzo1ODQwOjEyMzoxOjo0XQ
+
+
 ## dnscry.pt-anon-newyork-ipv4
 
 DNSCry.pt New York - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2526,7 +2562,7 @@ DNSCry.pt Tbilisi - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 
 https://www.dnscry.pt
 
-sdns://gQ4xOTQuMTM1LjExOS45Mw
+sdns://gQ8xOTQuMTM1LjExOS4xNTg
 
 
 ## dnscry.pt-anon-tbilisi-ipv6
@@ -2535,7 +2571,7 @@ DNSCry.pt Tbilisi - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRpbMmExMjplMzQwOjMwMDo6YmMzNDo5M2U0XQ
+sdns://gRpbMmExMjplMzQwOjMwMDo6MTc2ODphOTVmXQ
 
 
 ## dnscry.pt-anon-telaviv-ipv4
@@ -2554,6 +2590,24 @@ DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRVbMjYwNTplNDQwOjI3OjoxOjM0Nl0
+
+
+## dnscry.pt-anon-timisoara-ipv4
+
+DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://gQw0NS4xMzQuNDguMjU
+
+
+## dnscry.pt-anon-timisoara-ipv6
+
+DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gR5bMmEwYzo5ZjAwOjI6ZDkyODo2ZjBhOmI0ZTI6Ol0
 
 
 ## dnscry.pt-anon-tokyo-ipv4
