@@ -1214,14 +1214,14 @@ sdns://AQcAAAAAAAAAFVsyYTAyOjU3NDA6MjQ6NDU6OjUzXSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsv
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
 
-sdns://AQcAAAAAAAAADTE4NS4xNDAuMTIuOTMgx50la90EKLdawfQ6ouxuYvCpUqJsIU-DHL1Yz9W6auUWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
+sdns://AQcAAAAAAAAADTE4NS4xNDAuMTIuOTMg60qk4H20R7Qz9KtMgf2Yi-N3__u38JYyrMGofhpR0soWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
 
 
 ## dct-fr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 
-sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzINCNcA60VX87arjzoo9aWX28No2O70kH6IGdtTgEfyJRFjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
+sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzIPjIvSs37dkox_f05iyeLOPooWKEQhQUhwwO4qAJCFKnFjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
 
 
 ## deffer-dns.au
