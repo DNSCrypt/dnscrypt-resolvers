@@ -1311,20 +1311,20 @@ sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxvcGVuLmRuczAuZ
 
 ## dns4all-ipv4
 
-A DoH, DoT and DoQ resolver operated by sidnlabs.nl. No-logs, DNSSEC and No-filter.
+A DoH resolver operated by sidnlabs.nl. No-logs, DNSSEC. Filters domains sanctioned by the EU.
 Homepage: https://dns4all.eu
 
-sdns://AgcAAAAAAAAACTE5NC4wLjUuMwAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACjE5NC4wLjUuNjQAEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAACTE5NC4wLjUuMwAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAACjE5NC4wLjUuNjQAEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
 ## dns4all-ipv6
 
-A DoH, DoT and DoQ resolver operated by sidnlabs.nl over IPv6. No-logs, DNSSEC and No-filter.
+A DoH resolver operated by sidnlabs.nl over IPv6. No-logs, DNSSEC. Filters domains sanctioned by the EU.
 Homepage: https://dns4all.eu
 
-sdns://AgcAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAAEFsyMDAxOjY3ODo4Ojo2NF0AEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAEFsyMDAxOjY3ODo4Ojo2NF0AEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-allentown-ipv4
