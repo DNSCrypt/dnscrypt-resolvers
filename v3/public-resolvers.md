@@ -1205,18 +1205,18 @@ Vancouver, Canada IPv6 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQcAAAAAAAAAFVsyYTAyOjU3NDA6MjQ6NDU6OjUzXSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## dct-de
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Frankfurt, Germany.
-
-sdns://AQcAAAAAAAAADTE4NS4xNDAuMTIuOTMg60qk4H20R7Qz9KtMgf2Yi-N3__u38JYyrMGofhpR0soWMi5kbnNjcnlwdC1jZXJ0LmRjdC1kZQ
-
-
 ## dct-fr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 
-sdns://AQcAAAAAAAAADjEwMy44Mi4xMDEuMTUzIPjIvSs37dkox_f05iyeLOPooWKEQhQUhwwO4qAJCFKnFjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
+sdns://AQcAAAAAAAAADjE5NS4xNTQuMTEzLjM5IHFaUkXTdp-SEdw9b94DfOscVPrTJ-L6mh1FA7LR5cIvFjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
+
+
+## dct-nl
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Haarlem, Netherlands.
+
+sdns://AQcAAAAAAAAADTUxLjE1OC4xNTIuNDQgRMCqCzJvBg0QEQ0zJxHRc_0dfEmqUPjYSAkSEnf8ftkWMi5kbnNjcnlwdC1jZXJ0LmRjdC1ubA
 
 
 ## deffer-dns.au
@@ -1320,20 +1320,20 @@ sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxvcGVuLmRuczAuZ
 
 ## dns4all-ipv4
 
-A DoH, DoT and DoQ resolver operated by sidnlabs.nl. No-logs, DNSSEC and No-filter.
+A DoH resolver operated by sidnlabs.nl. No-logs, DNSSEC. Filters domains sanctioned by the EU.
 Homepage: https://dns4all.eu
 
-sdns://AgcAAAAAAAAACTE5NC4wLjUuMwAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACjE5NC4wLjUuNjQAEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAACTE5NC4wLjUuMwAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAACjE5NC4wLjUuNjQAEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
 ## dns4all-ipv6
 
-A DoH, DoT and DoQ resolver operated by sidnlabs.nl over IPv6. No-logs, DNSSEC and No-filter.
+A DoH resolver operated by sidnlabs.nl over IPv6. No-logs, DNSSEC. Filters domains sanctioned by the EU.
 Homepage: https://dns4all.eu
 
-sdns://AgcAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAAEFsyMDAxOjY3ODo4Ojo2NF0AEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAEFsyMDAxOjY3ODo4Ojo2NF0AEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-allentown-ipv4
