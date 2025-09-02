@@ -1234,24 +1234,6 @@ https://www.dnscry.pt
 sdns://gRlbMjAwMTpkZjE6ODAxOmEwMjI6OmM0OmFd
 
 
-## dnscry.pt-anon-hongkong02-ipv4
-
-DNSCry.pt Hong Kong 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw5MS4xMjQuMzAuMzE
-
-
-## dnscry.pt-anon-hongkong02-ipv6
-
-DNSCry.pt Hong Kong 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYTY3OjEwMToyMDo6YV0
-
-
 ## dnscry.pt-anon-houston-ipv4
 
 DNSCry.pt Houston - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
