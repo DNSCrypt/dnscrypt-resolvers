@@ -1855,15 +1855,6 @@ https://www.dnscry.pt
 sdns://gQ4xMDguMTgxLjY5LjE1Mw
 
 
-## dnscry.pt-anon-saopaulo-ipv6
-
-DNSCry.pt Sao Paulo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR5bMjYwNDo2NjAwOmZkMDA6OTA6OjFiOGI6M2EzY10
-
-
 ## dnscry.pt-anon-seattle-ipv4
 
 DNSCry.pt Seattle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
