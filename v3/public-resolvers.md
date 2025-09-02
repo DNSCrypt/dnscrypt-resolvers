@@ -1308,15 +1308,6 @@ sdns://AgMAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9xLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 sdns://AgMAAAAAAAAAEFsyMDAxOjY3ODo4Ojo2NF0AEGRvcTY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
-## dnscry.pt-adelaide-ipv4
-
-DNSCry.pt Adelaide - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjE2My40Ny4xMTkuMTgyIJvE6sAeDFZzkpKZy9SFWlUunIB9NyaxQ7dSpX3_gCZ5GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-adelaide-ipv6
 
 DNSCry.pt Adelaide - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
