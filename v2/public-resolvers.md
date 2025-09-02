@@ -207,34 +207,6 @@ Warning: GFW filtering rules are applied by this resolver.
 sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyfBMwCTIyMy41LjUuNQovZG5zLXF1ZXJ5
 
 
-## blahdns-sg-dnscrypt-v4
-
-DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
-
-sdns://AQMAAAAAAAAAEzQ2LjI1MC4yMjYuMjQyOjg0NDMge4v0PGGlIHzs-ANifiSX0ydVdYWDeoW4focA6NmJrYcbMi5kbnNjcnlwdC1jZXJ0LmJsYWhkbnMuY29t
-
-
-## blahdns-sg-dnscrypt-v6
-
-DNSCrypt server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
-
-sdns://AQMAAAAAAAAAHVsyNDA3OjM2NDA6MjIwNToxNjY4OjoxXTo4NDQzIHuL9DxhpSB87PgDYn4kl9MnVXWFg3qFuH6HAOjZia2HGzIuZG5zY3J5cHQtY2VydC5ibGFoZG5zLmNvbQ
-
-
-## blahdns-sg-doh
-
-DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
-
-sdns://AgMAAAAAAAAADjQ2LjI1MC4yMjYuMjQyABJkb2gtc2cuYmxhaGRucy5jb20KL2Rucy1xdWVyeQ
-
-
-## blahdns-sg-doh-v6
-
-DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
-
-sdns://AgMAAAAAAAAAGFsyNDA3OjM2NDA6MjIwNToxNjY4OjoxXQASZG9oLXNnLmJsYWhkbnMuY29tCi9kbnMtcXVlcnk
-
-
 ## bortzmeyer
 
 Non-logging DoH server in France operated by Stéphane Bortzmeyer.
@@ -1324,15 +1296,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAG1syYTA3OmVmYzA6MTAwMTphNWNlOjpiNGI0XSBuXFc8mjNofd3RP2H_r06nWedhBhtbjIhZ3zKk45GcrxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-ashburn-ipv4
-
-DNSCry.pt Ashburn - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAACzQ1LjExLjIzMC44IMGyYyUUH-ohVO5gxPJoOoTQYe6WeqqivutZK9FR5v2eGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-athens-ipv4
 
 DNSCry.pt Athens - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1871,24 +1834,6 @@ DNSCry.pt Hong Kong - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAGVsyMDAxOmRmMTo4MDE6YTAyMjo6YzQ6YV0gIwkrxEDdw4oOkNmNJH0-pVePaYZ_jcIcxrp87tnMJaYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-hongkong02-ipv4
-
-DNSCry.pt Hong Kong 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDkxLjEyNC4zMC4zMSDyo1sS6VmTaElhosn2gJ09M8GXw5noLXSJV4f-VKvDGBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-hongkong02-ipv6
-
-DNSCry.pt Hong Kong 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjAyOmZhNjc6MTAxOjIwOjphXSDyo1sS6VmTaElhosn2gJ09M8GXw5noLXSJV4f-VKvDGBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-hudiksvall-ipv4
@@ -2573,24 +2518,6 @@ DNSCry.pt Singapore - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMzpmOjphXSBfgO2Adqvwp-0GfeOlxxbg7wFDZUVy3CHC7-sx-YJaxhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-singapore02-ipv4
-
-DNSCry.pt Singapore 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTEwMy4xNzkuNDQuNzMgICxK5c5XamgK_BNMTtSKyEnZM4D44NPAIHddngTPbGUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-singapore02-ipv6
-
-DNSCry.pt Singapore 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syNDAxOjQ1MjA6MTEyMjo6YV0gICxK5c5XamgK_BNMTtSKyEnZM4D44NPAIHddngTPbGUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-sofia-ipv4
