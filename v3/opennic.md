@@ -13,15 +13,6 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
-## ibksturm
-
-Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgiwvumeI8et789m3naGH-4xzM40t6c2xO_fCxHldawJgYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
-
-
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
