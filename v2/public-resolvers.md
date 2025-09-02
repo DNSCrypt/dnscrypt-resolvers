@@ -35,7 +35,7 @@ Hosted in Adelaide, Australia.
 
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
-sdns://AgMAAAAAAAAADjE2My40Ny4xMTcuMTc2oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEGFkbC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE2My40Ny4xMTcuMTc2ILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EGFkbC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
 
 
 ## adfilter-adl-ipv6
@@ -44,7 +44,7 @@ Hosted in Adelaide, Australia.
 
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
-sdns://AgMAAAAAAAAAHlsyNDAwOmM0MDE6OjUwNTQ6ZmY6ZmUxYjpiMDM2XaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAHlsyNDAwOmM0MDE6OjUwNTQ6ZmY6ZmUxYjpiMDM2XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfilter-per
@@ -80,7 +80,7 @@ Hosted in Sydney, Australia.
 
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
-sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6MjE0ZTplYTAwOjoxXSBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBzeWQuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6MjE0ZTplYTAwOjoxXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRBzeWQuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
 
 
 ## adguard-dns
@@ -241,7 +241,7 @@ Non-logging DoH server in France operated by Stéphane Bortzmeyer.
 
 https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 
-sdns://AgcAAAAAAAAADDE5My43MC44NS4xMaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRFkb2guYm9ydHptZXllci5mcgEv
+sdns://AgcAAAAAAAAADDE5My43MC44NS4xMSDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkxFkb2guYm9ydHptZXllci5mcgEv
 
 
 ## bortzmeyer-ipv6
@@ -250,7 +250,7 @@ Non-logging DoH server in France operated by Stéphane Bortzmeyer (IPv6 only).
 
 https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 
-sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1URZG9oLmJvcnR6bWV5ZXIuZnIBLw
+sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0g1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MRZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
 ## brahma-world
@@ -1198,7 +1198,7 @@ sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj
 A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled, QNAME minimization and no EDNS client subnet (https://dns.digitalsize.net).
 Hosted in Germany.
 
-sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
 
 
 ## dns.digitalsize.net-ipv6
@@ -1206,7 +1206,7 @@ sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPT
 A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled, QNAME minimization and no EDNS client subnet (https://dns.digitalsize.net).
 Hosted in Germany.
 
-sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV2gzBBg05yDKbYrb7x9DW35MJhpuYHn5jktXNj6QI9NgOag9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeigRE69Z7uD-IB7OSHpOKyReLiCvVCq2xEjHwRM9fCN986g5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvwgKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1UTZG5zLmRpZ2l0YWxzaXplLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0g1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MTZG5zLmRpZ2l0YWxzaXplLm5ldAovZG5zLXF1ZXJ5
 
 
 ## dns.sb
@@ -3048,7 +3048,7 @@ Public DoH resolver (https://dnsforge.de)
 
 Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnsforge.de-nofilter-ipv6
@@ -3057,7 +3057,7 @@ Public DoH resolver (https://dnsforge.de)
 
 Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnslow.me
@@ -3068,7 +3068,7 @@ All DNS requests will be protected with threat-intelligence feeds and randomly d
 
 More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/PeterDaveHello/dnslow.me)
 
-sdns://AgAAAAAAAAAAAKDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVQlkbnNsb3cubWUKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAACCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAlkbnNsb3cubWUKL2Rucy1xdWVyeQ
 
 
 ## dnspod
@@ -3611,7 +3611,7 @@ sdns://AgAAAAAAAAAAACBGRinMfizEpf6XTTrC4BNXB3syOlkxKYNaWpRbX7u40Qpkb2guMzYwLmNuC
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
 https://101.101.101.101/index_en.html
 
-sdns://AgcAAAAAAAAAACC2vD25TAYM7EnyCH8Xw1-0g5OccnTsGH9vQUUH0njRtAxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACD6FZeNKdZtjheTM0R4As184g4uTh98W5hVNgufwCLevgxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
 
 
 ## quad9-dnscrypt-ip4-filter-ecs-pri
@@ -3883,7 +3883,7 @@ sdns://AgYAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2
 Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
-sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## uncensoreddns-ipv6
@@ -3891,7 +3891,7 @@ sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPT
 Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
-sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVGWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## userspace-australia
@@ -3935,7 +3935,7 @@ Reliability Engineering (Traffic) team at the Foundation.
 Wikimedia DNS helps prevent some surveillance and censorship of our
 wikis and other websites by securing DNS lookups.
 
-sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4oMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4ILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## wikimedia-ipv6
@@ -3949,7 +3949,7 @@ Reliability Engineering (Traffic) team at the Foundation.
 Wikimedia DNS helps prevent some surveillance and censorship of our
 wikis and other websites by securing DNS lookups.
 
-sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVEXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## yandex
