@@ -3948,6 +3948,7 @@ https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVQ1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
+
 ## doh.ibksturm
 
 DOH Server, No Logging, No Filters, DNSSEC, OpenNIC
@@ -4061,6 +4062,7 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoMwQYNOcgym2K2-8fQ1t-TCYabmB5-Y5LVzY-kCPTYDmoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooEROvWe7g_iAezkh6TiskXi4gr1QqtsRIx8ETPXwjffOoOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8ICquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
+
 ## ibksturm
 
 Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
@@ -4068,6 +4070,7 @@ Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
 Running privately by ibksturm in Thurgau, Switzerland
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgK374BJKvK0aJHWKjmXdkG8_X2KEoao_LALK_nK6PM_AYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
 
 ## iij
 
