@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Origin: https://github.com/Quad9DNS/dnscrypt-settings
+# Origin: https://quad9.net/dnscrypt/quad9-resolvers.md
 
 import sys
 
