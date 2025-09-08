@@ -4761,20 +4761,6 @@ wikis and other websites by securing DNS lookups.
 sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4ILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
 
 
-## wikimedia-ipv6
-
-Wikimedia DNS over IPv6.
-
-Wikimedia DNS (formerly called Wikidough), is a caching, recursive,
-public resolver service that is run and managed by the Site
-Reliability Engineering (Traffic) team at the Foundation.
-
-Wikimedia DNS helps prevent some surveillance and censorship of our
-wikis and other websites by securing DNS lookups.
-
-sdns://AgcAAAAAAAAAEVsyMDAxOjY3Yzo5MzA6OjFdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
-
-
 ## yandex
 
 Yandex public DNS server (anycast)
