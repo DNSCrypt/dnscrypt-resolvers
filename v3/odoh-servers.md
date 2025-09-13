@@ -102,3 +102,8 @@ Filter ads, trackers and malware.
 
 sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
+
+## odoh-snowstorm
+ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
+
+sdns://BgcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
