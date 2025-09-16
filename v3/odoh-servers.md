@@ -30,13 +30,6 @@ Backend hosted by Scaleway. Maintained by Frank Denis.
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
-## odoh-ibksturm
-
-ODoH target server hosted by Ibksturm. No logs, No Filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
-
-
 ## odoh-id-gmail
 
 ODoH target server. Based in Singapore, no logs.
@@ -57,34 +50,6 @@ sdns://BQcAAAAAAAAAC2pwLnRpYXIuYXBwBS9vZG9o
 ODoH target server via Cloudflare, no logs.
 
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
-
-
-## odoh-koki-ams
-
-Oblivious DoH target server in The Netherlands. No logs, No filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAFG9kb2gtbmwuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
-
-
-## odoh-koki-noads-ams
-
-Oblivious DoH target server in The Netherlands. No logs, filter ads and malware, DNSSEC.
-
-sdns://BQMAAAAAAAAAGm9kb2gtbm9hZHMtbmwuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
-
-
-## odoh-koki-noads-se
-
-Oblivious DoH target server in Sweden. No logs, filter ads and malware, DNSSEC.
-
-sdns://BQMAAAAAAAAAGm9kb2gtbm9hZHMtc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
-
-
-## odoh-koki-se
-
-Oblivious DoH target server in Sweden. No logs, No filter, DNSSEC.
-
-sdns://BQcAAAAAAAAAFG9kb2gtc2UuYWxla2JlcmcubmV0Ci9kbnMtcXVlcnk
 
 
 ## odoh-marco.cx
