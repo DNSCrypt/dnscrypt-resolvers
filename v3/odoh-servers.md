@@ -99,7 +99,7 @@ sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
 
 ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
 
-sdns://BgcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
+sdns://BQcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
 
 
 ## odoh-tiarap.org
