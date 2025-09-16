@@ -95,6 +95,13 @@ Warning: uses Cloudflare resolver.
 sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
 
 
+## odoh-snowstorm
+
+ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
+
+sdns://BgcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
+
+
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
@@ -102,8 +109,3 @@ Filter ads, trackers and malware.
 
 sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
-
-## odoh-snowstorm
-ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
-
-sdns://BgcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
