@@ -1332,6 +1332,124 @@ https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAJVsyNDAwOmM0MDE6MTAwMjoxMTpiZWU6Y2VlOjk1OGM6ODczYl0gm8TqwB4MVnOSkpnL1IVaVS6cgH03JrFDt1Klff-AJnkZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
+## dns4eu-ipv4
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Blocks access to known malicious and fraudulent websites. (IPv4 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAACjg2LjU0LjExLjGg9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw0gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqegWcHJvdGVjdGl2ZS5qb2luZG5zNC
+5ldQovZG5zLXF1ZXJ5
+
+## dns4eu-ipv6
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Blocks access to known malicious and fraudulent websites. (IPv6 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAAF1syYTEzOjEwMDE6Ojg2OjU0OjExOjFdoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNILNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnoFnByb3RlY3
+RpdmUuam9pbmRuczQuZXUKL2Rucy1xdWVyeQ
+
+## dns4eu-child-ipv4
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Avoid access to websites inappropriate for children such as explicit content, violence or drugs on top of the protective functionality. (IPv4 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAACzg2LjU0LjExLjEyoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNILNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnoEWNoaWxkLmpvaW5kbnM0LmV1Ci
+9kbnMtcXVlcnk
+
+## dns4eu-child-ipv6
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Avoid access to websites inappropriate for children such as explicit content, violence or drugs on top of the protective functionality. (IPv6 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAAGFsyYTEzOjEwMDE6Ojg2OjU0OjExOjEyXaD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDSCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6BFjaGlsZC
+5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+
+## dns4eu-noads-ipv4
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Hide website and in-app ads on top of the protective functionality. (IPv4 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAACzg2LjU0LjExLjEzoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNILNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnoEW5vYWRzLmpvaW5kbnM0LmV1Ci
+9kbnMtcXVlcnk
+
+## dns4eu-noads-ipv6
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Hide website and in-app ads on top of the protective functionality. (IPv6 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAAGFsyYTEzOjEwMDE6Ojg2OjU0OjExOjEzXaD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDSCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6BFub2Fkcy
+5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+
+## dns4eu-child-noads-ipv4
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Avoid access to websites inappropriate for children, such as explicit content, violence or drugs. Plus filter ads on top of the protective functionality. (IPv4 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAACzg2LjU0LjExLjExoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNILNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnoF2NoaWxkLW5vYWRzLmpvaW5kbn
+M0LmV1Ci9kbnMtcXVlcnk
+
+## dns4eu-child-noads-ipv6
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Avoid access to websites inappropriate for children, such as explicit content, violence or drugs. Plus filter ads on top of the protective functionality. (IPv6 server)
+DNSSEC, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgMAAAAAAAAAGFsyYTEzOjEwMDE6Ojg2OjU0OjExOjExXaD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDSCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6BdjaGlsZC
+1ub2Fkcy5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+
+## dns4eu-unfiltered-ipv4
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+Unfiltered option is a valid option for users who are confident their devices and connection are secure, and are looking for fast, reliable, and anonymised resolution service. (IPv4 server)
+DNSSEC, No filter, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgcAAAAAAAAADDg2LjU0LjExLjEwMKD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDSCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6BZ1bmZpbHRlcmVkLmpvaW5kbn
+M0LmV1Ci9kbnMtcXVlcnk
+
+## dns4eu-unfiltered-ipv6
+
+DNS4EU is an initiative by the European Commission that aims to offer an alternative to the public DNS resolvers currently dominating the market.
+
+Unfiltered option is a valid option for users who are confident their devices and connection are secure, and are looking for fast, reliable, and anonymised resolution service. (IPv6 server)
+DNSSEC, No filter, No logging.
+
+Homepage: https://www.joindns4.eu
+
+sdns://AgcAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF2g9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw0gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqegWdW5maW
+x0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
 
 ## dnscry.pt-allentown-ipv4
 
