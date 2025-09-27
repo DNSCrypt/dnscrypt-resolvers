@@ -1184,18 +1184,18 @@ Vancouver, Canada IPv6 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQcAAAAAAAAAFVsyYTAyOjU3NDA6MjQ6NDU6OjUzXSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## dct-de
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Berlin, Germany.
+
+sdns://AQcAAAAAAAAADzE5NC4xNjQuMTk0LjIxNiAK-S-FyZvKD1k3EP9uYa5efk0Ofp66A_Wu8vg7rbn26RYyLmRuc2NyeXB0LWNlcnQuZGN0LWRl
+
+
 ## dct-fr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 
-sdns://AQcAAAAAAAAADjE5NS4xNTQuMTEzLjM5IHFaUkXTdp-SEdw9b94DfOscVPrTJ-L6mh1FA7LR5cIvFjIuZG5zY3J5cHQtY2VydC5kY3QtZnI
-
-
-## dct-nl
-
-DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Haarlem, Netherlands.
-
-sdns://AQcAAAAAAAAADTUxLjE1OC4xNTIuNDQgRMCqCzJvBg0QEQ0zJxHRc_0dfEmqUPjYSAkSEnf8ftkWMi5kbnNjcnlwdC1jZXJ0LmRjdC1ubA
+sdns://AQcAAAAAAAAADTE4NS4yNTMuNTQuNjIgV8Y16gh-a8WUt_e-H-ZRuX6UsOwEFc0Ocpg3A4Gs6ZwWMi5kbnNjcnlwdC1jZXJ0LmRjdC1mcg
 
 
 ## deffer-dns.au
