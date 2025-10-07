@@ -60,6 +60,13 @@ Warning: uses Cloudflare resolver.
 sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
 
 
+## odoh-snowstorm
+
+ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
+
+sdns://BQcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
+
+
 ## odoh-tiarap.org
 
 ODoH target server via Cloudflare, no logs.
