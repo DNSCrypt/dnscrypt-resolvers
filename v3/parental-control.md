@@ -169,8 +169,8 @@ sdns://AgMAAAAAAAAABzEuMC4wLjMABzEuMC4wLjMKL2Rucy1xdWVyeQ
 
 Cloudflare DNS over IPv6 (anycast) with malware protection and parental control
 
-sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMTEzXQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMDAzXQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGlsyNjA2OjQ3MDA6NDcwMDo6MTExM106NDQzCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGlsyNjA2OjQ3MDA6NDcwMDo6MTAwM106NDQzCi9kbnMtcXVlcnk
 
 
 ## dns0-kids
@@ -217,7 +217,7 @@ Completely free, no ads or any commercial motive. Operating for 4 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwN6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVRhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmBhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-doh-no-safe-search
@@ -234,7 +234,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwN6DMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5qD39a8ogB6HfX3zor4o_hSfMnSn7SnxNv1QPOOYy6gLDaCzXgWVDPvYJZ-TdboQGHC4w8TA7FpSl1fmMWfp3iap6KBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zqDmRLppY-M1_nZcuZdrErEOtUKUtCR3dkzLOjrMo6yy_CAqrj-3vwXkyBxBlNykRRHU-a8wR4bsGuchhAnPYqCDVSdkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmCdkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-no-safe-search
