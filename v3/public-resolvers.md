@@ -3429,15 +3429,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAADjE5My4xMDguMTEyLjc0IG7QPzr27aqzdTjaPc4_rNjuyP4-Bc8KtStU-0no294yGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-tirana-ipv6
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syNjA1OmU0NDA6NDY6OjI5Ml0gbtA_OvbtqrN1ONo9zj-s2O7I_j4Fzwq1K1T7Sejb3jIZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-tokyo-ipv4
 
 DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
