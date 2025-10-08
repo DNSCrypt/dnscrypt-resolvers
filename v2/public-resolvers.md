@@ -1188,34 +1188,6 @@ Homepage: https://dns.sb
 sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiAOp5Svj-oV-Fz-65-8H2VKHLKJ0egmfEgrdPeAQlUFFA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
 
 
-## dns0
-
-A free, sovereign and GDPR-compliant recursive DNS resolver with a
-strong focus on security to protect the citizens and organizations of
-the European Union.
-
-Blocks new domains, dynamic DNS, parked domains, uncommon TLDs, etc.
-
-https://www.dns0.eu/
-
-sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQdkbnMwLmV1Ci9kbnMtcXVlcnk
-
-
-## dns0-kids
-
-A free, sovereign and GDPR-compliant recursive DNS resolver with a
-strong focus on security to protect the citizens and organizations of
-the European Union.
-
-This version blocks content not suitable for children.
-
-Also blocks new domains, dynamic DNS, parked domains, uncommon TLDs, etc.
-
-https://www.dns0.eu/
-
-sdns://AgMAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxraWRzLmRuczAuZXUKL2Rucy1xdWVyeQ
-
-
 ## dns0-unfiltered
 
 The unfiltered version of dns0.eu.
