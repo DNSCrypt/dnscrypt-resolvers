@@ -2502,24 +2502,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6NTU1Ojo3Ml0gS8jVegUFP4sDSXKIm9PYxfLCJ_rnACQS31CLlx2UA9YZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-lisbon-ipv4
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE4NS4yMTkuMTMwLjIgHK9ZDGB_hDz_YHLGqdsTmT_RzQElksp6DBaYUSXst2oZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-lisbon-ipv6
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAGlsyYTBlOmJjMDA6OjE4NToyMTk6MTMwOjJdIByvWQxgf4Q8_2ByxqnbE5k_0c0BJZLKegwWmFEl7LdqGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-london-ipv4
 
 DNSCry.pt London - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
