@@ -1326,6 +1326,17 @@ appears to rely significantly on non-EU infrastructure and service providers.
 sdns://AgMAAAAAAAAAF1syYTEzOjEwMDE6Ojg2OjU0OjExOjFdoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoPV1fXhvFz9qtTGX7JwikIrAbSrk6qKltvWOu_ADl6HfoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooOzwYgv8MNRE3vV3rcZcN1Bac7otL9nm_0HD7TrQ1loPoKLjJ0NjdtjnZAWr6f7IjLQd4tTQNQ1OgpKlMRjEuN9boJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5oNatcE00F04SCMlSqquYNescBmsNzaO02tQPRRPo4YJaoLJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0oOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8oCquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVoNYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYFnByb3RlY3RpdmUuam9pbmRuczQuZXUKL2Rucy1xdWVyeQ
 
 
+## dnsbunker
+
+A DNS resolver located in Germany.
+
+Designed to block ads, malware, and surveillance. No logs.
+
+https://dnsbunker.org
+
+sdns://AgMAAAAAAAAADTQ1LjEzNi4zMC4xMzQgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkNZG5zYnVua2VyLm9yZwovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-adelaide-ipv4
 
 DNSCry.pt Adelaide - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
