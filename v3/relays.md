@@ -617,6 +617,34 @@ Lagergren (@ericlagergren). Running the official Docker image on Vultr.
 sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 
+## anon-jp1.vr.ekinao.com
+
+Anonymized DNS relay IPv4 server provided by https://www.ekinao.com/dnscrypt.html
+
+sdns://gRQxMzMuMjQyLjE2MS4yNTE6NTM1Mw
+
+
+## anon-jp1.vr.ekinao.com-ipv6
+
+Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
+
+sdns://gSlbMjQwMToyNTAwOjEwMjoxMTExOjEzMzoyNDI6MTYxOjI1MV06NTM1Mw
+
+
+## anon-jp2.vr.ekinao.com
+
+Anonymized DNS relay IPv4 server provided by https://www.ekinao.com/dnscrypt.html
+
+sdns://gRMxNTMuMTI3LjE2LjIzNTo1MzUz
+
+
+## anon-jp2.vr.ekinao.com-ipv6
+
+Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
+
+sdns://gShbMjQwMToyNTAwOjIwNDoxMTA2OjE1MzoxMjc6MTY6MjM1XTo1MzUz
+
+
 ## anon-kama
 
 Anonymized DNS relay hosted in France and maintained by Frank Denis (@jedisct1).
