@@ -4650,6 +4650,20 @@ Maintained by Frank Denis - https://fr.dnscrypt.info
 sdns://AQcAAAAAAAAAJVsyMDAxOmJjODo3MTA6NTgxODpkYzAwOmZmOmZlNWI6M2Y2M10g6AG4TqYGv7C6wM5DRFuxXrpksC-jxKoxrhBjageQMk0fMi5kbnNjcnlwdC1jZXJ0LmZyLmRuc2NyeXB0Lm9yZw
 
 
+## searx-se-ipv4
+
+No-filtering - No-logging - Sweden - IPv4
+
+sdns://AQcAAAAAAAAAEzE4NS4xOTUuMjM2LjE2OjU0NDMgL5FKFwxJ_35yPTqBA_GxELJMhgzr8RCbThTPXO_0OgEYMi5kbnNjcnlwdC1jZXJ0LnNlYXJ4LWNj
+
+
+## searx-se-ipv6
+
+No-filtering - No-logging - Sweden - IPv6
+
+sdns://AQcAAAAAAAAAGlsyYTA5OmIyODA6ZmUwMTplOjphXTo1NDQzIC-RShcMSf9-cj06gQPxsRCyTIYM6_EQm04Uz1zv9DoBGDIuZG5zY3J5cHQtY2VydC5zZWFyeC1jYw
+
+
 ## serbica
 
 Public DNSCrypt server in the Netherlands by https://litepay.ch
