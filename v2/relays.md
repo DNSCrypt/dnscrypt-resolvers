@@ -1163,15 +1163,6 @@ https://www.dnscry.pt
 sdns://gRhbMmEwZDpkOGMwOjA6ZjA0Mzo6NjkyN10
 
 
-## dnscry.pt-anon-dallas-ipv4
-
-DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0yMy4yMzAuMjUzLjk4
-
-
 ## dnscry.pt-anon-dallas-ipv6
 
 DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
