@@ -2198,15 +2198,6 @@ https://www.dnscry.pt
 sdns://gRNbMjYwMjpmOTUzOjY6MjU6OmFd
 
 
-## dnscry.pt-anon-palermo-ipv4
-
-DNSCry.pt Palermo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xODUuMTk4LjIzNS41
-
-
 ## dnscry.pt-anon-paris-ipv4
 
 DNSCry.pt Paris - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2529,15 +2520,6 @@ DNSCry.pt Singapore 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serv
 https://www.dnscry.pt
 
 sdns://gRNbMjQwMTo0NTIwOjExMjI6OmFd
-
-
-## dnscry.pt-anon-sofia-ipv6
-
-DNSCry.pt Sofia - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRZbMmEwMTo4NzQwOjE6NDA6OjhhMjVd
 
 
 ## dnscry.pt-anon-spokane-ipv4
