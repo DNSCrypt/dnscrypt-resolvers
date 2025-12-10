@@ -3307,24 +3307,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAE1syYTBhOjYwNDA6OTczZDo6YV0g32oubKdYpvgTx8GzNRgp06p9tBSG0H7r78myrBn9KY4ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-toronto-ipv4
-
-DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDIzLjEzNC44OS4yMyB4hEFNFQU627_7pPlQl-k6TkU1hGlpOEZe7eg7V1tODRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-toronto-ipv6
-
-DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyNjAyOmZiYTE6ZDAwOjoyMzoxXSB4hEFNFQU627_7pPlQl-k6TkU1hGlpOEZe7eg7V1tODRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-tuusula-ipv4
 
 DNSCry.pt Tuusula - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -3386,15 +3368,6 @@ DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAADTgzLjEzOC41NS4xODYg3kyI1rUYwQymzbrF1c5fYhw1rWmOTm8L6i1aISwm6y4ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-vienna-ipv6
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAHVsyYTBkOmYzMDI6MTEwOjY1MTc6OmJiNDoyMTRdIN5MiNa1GMEMps26xdXOX2IcNa1pjk5vC-otWiEsJusuGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-vilnius-ipv4
