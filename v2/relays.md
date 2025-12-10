@@ -1361,24 +1361,6 @@ https://www.dnscry.pt
 sdns://gRRbMmEwNzpkODg0OjEwMDo6MzQ0XQ
 
 
-## dnscry.pt-anon-fremont-ipv4
-
-DNSCry.pt Fremont - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4xMzQuODguNzE
-
-
-## dnscry.pt-anon-fremont-ipv6
-
-DNSCry.pt Fremont - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYmExOjEwMDo6NzE6MV0
-
-
 ## dnscry.pt-anon-fremont02-ipv4
 
 DNSCry.pt Fremont 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
