@@ -1,6 +1,6 @@
 module github.com/dnscrypt/resolver-monitor
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/jedisct1/go-dnsstamps v0.0.0-20251112173516-191fc465df31
