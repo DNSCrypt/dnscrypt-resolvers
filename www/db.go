@@ -104,7 +104,7 @@ func (d *DB) Close() error {
 }
 
 func (d *DB) UpsertResolver(name, typ, description, sourceFile string) (int64, error) {
-	result, err := d.db.Exec(`
+	_, err := d.db.Exec(`
 		INSERT INTO resolvers (name, type, description, source_file)
 		VALUES (?, ?, ?, ?)
 		ON CONFLICT(name, type) DO UPDATE SET
@@ -115,11 +115,12 @@ func (d *DB) UpsertResolver(name, typ, description, sourceFile string) (int64, e
 		return 0, err
 	}
 
-	id, err := result.LastInsertId()
-	if err != nil || id == 0 {
-		row := d.db.QueryRow("SELECT id FROM resolvers WHERE name = ? AND type = ?", name, typ)
-		err = row.Scan(&id)
-	}
+	// Always query for the ID after upsert. LastInsertId() is unreliable with
+	// ON CONFLICT DO UPDATE - it returns the last insert rowid from any prior
+	// insert in the session, not the ID of the updated row.
+	var id int64
+	row := d.db.QueryRow("SELECT id FROM resolvers WHERE name = ? AND type = ?", name, typ)
+	err = row.Scan(&id)
 	return id, err
 }
 
