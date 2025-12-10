@@ -2,6 +2,7 @@ package main
 
 import (
 	"database/sql"
+	"fmt"
 	"time"
 
 	_ "github.com/mattn/go-sqlite3"
@@ -44,9 +45,21 @@ type ResolverStats struct {
 }
 
 func NewDB(path string) (*DB, error) {
-	db, err := sql.Open("sqlite3", path+"?_journal_mode=WAL&_busy_timeout=5000")
+	db, err := sql.Open("sqlite3", path+"?_journal_mode=WAL&_busy_timeout=5000&_synchronous=NORMAL")
 	if err != nil {
 		return nil, err
+	}
+
+	// Use a single connection to avoid WAL snapshot isolation issues.
+	// With multiple connections, readers can see stale data because each
+	// connection may hold an old snapshot of the WAL. A single connection
+	// ensures all reads see the latest committed writes.
+	db.SetMaxOpenConns(1)
+
+	// Verify connection works
+	if err := db.Ping(); err != nil {
+		db.Close()
+		return nil, fmt.Errorf("failed to ping database: %w", err)
 	}
 
 	if err := createTables(db); err != nil {
@@ -111,11 +124,19 @@ func (d *DB) UpsertResolver(name, typ, description, sourceFile string) (int64, e
 }
 
 func (d *DB) RecordTest(resolverID int64, stamp string, success bool, rttMs int64, errMsg string) error {
-	_, err := d.db.Exec(`
+	result, err := d.db.Exec(`
 		INSERT INTO test_results (resolver_id, stamp, success, rtt_ms, error)
 		VALUES (?, ?, ?, ?, ?)
 	`, resolverID, stamp, success, rttMs, errMsg)
-	return err
+	if err != nil {
+		return err
+	}
+	// Verify the insert actually happened
+	rows, _ := result.RowsAffected()
+	if rows == 0 {
+		return fmt.Errorf("no rows inserted for resolver %d", resolverID)
+	}
+	return nil
 }
 
 func (d *DB) GetAllStats() ([]ResolverStats, error) {
@@ -250,4 +271,19 @@ func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error
 	}
 
 	return names, nil
+}
+
+// GetTestCount returns the total number of test results and the timestamp of the most recent one
+func (d *DB) GetTestCount() (count int64, lastTest time.Time, err error) {
+	var lastTestStr sql.NullString
+	err = d.db.QueryRow(`
+		SELECT COUNT(*), MAX(tested_at) FROM test_results
+	`).Scan(&count, &lastTestStr)
+	if err != nil {
+		return 0, time.Time{}, err
+	}
+	if lastTestStr.Valid {
+		lastTest, _ = time.Parse("2006-01-02 15:04:05", lastTestStr.String)
+	}
+	return count, lastTest, nil
 }

@@ -31,6 +31,9 @@ func main() {
 	tester := NewTester(db, *concurrency, *timeout)
 
 	runTests := func() {
+		startTime := time.Now()
+		log.Printf("Starting test run at %s", startTime.Format(time.RFC3339))
+
 		resolvers, err := parser.ParseAll()
 		if err != nil {
 			log.Printf("Failed to parse resolvers: %v", err)
@@ -45,6 +48,16 @@ func main() {
 		} else if len(removed) > 0 {
 			log.Printf("Removed %d stale resolvers: %v", len(removed), removed)
 		}
+
+		// Log database state after test run
+		count, lastTest, err := db.GetTestCount()
+		if err != nil {
+			log.Printf("Failed to get test count: %v", err)
+		} else {
+			log.Printf("Database: %d total tests, last at %s", count, lastTest.Format(time.RFC3339))
+		}
+
+		log.Printf("Test run completed in %v", time.Since(startTime))
 	}
 
 	if *runOnce {

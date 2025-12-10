@@ -121,7 +121,7 @@ func (t *Tester) TestAll(resolvers []Resolver) {
 		close(results)
 	}()
 
-	successCount, failCount := 0, 0
+	successCount, failCount, recordErrors := 0, 0, 0
 
 	for result := range results {
 		if result.ResolverID == 0 {
@@ -137,6 +137,7 @@ func (t *Tester) TestAll(resolvers []Resolver) {
 		err := t.db.RecordTest(result.ResolverID, result.Stamp, result.Success, result.RTT.Milliseconds(), errMsg)
 		if err != nil {
 			log.Printf("Failed to record test result: %v", err)
+			recordErrors++
 		}
 
 		if result.Success {
@@ -146,7 +147,7 @@ func (t *Tester) TestAll(resolvers []Resolver) {
 		}
 	}
 
-	log.Printf("Test completed: %d success, %d failed", successCount, failCount)
+	log.Printf("Test completed: %d success, %d failed, %d record errors", successCount, failCount, recordErrors)
 }
 
 func (t *Tester) testOne(job TestJob) TestJobResult {
