@@ -379,42 +379,42 @@ sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7e
 
 ## cira-private
 
-Canadian Internet Registration Authority (CIRA) Private - DNS resolution only
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Private - DNS resolution only
 
 sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjEwAB5wcml2YXRlLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjEwAB5wcml2YXRlLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 ## cira-private-ipv6
 
-Canadian Internet Registration Authority (CIRA) Private - DNS resolution only - IPV6
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Private - DNS resolution only - IPV6
 
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoxMF0AHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoxMF0AHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 ## cira-protected
 
-Canadian Internet Registration Authority (CIRA) Protected - Malware and phishing protection
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Protected - Malware and phishing protection
 
 sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjIwACBwcm90ZWN0ZWQuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjIwACBwcm90ZWN0ZWQuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 ## cira-protected-ipv6
 
-Canadian Internet Registration Authority (CIRA) Protected - Malware and phishing protection - IPV6
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Protected - Malware and phishing protection - IPV6
 
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoyMF0AIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoyMF0AIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 ## cira-family
 
-Canadian Internet Registration Authority (CIRA) Family - Malware and phishing protection plus blocking pornographic content
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Family - Malware and phishing protection plus blocking pornographic content
 
 sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwAB1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwAB1mYW1pbHkuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 ## cira-family-ipv6
 
-Canadian Internet Registration Authority (CIRA) Family - Malware and phishing protection plus blocking pornographic content - IPV6
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Family - Malware and phishing protection plus blocking pornographic content - IPV6
 
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0AHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0AHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
