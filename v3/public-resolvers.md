@@ -4492,13 +4492,6 @@ sdns://AgMAAAAAAAAAElsyMDAxOjYyMDowOmZmOjoyXSCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX
 sdns://AgMAAAAAAAAAElsyMDAxOjYyMDowOmZmOjozXSCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kPJ0kLxZbMjAwMTo2MjA6MDpmZjo6M106NDQzCi9kbnMtcXVlcnk
 
 
-## tuna-doh-ipv6
-
-DoH server provided by Tsinghua University TUNA Association, located in mainland China, no GFW poisoning yet it has a manual blacklist.
-
-sdns://AgAAAAAAAAAAG1syNDAyOmYwMDA6MTo0MTY6MTAxOjY6Njo2XSACKC69_nqGQOLLyjCQJNWgwRXTVfrgMllhwr12J14JbB1kbnMudHVuYS50c2luZ2h1YS5lZHUuY246ODQ0MwovZG5zLXF1ZXJ5
-
-
 ## uncensoreddns-dk-ipv4
 
 Also known as censurfridns.
