@@ -8,6 +8,9 @@ Interactive list of public DNS servers:
 Interactive map of public DNS servers:
 - https://dnscrypt.info/map
 
+Public DNS server status:
+- https://status.dnscrypt.info
+
 Stable download URLs:
 - https://github.com/DNSCrypt/dnscrypt-resolvers/tree/master/v3
 - https://download.dnscrypt.info/dnscrypt-resolvers/v3/
