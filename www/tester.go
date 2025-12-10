@@ -764,7 +764,7 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 
 		// Per-attempt timeout for the query
 		conn.SetDeadline(time.Now().Add(t.timeout))
-		response, err := t.sendRelayQuery(conn, anonPacket)
+		response, err := t.sendDNSQuery(conn, anonPacket, false)
 		conn.Close()
 		if err != nil {
 			lastErr = err
@@ -790,7 +790,7 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	defer conn.Close()
 
 	conn.SetDeadline(time.Now().Add(t.timeout))
-	response, err := t.sendRelayQueryTCP(conn, anonPacket)
+	response, err := t.sendDNSQuery(conn, anonPacket, true)
 	if err != nil {
 		return fmt.Errorf("relay test failed (UDP: %v, TCP: %v)", lastErr, err)
 	}
@@ -810,65 +810,6 @@ func buildAnonPacket(serverIP net.IP, serverPort int, dnsQuery []byte) []byte {
 	packet = append(packet, dnsQuery...)
 
 	return packet
-}
-
-// sendRelayQuery sends a query through the relay via UDP and returns the response.
-// The caller must set the connection deadline before calling this function.
-func (t *Tester) sendRelayQuery(conn net.Conn, packet []byte) (*dns.Msg, error) {
-	if _, err := conn.Write(packet); err != nil {
-		return nil, fmt.Errorf("failed to write query: %v", err)
-	}
-
-	buffer := make([]byte, 4096)
-	n, err := conn.Read(buffer)
-	if err != nil {
-		return nil, fmt.Errorf("failed to read response: %v", err)
-	}
-
-	response := new(dns.Msg)
-	if err := response.Unpack(buffer[:n]); err != nil {
-		return nil, fmt.Errorf("failed to parse DNS response: %v", err)
-	}
-
-	return response, nil
-}
-
-// sendRelayQueryTCP sends a query through the relay via TCP and returns the response.
-// The caller must set the connection deadline before calling this function.
-func (t *Tester) sendRelayQueryTCP(conn net.Conn, packet []byte) (*dns.Msg, error) {
-	// TCP requires 2-byte length prefix
-	length := make([]byte, 2)
-	length[0] = byte(len(packet) >> 8)
-	length[1] = byte(len(packet))
-
-	if _, err := conn.Write(length); err != nil {
-		return nil, fmt.Errorf("failed to write length: %v", err)
-	}
-	if _, err := conn.Write(packet); err != nil {
-		return nil, fmt.Errorf("failed to write query: %v", err)
-	}
-
-	// Read response length
-	lengthBuf := make([]byte, 2)
-	if _, err := io.ReadFull(conn, lengthBuf); err != nil {
-		return nil, fmt.Errorf("failed to read response length: %v", err)
-	}
-	respLen := int(lengthBuf[0])<<8 | int(lengthBuf[1])
-	if respLen > 65535 {
-		return nil, fmt.Errorf("response too large: %d bytes", respLen)
-	}
-
-	buffer := make([]byte, respLen)
-	if _, err := io.ReadFull(conn, buffer); err != nil {
-		return nil, fmt.Errorf("failed to read response: %v", err)
-	}
-
-	response := new(dns.Msg)
-	if err := response.Unpack(buffer); err != nil {
-		return nil, fmt.Errorf("failed to parse DNS response: %v", err)
-	}
-
-	return response, nil
 }
 
 // validateRelayResponse checks that the response contains valid DNSCrypt certificate TXT records

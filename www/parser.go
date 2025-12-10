@@ -5,18 +5,15 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
-
-	stamps "github.com/jedisct1/go-dnsstamps"
 )
 
 type ResolverType string
 
 const (
-	TypeResolver     ResolverType = "resolver"
-	TypeRelay        ResolverType = "relay"
-	TypeODoHServer   ResolverType = "odoh_server"
-	TypeODoHRelay    ResolverType = "odoh_relay"
-	TypeOnionService ResolverType = "onion"
+	TypeResolver   ResolverType = "resolver"
+	TypeRelay      ResolverType = "relay"
+	TypeODoHServer ResolverType = "odoh_server"
+	TypeODoHRelay  ResolverType = "odoh_relay"
 )
 
 type Resolver struct {
@@ -39,25 +36,13 @@ func (p *Parser) ParseAll() ([]Resolver, error) {
 	var allResolvers []Resolver
 
 	files := []struct {
-		name       string
-		typ        ResolverType
-		stampTypes []stamps.StampProtoType
+		name string
+		typ  ResolverType
 	}{
-		{"public-resolvers.md", TypeResolver, []stamps.StampProtoType{
-			stamps.StampProtoTypeDNSCrypt,
-			stamps.StampProtoTypeDoH,
-			stamps.StampProtoTypeTLS,
-			stamps.StampProtoTypeDoQ,
-		}},
-		{"relays.md", TypeRelay, []stamps.StampProtoType{
-			stamps.StampProtoTypeDNSCryptRelay,
-		}},
-		{"odoh-servers.md", TypeODoHServer, []stamps.StampProtoType{
-			stamps.StampProtoTypeODoHTarget,
-		}},
-		{"odoh-relays.md", TypeODoHRelay, []stamps.StampProtoType{
-			stamps.StampProtoTypeODoHRelay,
-		}},
+		{"public-resolvers.md", TypeResolver},
+		{"relays.md", TypeRelay},
+		{"odoh-servers.md", TypeODoHServer},
+		{"odoh-relays.md", TypeODoHRelay},
 		// Onion services are skipped - testing requires Tor
 	}
 
@@ -122,16 +107,4 @@ func (p *Parser) parseFile(path string, typ ResolverType) ([]Resolver, error) {
 	}
 
 	return resolvers, nil
-}
-
-func GetStampProto(stampStr string) (stamps.StampProtoType, error) {
-	stamp, err := stamps.NewServerStampFromString(stampStr)
-	if err != nil {
-		return 0, err
-	}
-	return stamp.Proto, nil
-}
-
-func ParseStamp(stampStr string) (stamps.ServerStamp, error) {
-	return stamps.NewServerStampFromString(stampStr)
 }

@@ -193,30 +193,6 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 	return stats, rows.Err()
 }
 
-func (d *DB) GetStatsByType(typ string) ([]ResolverStats, error) {
-	allStats, err := d.GetAllStats()
-	if err != nil {
-		return nil, err
-	}
-
-	var filtered []ResolverStats
-	for _, s := range allStats {
-		if s.Type == typ {
-			filtered = append(filtered, s)
-		}
-	}
-	return filtered, nil
-}
-
-func (d *DB) PruneOldResults(olderThan time.Duration) (int64, error) {
-	cutoff := time.Now().Add(-olderThan)
-	result, err := d.db.Exec("DELETE FROM test_results WHERE tested_at < ?", cutoff)
-	if err != nil {
-		return 0, err
-	}
-	return result.RowsAffected()
-}
-
 // RemoveStaleResolvers removes resolvers that haven't had a successful response
 // in the given duration. Only removes resolvers that have had at least one
 // successful test in the past (to avoid removing newly added resolvers).

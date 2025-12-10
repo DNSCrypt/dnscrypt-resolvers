@@ -30,30 +30,6 @@ func main() {
 	parser := NewParser(*resolversDir)
 	tester := NewTester(db, *concurrency, *timeout)
 
-	if *runOnce {
-		resolvers, err := parser.ParseAll()
-		if err != nil {
-			log.Fatalf("Failed to parse resolvers: %v", err)
-		}
-		log.Printf("Parsed %d resolvers/relays", len(resolvers))
-		tester.TestAll(resolvers)
-
-		// Remove resolvers with no successful response for more than a week
-		removed, err := db.RemoveStaleResolvers(7 * 24 * time.Hour)
-		if err != nil {
-			log.Printf("Failed to remove stale resolvers: %v", err)
-		} else if len(removed) > 0 {
-			log.Printf("Removed %d stale resolvers: %v", len(removed), removed)
-		}
-		return
-	}
-
-	web := NewWebServer(db, *webAddr)
-	go web.Start()
-
-	ticker := time.NewTicker(*testInterval)
-	defer ticker.Stop()
-
 	runTests := func() {
 		resolvers, err := parser.ParseAll()
 		if err != nil {
@@ -63,7 +39,6 @@ func main() {
 		log.Printf("Parsed %d resolvers/relays", len(resolvers))
 		tester.TestAll(resolvers)
 
-		// Remove resolvers with no successful response for more than a week
 		removed, err := db.RemoveStaleResolvers(7 * 24 * time.Hour)
 		if err != nil {
 			log.Printf("Failed to remove stale resolvers: %v", err)
@@ -71,6 +46,17 @@ func main() {
 			log.Printf("Removed %d stale resolvers: %v", len(removed), removed)
 		}
 	}
+
+	if *runOnce {
+		runTests()
+		return
+	}
+
+	web := NewWebServer(db, *webAddr)
+	go web.Start()
+
+	ticker := time.NewTicker(*testInterval)
+	defer ticker.Stop()
 
 	runTests()
 

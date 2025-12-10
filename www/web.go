@@ -190,14 +190,21 @@ func (w *WebServer) handleAPIStatsByType(rw http.ResponseWriter, r *http.Request
 		return
 	}
 
-	stats, err := w.db.GetStatsByType(typ)
+	allStats, err := w.db.GetAllStats()
 	if err != nil {
 		http.Error(rw, err.Error(), http.StatusInternalServerError)
 		return
 	}
 
+	var filtered []ResolverStats
+	for _, s := range allStats {
+		if s.Type == typ {
+			filtered = append(filtered, s)
+		}
+	}
+
 	rw.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(rw).Encode(stats)
+	json.NewEncoder(rw).Encode(filtered)
 }
 
 const indexTemplate = `<!DOCTYPE html>
