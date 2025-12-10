@@ -1856,33 +1856,6 @@ https://www.dnscry.pt
 sdns://gRNbMmEwMzo5MGMwOjU1NTo6NzJd
 
 
-## dnscry.pt-anon-lisbon-ipv4
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xODUuMjE5LjEzMC4y
-
-
-## dnscry.pt-anon-lisbon-ipv6
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMmEwZTpiYzAwOjoxODU6MjE5OjEzMDoyXQ
-
-
-## dnscry.pt-anon-london-ipv6
-
-DNSCry.pt London - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRRbMmEwNTo0MTQwOjcwMDplOjphXQ
-
-
 ## dnscry.pt-anon-losangeles-ipv4
 
 DNSCry.pt Los Angeles - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2162,15 +2135,6 @@ https://www.dnscry.pt
 sdns://gRhbMjYwMjpmYzI0OjEyOjk4NzM6OmFiMV0
 
 
-## dnscry.pt-anon-newcastle-ipv4
-
-DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ04OS4yMTMuMTk2Ljc3
-
-
 ## dnscry.pt-anon-newcastle-ipv6
 
 DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -2214,24 +2178,6 @@ DNSCry.pt Nuremberg - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gSVbMmEwMzo0MDAwOjVjOjUxOjI0Yjk6NTFmZjpmZTgwOmYzYTdd
-
-
-## dnscry.pt-anon-oradea-ipv4
-
-DNSCry.pt Oradea - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xOTMuMzIuODcuMTI3
-
-
-## dnscry.pt-anon-oradea-ipv6
-
-DNSCry.pt Oradea - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR5bMmEwZDo4MTQzOjA6MTI0OjI5MTU6YWY6MDoxOF0
 
 
 ## dnscry.pt-anon-ottoville-ipv4
