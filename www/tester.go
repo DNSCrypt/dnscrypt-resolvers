@@ -694,8 +694,10 @@ func (t *Tester) testDoQ(stamp stamps.ServerStamp) error {
 // IP: 212.47.228.136, Port: 443, Provider: 2.dnscrypt-cert.fr.dnscrypt.org
 var referenceServerIP = net.ParseIP("212.47.228.136")
 
-const referenceServerPort = 443
-const referenceProviderName = "2.dnscrypt-cert.fr.dnscrypt.org"
+const (
+	referenceServerPort   = 443
+	referenceProviderName = "2.dnscrypt-cert.fr.dnscrypt.org"
+)
 
 // Anonymized DNSCrypt magic prefix (10 bytes)
 var anonMagic = []byte{0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00}
