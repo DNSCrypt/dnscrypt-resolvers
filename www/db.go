@@ -215,11 +215,14 @@ func (d *DB) PruneOldResults(olderThan time.Duration) (int64, error) {
 }
 
 // RemoveStaleResolvers removes resolvers that haven't had a successful response
-// in the given duration. Returns the names of removed resolvers.
+// in the given duration. Only removes resolvers that have had at least one
+// successful test in the past (to avoid removing newly added resolvers).
+// Returns the names of removed resolvers.
 func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error) {
 	cutoff := time.Now().Add(-noSuccessSince)
 
-	// Find resolvers with no successful test after cutoff
+	// Find resolvers with no successful test after cutoff,
+	// but that have had at least one successful test before
 	rows, err := d.db.Query(`
 		SELECT r.id, r.name
 		FROM resolvers r
@@ -232,6 +235,7 @@ func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error
 		AND EXISTS (
 			SELECT 1 FROM test_results t2
 			WHERE t2.resolver_id = r.id
+			AND t2.success = 1
 		)
 	`, cutoff)
 	if err != nil {
