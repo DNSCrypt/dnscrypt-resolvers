@@ -213,3 +213,58 @@ func (d *DB) PruneOldResults(olderThan time.Duration) (int64, error) {
 	}
 	return result.RowsAffected()
 }
+
+// RemoveStaleResolvers removes resolvers that haven't had a successful response
+// in the given duration. Returns the names of removed resolvers.
+func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error) {
+	cutoff := time.Now().Add(-noSuccessSince)
+
+	// Find resolvers with no successful test after cutoff
+	rows, err := d.db.Query(`
+		SELECT r.id, r.name
+		FROM resolvers r
+		WHERE NOT EXISTS (
+			SELECT 1 FROM test_results t
+			WHERE t.resolver_id = r.id
+			AND t.success = 1
+			AND t.tested_at > ?
+		)
+		AND EXISTS (
+			SELECT 1 FROM test_results t2
+			WHERE t2.resolver_id = r.id
+		)
+	`, cutoff)
+	if err != nil {
+		return nil, err
+	}
+
+	var idsToDelete []int64
+	var names []string
+	for rows.Next() {
+		var id int64
+		var name string
+		if err := rows.Scan(&id, &name); err != nil {
+			rows.Close()
+			return nil, err
+		}
+		idsToDelete = append(idsToDelete, id)
+		names = append(names, name)
+	}
+	rows.Close()
+
+	if len(idsToDelete) == 0 {
+		return nil, nil
+	}
+
+	// Delete test results and resolvers
+	for _, id := range idsToDelete {
+		if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
+			return names, err
+		}
+		if _, err := d.db.Exec("DELETE FROM resolvers WHERE id = ?", id); err != nil {
+			return names, err
+		}
+	}
+
+	return names, nil
+}

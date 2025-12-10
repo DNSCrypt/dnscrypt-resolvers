@@ -54,6 +54,14 @@ func main() {
 		}
 		log.Printf("Parsed %d resolvers/relays", len(resolvers))
 		tester.TestAll(resolvers)
+
+		// Remove resolvers with no successful response for more than a week
+		removed, err := db.RemoveStaleResolvers(7 * 24 * time.Hour)
+		if err != nil {
+			log.Printf("Failed to remove stale resolvers: %v", err)
+		} else if len(removed) > 0 {
+			log.Printf("Removed %d stale resolvers: %v", len(removed), removed)
+		}
 	}
 
 	runTests()
