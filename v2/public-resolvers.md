@@ -2254,15 +2254,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyNjA3OmE2ODA6NDpmMDAzOjplYzMyXSAKQZEj8OAMOEB3ZaY36Jovz59wKeyFhBAMV6eOK384rhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-jakarta-ipv6
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAIFsyNDA3OjZhYzA6Mzo1OjEyMzQ6ZTM0ZTo3MmU0OjFdIMp-kt2QTVeHxfHuzsBm8Y-j_LnTTldhKbHfA61KITsfGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-johannesburg-ipv4
 
 DNSCry.pt Johannesburg - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2306,15 +2297,6 @@ DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAADTQ1LjI0OS45MS4xNTAgHONiOhMA1VOPBBcvrkvy9IW-Q0dhA1aY-g5rKbpy9noZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-johor-ipv6
-
-DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyMDAxOmRmNDoxODQwOjlmOjphXSAc42I6EwDVU48EFy-uS_L0hb5DR2EDVpj6DmspunL2ehkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-kansascity-ipv4

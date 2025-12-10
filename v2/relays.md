@@ -2350,15 +2350,6 @@ https://www.dnscry.pt
 sdns://gQ0xODUuMTk4LjIzNS41
 
 
-## dnscry.pt-anon-palermo-ipv6
-
-DNSCry.pt Palermo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwNTplNDQwOjEyOjoyOjJkYl0
-
-
 ## dnscry.pt-anon-paris-ipv4
 
 DNSCry.pt Paris - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
