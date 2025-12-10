@@ -58,7 +58,7 @@ func (p *Parser) ParseAll() ([]Resolver, error) {
 		{"odoh-relays.md", TypeODoHRelay, []stamps.StampProtoType{
 			stamps.StampProtoTypeODoHRelay,
 		}},
-		{"onion-services.md", TypeOnionService, nil},
+		// Onion services are skipped - testing requires Tor
 	}
 
 	for _, f := range files {

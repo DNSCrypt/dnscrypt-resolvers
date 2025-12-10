@@ -668,15 +668,13 @@ func isConnectionRefused(err error) bool {
 
 func (t *Tester) testODoHTarget(stamp stamps.ServerStamp) error {
 	host := stamp.ProviderName
-	path := stamp.Path
-	if path == "" {
-		path = "/.well-known/odohconfigs"
-	}
 
+	// ODoH targets must serve their public key configs at /.well-known/odohconfigs
+	// The stamp.Path is for DNS queries, not for config discovery
 	u := &url.URL{
 		Scheme: "https",
 		Host:   host,
-		Path:   path,
+		Path:   "/.well-known/odohconfigs",
 	}
 
 	req, err := http.NewRequest("GET", u.String(), nil)
@@ -690,12 +688,31 @@ func (t *Tester) testODoHTarget(stamp stamps.ServerStamp) error {
 
 	resp, err := t.httpClient.Do(req)
 	if err != nil {
-		return fmt.Errorf("ODoH request failed: %v", err)
+		return fmt.Errorf("ODoH config fetch failed: %v", err)
 	}
 	defer resp.Body.Close()
 
-	if resp.StatusCode >= 400 {
-		return fmt.Errorf("ODoH returned status %d", resp.StatusCode)
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("ODoH config returned status %d", resp.StatusCode)
+	}
+
+	// Read and validate the ODoHConfigs response
+	// ODoHConfigs is a sequence of ODoHConfig structures:
+	// - 2 bytes: length of config
+	// - N bytes: ODoHConfig (HPKE key configuration)
+	body, err := io.ReadAll(io.LimitReader(resp.Body, 65535))
+	if err != nil {
+		return fmt.Errorf("failed to read ODoH config: %v", err)
+	}
+
+	if len(body) < 4 {
+		return fmt.Errorf("ODoH config too short: %d bytes", len(body))
+	}
+
+	// Validate it looks like HPKE key config (first 2 bytes are length, should be reasonable)
+	configLen := int(body[0])<<8 | int(body[1])
+	if configLen < 8 || configLen > len(body)-2 {
+		return fmt.Errorf("invalid ODoH config length: %d (body: %d bytes)", configLen, len(body))
 	}
 
 	return nil
@@ -705,7 +722,7 @@ func (t *Tester) testODoHRelay(stamp stamps.ServerStamp) error {
 	host := stamp.ProviderName
 	path := stamp.Path
 	if path == "" {
-		path = "/proxy"
+		path = "/"
 	}
 
 	u := &url.URL{
@@ -714,10 +731,15 @@ func (t *Tester) testODoHRelay(stamp stamps.ServerStamp) error {
 		Path:   path,
 	}
 
-	req, err := http.NewRequest("GET", u.String(), nil)
+	// ODoH relays expect POST requests with OHTTP messages (message/ohttp-req content type)
+	// We send a minimal probe to verify the relay endpoint is alive
+	// A proper OHTTP request would require HPKE encryption, so we just verify connectivity
+	// The relay should respond with some HTTP status (even 400/415 is fine - it means relay is running)
+	req, err := http.NewRequest("POST", u.String(), bytes.NewReader([]byte{}))
 	if err != nil {
 		return fmt.Errorf("failed to create request: %v", err)
 	}
+	req.Header.Set("Content-Type", "message/ohttp-req")
 
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout)
 	defer cancel()
@@ -728,6 +750,13 @@ func (t *Tester) testODoHRelay(stamp stamps.ServerStamp) error {
 		return fmt.Errorf("ODoH relay request failed: %v", err)
 	}
 	defer resp.Body.Close()
+
+	// Status 400/415/422 etc are acceptable - they mean the relay is running
+	// but rejected our malformed request (expected). Only 5xx errors or
+	// connection failures indicate a problem.
+	if resp.StatusCode >= 500 {
+		return fmt.Errorf("ODoH relay returned server error: %d", resp.StatusCode)
+	}
 
 	return nil
 }
