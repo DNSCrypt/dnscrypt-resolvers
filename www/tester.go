@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"context"
+	"crypto/sha256"
 	"crypto/tls"
 	"encoding/base64"
 	"encoding/binary"
@@ -264,7 +265,54 @@ func (t *Tester) testDoH(stamp stamps.ServerStamp) error {
 		return fmt.Errorf("response ID mismatch")
 	}
 
+	// Validate certificate hashes if present in stamp
+	if len(stamp.Hashes) > 0 {
+		if err := t.validateDoHCertHashes(resp.TLS, stamp.Hashes); err != nil {
+			return err
+		}
+	}
+
 	return nil
+}
+
+// validateDoHCertHashes validates that at least one certificate in the TLS chain
+// matches one of the hashes specified in the stamp.
+// This follows the same logic as dnscrypt-proxy: compute SHA256 of RawTBSCertificate
+// for each peer certificate and check if any matches a hash from the stamp.
+func (t *Tester) validateDoHCertHashes(tlsState *tls.ConnectionState, stampHashes [][]uint8) error {
+	if tlsState == nil {
+		return fmt.Errorf("no TLS connection state available")
+	}
+
+	if len(tlsState.PeerCertificates) == 0 {
+		return fmt.Errorf("no peer certificates in TLS connection")
+	}
+
+	// Check each certificate against the stamp hashes
+	for _, cert := range tlsState.PeerCertificates {
+		certHash := sha256.Sum256(cert.RawTBSCertificate)
+
+		for _, stampHash := range stampHashes {
+			if len(stampHash) != 32 {
+				continue // Invalid hash length, skip
+			}
+
+			var wantedHash [32]byte
+			copy(wantedHash[:], stampHash)
+
+			if certHash == wantedHash {
+				return nil // Found a matching hash
+			}
+		}
+	}
+
+	// No match found - report the first certificate's hash for debugging
+	if len(tlsState.PeerCertificates) > 0 {
+		firstCertHash := sha256.Sum256(tlsState.PeerCertificates[0].RawTBSCertificate)
+		return fmt.Errorf("certificate hash mismatch: server cert hash is %x", firstCertHash)
+	}
+
+	return fmt.Errorf("certificate hash not found")
 }
 
 func (t *Tester) createDoHClient(serverAddr, hostname string) *http.Client {
