@@ -205,7 +205,7 @@ const indexTemplate = `<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DNSCrypt Resolver Monitor</title>
+    <title>Public DNS Servers Monitor</title>
     <style>
         :root {
             --bg: #1a1a2e;
@@ -397,8 +397,8 @@ const indexTemplate = `<!DOCTYPE html>
 <body>
     <div class="container">
         <header>
-            <h1>DNSCrypt Resolver Monitor</h1>
-            <p class="subtitle">Real-time availability and reliability tracking for DNSCrypt resolvers and relays</p>
+            <h1>Public DNS Servers Monitor</h1>
+            <p class="subtitle">Real-time availability and reliability tracking for public encrypted DNS servers and relays</p>
         </header>
 
         <div class="filters">
