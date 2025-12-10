@@ -2657,15 +2657,6 @@ https://www.dnscry.pt
 sdns://gRpbMmExMjplMzQwOjMwMDo6MTc2ODphOTVmXQ
 
 
-## dnscry.pt-anon-telaviv-ipv6
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwNTplNDQwOjI3OjoxOjM0Nl0
-
-
 ## dnscry.pt-anon-timisoara-ipv4
 
 DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
