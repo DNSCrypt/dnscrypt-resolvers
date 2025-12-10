@@ -3603,7 +3603,7 @@ Homepage: https://dnspod.cn
 
 Warning: GFW filtering rules are applied by this resolver.
 
-sdns://AgAAAAAAAAAADDE2Mi4xNC4yMS41NgAHZG9oLnB1YgovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADDEyMC41My41My41MwAMMTIwLjUzLjUzLjUzCi9kbnMtcXVlcnk
 
 
 ## doh-cleanbrowsing-adult
