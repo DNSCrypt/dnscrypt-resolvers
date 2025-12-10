@@ -1795,15 +1795,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyYTBmOjU3MDc6YWE4MTo1ZTNjOjoxXSBuUQimZ1nASFsDCfcH3SJC4VkbjQnM7_mlXIa6sCMwJhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-dusseldorf02-ipv4
-
-DNSCry.pt Düsseldorf 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTQ1LjEzMy43NS4xMjIgWAo_MyYybZGGBQKsA41WpC5TjjpfvgviHteGEKBXNIwZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-dusseldorf02-ipv6
 
 DNSCry.pt Düsseldorf 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
