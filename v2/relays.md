@@ -2675,24 +2675,6 @@ https://www.dnscry.pt
 sdns://gR5bMmEwYzo5ZjAwOjI6ZDkyODo2ZjBhOmI0ZTI6Ol0
 
 
-## dnscry.pt-anon-tirana-ipv4
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ4xOTMuMTA4LjExMi43NA
-
-
-## dnscry.pt-anon-tirana-ipv6
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRNbMjYwNTplNDQwOjQ2OjoyOTJd
-
-
 ## dnscry.pt-anon-tokyo-ipv4
 
 DNSCry.pt Tokyo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2727,24 +2709,6 @@ DNSCry.pt Tokyo 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRNbMmEwYTo2MDQwOjk3M2Q6OmFd
-
-
-## dnscry.pt-anon-toronto-ipv4
-
-DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4xMzQuODkuMjM
-
-
-## dnscry.pt-anon-toronto-ipv6
-
-DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYmExOmQwMDo6MjM6MV0
 
 
 ## dnscry.pt-anon-tuusula-ipv4
