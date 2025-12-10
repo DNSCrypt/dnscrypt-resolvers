@@ -632,6 +632,16 @@ func (t *Tester) testDoQ(stamp stamps.ServerStamp) error {
 	return fmt.Errorf("DoQ testing not implemented")
 }
 
+// Reference DNSCrypt server for testing relays (scaleway-fr)
+// IP: 212.47.228.136, Port: 443, Provider: 2.dnscrypt-cert.fr.dnscrypt.org
+var referenceServerIP = net.ParseIP("212.47.228.136")
+
+const referenceServerPort = 443
+const referenceProviderName = "2.dnscrypt-cert.fr.dnscrypt.org"
+
+// Anonymized DNSCrypt magic prefix (10 bytes)
+var anonMagic = []byte{0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0x00, 0x00}
+
 func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	addr := stamp.ServerAddrStr
 	if addr == "" {
@@ -643,7 +653,21 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 
 	dialer := net.Dialer{Timeout: t.timeout}
 
-	// DNSCrypt relays primarily use UDP - retry up to 3 times
+	// Create a DNS TXT query for the reference server's certificate
+	query := new(dns.Msg)
+	query.SetQuestion(dns.Fqdn(referenceProviderName), dns.TypeTXT)
+	query.Id = dns.Id()
+
+	wireFormat, err := query.Pack()
+	if err != nil {
+		return fmt.Errorf("failed to pack query: %v", err)
+	}
+
+	// Build the anonymized DNSCrypt packet:
+	// <anon-magic> <server-ip-as-ipv6> <server-port> <dns-query>
+	anonPacket := buildAnonPacket(referenceServerIP, referenceServerPort, wireFormat)
+
+	// Try UDP first with retries, then fall back to TCP
 	const maxUDPRetries = 3
 	const udpRetryDelay = 200 * time.Millisecond
 
@@ -659,67 +683,147 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 			continue
 		}
 
-		err = t.probeUDPRelay(conn)
+		response, err := t.sendRelayQuery(conn, anonPacket)
 		conn.Close()
-		if err == nil {
-			return nil
+		if err != nil {
+			lastErr = err
+			continue
 		}
-		lastErr = err
+
+		// Validate we got a proper DNS response with TXT records
+		if err := t.validateRelayResponse(response); err != nil {
+			lastErr = err
+			continue
+		}
+
+		return nil
 	}
 
-	// UDP failed after retries, fall back to TCP test
+	// UDP failed after retries, try TCP
 	conn, err := dialer.DialContext(ctx, "tcp", addr)
 	if err != nil {
-		return fmt.Errorf("connection failed (UDP: %v, TCP: %v)", lastErr, err)
+		return fmt.Errorf("relay test failed (UDP: %v, TCP connect: %v)", lastErr, err)
 	}
-	conn.Close()
-	return nil
+	defer conn.Close()
+
+	response, err := t.sendRelayQueryTCP(conn, anonPacket)
+	if err != nil {
+		return fmt.Errorf("relay test failed (UDP: %v, TCP: %v)", lastErr, err)
+	}
+
+	return t.validateRelayResponse(response)
 }
 
-// probeUDPRelay sends a probe packet to check if the relay is responsive
-func (t *Tester) probeUDPRelay(conn net.Conn) error {
-	// Send a minimal probe packet to check if the relay is responsive
-	// DNSCrypt relays expect DNSCrypt traffic, but we can at least verify
-	// the port is open and not firewalled by sending a small packet
+// buildAnonPacket constructs an anonymized DNSCrypt packet
+func buildAnonPacket(serverIP net.IP, serverPort int, dnsQuery []byte) []byte {
+	// Convert IPv4 to IPv4-mapped IPv6 if needed
+	ip6 := serverIP.To16()
+
+	packet := make([]byte, 0, len(anonMagic)+16+2+len(dnsQuery))
+	packet = append(packet, anonMagic...)
+	packet = append(packet, ip6...)
+	packet = append(packet, byte(serverPort>>8), byte(serverPort))
+	packet = append(packet, dnsQuery...)
+
+	return packet
+}
+
+// sendRelayQuery sends a query through the relay via UDP and returns the response
+func (t *Tester) sendRelayQuery(conn net.Conn, packet []byte) (*dns.Msg, error) {
 	conn.SetDeadline(time.Now().Add(t.timeout))
 
-	// Send a small probe (this won't be valid DNSCrypt, but helps detect
-	// firewalled ports that would return ICMP unreachable)
-	probe := []byte{0x00}
-	if _, err := conn.Write(probe); err != nil {
-		return fmt.Errorf("UDP write failed: %v", err)
+	if _, err := conn.Write(packet); err != nil {
+		return nil, fmt.Errorf("failed to write query: %v", err)
 	}
 
-	// For UDP, we won't get a response to an invalid packet, but if the
-	// port is closed/filtered, the Write or a subsequent Read would fail
-	// with an ICMP error on some systems. Give it a brief moment.
-	conn.SetReadDeadline(time.Now().Add(500 * time.Millisecond))
-	buf := make([]byte, 1)
-	_, err := conn.Read(buf)
-	// Timeout is expected (no response to invalid probe), but connection
-	// refused or network unreachable indicates the relay is down
+	buffer := make([]byte, 4096)
+	n, err := conn.Read(buffer)
 	if err != nil {
-		if netErr, ok := err.(net.Error); ok && netErr.Timeout() {
-			// Timeout is OK - relay didn't respond to invalid probe but port is open
-			return nil
+		return nil, fmt.Errorf("failed to read response: %v", err)
+	}
+
+	response := new(dns.Msg)
+	if err := response.Unpack(buffer[:n]); err != nil {
+		return nil, fmt.Errorf("failed to parse DNS response: %v", err)
+	}
+
+	return response, nil
+}
+
+// sendRelayQueryTCP sends a query through the relay via TCP and returns the response
+func (t *Tester) sendRelayQueryTCP(conn net.Conn, packet []byte) (*dns.Msg, error) {
+	conn.SetDeadline(time.Now().Add(t.timeout))
+
+	// TCP requires 2-byte length prefix
+	length := make([]byte, 2)
+	length[0] = byte(len(packet) >> 8)
+	length[1] = byte(len(packet))
+
+	if _, err := conn.Write(length); err != nil {
+		return nil, fmt.Errorf("failed to write length: %v", err)
+	}
+	if _, err := conn.Write(packet); err != nil {
+		return nil, fmt.Errorf("failed to write query: %v", err)
+	}
+
+	// Read response length
+	lengthBuf := make([]byte, 2)
+	if _, err := io.ReadFull(conn, lengthBuf); err != nil {
+		return nil, fmt.Errorf("failed to read response length: %v", err)
+	}
+	respLen := int(lengthBuf[0])<<8 | int(lengthBuf[1])
+	if respLen > 65535 {
+		return nil, fmt.Errorf("response too large: %d bytes", respLen)
+	}
+
+	buffer := make([]byte, respLen)
+	if _, err := io.ReadFull(conn, buffer); err != nil {
+		return nil, fmt.Errorf("failed to read response: %v", err)
+	}
+
+	response := new(dns.Msg)
+	if err := response.Unpack(buffer); err != nil {
+		return nil, fmt.Errorf("failed to parse DNS response: %v", err)
+	}
+
+	return response, nil
+}
+
+// validateRelayResponse checks that the response contains valid DNSCrypt certificate TXT records
+func (t *Tester) validateRelayResponse(response *dns.Msg) error {
+	if response.Rcode != dns.RcodeSuccess {
+		return fmt.Errorf("DNS query failed with rcode: %s", dns.RcodeToString[response.Rcode])
+	}
+
+	// Look for TXT records that contain DNSCrypt certificates
+	now := time.Now()
+	var validCerts int
+	var lastCertErr error
+
+	for _, rr := range response.Answer {
+		txt, ok := rr.(*dns.TXT)
+		if !ok {
+			continue
 		}
-		// Check for ICMP errors that indicate port is closed
-		if isConnectionRefused(err) {
-			return fmt.Errorf("UDP port closed: %v", err)
+
+		binCert := packTXTRR(strings.Join(txt.Txt, ""))
+
+		// Validate certificate structure (pass nil for serverPk since we're just testing relay)
+		if err := validateDNSCryptCert(binCert, now, nil); err != nil {
+			lastCertErr = err
+			continue
 		}
+		validCerts++
+	}
+
+	if validCerts == 0 {
+		if lastCertErr != nil {
+			return fmt.Errorf("no valid certificates: %v", lastCertErr)
+		}
+		return fmt.Errorf("no certificates found in response")
 	}
 
 	return nil
-}
-
-func isConnectionRefused(err error) bool {
-	if err == nil {
-		return false
-	}
-	errStr := err.Error()
-	return strings.Contains(errStr, "connection refused") ||
-		strings.Contains(errStr, "network is unreachable") ||
-		strings.Contains(errStr, "no route to host")
 }
 
 func (t *Tester) testODoHTarget(stamp stamps.ServerStamp) error {
