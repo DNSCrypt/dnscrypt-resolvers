@@ -10,6 +10,7 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"math/rand"
 	"net"
 	"net/http"
 	"net/url"
@@ -68,8 +69,17 @@ func NewTester(db *DB, concurrency int, timeout time.Duration) *Tester {
 }
 
 func (t *Tester) TestAll(resolvers []Resolver) {
-	jobs := make(chan TestJob, len(resolvers)*2)
-	results := make(chan TestJobResult, len(resolvers)*2)
+	// Shuffle resolvers to ensure random testing order each interval.
+	// This guarantees all entries get a fair chance to be tested early,
+	// regardless of their position in the source files.
+	shuffled := make([]Resolver, len(resolvers))
+	copy(shuffled, resolvers)
+	rand.Shuffle(len(shuffled), func(i, j int) {
+		shuffled[i], shuffled[j] = shuffled[j], shuffled[i]
+	})
+
+	jobs := make(chan TestJob, len(shuffled)*2)
+	results := make(chan TestJobResult, len(shuffled)*2)
 
 	var wg sync.WaitGroup
 	for i := 0; i < t.concurrency; i++ {
@@ -84,7 +94,7 @@ func (t *Tester) TestAll(resolvers []Resolver) {
 	}
 
 	go func() {
-		for _, r := range resolvers {
+		for _, r := range shuffled {
 			resolverID, err := t.db.UpsertResolver(r.Name, string(r.Type), r.Description, r.SourceFile)
 			if err != nil {
 				log.Printf("Failed to upsert resolver %s: %v", r.Name, err)
