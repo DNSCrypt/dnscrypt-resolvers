@@ -1244,14 +1244,6 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiAOp5Svj-oV-Fz-65-8H2VKHLKJ0egmfEgrdPeAQ
 sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIA6nlK-P6hX4XP7rn7wfZUocsonR6CZ8SCt094BCVQUUCzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
-## dns0-unfiltered
-
-The unfiltered version of dns0.eu.
-https://open.dns0.eu/
-
-sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQxvcGVuLmRuczAuZXUKL2Rucy1xdWVyeQ
-
-
 ## dns4all-ipv4
 
 A DoH resolver operated by sidnlabs.nl. No-logs, DNSSEC. Filters domains sanctioned by the EU.
