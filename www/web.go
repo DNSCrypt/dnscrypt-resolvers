@@ -435,6 +435,7 @@ const indexTemplate = `<!DOCTYPE html>
         <header>
             <h1>Public DNS Servers Monitor</h1>
             <p class="subtitle">Real-time availability and reliability tracking for public encrypted DNS servers and relays</p>
+            <p class="subtitle" style="margin-top: 8px;"><a href="https://github.com/DNSCrypt/dnscrypt-resolvers" style="color: var(--accent);">GitHub Repository</a></p>
         </header>
 
         <div class="filters">
