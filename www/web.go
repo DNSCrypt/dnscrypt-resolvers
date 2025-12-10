@@ -374,6 +374,42 @@ const indexTemplate = `<!DOCTYPE html>
             color: var(--text-dim);
             font-size: 0.85em;
         }
+        .copy-btn {
+            background: transparent;
+            border: 1px solid var(--text-dim);
+            color: var(--text-dim);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.75em;
+            cursor: pointer;
+            margin-left: 8px;
+            transition: all 0.2s ease;
+        }
+        .copy-btn:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+        .copy-btn:active {
+            transform: scale(0.95);
+        }
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: var(--excellent);
+            color: #000;
+            padding: 12px 20px;
+            border-radius: 6px;
+            font-weight: 600;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
         footer {
             text-align: center;
             padding: 20px;
@@ -449,7 +485,7 @@ const indexTemplate = `<!DOCTYPE html>
                 {{range .Stats}}
                 <tr>
                     <td>
-                        <div class="resolver-name">{{.Name}}</div>
+                        <div class="resolver-name">{{.Name}}{{if .Stamp}}<button class="copy-btn" onclick="copyStamp('{{.Stamp}}')" title="Copy DNS stamp">Copy</button>{{end}}</div>
                         <div class="resolver-desc">{{truncate .Description 60}}</div>
                     </td>
                     <td><span class="type-badge">{{.Type}}</span></td>
@@ -479,6 +515,8 @@ const indexTemplate = `<!DOCTYPE html>
         </footer>
     </div>
 
+    <div id="toast" class="toast">DNS stamp copied!</div>
+
     <script>
         const currentSort = '{{.SortBy}}';
         const currentOrder = '{{.SortOrder}}';
@@ -501,6 +539,18 @@ const indexTemplate = `<!DOCTYPE html>
             let url = '?sort=' + encodeURIComponent(column) + '&order=' + order;
             if (currentType) url += '&type=' + encodeURIComponent(currentType);
             window.location.href = url;
+        }
+
+        function copyStamp(stamp) {
+            navigator.clipboard.writeText(stamp).then(function() {
+                const toast = document.getElementById('toast');
+                toast.classList.add('show');
+                setTimeout(function() {
+                    toast.classList.remove('show');
+                }, 2000);
+            }).catch(function(err) {
+                console.error('Failed to copy:', err);
+            });
         }
     </script>
 </body>

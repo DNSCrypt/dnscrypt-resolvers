@@ -29,6 +29,7 @@ type ResolverStats struct {
 	Type           string
 	Description    string
 	SourceFile     string
+	Stamp          string
 	TotalTests     int
 	SuccessCount   int
 	FailCount      int
@@ -124,6 +125,7 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 			r.type,
 			r.description,
 			r.source_file,
+			(SELECT stamp FROM test_results t3 WHERE t3.resolver_id = r.id ORDER BY t3.tested_at DESC LIMIT 1) as stamp,
 			COUNT(t.id) as total_tests,
 			SUM(CASE WHEN t.success = 1 THEN 1 ELSE 0 END) as success_count,
 			SUM(CASE WHEN t.success = 0 THEN 1 ELSE 0 END) as fail_count,
@@ -152,10 +154,10 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 		var s ResolverStats
 		var lastSuccess, lastFail, lastTested sql.NullString
 		var lastError sql.NullString
-		var description, sourceFile sql.NullString
+		var description, sourceFile, stamp sql.NullString
 
 		err := rows.Scan(
-			&s.Name, &s.Type, &description, &sourceFile,
+			&s.Name, &s.Type, &description, &sourceFile, &stamp,
 			&s.TotalTests, &s.SuccessCount, &s.FailCount,
 			&s.AvgRTT, &s.MinRTT, &s.MaxRTT,
 			&lastSuccess, &lastFail, &lastTested, &lastError,
@@ -166,6 +168,7 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 
 		s.Description = description.String
 		s.SourceFile = sourceFile.String
+		s.Stamp = stamp.String
 		s.LastError = lastError.String
 
 		if s.TotalTests > 0 {
