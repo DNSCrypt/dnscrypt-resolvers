@@ -355,21 +355,6 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 
 	dialer := net.Dialer{Timeout: t.timeout}
 
-	// Try UDP first, then TCP
-	var conn net.Conn
-	var err error
-	useTCP := false
-
-	conn, err = dialer.DialContext(ctx, "udp", addr)
-	if err != nil {
-		conn, err = dialer.DialContext(ctx, "tcp", addr)
-		if err != nil {
-			return fmt.Errorf("connection failed: %v", err)
-		}
-		useTCP = true
-	}
-	defer conn.Close()
-
 	// Create TXT query for the certificate
 	query := new(dns.Msg)
 	query.SetQuestion(dns.Fqdn(certName), dns.TypeTXT)
@@ -380,6 +365,49 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 		return fmt.Errorf("failed to pack query: %v", err)
 	}
 
+	// Try UDP first with retries, then fall back to TCP
+	const maxUDPRetries = 3
+	const udpRetryDelay = 200 * time.Millisecond
+
+	var lastErr error
+	for attempt := 0; attempt < maxUDPRetries; attempt++ {
+		if attempt > 0 {
+			time.Sleep(udpRetryDelay)
+		}
+
+		conn, err := dialer.DialContext(ctx, "udp", addr)
+		if err != nil {
+			lastErr = err
+			continue
+		}
+
+		response, err := t.sendDNSQuery(conn, wireFormat, false)
+		conn.Close()
+		if err != nil {
+			lastErr = err
+			continue
+		}
+
+		return t.validateDNSCryptResponse(response, stamp)
+	}
+
+	// UDP failed after retries, try TCP
+	conn, err := dialer.DialContext(ctx, "tcp", addr)
+	if err != nil {
+		return fmt.Errorf("connection failed (UDP: %v, TCP: %v)", lastErr, err)
+	}
+	defer conn.Close()
+
+	response, err := t.sendDNSQuery(conn, wireFormat, true)
+	if err != nil {
+		return err
+	}
+
+	return t.validateDNSCryptResponse(response, stamp)
+}
+
+// sendDNSQuery sends a DNS query over an established connection and returns the response
+func (t *Tester) sendDNSQuery(conn net.Conn, wireFormat []byte, useTCP bool) (*dns.Msg, error) {
 	conn.SetDeadline(time.Now().Add(t.timeout))
 
 	if useTCP {
@@ -388,25 +416,26 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 		length[0] = byte(len(wireFormat) >> 8)
 		length[1] = byte(len(wireFormat))
 		if _, err := conn.Write(length); err != nil {
-			return fmt.Errorf("failed to write length: %v", err)
+			return nil, fmt.Errorf("failed to write length: %v", err)
 		}
 	}
 
 	if _, err := conn.Write(wireFormat); err != nil {
-		return fmt.Errorf("failed to write query: %v", err)
+		return nil, fmt.Errorf("failed to write query: %v", err)
 	}
 
 	buffer := make([]byte, 4096)
 	var n int
+	var err error
 
 	if useTCP {
 		lengthBuf := make([]byte, 2)
 		if _, err := io.ReadFull(conn, lengthBuf); err != nil {
-			return fmt.Errorf("failed to read length: %v", err)
+			return nil, fmt.Errorf("failed to read length: %v", err)
 		}
 		respLen := int(lengthBuf[0])<<8 | int(lengthBuf[1])
 		if respLen > len(buffer) {
-			return fmt.Errorf("response too large: %d bytes", respLen)
+			return nil, fmt.Errorf("response too large: %d bytes", respLen)
 		}
 		n, err = io.ReadFull(conn, buffer[:respLen])
 	} else {
@@ -414,14 +443,19 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	}
 
 	if err != nil {
-		return fmt.Errorf("failed to read response: %v", err)
+		return nil, fmt.Errorf("failed to read response: %v", err)
 	}
 
 	response := new(dns.Msg)
 	if err := response.Unpack(buffer[:n]); err != nil {
-		return fmt.Errorf("failed to parse DNS response: %v", err)
+		return nil, fmt.Errorf("failed to parse DNS response: %v", err)
 	}
 
+	return response, nil
+}
+
+// validateDNSCryptResponse validates the DNS response and extracts DNSCrypt certificates
+func (t *Tester) validateDNSCryptResponse(response *dns.Msg, stamp stamps.ServerStamp) error {
 	if response.Rcode != dns.RcodeSuccess {
 		return fmt.Errorf("DNS query failed with rcode: %s", dns.RcodeToString[response.Rcode])
 	}
@@ -609,19 +643,41 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 
 	dialer := net.Dialer{Timeout: t.timeout}
 
-	// DNSCrypt relays primarily use UDP
-	conn, err := dialer.DialContext(ctx, "udp", addr)
-	if err != nil {
-		// Fall back to TCP test
-		conn, err = dialer.DialContext(ctx, "tcp", addr)
-		if err != nil {
-			return fmt.Errorf("connection failed (UDP and TCP): %v", err)
-		}
-		conn.Close()
-		return nil
-	}
-	defer conn.Close()
+	// DNSCrypt relays primarily use UDP - retry up to 3 times
+	const maxUDPRetries = 3
+	const udpRetryDelay = 200 * time.Millisecond
 
+	var lastErr error
+	for attempt := 0; attempt < maxUDPRetries; attempt++ {
+		if attempt > 0 {
+			time.Sleep(udpRetryDelay)
+		}
+
+		conn, err := dialer.DialContext(ctx, "udp", addr)
+		if err != nil {
+			lastErr = err
+			continue
+		}
+
+		err = t.probeUDPRelay(conn)
+		conn.Close()
+		if err == nil {
+			return nil
+		}
+		lastErr = err
+	}
+
+	// UDP failed after retries, fall back to TCP test
+	conn, err := dialer.DialContext(ctx, "tcp", addr)
+	if err != nil {
+		return fmt.Errorf("connection failed (UDP: %v, TCP: %v)", lastErr, err)
+	}
+	conn.Close()
+	return nil
+}
+
+// probeUDPRelay sends a probe packet to check if the relay is responsive
+func (t *Tester) probeUDPRelay(conn net.Conn) error {
 	// Send a minimal probe packet to check if the relay is responsive
 	// DNSCrypt relays expect DNSCrypt traffic, but we can at least verify
 	// the port is open and not firewalled by sending a small packet
@@ -639,7 +695,7 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	// with an ICMP error on some systems. Give it a brief moment.
 	conn.SetReadDeadline(time.Now().Add(500 * time.Millisecond))
 	buf := make([]byte, 1)
-	_, err = conn.Read(buf)
+	_, err := conn.Read(buf)
 	// Timeout is expected (no response to invalid probe), but connection
 	// refused or network unreachable indicates the relay is down
 	if err != nil {
