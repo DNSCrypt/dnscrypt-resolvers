@@ -52,14 +52,6 @@ ODoH target server via Cloudflare, no logs.
 sdns://BQcAAAAAAAAADWpwLnRpYXJhcC5vcmcFL29kb2g
 
 
-## odoh-marco.cx
-
-ODoH target server by marco.cx.
-Warning: uses Cloudflare resolver.
-
-sdns://BQcAAAAAAAAAE29kb2gtcmVsYXkubWFyY28uY3gKL2Rucy1xdWVyeQ
-
-
 ## odoh-snowstorm
 
 ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
