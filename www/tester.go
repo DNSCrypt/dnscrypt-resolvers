@@ -415,7 +415,7 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 
 	// Try UDP first with retries, then fall back to TCP
 	const maxUDPRetries = 3
-	const udpRetryDelay = 200 * time.Millisecond
+	const udpRetryDelay = 500 * time.Millisecond
 
 	var lastErr error
 	for attempt := 0; attempt < maxUDPRetries; attempt++ {
@@ -716,8 +716,9 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	anonPacket := buildAnonPacket(referenceServerIP, referenceServerPort, wireFormat)
 
 	// Try UDP first with retries, then fall back to TCP
+	// Use longer delays for relays since they have an extra network hop
 	const maxUDPRetries = 3
-	const udpRetryDelay = 200 * time.Millisecond
+	const udpRetryDelay = 1000 * time.Millisecond
 
 	var lastErr error
 	for attempt := 0; attempt < maxUDPRetries; attempt++ {

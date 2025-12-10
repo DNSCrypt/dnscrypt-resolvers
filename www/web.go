@@ -39,6 +39,11 @@ func (w *WebServer) handleIndex(rw http.ResponseWriter, r *http.Request) {
 
 	typeFilter := r.URL.Query().Get("type")
 	sortBy := r.URL.Query().Get("sort")
+	sortOrder := r.URL.Query().Get("order")
+	if sortOrder == "" {
+		sortOrder = "asc"
+	}
+	desc := sortOrder == "desc"
 
 	var filtered []ResolverStats
 	if typeFilter != "" {
@@ -54,14 +59,30 @@ func (w *WebServer) handleIndex(rw http.ResponseWriter, r *http.Request) {
 	switch sortBy {
 	case "name":
 		sort.Slice(filtered, func(i, j int) bool {
+			if desc {
+				return filtered[i].Name > filtered[j].Name
+			}
 			return filtered[i].Name < filtered[j].Name
+		})
+	case "type":
+		sort.Slice(filtered, func(i, j int) bool {
+			if desc {
+				return filtered[i].Type > filtered[j].Type
+			}
+			return filtered[i].Type < filtered[j].Type
 		})
 	case "rtt":
 		sort.Slice(filtered, func(i, j int) bool {
+			if desc {
+				return filtered[i].AvgRTT > filtered[j].AvgRTT
+			}
 			return filtered[i].AvgRTT < filtered[j].AvgRTT
 		})
 	case "reliability":
 		sort.Slice(filtered, func(i, j int) bool {
+			if desc {
+				return filtered[i].ReliabilityPct < filtered[j].ReliabilityPct
+			}
 			return filtered[i].ReliabilityPct > filtered[j].ReliabilityPct
 		})
 	}
@@ -76,12 +97,14 @@ func (w *WebServer) handleIndex(rw http.ResponseWriter, r *http.Request) {
 		Types       map[string]int
 		TypeFilter  string
 		SortBy      string
+		SortOrder   string
 		LastUpdated time.Time
 	}{
 		Stats:       filtered,
 		Types:       types,
 		TypeFilter:  typeFilter,
 		SortBy:      sortBy,
+		SortOrder:   sortOrder,
 		LastUpdated: time.Now(),
 	}
 
@@ -127,6 +150,15 @@ func (w *WebServer) handleIndex(rw http.ResponseWriter, r *http.Request) {
 				return s
 			}
 			return s[:n] + "..."
+		},
+		"sortIndicator": func(column, currentSort, currentOrder string) string {
+			if column != currentSort {
+				return ""
+			}
+			if currentOrder == "desc" {
+				return " ▼"
+			}
+			return " ▲"
 		},
 	}).Parse(indexTemplate)
 	if err != nil {
@@ -284,12 +316,17 @@ const indexTemplate = `<!DOCTYPE html>
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
-        th a {
+        th a, th span.sortable {
             color: var(--text);
             text-decoration: none;
+            cursor: pointer;
         }
-        th a:hover {
+        th a:hover, th span.sortable:hover {
             color: var(--accent);
+        }
+        th .sort-indicator {
+            font-size: 0.7em;
+            margin-left: 4px;
         }
         tr:nth-child(even) {
             background: rgba(255,255,255,0.02);
@@ -399,11 +436,11 @@ const indexTemplate = `<!DOCTYPE html>
         <table>
             <thead>
                 <tr>
-                    <th><a href="?type={{.TypeFilter}}&sort=name">Name</a></th>
-                    <th>Type</th>
-                    <th><a href="?type={{.TypeFilter}}&sort=reliability">Reliability</a></th>
+                    <th><span class="sortable" onclick="sortBy('name')">Name<span class="sort-indicator">{{sortIndicator "name" .SortBy .SortOrder}}</span></span></th>
+                    <th><span class="sortable" onclick="sortBy('type')">Type<span class="sort-indicator">{{sortIndicator "type" .SortBy .SortOrder}}</span></span></th>
+                    <th><span class="sortable" onclick="sortBy('reliability')">Reliability<span class="sort-indicator">{{sortIndicator "reliability" .SortBy .SortOrder}}</span></span></th>
                     <th>Tests</th>
-                    <th><a href="?type={{.TypeFilter}}&sort=rtt">Avg RTT</a></th>
+                    <th><span class="sortable" onclick="sortBy('rtt')">Avg RTT<span class="sort-indicator">{{sortIndicator "rtt" .SortBy .SortOrder}}</span></span></th>
                     <th>Last Success</th>
                     <th>Last Error</th>
                 </tr>
@@ -443,12 +480,26 @@ const indexTemplate = `<!DOCTYPE html>
     </div>
 
     <script>
+        const currentSort = '{{.SortBy}}';
+        const currentOrder = '{{.SortOrder}}';
+        const currentType = '{{.TypeFilter}}';
+
         function applyFilters() {
             const type = document.getElementById('type-filter').value;
             const sort = document.getElementById('sort-by').value;
             let url = '?';
             if (type) url += 'type=' + encodeURIComponent(type) + '&';
             if (sort) url += 'sort=' + encodeURIComponent(sort);
+            window.location.href = url;
+        }
+
+        function sortBy(column) {
+            let order = 'asc';
+            if (column === currentSort) {
+                order = currentOrder === 'asc' ? 'desc' : 'asc';
+            }
+            let url = '?sort=' + encodeURIComponent(column) + '&order=' + order;
+            if (currentType) url += '&type=' + encodeURIComponent(currentType);
             window.location.href = url;
         }
     </script>
