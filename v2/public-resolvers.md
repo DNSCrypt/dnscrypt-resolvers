@@ -170,14 +170,6 @@ Warning: This server is incompatible with anonymization.
 sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjE6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1ogUHb8uwGay2volMi5kbnNjcnlwdC51bmZpbHRlcmVkLm5zMS5hZGd1YXJkLmNvbQ
 
 
-## ahadns-doh-la
-
-A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
-Server statistics can be seen at: https://statistics.ahadns.com/?server=la
-
-sdns://AgMAAAAAAAAADTQ1LjY3LjIxOS4yMDig9_WvKIAeh31986K-KP4UnzJ0p-0p8Tb9UDzjmMuoCw2g9XV9eG8XP2q1MZfsnCKQisBtKuTqoqW29Y678AOXod-gs14FlQz72CWfk3W6EBhwuMPEwOxaUpdX5jFn6d4mqeig7PBiC_ww1ETe9Xetxlw3UFpzui0v2eb_QcPtOtDWWg-gouMnQ2N22OdkBavp_siMtB3i1NA1DU6CkqUxGMS431ugkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDmg1q1wTTQXThIIyVKqq5g16xwGaw3No7Ta1A9FE-jhglqgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XSg5kS6aWPjNf52XLmXaxKxDrVClLQkd3ZMyzo6zKOssvygKq4_t78F5MgcQZTcpEUR1PmvMEeG7BrnIYQJz2Kgg1Wg1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MgnUgyu0yNdyB7Jd4XWSaC78PKRfV53GZKDtXySPXJM5gRZG9oLmxhLmFoYWRucy5uZXQKL2Rucy1xdWVyeQ
-
-
 ## alidns-doh
 
 A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
