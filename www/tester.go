@@ -408,10 +408,10 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	// The provider name in the stamp is already the full name to query (e.g., "2.dnscrypt.default.ns1.adguard.com")
 	certName := providerName
 
-	ctx, cancel := context.WithTimeout(context.Background(), t.timeout)
+	// Use 3x timeout to allow for retries with slow resolvers (some take 5s to respond)
+	// Budget: 3 UDP attempts * timeout + 2 delays + 1 TCP attempt
+	ctx, cancel := context.WithTimeout(context.Background(), t.timeout*3)
 	defer cancel()
-
-	dialer := net.Dialer{Timeout: t.timeout}
 
 	// Create TXT query for the certificate
 	query := new(dns.Msg)
@@ -430,15 +430,24 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	var lastErr error
 	for attempt := 0; attempt < maxUDPRetries; attempt++ {
 		if attempt > 0 {
-			time.Sleep(udpRetryDelay)
+			select {
+			case <-ctx.Done():
+				return fmt.Errorf("timeout after %d UDP attempts: %v", attempt, lastErr)
+			case <-time.After(udpRetryDelay):
+			}
 		}
 
-		conn, err := dialer.DialContext(ctx, "udp", addr)
+		// Per-attempt timeout for dialing
+		dialCtx, dialCancel := context.WithTimeout(ctx, t.timeout)
+		conn, err := new(net.Dialer).DialContext(dialCtx, "udp", addr)
+		dialCancel()
 		if err != nil {
 			lastErr = err
 			continue
 		}
 
+		// Per-attempt timeout for the query
+		conn.SetDeadline(time.Now().Add(t.timeout))
 		response, err := t.sendDNSQuery(conn, wireFormat, false)
 		conn.Close()
 		if err != nil {
@@ -450,12 +459,15 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	}
 
 	// UDP failed after retries, try TCP
-	conn, err := dialer.DialContext(ctx, "tcp", addr)
+	dialCtx, dialCancel := context.WithTimeout(ctx, t.timeout)
+	conn, err := new(net.Dialer).DialContext(dialCtx, "tcp", addr)
+	dialCancel()
 	if err != nil {
 		return fmt.Errorf("connection failed (UDP: %v, TCP: %v)", lastErr, err)
 	}
 	defer conn.Close()
 
+	conn.SetDeadline(time.Now().Add(t.timeout))
 	response, err := t.sendDNSQuery(conn, wireFormat, true)
 	if err != nil {
 		return err
@@ -464,10 +476,9 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	return t.validateDNSCryptResponse(response, stamp)
 }
 
-// sendDNSQuery sends a DNS query over an established connection and returns the response
+// sendDNSQuery sends a DNS query over an established connection and returns the response.
+// The caller must set the connection deadline before calling this function.
 func (t *Tester) sendDNSQuery(conn net.Conn, wireFormat []byte, useTCP bool) (*dns.Msg, error) {
-	conn.SetDeadline(time.Now().Add(t.timeout))
-
 	if useTCP {
 		// TCP requires 2-byte length prefix
 		length := make([]byte, 2)
@@ -708,10 +719,10 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 		return fmt.Errorf("no server address in stamp")
 	}
 
-	ctx, cancel := context.WithTimeout(context.Background(), t.timeout)
+	// Use 3x timeout to allow for retries with slow relays
+	// Budget: 3 UDP attempts * timeout + 2 delays (1s each) + 1 TCP attempt
+	ctx, cancel := context.WithTimeout(context.Background(), t.timeout*3)
 	defer cancel()
-
-	dialer := net.Dialer{Timeout: t.timeout}
 
 	// Create a DNS TXT query for the reference server's certificate
 	query := new(dns.Msg)
@@ -735,15 +746,24 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	var lastErr error
 	for attempt := 0; attempt < maxUDPRetries; attempt++ {
 		if attempt > 0 {
-			time.Sleep(udpRetryDelay)
+			select {
+			case <-ctx.Done():
+				return fmt.Errorf("timeout after %d UDP attempts: %v", attempt, lastErr)
+			case <-time.After(udpRetryDelay):
+			}
 		}
 
-		conn, err := dialer.DialContext(ctx, "udp", addr)
+		// Per-attempt timeout for dialing
+		dialCtx, dialCancel := context.WithTimeout(ctx, t.timeout)
+		conn, err := new(net.Dialer).DialContext(dialCtx, "udp", addr)
+		dialCancel()
 		if err != nil {
 			lastErr = err
 			continue
 		}
 
+		// Per-attempt timeout for the query
+		conn.SetDeadline(time.Now().Add(t.timeout))
 		response, err := t.sendRelayQuery(conn, anonPacket)
 		conn.Close()
 		if err != nil {
@@ -761,12 +781,15 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	}
 
 	// UDP failed after retries, try TCP
-	conn, err := dialer.DialContext(ctx, "tcp", addr)
+	dialCtx, dialCancel := context.WithTimeout(ctx, t.timeout)
+	conn, err := new(net.Dialer).DialContext(dialCtx, "tcp", addr)
+	dialCancel()
 	if err != nil {
 		return fmt.Errorf("relay test failed (UDP: %v, TCP connect: %v)", lastErr, err)
 	}
 	defer conn.Close()
 
+	conn.SetDeadline(time.Now().Add(t.timeout))
 	response, err := t.sendRelayQueryTCP(conn, anonPacket)
 	if err != nil {
 		return fmt.Errorf("relay test failed (UDP: %v, TCP: %v)", lastErr, err)
@@ -789,10 +812,9 @@ func buildAnonPacket(serverIP net.IP, serverPort int, dnsQuery []byte) []byte {
 	return packet
 }
 
-// sendRelayQuery sends a query through the relay via UDP and returns the response
+// sendRelayQuery sends a query through the relay via UDP and returns the response.
+// The caller must set the connection deadline before calling this function.
 func (t *Tester) sendRelayQuery(conn net.Conn, packet []byte) (*dns.Msg, error) {
-	conn.SetDeadline(time.Now().Add(t.timeout))
-
 	if _, err := conn.Write(packet); err != nil {
 		return nil, fmt.Errorf("failed to write query: %v", err)
 	}
@@ -811,10 +833,9 @@ func (t *Tester) sendRelayQuery(conn net.Conn, packet []byte) (*dns.Msg, error) 
 	return response, nil
 }
 
-// sendRelayQueryTCP sends a query through the relay via TCP and returns the response
+// sendRelayQueryTCP sends a query through the relay via TCP and returns the response.
+// The caller must set the connection deadline before calling this function.
 func (t *Tester) sendRelayQueryTCP(conn net.Conn, packet []byte) (*dns.Msg, error) {
-	conn.SetDeadline(time.Now().Add(t.timeout))
-
 	// TCP requires 2-byte length prefix
 	length := make([]byte, 2)
 	length[0] = byte(len(packet) >> 8)
