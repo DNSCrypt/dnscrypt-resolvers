@@ -50,12 +50,6 @@ func NewDB(path string) (*DB, error) {
 		return nil, err
 	}
 
-	// Use a single connection to avoid WAL snapshot isolation issues.
-	// With multiple connections, readers can see stale data because each
-	// connection may hold an old snapshot of the WAL. A single connection
-	// ensures all reads see the latest committed writes.
-	db.SetMaxOpenConns(1)
-
 	// Verify connection works
 	if err := db.Ping(); err != nil {
 		db.Close()
