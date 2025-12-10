@@ -13,15 +13,6 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
-## ibksturm
-
-Dnscrypt Server, No Logging, No Filters, DNSSEC, OpenNIC
-
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgK374BJKvK0aJHWKjmXdkG8_X2KEoao_LALK_nK6PM_AYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
-
-
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
