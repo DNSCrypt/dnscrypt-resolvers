@@ -1,5 +1,4 @@
 ![CI status](https://github.com/DNSCrypt/dnscrypt-resolvers/workflows/CI/badge.svg)
-[![Gitter chat](https://badges.gitter.im/gitter.svg)](https://gitter.im/dnscrypt-operators/Lobby)
 
 # Lists of public DNSCrypt and DoH servers
 
@@ -8,6 +7,9 @@ Interactive list of public DNS servers:
 
 Interactive map of public DNS servers:
 - https://dnscrypt.info/map
+
+Public DNS server status:
+- https://status.dnscrypt.info
 
 Stable download URLs:
 - https://github.com/DNSCrypt/dnscrypt-resolvers/tree/master/v3

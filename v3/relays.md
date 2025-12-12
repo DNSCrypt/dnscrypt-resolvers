@@ -601,14 +601,6 @@ For more information look at https://github.com/bhanupratapys/dnswarden or https
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
-## anon-ibksturm
-
-Anonymized DNS relay, No Logging, No Filters, DNSSEC, OpenNIC
-Running privately by ibksturm in Thurgau, Switzerland
-
-sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
-
-
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
@@ -1170,15 +1162,6 @@ https://www.dnscry.pt
 sdns://gRhbMmEwZDpkOGMwOjA6ZjA0Mzo6NjkyN10
 
 
-## dnscry.pt-anon-dallas-ipv4
-
-DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0yMy4yMzAuMjUzLjk4
-
-
 ## dnscry.pt-anon-dallas-ipv6
 
 DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -1267,15 +1250,6 @@ DNSCry.pt Düsseldorf - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serve
 https://www.dnscry.pt
 
 sdns://gRhbMmEwZjo1NzA3OmFhODE6NWUzYzo6MV0
-
-
-## dnscry.pt-anon-dusseldorf02-ipv4
-
-DNSCry.pt Düsseldorf 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ00NS4xMzMuNzUuMTIy
 
 
 ## dnscry.pt-anon-dusseldorf02-ipv6
@@ -1384,24 +1358,6 @@ DNSCry.pt Frankfurt 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serv
 https://www.dnscry.pt
 
 sdns://gRRbMmEwNzpkODg0OjEwMDo6MzQ0XQ
-
-
-## dnscry.pt-anon-fremont-ipv4
-
-DNSCry.pt Fremont - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4xMzQuODguNzE
-
-
-## dnscry.pt-anon-fremont-ipv6
-
-DNSCry.pt Fremont - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYmExOjEwMDo6NzE6MV0
 
 
 ## dnscry.pt-anon-fremont02-ipv4
@@ -1528,24 +1484,6 @@ DNSCry.pt Hafnarfjordur - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 ser
 https://www.dnscry.pt
 
 sdns://gRZbMmEwMzpmODA6MzU0OjM4Yjc6OjFd
-
-
-## dnscry.pt-anon-halifax-ipv4
-
-DNSCry.pt Halifax - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4xOTEuODAuNzI
-
-
-## dnscry.pt-anon-halifax-ipv6
-
-DNSCry.pt Halifax - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYzFjOmZhMDoxMTo6MV0
 
 
 ## dnscry.pt-anon-hanoi-ipv4
@@ -1773,15 +1711,6 @@ https://www.dnscry.pt
 sdns://gQ4xNTEuMjQzLjIyMi45NA
 
 
-## dnscry.pt-anon-jakarta-ipv6
-
-DNSCry.pt Jakarta - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSBbMjQwNzo2YWMwOjM6NToxMjM0OmUzNGU6NzJlNDoxXQ
-
-
 ## dnscry.pt-anon-johannesburg-ipv4
 
 DNSCry.pt Johannesburg - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1816,24 +1745,6 @@ DNSCry.pt Johannesburg 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 s
 https://www.dnscry.pt
 
 sdns://gRdbMmMwZjpmMDMwOjYwODA6MTo6MTU2XQ
-
-
-## dnscry.pt-anon-johor-ipv4
-
-DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ00NS4yNDkuOTEuMTUw
-
-
-## dnscry.pt-anon-johor-ipv6
-
-DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjAwMTpkZjQ6MTg0MDo5Zjo6YV0
 
 
 ## dnscry.pt-anon-kansascity-ipv4
@@ -1942,33 +1853,6 @@ DNSCry.pt Lima 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRNbMmEwMzo5MGMwOjU1NTo6NzJd
-
-
-## dnscry.pt-anon-lisbon-ipv4
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xODUuMjE5LjEzMC4y
-
-
-## dnscry.pt-anon-lisbon-ipv6
-
-DNSCry.pt Lisbon - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMmEwZTpiYzAwOjoxODU6MjE5OjEzMDoyXQ
-
-
-## dnscry.pt-anon-london-ipv6
-
-DNSCry.pt London - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRRbMmEwNTo0MTQwOjcwMDplOjphXQ
 
 
 ## dnscry.pt-anon-losangeles-ipv4
@@ -2250,15 +2134,6 @@ https://www.dnscry.pt
 sdns://gRhbMjYwMjpmYzI0OjEyOjk4NzM6OmFiMV0
 
 
-## dnscry.pt-anon-newcastle-ipv4
-
-DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ04OS4yMTMuMTk2Ljc3
-
-
 ## dnscry.pt-anon-newcastle-ipv6
 
 DNSCry.pt Newcastle - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -2304,24 +2179,6 @@ https://www.dnscry.pt
 sdns://gSVbMmEwMzo0MDAwOjVjOjUxOjI0Yjk6NTFmZjpmZTgwOmYzYTdd
 
 
-## dnscry.pt-anon-oradea-ipv4
-
-DNSCry.pt Oradea - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xOTMuMzIuODcuMTI3
-
-
-## dnscry.pt-anon-oradea-ipv6
-
-DNSCry.pt Oradea - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gR5bMmEwZDo4MTQzOjA6MTI0OjI5MTU6YWY6MDoxOF0
-
-
 ## dnscry.pt-anon-ottoville-ipv4
 
 DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2338,24 +2195,6 @@ DNSCry.pt Ottoville - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRNbMjYwMjpmOTUzOjY6MjU6OmFd
-
-
-## dnscry.pt-anon-palermo-ipv4
-
-DNSCry.pt Palermo - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xODUuMTk4LjIzNS41
-
-
-## dnscry.pt-anon-palermo-ipv6
-
-DNSCry.pt Palermo - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwNTplNDQwOjEyOjoyOjJkYl0
 
 
 ## dnscry.pt-anon-paris-ipv4
@@ -2682,24 +2521,6 @@ https://www.dnscry.pt
 sdns://gRNbMjQwMTo0NTIwOjExMjI6OmFd
 
 
-## dnscry.pt-anon-sofia-ipv4
-
-DNSCry.pt Sofia - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQs3OS4xMjQuNzcuMw
-
-
-## dnscry.pt-anon-sofia-ipv6
-
-DNSCry.pt Sofia - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRZbMmEwMTo4NzQwOjE6NDA6OjhhMjVd
-
-
 ## dnscry.pt-anon-spokane-ipv4
 
 DNSCry.pt Spokane - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2835,24 +2656,6 @@ https://www.dnscry.pt
 sdns://gRpbMmExMjplMzQwOjMwMDo6MTc2ODphOTVmXQ
 
 
-## dnscry.pt-anon-telaviv-ipv4
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ00NS4xNDQuMTcyLjQ1
-
-
-## dnscry.pt-anon-telaviv-ipv6
-
-DNSCry.pt Tel Aviv - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwNTplNDQwOjI3OjoxOjM0Nl0
-
-
 ## dnscry.pt-anon-timisoara-ipv4
 
 DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2869,24 +2672,6 @@ DNSCry.pt Timișoara - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server
 https://www.dnscry.pt
 
 sdns://gR5bMmEwYzo5ZjAwOjI6ZDkyODo2ZjBhOmI0ZTI6Ol0
-
-
-## dnscry.pt-anon-tirana-ipv4
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ4xOTMuMTA4LjExMi43NA
-
-
-## dnscry.pt-anon-tirana-ipv6
-
-DNSCry.pt Tirana - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRNbMjYwNTplNDQwOjQ2OjoyOTJd
 
 
 ## dnscry.pt-anon-tokyo-ipv4
@@ -2923,24 +2708,6 @@ DNSCry.pt Tokyo 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRNbMmEwYTo2MDQwOjk3M2Q6OmFd
-
-
-## dnscry.pt-anon-toronto-ipv4
-
-DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwyMy4xMzQuODkuMjM
-
-
-## dnscry.pt-anon-toronto-ipv6
-
-DNSCry.pt Toronto - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYmExOmQwMDo6MjM6MV0
 
 
 ## dnscry.pt-anon-tuusula-ipv4
