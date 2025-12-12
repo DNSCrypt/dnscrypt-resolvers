@@ -86,16 +86,16 @@ func createTables(db *sql.DB) error {
 		FOREIGN KEY (resolver_id) REFERENCES resolvers(id)
 	);
 
-	CREATE INDEX IF NOT EXISTS idx_test_results_resolver ON test_results(resolver_id);
+	-- For GetTestCount: MAX(tested_at)
 	CREATE INDEX IF NOT EXISTS idx_test_results_tested_at ON test_results(tested_at);
 
-	-- Composite index for correlated subqueries that fetch latest stamp/error
+	-- For RebuildStats: fetching latest stamp per resolver
 	CREATE INDEX IF NOT EXISTS idx_test_results_resolver_tested_at ON test_results(resolver_id, tested_at DESC);
 
-	-- Composite index for success-based aggregations and filtering
+	-- For RebuildStats (last error) and RemoveStaleResolvers
 	CREATE INDEX IF NOT EXISTS idx_test_results_resolver_success ON test_results(resolver_id, success, tested_at DESC);
 
-	-- Pre-computed stats table for fast queries and sorting
+	-- Pre-computed stats table for fast queries
 	CREATE TABLE IF NOT EXISTS resolver_stats (
 		resolver_id INTEGER PRIMARY KEY,
 		stamp TEXT,
@@ -113,12 +113,6 @@ func createTables(db *sql.DB) error {
 		reliability_pct REAL DEFAULT 0,
 		FOREIGN KEY (resolver_id) REFERENCES resolvers(id)
 	);
-
-	-- Index for sorting by reliability (the default sort)
-	CREATE INDEX IF NOT EXISTS idx_resolver_stats_reliability ON resolver_stats(reliability_pct DESC);
-
-	-- Index for sorting by avg RTT
-	CREATE INDEX IF NOT EXISTS idx_resolver_stats_rtt ON resolver_stats(avg_rtt ASC);
 	`
 	_, err := db.Exec(schema)
 	return err
@@ -221,6 +215,7 @@ func (d *DB) updateResolverStats(resolverID int64, stamp string, success bool, r
 
 func (d *DB) GetAllStats() ([]ResolverStats, error) {
 	// Use pre-computed stats table for fast queries
+	// No ORDER BY here - web.go sorts in Go based on user preference
 	rows, err := d.db.Query(`
 		SELECT
 			r.name,
@@ -241,10 +236,6 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 			s.reliability_pct
 		FROM resolvers r
 		LEFT JOIN resolver_stats s ON r.id = s.resolver_id
-		ORDER BY
-			CASE WHEN s.total_tests IS NULL OR s.total_tests = 0 THEN 1 ELSE 0 END,
-			s.reliability_pct DESC,
-			s.avg_rtt ASC
 	`)
 	if err != nil {
 		return nil, err
