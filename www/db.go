@@ -86,8 +86,33 @@ func createTables(db *sql.DB) error {
 		FOREIGN KEY (resolver_id) REFERENCES resolvers(id)
 	);
 
-	CREATE INDEX IF NOT EXISTS idx_test_results_resolver ON test_results(resolver_id);
+	-- For GetTestCount: MAX(tested_at)
 	CREATE INDEX IF NOT EXISTS idx_test_results_tested_at ON test_results(tested_at);
+
+	-- For RebuildStats: fetching latest stamp per resolver
+	CREATE INDEX IF NOT EXISTS idx_test_results_resolver_tested_at ON test_results(resolver_id, tested_at DESC);
+
+	-- For RebuildStats (last error) and RemoveStaleResolvers
+	CREATE INDEX IF NOT EXISTS idx_test_results_resolver_success ON test_results(resolver_id, success, tested_at DESC);
+
+	-- Pre-computed stats table for fast queries
+	CREATE TABLE IF NOT EXISTS resolver_stats (
+		resolver_id INTEGER PRIMARY KEY,
+		stamp TEXT,
+		total_tests INTEGER DEFAULT 0,
+		success_count INTEGER DEFAULT 0,
+		fail_count INTEGER DEFAULT 0,
+		avg_rtt REAL DEFAULT 0,
+		min_rtt INTEGER DEFAULT 0,
+		max_rtt INTEGER DEFAULT 0,
+		rtt_sum INTEGER DEFAULT 0,
+		last_success DATETIME,
+		last_fail DATETIME,
+		last_tested DATETIME,
+		last_error TEXT,
+		reliability_pct REAL DEFAULT 0,
+		FOREIGN KEY (resolver_id) REFERENCES resolvers(id)
+	);
 	`
 	_, err := db.Exec(schema)
 	return err
@@ -131,34 +156,86 @@ func (d *DB) RecordTest(resolverID int64, stamp string, success bool, rttMs int6
 	if rows == 0 {
 		return fmt.Errorf("no rows inserted for resolver %d", resolverID)
 	}
-	return nil
+
+	// Update pre-computed stats
+	return d.updateResolverStats(resolverID, stamp, success, rttMs, errMsg)
+}
+
+func (d *DB) updateResolverStats(resolverID int64, stamp string, success bool, rttMs int64, errMsg string) error {
+	now := time.Now().Format("2006-01-02 15:04:05")
+
+	// Upsert into resolver_stats with incremental updates
+	var query string
+	var args []interface{}
+
+	if success {
+		query = `
+			INSERT INTO resolver_stats (resolver_id, stamp, total_tests, success_count, fail_count,
+				rtt_sum, avg_rtt, min_rtt, max_rtt, last_success, last_tested, reliability_pct)
+			VALUES (?, ?, 1, 1, 0, ?, ?, ?, ?, ?, ?, 100.0)
+			ON CONFLICT(resolver_id) DO UPDATE SET
+				stamp = excluded.stamp,
+				total_tests = total_tests + 1,
+				success_count = success_count + 1,
+				rtt_sum = rtt_sum + ?,
+				avg_rtt = CAST(rtt_sum + ? AS REAL) / (success_count + 1),
+				min_rtt = CASE WHEN min_rtt = 0 OR ? < min_rtt THEN ? ELSE min_rtt END,
+				max_rtt = CASE WHEN ? > max_rtt THEN ? ELSE max_rtt END,
+				last_success = ?,
+				last_tested = ?,
+				reliability_pct = CAST(success_count + 1 AS REAL) / (total_tests + 1) * 100.0
+		`
+		args = []interface{}{
+			resolverID, stamp, rttMs, rttMs, rttMs, rttMs, now, now, // INSERT values
+			rttMs, rttMs, rttMs, rttMs, rttMs, rttMs, now, now, // UPDATE values
+		}
+	} else {
+		query = `
+			INSERT INTO resolver_stats (resolver_id, stamp, total_tests, success_count, fail_count,
+				last_fail, last_tested, last_error, reliability_pct)
+			VALUES (?, ?, 1, 0, 1, ?, ?, ?, 0.0)
+			ON CONFLICT(resolver_id) DO UPDATE SET
+				stamp = excluded.stamp,
+				total_tests = total_tests + 1,
+				fail_count = fail_count + 1,
+				last_fail = ?,
+				last_tested = ?,
+				last_error = ?,
+				reliability_pct = CAST(success_count AS REAL) / (total_tests + 1) * 100.0
+		`
+		args = []interface{}{
+			resolverID, stamp, now, now, errMsg, // INSERT values
+			now, now, errMsg, // UPDATE values
+		}
+	}
+
+	_, err := d.db.Exec(query, args...)
+	return err
 }
 
 func (d *DB) GetAllStats() ([]ResolverStats, error) {
+	// Use pre-computed stats table for fast queries
+	// No ORDER BY here - web.go sorts in Go based on user preference
 	rows, err := d.db.Query(`
 		SELECT
 			r.name,
 			r.type,
 			r.description,
 			r.source_file,
-			(SELECT stamp FROM test_results t3 WHERE t3.resolver_id = r.id ORDER BY t3.tested_at DESC LIMIT 1) as stamp,
-			COUNT(t.id) as total_tests,
-			SUM(CASE WHEN t.success = 1 THEN 1 ELSE 0 END) as success_count,
-			SUM(CASE WHEN t.success = 0 THEN 1 ELSE 0 END) as fail_count,
-			COALESCE(AVG(CASE WHEN t.success = 1 THEN t.rtt_ms END), 0) as avg_rtt,
-			COALESCE(MIN(CASE WHEN t.success = 1 THEN t.rtt_ms END), 0) as min_rtt,
-			COALESCE(MAX(CASE WHEN t.success = 1 THEN t.rtt_ms END), 0) as max_rtt,
-			MAX(CASE WHEN t.success = 1 THEN t.tested_at END) as last_success,
-			MAX(CASE WHEN t.success = 0 THEN t.tested_at END) as last_fail,
-			MAX(t.tested_at) as last_tested,
-			(SELECT error FROM test_results t2 WHERE t2.resolver_id = r.id AND t2.success = 0 ORDER BY t2.tested_at DESC LIMIT 1) as last_error
+			s.stamp,
+			s.total_tests,
+			s.success_count,
+			s.fail_count,
+			s.avg_rtt,
+			s.min_rtt,
+			s.max_rtt,
+			s.last_success,
+			s.last_fail,
+			s.last_tested,
+			s.last_error,
+			s.reliability_pct
 		FROM resolvers r
-		LEFT JOIN test_results t ON r.id = t.resolver_id
-		GROUP BY r.id
-		ORDER BY
-			CASE WHEN COUNT(t.id) = 0 THEN 1 ELSE 0 END,
-			CAST(SUM(CASE WHEN t.success = 1 THEN 1 ELSE 0 END) AS FLOAT) / NULLIF(COUNT(t.id), 0) DESC,
-			AVG(CASE WHEN t.success = 1 THEN t.rtt_ms END) ASC
+		LEFT JOIN resolver_stats s ON r.id = s.resolver_id
 	`)
 	if err != nil {
 		return nil, err
@@ -171,12 +248,15 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 		var lastSuccess, lastFail, lastTested sql.NullString
 		var lastError sql.NullString
 		var description, sourceFile, stamp sql.NullString
+		var totalTests, successCount, failCount sql.NullInt64
+		var avgRTT, reliabilityPct sql.NullFloat64
+		var minRTT, maxRTT sql.NullInt64
 
 		err := rows.Scan(
 			&s.Name, &s.Type, &description, &sourceFile, &stamp,
-			&s.TotalTests, &s.SuccessCount, &s.FailCount,
-			&s.AvgRTT, &s.MinRTT, &s.MaxRTT,
-			&lastSuccess, &lastFail, &lastTested, &lastError,
+			&totalTests, &successCount, &failCount,
+			&avgRTT, &minRTT, &maxRTT,
+			&lastSuccess, &lastFail, &lastTested, &lastError, &reliabilityPct,
 		)
 		if err != nil {
 			return nil, err
@@ -186,10 +266,13 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 		s.SourceFile = sourceFile.String
 		s.Stamp = stamp.String
 		s.LastError = lastError.String
-
-		if s.TotalTests > 0 {
-			s.ReliabilityPct = float64(s.SuccessCount) / float64(s.TotalTests) * 100
-		}
+		s.TotalTests = int(totalTests.Int64)
+		s.SuccessCount = int(successCount.Int64)
+		s.FailCount = int(failCount.Int64)
+		s.AvgRTT = avgRTT.Float64
+		s.MinRTT = minRTT.Int64
+		s.MaxRTT = maxRTT.Int64
+		s.ReliabilityPct = reliabilityPct.Float64
 
 		if lastSuccess.Valid {
 			t, _ := time.Parse("2006-01-02 15:04:05", lastSuccess.String)
@@ -207,6 +290,55 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 	}
 
 	return stats, rows.Err()
+}
+
+// RebuildStatsIfNeeded rebuilds stats only if the table is empty but test_results has data.
+func (d *DB) RebuildStatsIfNeeded() error {
+	var statsCount, testCount int
+	if err := d.db.QueryRow("SELECT COUNT(*) FROM resolver_stats").Scan(&statsCount); err != nil {
+		return err
+	}
+	if err := d.db.QueryRow("SELECT COUNT(*) FROM test_results").Scan(&testCount); err != nil {
+		return err
+	}
+
+	if statsCount == 0 && testCount > 0 {
+		return d.RebuildStats()
+	}
+	return nil
+}
+
+// RebuildStats recomputes all resolver_stats from test_results.
+// Call this once to migrate existing data, or to fix any inconsistencies.
+func (d *DB) RebuildStats() error {
+	_, err := d.db.Exec(`
+		DELETE FROM resolver_stats;
+
+		INSERT INTO resolver_stats (
+			resolver_id, stamp, total_tests, success_count, fail_count,
+			rtt_sum, avg_rtt, min_rtt, max_rtt,
+			last_success, last_fail, last_tested, last_error, reliability_pct
+		)
+		SELECT
+			r.id,
+			(SELECT stamp FROM test_results t3 WHERE t3.resolver_id = r.id ORDER BY t3.tested_at DESC LIMIT 1),
+			COUNT(t.id),
+			SUM(CASE WHEN t.success = 1 THEN 1 ELSE 0 END),
+			SUM(CASE WHEN t.success = 0 THEN 1 ELSE 0 END),
+			COALESCE(SUM(CASE WHEN t.success = 1 THEN t.rtt_ms ELSE 0 END), 0),
+			COALESCE(AVG(CASE WHEN t.success = 1 THEN t.rtt_ms END), 0),
+			COALESCE(MIN(CASE WHEN t.success = 1 THEN t.rtt_ms END), 0),
+			COALESCE(MAX(CASE WHEN t.success = 1 THEN t.rtt_ms END), 0),
+			MAX(CASE WHEN t.success = 1 THEN t.tested_at END),
+			MAX(CASE WHEN t.success = 0 THEN t.tested_at END),
+			MAX(t.tested_at),
+			(SELECT error FROM test_results t2 WHERE t2.resolver_id = r.id AND t2.success = 0 ORDER BY t2.tested_at DESC LIMIT 1),
+			CASE WHEN COUNT(t.id) > 0 THEN CAST(SUM(CASE WHEN t.success = 1 THEN 1 ELSE 0 END) AS REAL) / COUNT(t.id) * 100.0 ELSE 0 END
+		FROM resolvers r
+		LEFT JOIN test_results t ON r.id = t.resolver_id
+		GROUP BY r.id
+	`)
+	return err
 }
 
 // RemoveStaleResolvers removes resolvers that haven't had a successful response
@@ -255,9 +387,12 @@ func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error
 		return nil, nil
 	}
 
-	// Delete test results and resolvers
+	// Delete test results, stats, and resolvers
 	for _, id := range idsToDelete {
 		if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
+			return names, err
+		}
+		if _, err := d.db.Exec("DELETE FROM resolver_stats WHERE resolver_id = ?", id); err != nil {
 			return names, err
 		}
 		if _, err := d.db.Exec("DELETE FROM resolvers WHERE id = ?", id); err != nil {

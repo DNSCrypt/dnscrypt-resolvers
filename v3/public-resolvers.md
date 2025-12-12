@@ -269,6 +269,66 @@ Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOmY1ZTE6OjFdoPf1ryiAHod9ffOivij-FJ8ydKftKfE2_VA845jLqAsNoPV1fXhvFz9qtTGX7JwikIrAbSrk6qKltvWOu_ADl6HfoLNeBZUM-9gln5N1uhAYcLjDxMDsWlKXV-YxZ-neJqnooOzwYgv8MNRE3vV3rcZcN1Bac7otL9nm_0HD7TrQ1loPoKLjJ0NjdtjnZAWr6f7IjLQd4tTQNQ1OgpKlMRjEuN9boJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5oNatcE00F04SCMlSqquYNescBmsNzaO02tQPRRPo4YJaoLJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0oOZEumlj4zX-dly5l2sSsQ61QpS0JHd2TMs6OsyjrLL8oCquP7e_BeTIHEGU3KRFEdT5rzBHhuwa5yGECc9ioINVoNYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYEGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
 
 
+## cira-family
+
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Family - Malware and phishing protection plus blocking pornographic content
+
+Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
+
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+
+
+## cira-family-ipv6
+
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Family - Malware and phishing protection plus blocking pornographic content - IPV6
+
+Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
+
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+
+
+## cira-private
+
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Private - DNS resolution only
+
+Info: Not anonymous but does not sell or share data. The 'private' name is one that CIRA designates themselves to this resolver.
+
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjEwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjEwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+
+
+## cira-private-ipv6
+
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Private - DNS resolution only - IPV6
+
+Info: Not anonymous but does not sell or share data. The 'private' name is one that CIRA designates themselves to this resolver.
+
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoxMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoxMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+
+
+## cira-protected
+
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Protected - Malware and phishing protection
+
+Info: Not anonymous but does not sell or share data. The 'protected' name is one that CIRA designates themselves to this resolver.
+
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjIwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjIwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+
+
+## cira-protected-ipv6
+
+Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Protected - Malware and phishing protection - IPV6
+
+Info: Not anonymous but does not sell or share data. The 'protected' name is one that CIRA designates themselves to this resolver.
+
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoyMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoyMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+
+
 ## circl-doh
 
 DoH server operated by CIRCL, Computer Incident Response Center Luxembourg.

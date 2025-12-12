@@ -85,6 +85,23 @@ func (w *WebServer) handleIndex(rw http.ResponseWriter, r *http.Request) {
 			}
 			return filtered[i].ReliabilityPct > filtered[j].ReliabilityPct
 		})
+	default:
+		// Default: sort by reliability desc, then by RTT asc
+		sort.Slice(filtered, func(i, j int) bool {
+			// Untested resolvers go last
+			if filtered[i].TotalTests == 0 && filtered[j].TotalTests > 0 {
+				return false
+			}
+			if filtered[i].TotalTests > 0 && filtered[j].TotalTests == 0 {
+				return true
+			}
+			// Sort by reliability descending
+			if filtered[i].ReliabilityPct != filtered[j].ReliabilityPct {
+				return filtered[i].ReliabilityPct > filtered[j].ReliabilityPct
+			}
+			// Then by RTT ascending
+			return filtered[i].AvgRTT < filtered[j].AvgRTT
+		})
 	}
 
 	types := make(map[string]int)
