@@ -5,8 +5,15 @@ Add certificate hashes to DNS stamps for a specific resolver.
 Usage:
     python3 utils/add-cert-hash.py v3/public-resolvers.md resolver-name
 
-This tool connects to the resolver's server via TLS, extracts the root CA
+This tool connects to the resolver's server via TLS, extracts the intermediate CA
 certificate hash (SHA256 of the TBS certificate), and adds it to the stamps.
+
+The intermediate CA is preferred over the leaf certificate because it changes less
+frequently (years vs months), making the stamps more stable over time.
+
+Note: The hash is computed from the TBS (To Be Signed) portion of the certificate,
+which is what dnscrypt-proxy verifies against. The root CA is NOT used because it's
+not sent by the server - only the leaf and intermediate certificates are sent.
 """
 
 import base64
@@ -233,9 +240,9 @@ class DNSStamp:
         return addr, 443
 
 
-def get_root_cert_hash(host: str, port: int, server_hostname: str) -> bytes:
+def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[str, bytes]]:
     """
-    Connect to server via TLS and return SHA256 hash of root CA's TBS certificate.
+    Connect to server via TLS and return TBS certificate hashes for all certs sent by server.
 
     Args:
         host: IP address or hostname to connect to
@@ -243,32 +250,49 @@ def get_root_cert_hash(host: str, port: int, server_hostname: str) -> bytes:
         server_hostname: SNI hostname for TLS
 
     Returns:
-        SHA256 hash of the root CA certificate's TBS (To Be Signed) data
+        List of (subject_cn, tbs_hash) tuples for each certificate sent by the server.
+        The list is ordered: [leaf_cert, intermediate_ca1, intermediate_ca2, ...]
+        Note: Root CA is NOT included since it's not sent by the server.
     """
-    # Use a context that verifies certificates to get the full chain
     context = ssl.create_default_context()
 
     with socket.create_connection((host, port), timeout=10) as sock:
         with context.wrap_socket(sock, server_hostname=server_hostname) as ssock:
-            # Get the certificate chain - returns list of DER-encoded certs
+            # Get the verified chain - this includes all certs including root from trust store
             cert_chain = ssock.get_verified_chain()
-            if cert_chain:
-                # Get the root certificate (last in chain)
-                root_cert = cert_chain[-1]
-                # In Python 3.10+, get_verified_chain returns Certificate objects
-                if hasattr(root_cert, 'public_bytes'):
-                    from cryptography.hazmat.primitives.serialization import Encoding
-                    cert_der = root_cert.public_bytes(Encoding.DER)
-                else:
-                    # Older Python or different return type - it's already bytes
-                    cert_der = root_cert
-                return get_tbs_hash_from_der(cert_der)
+            if not cert_chain:
+                raise RuntimeError("No certificate chain received")
 
-            # Fall back to peer certificate if chain not available
-            cert_der = ssock.getpeercert(binary_form=True)
-            if cert_der:
-                return get_tbs_hash_from_der(cert_der)
-            raise RuntimeError("No certificate received")
+            results = []
+            # Iterate all certs EXCEPT the last one (root CA from local trust store)
+            # These are the certificates actually sent by the server
+            for cert in cert_chain[:-1]:
+                if hasattr(cert, 'public_bytes'):
+                    from cryptography.hazmat.primitives.serialization import Encoding
+                    cert_der = cert.public_bytes(Encoding.DER)
+                else:
+                    cert_der = cert
+
+                tbs_hash = get_tbs_hash_from_der(cert_der)
+
+                # Extract subject CN for display
+                subject = "unknown"
+                if hasattr(cert, 'subject'):
+                    # cryptography Certificate object
+                    from cryptography.x509.oid import NameOID
+                    try:
+                        cn = cert.subject.get_attributes_for_oid(NameOID.COMMON_NAME)
+                        if cn:
+                            subject = cn[0].value
+                    except Exception:
+                        pass
+
+                results.append((subject, tbs_hash))
+
+            if not results:
+                raise RuntimeError("No server certificates found in chain")
+
+            return results
 
 
 def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
@@ -289,19 +313,21 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
     if cert_der[0] != 0x30:
         raise ValueError("Certificate must start with SEQUENCE tag")
 
-    # Get length of outer sequence
-    outer_len, header_len = parse_der_length(cert_der, 1)
+    # Get length of outer sequence (1 byte tag + length field)
+    _, outer_len_size = parse_der_length(cert_der, 1)
+    outer_header_len = 1 + outer_len_size  # tag + length bytes
 
     # The TBS certificate starts right after the outer header
-    tbs_start = header_len
+    tbs_start = outer_header_len
     if cert_der[tbs_start] != 0x30:
         raise ValueError("TBS certificate must be a SEQUENCE")
 
-    # Get length of TBS certificate
-    tbs_len, tbs_header_len = parse_der_length(cert_der, tbs_start + 1)
-    tbs_total_len = tbs_header_len + tbs_len
+    # Get length of TBS certificate content and its header size
+    tbs_content_len, tbs_len_size = parse_der_length(cert_der, tbs_start + 1)
+    tbs_header_len = 1 + tbs_len_size  # tag + length bytes
+    tbs_total_len = tbs_header_len + tbs_content_len
 
-    # Extract TBS certificate bytes
+    # Extract TBS certificate bytes (header + content)
     tbs_data = cert_der[tbs_start : tbs_start + tbs_total_len]
 
     # Hash it
@@ -310,20 +336,22 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
 
 def parse_der_length(data: bytes, offset: int) -> tuple[int, int]:
     """
-    Parse DER length encoding.
+    Parse DER length encoding at the given offset.
 
-    Returns (length, total_header_bytes_including_tag)
+    Returns (content_length, length_field_size)
+    where length_field_size is the number of bytes used to encode the length
+    (not including the tag byte).
     """
     if data[offset] < 0x80:
-        # Short form: length is directly encoded
-        return data[offset], offset + 1
+        # Short form: length is directly encoded in one byte
+        return data[offset], 1
     else:
         # Long form: first byte indicates number of length bytes
         num_bytes = data[offset] & 0x7F
         length = 0
         for i in range(num_bytes):
             length = (length << 8) | data[offset + 1 + i]
-        return length, offset + 1 + num_bytes
+        return length, 1 + num_bytes
 
 
 def process_resolver(md_path: str, resolver_name: str) -> None:
@@ -364,12 +392,24 @@ def process_resolver(md_path: str, resolver_name: str) -> None:
                             print(f"  Connecting to {host}:{port} (SNI: {sni})...")
 
                             try:
-                                cert_hash = get_root_cert_hash(host, port, sni)
-                                print(f"  Root CA hash: {cert_hash.hex()}")
+                                cert_hashes = get_cert_hashes(host, port, sni)
+                                print(f"  Certificates sent by server:")
+                                for i, (cn, h) in enumerate(cert_hashes):
+                                    cert_type = "Leaf" if i == 0 else f"Intermediate CA {i}"
+                                    print(f"    [{cert_type}] {cn}: {h.hex()}")
+
+                                # Use the intermediate CA if available (more stable),
+                                # otherwise fall back to leaf certificate
+                                if len(cert_hashes) > 1:
+                                    selected_cn, cert_hash = cert_hashes[1]  # First intermediate
+                                    print(f"  Using intermediate CA: {selected_cn}")
+                                else:
+                                    selected_cn, cert_hash = cert_hashes[0]  # Leaf
+                                    print(f"  Using leaf cert (no intermediate available): {selected_cn}")
 
                                 # Add hash if not already present
                                 if cert_hash not in stamp.hashes:
-                                    stamp.hashes = [cert_hash]  # Replace with root CA hash
+                                    stamp.hashes = [cert_hash]
                                     new_stamp = stamp.serialize()
                                     print(f"  Old: {line}")
                                     print(f"  New: {new_stamp}")
