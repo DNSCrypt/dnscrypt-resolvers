@@ -12,6 +12,18 @@ type DB struct {
 	db *sql.DB
 }
 
+// parseDBTime parses a time string from the database, handling both
+// RFC3339 format (returned by go-sqlite3 driver) and the space-separated
+// format used when storing.
+func parseDBTime(s string) (time.Time, error) {
+	// Try RFC3339 first (what the driver returns)
+	if t, err := time.Parse(time.RFC3339, s); err == nil {
+		return t, nil
+	}
+	// Fall back to space-separated format
+	return time.Parse("2006-01-02 15:04:05", s)
+}
+
 type TestResult struct {
 	ID          int64
 	Name        string
@@ -275,15 +287,17 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 		s.ReliabilityPct = reliabilityPct.Float64
 
 		if lastSuccess.Valid {
-			t, _ := time.Parse("2006-01-02 15:04:05", lastSuccess.String)
-			s.LastSuccess = &t
+			if t, err := parseDBTime(lastSuccess.String); err == nil {
+				s.LastSuccess = &t
+			}
 		}
 		if lastFail.Valid {
-			t, _ := time.Parse("2006-01-02 15:04:05", lastFail.String)
-			s.LastFail = &t
+			if t, err := parseDBTime(lastFail.String); err == nil {
+				s.LastFail = &t
+			}
 		}
 		if lastTested.Valid {
-			s.LastTestedAt, _ = time.Parse("2006-01-02 15:04:05", lastTested.String)
+			s.LastTestedAt, _ = parseDBTime(lastTested.String)
 		}
 
 		stats = append(stats, s)
@@ -467,7 +481,65 @@ func (d *DB) GetTestCount() (count int64, lastTest time.Time, err error) {
 		return 0, time.Time{}, err
 	}
 	if lastTestStr.Valid {
-		lastTest, _ = time.Parse("2006-01-02 15:04:05", lastTestStr.String)
+		lastTest, _ = parseDBTime(lastTestStr.String)
 	}
 	return count, lastTest, nil
+}
+
+// RemoveResolver removes a resolver by name along with all its test results and stats.
+// Returns an error if the resolver is not found.
+func (d *DB) RemoveResolver(name string) error {
+	var id int64
+	err := d.db.QueryRow("SELECT id FROM resolvers WHERE name = ?", name).Scan(&id)
+	if err == sql.ErrNoRows {
+		return fmt.Errorf("resolver %q not found", name)
+	}
+	if err != nil {
+		return err
+	}
+
+	// Delete in order: test_results, resolver_stats, resolvers
+	if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
+		return fmt.Errorf("failed to delete test results: %w", err)
+	}
+	if _, err := d.db.Exec("DELETE FROM resolver_stats WHERE resolver_id = ?", id); err != nil {
+		return fmt.Errorf("failed to delete stats: %w", err)
+	}
+	if _, err := d.db.Exec("DELETE FROM resolvers WHERE id = ?", id); err != nil {
+		return fmt.Errorf("failed to delete resolver: %w", err)
+	}
+
+	return nil
+}
+
+// ClearResolverErrors updates all failed tests for a resolver to successful,
+// setting their RTT to 0 and clearing error messages, then rebuilds stats.
+// Returns the number of tests updated, or an error if the resolver is not found.
+func (d *DB) ClearResolverErrors(name string) (int64, error) {
+	var id int64
+	err := d.db.QueryRow("SELECT id FROM resolvers WHERE name = ?", name).Scan(&id)
+	if err == sql.ErrNoRows {
+		return 0, fmt.Errorf("resolver %q not found", name)
+	}
+	if err != nil {
+		return 0, err
+	}
+
+	result, err := d.db.Exec(`
+		UPDATE test_results
+		SET success = 1, error = NULL, rtt_ms = 0
+		WHERE resolver_id = ? AND success = 0
+	`, id)
+	if err != nil {
+		return 0, fmt.Errorf("failed to update test results: %w", err)
+	}
+
+	updated, _ := result.RowsAffected()
+
+	// Rebuild stats to reflect the changes
+	if err := d.RebuildStats(); err != nil {
+		return updated, fmt.Errorf("updated %d tests but failed to rebuild stats: %w", updated, err)
+	}
+
+	return updated, nil
 }

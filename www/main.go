@@ -18,6 +18,8 @@ func main() {
 	timeout := flag.Duration("timeout", 10*time.Second, "Timeout for each test")
 	runOnce := flag.Bool("once", false, "Run tests once and exit")
 	rebuildStats := flag.Bool("rebuild-stats", false, "Rebuild stats from test_results and exit")
+	removeResolver := flag.String("remove", "", "Remove a resolver by name and exit")
+	clearErrors := flag.String("clear-errors", "", "Clear all errors for a resolver (mark as successful) and exit")
 	flag.Parse()
 
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
@@ -35,6 +37,27 @@ func main() {
 			log.Fatalf("Failed to rebuild stats: %v", err)
 		}
 		log.Println("Stats rebuilt successfully")
+		return
+	}
+
+	// Handle resolver removal
+	if *removeResolver != "" {
+		log.Printf("Removing resolver %q...", *removeResolver)
+		if err := db.RemoveResolver(*removeResolver); err != nil {
+			log.Fatalf("Failed to remove resolver: %v", err)
+		}
+		log.Printf("Resolver %q removed successfully", *removeResolver)
+		return
+	}
+
+	// Handle clearing errors for a resolver
+	if *clearErrors != "" {
+		log.Printf("Clearing errors for resolver %q...", *clearErrors)
+		updated, err := db.ClearResolverErrors(*clearErrors)
+		if err != nil {
+			log.Fatalf("Failed to clear errors: %v", err)
+		}
+		log.Printf("Cleared %d failed tests for resolver %q", updated, *clearErrors)
 		return
 	}
 
