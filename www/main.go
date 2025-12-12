@@ -17,6 +17,7 @@ func main() {
 	concurrency := flag.Int("concurrency", 50, "Number of concurrent tests")
 	timeout := flag.Duration("timeout", 10*time.Second, "Timeout for each test")
 	runOnce := flag.Bool("once", false, "Run tests once and exit")
+	rebuildStats := flag.Bool("rebuild-stats", false, "Rebuild stats from test_results and exit")
 	flag.Parse()
 
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
@@ -26,6 +27,21 @@ func main() {
 		log.Fatalf("Failed to open database: %v", err)
 	}
 	defer db.Close()
+
+	// Handle explicit rebuild request
+	if *rebuildStats {
+		log.Println("Rebuilding resolver stats...")
+		if err := db.RebuildStats(); err != nil {
+			log.Fatalf("Failed to rebuild stats: %v", err)
+		}
+		log.Println("Stats rebuilt successfully")
+		return
+	}
+
+	// Auto-rebuild if resolver_stats is empty but test_results has data
+	if err := db.RebuildStatsIfNeeded(); err != nil {
+		log.Printf("Warning: failed to check/rebuild stats: %v", err)
+	}
 
 	parser := NewParser(*resolversDir)
 	tester := NewTester(db, *concurrency, *timeout)
