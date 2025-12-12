@@ -65,6 +65,14 @@ func main() {
 			log.Printf("Removed %d stale resolvers: %v", len(removed), removed)
 		}
 
+		// Prune test results older than 1 week
+		pruned, err := db.PruneOldTests(7 * 24 * time.Hour)
+		if err != nil {
+			log.Printf("Failed to prune old tests: %v", err)
+		} else if pruned > 0 {
+			log.Printf("Pruned %d old test results", pruned)
+		}
+
 		// Log database state after test run
 		count, lastTest, err := db.GetTestCount()
 		if err != nil {

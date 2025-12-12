@@ -403,6 +403,60 @@ func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error
 	return names, nil
 }
 
+// PruneOldTests removes test results older than the given duration and updates stats accordingly.
+// Also removes resolvers that have no remaining test results.
+// Returns the number of deleted test result rows.
+func (d *DB) PruneOldTests(maxAge time.Duration) (int64, error) {
+	cutoff := time.Now().Add(-maxAge).Format("2006-01-02 15:04:05")
+
+	result, err := d.db.Exec("DELETE FROM test_results WHERE tested_at < ?", cutoff)
+	if err != nil {
+		return 0, err
+	}
+
+	deleted, _ := result.RowsAffected()
+	if deleted > 0 {
+		// Remove orphaned resolver_stats (no remaining test results)
+		if _, err := d.db.Exec(`
+			DELETE FROM resolver_stats
+			WHERE resolver_id NOT IN (SELECT DISTINCT resolver_id FROM test_results)
+		`); err != nil {
+			return deleted, fmt.Errorf("failed to clean orphaned stats: %w", err)
+		}
+
+		// Remove orphaned resolvers (no remaining test results)
+		if _, err := d.db.Exec(`
+			DELETE FROM resolvers
+			WHERE id NOT IN (SELECT DISTINCT resolver_id FROM test_results)
+		`); err != nil {
+			return deleted, fmt.Errorf("failed to clean orphaned resolvers: %w", err)
+		}
+
+		// Rebuild stats for remaining resolvers
+		if err := d.RebuildStats(); err != nil {
+			return deleted, fmt.Errorf("pruned %d rows but failed to rebuild stats: %w", deleted, err)
+		}
+
+		// Reclaim disk space and checkpoint WAL
+		if err := d.Optimize(); err != nil {
+			return deleted, fmt.Errorf("pruned %d rows but failed to optimize: %w", deleted, err)
+		}
+	}
+
+	return deleted, nil
+}
+
+// Optimize runs VACUUM to reclaim disk space and checkpoints the WAL file.
+func (d *DB) Optimize() error {
+	if _, err := d.db.Exec("PRAGMA wal_checkpoint(TRUNCATE)"); err != nil {
+		return fmt.Errorf("wal_checkpoint failed: %w", err)
+	}
+	if _, err := d.db.Exec("VACUUM"); err != nil {
+		return fmt.Errorf("vacuum failed: %w", err)
+	}
+	return nil
+}
+
 // GetTestCount returns the total number of test results and the timestamp of the most recent one
 func (d *DB) GetTestCount() (count int64, lastTest time.Time, err error) {
 	var lastTestStr sql.NullString
