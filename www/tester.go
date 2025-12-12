@@ -22,6 +22,8 @@ import (
 	"github.com/miekg/dns"
 )
 
+const userAgent = "DNSCrypt Public DNS Servers Monitor https://status.dnscrypt.info"
+
 type Tester struct {
 	db          *DB
 	concurrency int
@@ -389,6 +391,7 @@ func (t *Tester) doDoHRequest(ctx context.Context, client *http.Client, urlStr s
 	}
 
 	req.Header.Set("Accept", "application/dns-message")
+	req.Header.Set("User-Agent", userAgent)
 	req = req.WithContext(ctx)
 
 	return client.Do(req)
@@ -865,6 +868,7 @@ func (t *Tester) testODoHTarget(stamp stamps.ServerStamp) error {
 	if err != nil {
 		return fmt.Errorf("failed to create request: %v", err)
 	}
+	req.Header.Set("User-Agent", userAgent)
 
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout)
 	defer cancel()
@@ -924,6 +928,7 @@ func (t *Tester) testODoHRelay(stamp stamps.ServerStamp) error {
 		return fmt.Errorf("failed to create request: %v", err)
 	}
 	req.Header.Set("Content-Type", "message/ohttp-req")
+	req.Header.Set("User-Agent", userAgent)
 
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout)
 	defer cancel()
