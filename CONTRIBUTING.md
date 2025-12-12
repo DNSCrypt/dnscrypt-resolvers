@@ -53,7 +53,7 @@ Other software may or may not print them. So, use the [Online DNS Stamps calcula
 
 If the server has a fixed IP address, enter it in the relevant form field. This will allow the server to be used without depending on 3rd party servers for bootstraping.
 
-The DoH protocol is fragile and unless the server frequently switches certificates, it is important to also include [certificate hashes](https://github.com/DNSCrypt/doh-server?tab=readme-ov-file#dns-stamp-and-certificate-hashes).
+The DoH protocol is fragile and unless the server frequently switches certificates, it is important to also include [certificate hashes](https://github.com/DNSCrypt/doh-server?tab=readme-ov-file#dns-stamps-and-certificate-hashes).
 
 Prior to submitting a new entry to that list, take the time to test the server with `dnscrypt-proxy`, with and without `HTTP/3` (if supported by the server).
 
