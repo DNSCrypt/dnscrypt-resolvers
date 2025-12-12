@@ -88,6 +88,12 @@ func createTables(db *sql.DB) error {
 
 	CREATE INDEX IF NOT EXISTS idx_test_results_resolver ON test_results(resolver_id);
 	CREATE INDEX IF NOT EXISTS idx_test_results_tested_at ON test_results(tested_at);
+
+	-- Composite index for correlated subqueries that fetch latest stamp/error
+	CREATE INDEX IF NOT EXISTS idx_test_results_resolver_tested_at ON test_results(resolver_id, tested_at DESC);
+
+	-- Composite index for success-based aggregations and filtering
+	CREATE INDEX IF NOT EXISTS idx_test_results_resolver_success ON test_results(resolver_id, success, tested_at DESC);
 	`
 	_, err := db.Exec(schema)
 	return err
