@@ -275,8 +275,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - F
 
 Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIPasQxJI6oQcnQ-FxSDSYisLowSz2QLC3I7WJjn9d5ACHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIPasQxJI6oQcnQ-FxSDSYisLowSz2QLC3I7WJjn9d5ACHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-family-ipv6
@@ -285,8 +285,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - F
 
 Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0g9qxDEkjqhBydD4XFINJiKwujBLPZAsLcjtYmOf13kAIdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0g9qxDEkjqhBydD4XFINJiKwujBLPZAsLcjtYmOf13kAIdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 
 ## cira-private
@@ -295,8 +295,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'private' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjEwIPasQxJI6oQcnQ-FxSDSYisLowSz2QLC3I7WJjn9d5ACHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjEwIPasQxJI6oQcnQ-FxSDSYisLowSz2QLC3I7WJjn9d5ACHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjEwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjEwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 
 ## cira-private-ipv6
@@ -305,8 +305,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'private' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoxMF0g9qxDEkjqhBydD4XFINJiKwujBLPZAsLcjtYmOf13kAIecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoxMF0g9qxDEkjqhBydD4XFINJiKwujBLPZAsLcjtYmOf13kAIecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoxMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoxMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-protected
@@ -315,8 +315,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'protected' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjIwIPasQxJI6oQcnQ-FxSDSYisLowSz2QLC3I7WJjn9d5ACIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjIwIPasQxJI6oQcnQ-FxSDSYisLowSz2QLC3I7WJjn9d5ACIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjIwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjIwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-protected-ipv6
@@ -325,8 +325,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'protected' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoyMF0g9qxDEkjqhBydD4XFINJiKwujBLPZAsLcjtYmOf13kAIgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoyMF0g9qxDEkjqhBydD4XFINJiKwujBLPZAsLcjtYmOf13kAIgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoyMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoyMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 
 ## circl-doh
