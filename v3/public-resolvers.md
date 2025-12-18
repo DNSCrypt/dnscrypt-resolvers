@@ -2713,24 +2713,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAFVsyYTAyOjI3YWU6ODAwMDo6MmExXSC7JIUG4pofqDllRg8-zn0D1NG9tlQO2eP80-gc5dDSgBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-minneapolis-ipv4
-
-DNSCry.pt Minneapolis - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTkyLjIyMy4xMDIuMTMg-kGTKP_iY4SurrB5wCLz-Mw6XXdAjJFqLjSbZK_WZZEZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-minneapolis-ipv6
-
-DNSCry.pt Minneapolis - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6NjQ1OjozMl0g-kGTKP_iY4SurrB5wCLz-Mw6XXdAjJFqLjSbZK_WZZEZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-molln-ipv4
 
 DNSCry.pt Mölln - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2765,24 +2747,6 @@ DNSCry.pt Montreal - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAGlsyNjA2OjY2ODA6NDU6MTo6Zjc4Yzo5YjBdIKwIUHoSQwl1ktD4iWwFu2O1KVqwJ-xPHtDq7Rs4jw7AGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-moscow-ipv4
-
-DNSCry.pt Moscow - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjkzLjE4My4xMDUuMTA5ILd1Dg3kVS2KnYl7fYwUcgH4FR9_IEVgO5QViShZy4WCGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-moscow-ipv6
-
-DNSCry.pt Moscow - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFFsyYTBjOmM1ODA6MDoxOjoyOjFdILd1Dg3kVS2KnYl7fYwUcgH4FR9_IEVgO5QViShZy4WCGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-mumbai-ipv4
