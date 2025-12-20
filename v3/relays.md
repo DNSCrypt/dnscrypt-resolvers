@@ -613,28 +613,28 @@ sdns://gQ4xMDQuMjM4LjE1My40Ng
 
 Anonymized DNS relay IPv4 server provided by https://www.ekinao.com/dnscrypt.html
 
-sdns://gRQxMzMuMjQyLjE2MS4yNTE6NTM1Mw
+sdns://gRMxMzMuMjQyLjE2MS4yNTE6NDQz
 
 
 ## anon-jp1.vr.ekinao.com-ipv6
 
 Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
 
-sdns://gSlbMjQwMToyNTAwOjEwMjoxMTExOjEzMzoyNDI6MTYxOjI1MV06NTM1Mw
+sdns://gShbMjQwMToyNTAwOjEwMjoxMTExOjEzMzoyNDI6MTYxOjI1MV06NDQz
 
 
 ## anon-jp2.vr.ekinao.com
 
 Anonymized DNS relay IPv4 server provided by https://www.ekinao.com/dnscrypt.html
 
-sdns://gRMxNTMuMTI3LjE2LjIzNTo1MzUz
+sdns://gRIxNTMuMTI3LjE2LjIzNTo0NDM
 
 
 ## anon-jp2.vr.ekinao.com-ipv6
 
 Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
 
-sdns://gShbMjQwMToyNTAwOjIwNDoxMTA2OjE1MzoxMjc6MTY6MjM1XTo1MzUz
+sdns://gSdbMjQwMToyNTAwOjIwNDoxMTA2OjE1MzoxMjc6MTY6MjM1XTo0NDM
 
 
 ## anon-kama
