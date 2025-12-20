@@ -3934,7 +3934,7 @@ sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzMDo6YWM0MzphZDNiXQANanAudGlhcmFwLm9yZwovZ
 DNSCrypt on IPv4 (UDP/TCP). No logging, No filtering, DNSSEC-capable.
 Details at https://www.ekinao.com/dnscrypt.html
 
-sdns://AQcAAAAAAAAAFDEzMy4yNDIuMTYxLjI1MTo1MzUzIKxlTALIMsdEj068sQ8OKrj9Krf5eiAJTGHSNWs7vY2aITIuZG5zY3J5cHQtY2VydC5qcDEudnIuZWtpbmFvLmNvbQ
+sdns://AQcAAAAAAAAAEzEzMy4yNDIuMTYxLjI1MTo0NDMgrm1ROwcEp9RRdlZ92piKpLA0cG9ZPUvmVvSWAxiM5rYhMi5kbnNjcnlwdC1jZXJ0LmpwMS52ci5la2luYW8uY29t
 
 
 ## jp1.vr.ekinao.com-ipv6
@@ -3942,7 +3942,7 @@ sdns://AQcAAAAAAAAAFDEzMy4yNDIuMTYxLjI1MTo1MzUzIKxlTALIMsdEj068sQ8OKrj9Krf5eiAJT
 DNSCrypt on IPv6 (UDP/TCP). No logging, No filtering, DNSSEC-capable.
 Details at https://www.ekinao.com/dnscrypt.html
 
-sdns://AQcAAAAAAAAAKVsyNDAxOjI1MDA6MTAyOjExMTE6MTMzOjI0MjoxNjE6MjUxXTo1MzUzIKxlTALIMsdEj068sQ8OKrj9Krf5eiAJTGHSNWs7vY2aITIuZG5zY3J5cHQtY2VydC5qcDEudnIuZWtpbmFvLmNvbQ
+sdns://AQcAAAAAAAAAKFsyNDAxOjI1MDA6MTAyOjExMTE6MTMzOjI0MjoxNjE6MjUxXTo0NDMgrm1ROwcEp9RRdlZ92piKpLA0cG9ZPUvmVvSWAxiM5rYhMi5kbnNjcnlwdC1jZXJ0LmpwMS52ci5la2luYW8uY29t
 
 
 ## jp2.vr.ekinao.com
@@ -3950,7 +3950,7 @@ sdns://AQcAAAAAAAAAKVsyNDAxOjI1MDA6MTAyOjExMTE6MTMzOjI0MjoxNjE6MjUxXTo1MzUzIKxlT
 DNSCrypt on IPv4 (UDP/TCP). No logging, No filtering, DNSSEC-capable.
 Details at https://www.ekinao.com/dnscrypt.html
 
-sdns://AQcAAAAAAAAAEzE1My4xMjcuMTYuMjM1OjUzNTMgZOO-8ssZk3pyPBipr0JNdsRFG_AWDnOBF3eKrk7Evj0hMi5kbnNjcnlwdC1jZXJ0LmpwMi52ci5la2luYW8uY29t
+sdns://AQcAAAAAAAAAEjE1My4xMjcuMTYuMjM1OjQ0MyDMpXNXYXL3RrRKNMr0e-RC1gv3b1_VaBpcUHKd7fMFdyEyLmRuc2NyeXB0LWNlcnQuanAyLnZyLmVraW5hby5jb20
 
 
 ## jp2.vr.ekinao.com-ipv6
@@ -3958,7 +3958,7 @@ sdns://AQcAAAAAAAAAEzE1My4xMjcuMTYuMjM1OjUzNTMgZOO-8ssZk3pyPBipr0JNdsRFG_AWDnOBF
 DNSCrypt on IPv6 (UDP/TCP). No logging, No filtering, DNSSEC-capable.
 Details at https://www.ekinao.com/dnscrypt.html
 
-sdns://AQcAAAAAAAAAKFsyNDAxOjI1MDA6MjA0OjExMDY6MTUzOjEyNzoxNjoyMzVdOjUzNTMgZOO-8ssZk3pyPBipr0JNdsRFG_AWDnOBF3eKrk7Evj0hMi5kbnNjcnlwdC1jZXJ0LmpwMi52ci5la2luYW8uY29t
+sdns://AQcAAAAAAAAAJ1syNDAxOjI1MDA6MjA0OjExMDY6MTUzOjEyNzoxNjoyMzVdOjQ0MyDMpXNXYXL3RrRKNMr0e-RC1gv3b1_VaBpcUHKd7fMFdyEyLmRuc2NyeXB0LWNlcnQuanAyLnZyLmVraW5hby5jb20
 
 
 ## ksol.io-ns2-dnscrypt-ipv4
