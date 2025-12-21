@@ -21,6 +21,7 @@ func main() {
 	removeResolver := flag.String("remove", "", "Remove a resolver by name and exit")
 	clearErrors := flag.String("clear-errors", "", "Clear all errors for a resolver (mark as successful) and exit")
 	hideLatency := flag.Bool("hide-latency", false, "Hide latency column in web interface")
+	minReliability := flag.Float64("min-reliability", -1, "Remove resolvers with reliability below this percentage and exit")
 	flag.Parse()
 
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
@@ -59,6 +60,21 @@ func main() {
 			log.Fatalf("Failed to clear errors: %v", err)
 		}
 		log.Printf("Cleared %d failed tests for resolver %q", updated, *clearErrors)
+		return
+	}
+
+	// Handle removing unreliable resolvers
+	if *minReliability >= 0 {
+		log.Printf("Removing resolvers with reliability below %.2f%%...", *minReliability)
+		removed, err := db.RemoveUnreliableResolvers(*minReliability)
+		if err != nil {
+			log.Fatalf("Failed to remove unreliable resolvers: %v", err)
+		}
+		if len(removed) == 0 {
+			log.Println("No resolvers removed")
+		} else {
+			log.Printf("Removed %d resolvers: %v", len(removed), removed)
+		}
 		return
 	}
 

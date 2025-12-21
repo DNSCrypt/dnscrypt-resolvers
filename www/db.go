@@ -512,6 +512,52 @@ func (d *DB) RemoveResolver(name string) error {
 	return nil
 }
 
+// RemoveUnreliableResolvers removes all resolvers with reliability below the
+// given percentage threshold. Returns the names of removed resolvers.
+func (d *DB) RemoveUnreliableResolvers(minReliability float64) ([]string, error) {
+	rows, err := d.db.Query(`
+		SELECT r.id, r.name
+		FROM resolvers r
+		JOIN resolver_stats s ON r.id = s.resolver_id
+		WHERE s.reliability_pct < ?
+	`, minReliability)
+	if err != nil {
+		return nil, err
+	}
+
+	var idsToDelete []int64
+	var names []string
+	for rows.Next() {
+		var id int64
+		var name string
+		if err := rows.Scan(&id, &name); err != nil {
+			rows.Close()
+			return nil, err
+		}
+		idsToDelete = append(idsToDelete, id)
+		names = append(names, name)
+	}
+	rows.Close()
+
+	if len(idsToDelete) == 0 {
+		return nil, nil
+	}
+
+	for _, id := range idsToDelete {
+		if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
+			return names, err
+		}
+		if _, err := d.db.Exec("DELETE FROM resolver_stats WHERE resolver_id = ?", id); err != nil {
+			return names, err
+		}
+		if _, err := d.db.Exec("DELETE FROM resolvers WHERE id = ?", id); err != nil {
+			return names, err
+		}
+	}
+
+	return names, nil
+}
+
 // ClearResolverErrors updates all failed tests for a resolver to successful,
 // setting their RTT to 0 and clearing error messages, then rebuilds stats.
 // Returns the number of tests updated, or an error if the resolver is not found.
