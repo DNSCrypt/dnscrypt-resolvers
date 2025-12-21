@@ -20,6 +20,7 @@ func main() {
 	rebuildStats := flag.Bool("rebuild-stats", false, "Rebuild stats from test_results and exit")
 	removeResolver := flag.String("remove", "", "Remove a resolver by name and exit")
 	clearErrors := flag.String("clear-errors", "", "Clear all errors for a resolver (mark as successful) and exit")
+	hideLatency := flag.Bool("hide-latency", false, "Hide latency column in web interface")
 	flag.Parse()
 
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
@@ -112,7 +113,7 @@ func main() {
 		return
 	}
 
-	web := NewWebServer(db, *webAddr)
+	web := NewWebServer(db, *webAddr, *hideLatency)
 	go web.Start()
 
 	ticker := time.NewTicker(*testInterval)
