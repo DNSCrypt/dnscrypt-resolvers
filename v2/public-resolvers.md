@@ -495,7 +495,7 @@ sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0AGlsyNjA2OjQ3MDA6NDcwMDo6MTExM
 
 Cloudflare DNS (anycast) with malware blocking - aka 1.1.1.2 / 1.0.0.2
 
-sdns://AgMAAAAAAAAABzEuMS4xLjIABzEuMS4xLjIKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAABzEuMC4wLjIABzEuMC4wLjIKL2Rucy1xdWVyeQ
 
 
 ## cloudflare-security-ipv6
