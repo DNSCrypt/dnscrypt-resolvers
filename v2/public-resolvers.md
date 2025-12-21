@@ -2047,24 +2047,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyODAzOmMzMTA6ZmYwMjozYjE0OjoxXSA_V_bF_4Ai5JMa4MklVU5TuwS3dW-Qk9WKAKf1vIzbLxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-hafnarfjordur-ipv4
-
-DNSCry.pt Hafnarfjordur - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjE1MS4yMzYuMjQuMTkwINhtfHvc3U5cE6_kslAZJswpzjhgvYKQY7Wt6YCi6hIWGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-hafnarfjordur-ipv6
-
-DNSCry.pt Hafnarfjordur - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyYTAzOmY4MDozNTQ6MzhiNzo6MV0g2G18e9zdTlwTr-SyUBkmzCnOOGC9gpBjta3pgKLqEhYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-hanoi-ipv4
 
 DNSCry.pt Hanoi - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
