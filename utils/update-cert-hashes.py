@@ -3,10 +3,13 @@
 Update outdated certificate hashes in DNS stamps.
 
 Usage:
-    python3 utils/update-cert-hashes.py v3/public-resolvers.md [--dry-run]
+    uv run --with pyopenssl python utils/update-cert-hashes.py v3/public-resolvers.md [--dry-run]
+
+Requires: pyopenssl
 
 This script finds all DoH/DoT stamps with embedded certificate hashes,
-checks if the hashes are still valid, and updates them if they've changed.
+checks if the hashes are still valid, and updates them with the root CA
+TBS hash if they've changed.
 """
 
 import argparse
@@ -253,41 +256,66 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
 
 
 def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float = 10) -> list[tuple[str, bytes]]:
-    """Connect to server via TLS and return TBS certificate hashes."""
-    context = ssl.create_default_context()
+    """Connect to server via TLS and return TBS certificate hashes for full chain.
 
-    with socket.create_connection((host, port), timeout=timeout) as sock:
-        with context.wrap_socket(sock, server_hostname=server_hostname) as ssock:
-            cert_chain = ssock.get_verified_chain()
-            if not cert_chain:
-                raise RuntimeError("No certificate chain received")
+    Returns list of (CN, TBS hash) tuples ordered from leaf to root CA.
+    """
+    import select
+    from OpenSSL import SSL, crypto
 
-            results = []
-            for cert in cert_chain:
-                if hasattr(cert, 'public_bytes'):
-                    from cryptography.hazmat.primitives.serialization import Encoding
-                    cert_der = cert.public_bytes(Encoding.DER)
-                else:
-                    cert_der = cert
+    ctx = SSL.Context(SSL.TLS_CLIENT_METHOD)
+    ctx.set_default_verify_paths()
 
-                tbs_hash = get_tbs_hash_from_der(cert_der)
+    # Store certs with depth during verification (captures root CA)
+    # Depth 0 = leaf, higher = closer to root
+    chain_by_depth = {}
 
-                subject = "unknown"
-                if hasattr(cert, 'subject'):
-                    from cryptography.x509.oid import NameOID
-                    try:
-                        cn = cert.subject.get_attributes_for_oid(NameOID.COMMON_NAME)
-                        if cn:
-                            subject = cn[0].value
-                    except Exception:
-                        pass
+    def verify_callback(conn, cert, errno, depth, ok):
+        chain_by_depth[depth] = cert
+        return ok
 
-                results.append((subject, tbs_hash))
+    ctx.set_verify(SSL.VERIFY_PEER, verify_callback)
 
-            if not results:
-                raise RuntimeError("No server certificates found in chain")
+    sock = socket.create_connection((host, port), timeout=timeout)
+    sock.setblocking(True)
 
-            return results
+    try:
+        conn = SSL.Connection(ctx, sock)
+        conn.set_tlsext_host_name(server_hostname.encode())
+        conn.set_connect_state()
+
+        # Handle handshake with retries for non-blocking I/O
+        deadline = socket.getdefaulttimeout() or timeout
+        while True:
+            try:
+                conn.do_handshake()
+                break
+            except SSL.WantReadError:
+                select.select([sock], [], [], deadline)
+            except SSL.WantWriteError:
+                select.select([], [sock], [], deadline)
+
+        try:
+            conn.shutdown()
+        except SSL.Error:
+            pass
+    finally:
+        sock.close()
+
+    if not chain_by_depth:
+        raise RuntimeError("No certificate chain received")
+
+    # Build results ordered by depth (leaf first, root last)
+    results = []
+    for depth in sorted(chain_by_depth.keys()):
+        cert = chain_by_depth[depth]
+        cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
+        tbs_hash = get_tbs_hash_from_der(cert_der)
+        subject = cert.get_subject()
+        cn = subject.CN if subject.CN else str(subject)
+        results.append((cn, tbs_hash))
+
+    return results
 
 
 @dataclass
