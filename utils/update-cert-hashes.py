@@ -263,7 +263,7 @@ def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float =
                 raise RuntimeError("No certificate chain received")
 
             results = []
-            for cert in cert_chain[:-1]:
+            for cert in cert_chain:
                 if hasattr(cert, 'public_bytes'):
                     from cryptography.hazmat.primitives.serialization import Encoding
                     cert_der = cert.public_bytes(Encoding.DER)
@@ -342,10 +342,14 @@ def check_and_update_stamp(resolver_name: str, line_num: int, stamp_str: str) ->
         if stamp_hash_set & current_hash_set:
             return None
 
-        if len(cert_hashes) > 1:
-            selected_cn, new_hash = cert_hashes[1]
-        else:
-            selected_cn, new_hash = cert_hashes[0]
+        # Prefer root CA (last in chain) as it's the most stable
+        selected_cn, new_hash = cert_hashes[-1]
+
+        # Verify the hash works by reconnecting
+        verify_hashes = get_cert_hashes(host, port, sni, timeout=15)
+        verify_hash_set = {h for _, h in verify_hashes}
+        if new_hash not in verify_hash_set:
+            raise RuntimeError(f"Verification failed: hash not found in certificate chain")
 
         old_hashes = [h.hex() for h in stamp.hashes]
         stamp.hashes = [new_hash]
