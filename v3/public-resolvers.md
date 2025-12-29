@@ -1230,6 +1230,7 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Berlin, Germany.
 
 sdns://AQcAAAAAAAAADzE5NC4xNjQuMTk0LjIxNiACT6z2dYj94msaKqctjIpBaeDHG2JVOfPTqDH_0KzZkBYyLmRuc2NyeXB0LWNlcnQuZGN0LWRl
 
+
 ## dct-fr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
