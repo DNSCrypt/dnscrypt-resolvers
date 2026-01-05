@@ -1830,24 +1830,6 @@ https://www.dnscry.pt
 sdns://gRNbMmEwMzo5MGMwOjU1NTo6NzJd
 
 
-## dnscry.pt-anon-losangeles-ipv4
-
-DNSCry.pt Los Angeles - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0yMTYuNzMuMTU2LjUy
-
-
-## dnscry.pt-anon-losangeles-ipv6
-
-DNSCry.pt Los Angeles - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRVbMjYwMjpmYWZkOjkwMjoyMDo6YV0
-
-
 ## dnscry.pt-anon-losangeles02-ipv4
 
 DNSCry.pt Los Angeles 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
