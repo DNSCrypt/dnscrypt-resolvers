@@ -3719,6 +3719,11 @@ https://ffmuc.net/
 
 sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XSCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
+## doh.ibksturm
+
+Switzerland, running by ibksturm
+
+sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
 ## doh.tiar.app
 
@@ -3823,6 +3828,12 @@ Hurricane Electric DoH server (anycast)
 Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyINYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
+
+## ibksturm
+
+Switzerland, running by ibksturm
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgK374BJKvK0aJHWKjmXdkG8_X2KEoao_LALK_nK6PM_AYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## iij
