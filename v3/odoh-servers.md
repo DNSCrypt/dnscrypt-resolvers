@@ -37,6 +37,11 @@ Filter ads, trackers and malware.
 
 sdns://BQMAAAAAAAAADGRvaC50aWFyLmFwcAUvb2RvaA
 
+## odoh-ibksturm
+
+Switzerland, running by ibksturm
+
+sdns://BgcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
 
 ## odoh-jp.tiar.app
 
