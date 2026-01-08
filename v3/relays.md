@@ -629,6 +629,12 @@ Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.htm
 
 sdns://gShbMjQwMToyNTAwOjIwNDoxMTA2OjE1MzoxMjc6MTY6MjM1XTo1MzUz
 
+## anon-ibksturm
+
+Switzerland, running by ibksturm
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+
 
 ## anon-kama
 
