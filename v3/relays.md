@@ -594,6 +594,13 @@ For more information look at https://github.com/bhanupratapys/dnswarden or https
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw
 
 
+## anon-ibksturm
+
+Switzerland, running by ibksturm
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
+
+
 ## anon-inconnu
 
 Anonymized DNS relay hosted in Seattle, WA (USA), maintained by Eric
@@ -628,12 +635,6 @@ sdns://gRMxNTMuMTI3LjE2LjIzNTo1MzUz
 Anonymized DNS relay IPv6 server provided by https://www.ekinao.com/dnscrypt.html
 
 sdns://gShbMjQwMToyNTAwOjIwNDoxMTA2OjE1MzoxMjc6MTY6MjM1XTo1MzUz
-
-## anon-ibksturm
-
-Switzerland, running by ibksturm
-
-sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
 
 
 ## anon-kama
