@@ -2648,15 +2648,6 @@ https://www.dnscry.pt
 sdns://gQ8xNzYuMTExLjIxOS4xMjY
 
 
-## dnscry.pt-anon-portedwards-ipv6
-
-DNSCry.pt Port Edwards - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRhbMjAwMTo0NzA6MWYxMToyYmI6OmIyM10
-
-
 ## dnscry.pt-anon-portland-ipv4
 
 DNSCry.pt Portland - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
