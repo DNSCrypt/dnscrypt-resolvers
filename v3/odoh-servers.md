@@ -34,7 +34,7 @@ sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 Switzerland, running by ibksturm
 
-sdns://BgcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
+sdns://BQcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
 
 
 ## odoh-id-gmail
