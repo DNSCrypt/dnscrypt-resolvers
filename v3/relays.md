@@ -3268,24 +3268,6 @@ https://www.dnscry.pt
 sdns://gRVbMjYwMjpmZWQyOmZiMDo2ZDo6MV0
 
 
-## dnscry.pt-anon-vienna-ipv4
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ04My4xMzguNTUuMTg2
-
-
-## dnscry.pt-anon-vienna-ipv6
-
-DNSCry.pt Vienna - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRdbMmEwZDpmMzAyOjExMDo2NTE3OjoxXQ
-
-
 ## dnscry.pt-anon-vilnius-ipv4
 
 DNSCry.pt Vilnius - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
