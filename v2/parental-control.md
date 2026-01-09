@@ -194,7 +194,7 @@ Completely free, no ads or any commercial motive. Operating for 4 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkxhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-doh-no-safe-search
@@ -211,7 +211,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkydkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYydkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-no-safe-search

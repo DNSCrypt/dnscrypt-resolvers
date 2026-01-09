@@ -3416,7 +3416,7 @@ Completely free, no ads or any commercial motive. Operating for 4 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkxhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-doh-no-safe-search
@@ -3433,7 +3433,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkydkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYydkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-no-safe-search
@@ -3492,7 +3492,7 @@ Public DoH resolver (https://dnsforge.de)
 
 Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OSA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnsforge.de-nofilter-ipv6
@@ -3501,7 +3501,7 @@ Public DoH resolver (https://dnsforge.de)
 
 Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnslow.me
@@ -3605,7 +3605,7 @@ sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1IJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1y
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1Lkw1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYw1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 
 ## doh.ffmuc.net-v6-2
