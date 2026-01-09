@@ -1280,7 +1280,7 @@ sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlx
 A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled, QNAME minimization and no EDNS client subnet (https://dns.digitalsize.net).
 Hosted in Germany.
 
-sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzINYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
 
 
 ## dns.digitalsize.net-ipv6
@@ -1297,8 +1297,8 @@ DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
 
 Homepage: https://dns.sb
 
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOQ8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5CzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiBxTYz1ZnaR2ko2iI9x2OF2TdwrFQh9ysFQPDks4-jgAA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIHFNjPVmdpHaSjaIj3HY4XZN3CsVCH3KwVA8OSzj6OAACzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
 ## dns4all-ipv4
@@ -4044,7 +4044,7 @@ sdns://AQcAAAAAAAAAEzE4NS4xMTEuMTg4LjQ2Ojg0NDMgC-tbTwd-08e_JtBJmgsvjAG9i10itE-LB
 
 Canadian based, unfiltered, DNSSEC validating, and no logs... for your pleasure. https://dnscrypt.ca/
 
-sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTEGRuczEuZG5zY3J5cHQuY2EKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2ID8EEe3pxEdwV9V-V4g7HyBbIM3A8yYxKbHuAmmiZ49jEGRuczEuZG5zY3J5cHQuY2EKL2Rucy1xdWVyeQ
 
 
 ## dnscrypt.pl
@@ -4106,7 +4106,7 @@ Completely free, no ads or any commercial motive. Operating for 4 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmBhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-doh-no-safe-search
@@ -4123,7 +4123,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYydkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmCdkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-no-safe-search
@@ -4165,7 +4165,7 @@ Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
 Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 
 sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAACzE3Ni45LjEuMTE3ILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0C2Ruc2ZvcmdlLmRlCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAACzE3Ni45LjEuMTE3IJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5C2Ruc2ZvcmdlLmRlCi9kbnMtcXVlcnk
 
 
 ## dnsforge.de-ipv6
@@ -4175,7 +4175,7 @@ Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
 Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 
 sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNTE6MzRhYTo6MTk4XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNDE6MzE2ZDo6MTE3XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNDE6MzE2ZDo6MTE3XSCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnsforge.de-nofilter
@@ -4184,8 +4184,8 @@ Public DoH resolver (https://dnsforge.de)
 
 Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OSA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAADDc4LjQ3LjcxLjE5NCA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADDc4LjQ3LjcxLjE5NCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnsforge.de-nofilter-ipv6
@@ -4194,8 +4194,8 @@ Public DoH resolver (https://dnsforge.de)
 
 Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYxFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAAGVsyYTAxOjRmODpjMDEzOmFhZTk6OjE5NF0gPwQR7enER3BX1X5XiDsfIFsgzcDzJjEpse4CaaJnj2MRYmxhbmsuZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGVsyYTAxOjRmODpjMDEzOmFhZTk6OjE5NF0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQRYmxhbmsuZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ
 
 
 ## dnslow.me
@@ -4287,7 +4287,7 @@ sdns://AgcAAAAAAAAAACCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZ
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUg1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUgnUgyu0yNdyB7Jd4XWSaC78PKRfV53GZKDtXySPXJM5gNZG9oLmZmbXVjLm5ldAovZG5zLXF1ZXJ5
 
 
 ## doh.ffmuc.net-2
@@ -4303,7 +4303,7 @@ sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1IJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1y
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSA_BBHt6cRHcFfVfleIOx8gWyDNwPMmMSmx7gJpomePYw1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplNjg6ZjAwMDo6XSCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmA1kb2guZmZtdWMubmV0Ci9kbnMtcXVlcnk
 
 
 ## doh.ffmuc.net-v6-2
@@ -4787,7 +4787,7 @@ sdns://AgAAAAAAAAAAACBGRinMfizEpf6XTTrC4BNXB3syOlkxKYNaWpRbX7u40Qpkb2guMzYwLmNuC
 DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
 https://101.101.101.101/index_en.html
 
-sdns://AgcAAAAAAAAAACAUlWxUTgh_Kv4cFpyNi3N8g7A2ufkPUDTElelUD0lFBAxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAACD6FZeNKdZtjheTM0R4As184g4uTh98W5hVNgufwCLevgxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
 
 
 ## quad9-dnscrypt-ip4-filter-ecs-pri
