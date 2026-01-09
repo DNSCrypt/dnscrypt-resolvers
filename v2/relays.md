@@ -2954,24 +2954,6 @@ https://www.dnscry.pt
 sdns://gRRbMjYwNjphOGMwOjM6MjAyOjphXQ
 
 
-## dnscry.pt-anon-stockholm-ipv4
-
-DNSCry.pt Stockholm - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQwxOTUuNzIuNjAuNjY
-
-
-## dnscry.pt-anon-stockholm-ipv6
-
-DNSCry.pt Stockholm - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRNbMmEwNzplMDQzOjE6NWQ6OjFd
-
-
 ## dnscry.pt-anon-stockholm02-ipv4
 
 DNSCry.pt Stockholm 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
