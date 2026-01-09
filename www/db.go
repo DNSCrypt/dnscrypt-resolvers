@@ -73,6 +73,12 @@ func NewDB(path string) (*DB, error) {
 		return nil, err
 	}
 
+	// Migrate from old schema if needed
+	if err := migrateSchema(db); err != nil {
+		db.Close()
+		return nil, fmt.Errorf("failed to migrate schema: %w", err)
+	}
+
 	return &DB{db: db}, nil
 }
 
@@ -87,15 +93,24 @@ func createTables(db *sql.DB) error {
 		UNIQUE(name, type)
 	);
 
-	CREATE TABLE IF NOT EXISTS test_results (
+	CREATE TABLE IF NOT EXISTS stamps (
 		id INTEGER PRIMARY KEY AUTOINCREMENT,
 		resolver_id INTEGER NOT NULL,
 		stamp TEXT NOT NULL,
+		UNIQUE(resolver_id, stamp),
+		FOREIGN KEY (resolver_id) REFERENCES resolvers(id)
+	);
+
+	CREATE TABLE IF NOT EXISTS test_results (
+		id INTEGER PRIMARY KEY AUTOINCREMENT,
+		resolver_id INTEGER NOT NULL,
+		stamp_id INTEGER NOT NULL,
 		success INTEGER NOT NULL,
 		rtt_ms INTEGER,
 		error TEXT,
 		tested_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-		FOREIGN KEY (resolver_id) REFERENCES resolvers(id)
+		FOREIGN KEY (resolver_id) REFERENCES resolvers(id),
+		FOREIGN KEY (stamp_id) REFERENCES stamps(id)
 	);
 
 	-- For GetTestCount: MAX(tested_at)
@@ -130,6 +145,103 @@ func createTables(db *sql.DB) error {
 	return err
 }
 
+// migrateSchema migrates from the old schema (stamp column in test_results)
+// to the new normalized schema (stamps table with stamp_id reference).
+func migrateSchema(db *sql.DB) error {
+	// Check if migration is needed by looking for stamp column in test_results
+	var hasStampColumn bool
+	rows, err := db.Query("PRAGMA table_info(test_results)")
+	if err != nil {
+		return err
+	}
+	for rows.Next() {
+		var cid int
+		var name, typ string
+		var notnull, pk int
+		var dflt sql.NullString
+		if err := rows.Scan(&cid, &name, &typ, &notnull, &dflt, &pk); err != nil {
+			rows.Close()
+			return err
+		}
+		if name == "stamp" {
+			hasStampColumn = true
+			break
+		}
+	}
+	rows.Close()
+
+	if !hasStampColumn {
+		return nil // Already migrated
+	}
+
+	// Check if there's any data to migrate
+	var count int
+	if err := db.QueryRow("SELECT COUNT(*) FROM test_results").Scan(&count); err != nil {
+		return err
+	}
+	if count == 0 {
+		// No data, just recreate the table with new schema
+		if _, err := db.Exec("DROP TABLE IF EXISTS test_results"); err != nil {
+			return err
+		}
+		return nil
+	}
+
+	// Migration needed - populate stamps table and update test_results
+	if _, err := db.Exec(`
+		INSERT OR IGNORE INTO stamps (resolver_id, stamp)
+		SELECT DISTINCT resolver_id, stamp FROM test_results WHERE stamp IS NOT NULL
+	`); err != nil {
+		return fmt.Errorf("failed to populate stamps table: %w", err)
+	}
+
+	// Create new test_results table with stamp_id
+	if _, err := db.Exec(`
+		CREATE TABLE test_results_new (
+			id INTEGER PRIMARY KEY AUTOINCREMENT,
+			resolver_id INTEGER NOT NULL,
+			stamp_id INTEGER NOT NULL,
+			success INTEGER NOT NULL,
+			rtt_ms INTEGER,
+			error TEXT,
+			tested_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+			FOREIGN KEY (resolver_id) REFERENCES resolvers(id),
+			FOREIGN KEY (stamp_id) REFERENCES stamps(id)
+		)
+	`); err != nil {
+		return fmt.Errorf("failed to create new test_results table: %w", err)
+	}
+
+	// Copy data from old table to new, joining with stamps to get stamp_id
+	if _, err := db.Exec(`
+		INSERT INTO test_results_new (resolver_id, stamp_id, success, rtt_ms, error, tested_at)
+		SELECT t.resolver_id, s.id, t.success, t.rtt_ms, t.error, t.tested_at
+		FROM test_results t
+		JOIN stamps s ON t.resolver_id = s.resolver_id AND t.stamp = s.stamp
+	`); err != nil {
+		return fmt.Errorf("failed to migrate test_results data: %w", err)
+	}
+
+	// Drop old table and rename new one
+	if _, err := db.Exec("DROP TABLE test_results"); err != nil {
+		return fmt.Errorf("failed to drop old test_results table: %w", err)
+	}
+	if _, err := db.Exec("ALTER TABLE test_results_new RENAME TO test_results"); err != nil {
+		return fmt.Errorf("failed to rename test_results table: %w", err)
+	}
+
+	// Recreate indexes
+	if _, err := db.Exec(`
+		CREATE INDEX IF NOT EXISTS idx_test_results_tested_at ON test_results(tested_at);
+		CREATE INDEX IF NOT EXISTS idx_test_results_resolver_tested_at ON test_results(resolver_id, tested_at DESC);
+		CREATE INDEX IF NOT EXISTS idx_test_results_resolver_success ON test_results(resolver_id, success, tested_at DESC);
+	`); err != nil {
+		return fmt.Errorf("failed to recreate indexes: %w", err)
+	}
+
+	return nil
+}
+
 func (d *DB) Close() error {
 	return d.db.Close()
 }
@@ -155,11 +267,29 @@ func (d *DB) UpsertResolver(name, typ, description, sourceFile string) (int64, e
 	return id, err
 }
 
+func (d *DB) GetOrCreateStamp(resolverID int64, stamp string) (int64, error) {
+	_, err := d.db.Exec(`
+		INSERT OR IGNORE INTO stamps (resolver_id, stamp) VALUES (?, ?)
+	`, resolverID, stamp)
+	if err != nil {
+		return 0, err
+	}
+
+	var id int64
+	err = d.db.QueryRow("SELECT id FROM stamps WHERE resolver_id = ? AND stamp = ?", resolverID, stamp).Scan(&id)
+	return id, err
+}
+
 func (d *DB) RecordTest(resolverID int64, stamp string, success bool, rttMs int64, errMsg string) error {
+	stampID, err := d.GetOrCreateStamp(resolverID, stamp)
+	if err != nil {
+		return fmt.Errorf("failed to get stamp id: %w", err)
+	}
+
 	result, err := d.db.Exec(`
-		INSERT INTO test_results (resolver_id, stamp, success, rtt_ms, error)
+		INSERT INTO test_results (resolver_id, stamp_id, success, rtt_ms, error)
 		VALUES (?, ?, ?, ?, ?)
-	`, resolverID, stamp, success, rttMs, errMsg)
+	`, resolverID, stampID, success, rttMs, errMsg)
 	if err != nil {
 		return err
 	}
@@ -335,7 +465,7 @@ func (d *DB) RebuildStats() error {
 		)
 		SELECT
 			r.id,
-			(SELECT stamp FROM test_results t3 WHERE t3.resolver_id = r.id ORDER BY t3.tested_at DESC LIMIT 1),
+			(SELECT s.stamp FROM test_results t3 JOIN stamps s ON t3.stamp_id = s.id WHERE t3.resolver_id = r.id ORDER BY t3.tested_at DESC LIMIT 1),
 			COUNT(t.id),
 			SUM(CASE WHEN t.success = 1 THEN 1 ELSE 0 END),
 			SUM(CASE WHEN t.success = 0 THEN 1 ELSE 0 END),
@@ -401,9 +531,12 @@ func (d *DB) RemoveStaleResolvers(noSuccessSince time.Duration) ([]string, error
 		return nil, nil
 	}
 
-	// Delete test results, stats, and resolvers
+	// Delete test results, stamps, stats, and resolvers
 	for _, id := range idsToDelete {
 		if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
+			return names, err
+		}
+		if _, err := d.db.Exec("DELETE FROM stamps WHERE resolver_id = ?", id); err != nil {
 			return names, err
 		}
 		if _, err := d.db.Exec("DELETE FROM resolver_stats WHERE resolver_id = ?", id); err != nil {
@@ -436,6 +569,14 @@ func (d *DB) PruneOldTests(maxAge time.Duration) (int64, error) {
 			WHERE resolver_id NOT IN (SELECT DISTINCT resolver_id FROM test_results)
 		`); err != nil {
 			return deleted, fmt.Errorf("failed to clean orphaned stats: %w", err)
+		}
+
+		// Remove orphaned stamps (no remaining test results)
+		if _, err := d.db.Exec(`
+			DELETE FROM stamps
+			WHERE id NOT IN (SELECT DISTINCT stamp_id FROM test_results)
+		`); err != nil {
+			return deleted, fmt.Errorf("failed to clean orphaned stamps: %w", err)
 		}
 
 		// Remove orphaned resolvers (no remaining test results)
@@ -486,7 +627,7 @@ func (d *DB) GetTestCount() (count int64, lastTest time.Time, err error) {
 	return count, lastTest, nil
 }
 
-// RemoveResolver removes a resolver by name along with all its test results and stats.
+// RemoveResolver removes a resolver by name along with all its test results, stamps, and stats.
 // Returns an error if the resolver is not found.
 func (d *DB) RemoveResolver(name string) error {
 	var id int64
@@ -498,9 +639,12 @@ func (d *DB) RemoveResolver(name string) error {
 		return err
 	}
 
-	// Delete in order: test_results, resolver_stats, resolvers
+	// Delete in order: test_results, stamps, resolver_stats, resolvers
 	if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
 		return fmt.Errorf("failed to delete test results: %w", err)
+	}
+	if _, err := d.db.Exec("DELETE FROM stamps WHERE resolver_id = ?", id); err != nil {
+		return fmt.Errorf("failed to delete stamps: %w", err)
 	}
 	if _, err := d.db.Exec("DELETE FROM resolver_stats WHERE resolver_id = ?", id); err != nil {
 		return fmt.Errorf("failed to delete stats: %w", err)
@@ -545,6 +689,9 @@ func (d *DB) RemoveUnreliableResolvers(minReliability float64) ([]string, error)
 
 	for _, id := range idsToDelete {
 		if _, err := d.db.Exec("DELETE FROM test_results WHERE resolver_id = ?", id); err != nil {
+			return names, err
+		}
+		if _, err := d.db.Exec("DELETE FROM stamps WHERE resolver_id = ?", id); err != nil {
 			return names, err
 		}
 		if _, err := d.db.Exec("DELETE FROM resolver_stats WHERE resolver_id = ?", id); err != nil {
