@@ -30,13 +30,6 @@ Backend hosted by Scaleway. Maintained by Frank Denis.
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
-## odoh-ibksturm
-
-Switzerland, running by ibksturm
-
-sdns://BQcAAAAAAAAAFGlia3N0dXJtLnN5bm9sb2d5Lm1lCi9kbnMtcXVlcnk
-
-
 ## odoh-id-gmail
 
 ODoH target server. Based in Singapore, no logs.
