@@ -81,8 +81,18 @@ func main() {
 		return
 	}
 
-	// Handle showing failures
+	// Handle showing failures - run tests first, then print failures
 	if *showFailures {
+		parser := NewParser(*resolversDir)
+		tester := NewTester(db, *concurrency, *timeout)
+
+		resolvers, err := parser.ParseAll()
+		if err != nil {
+			log.Fatalf("Failed to parse resolvers: %v", err)
+		}
+		log.Printf("Testing %d resolvers/relays...", len(resolvers))
+		tester.TestAll(resolvers)
+
 		stats, err := db.GetAllStats()
 		if err != nil {
 			log.Fatalf("Failed to get stats: %v", err)
@@ -92,8 +102,9 @@ func main() {
 			log.Println("No failing resolvers/relays")
 			return
 		}
+		fmt.Println()
 		for _, s := range failures {
-			fmt.Printf("%s (%s): %s\n", s.Name, s.Type, s.LastError)
+			fmt.Printf("%s (%s): %s\n  %s\n", s.Name, s.Type, s.LastError, s.Stamp)
 		}
 		return
 	}
