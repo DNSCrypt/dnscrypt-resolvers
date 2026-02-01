@@ -3831,24 +3831,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAF1syYTEzOjk0MDE6MDoxOjozZDU4OjFdIOJww2zakcJJJGVkyeXPNndbG7NDXkAm5_mhZXQiNpp-GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-warsaw02-ipv4
-
-DNSCry.pt Warsaw 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDIxNy4zMC4xMC42OCAedxnmP5X33rKFZB48QorglI-QkKFh9got5njZxtdfeBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-warsaw02-ipv6
-
-DNSCry.pt Warsaw 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAKFsyYTA2OmY5MDA6NDAwMToxMDA6OTAwNTo5MDA1OmJhMDk6OTJmY10gHncZ5j-V996yhWQePEKK4JSPkJChYfYKLeZ42cbXX3gZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-yerevan-ipv4
 
 DNSCry.pt Yerevan - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
