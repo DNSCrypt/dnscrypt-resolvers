@@ -759,24 +759,6 @@ https://www.dnscry.pt
 sdns://gRVbMjYwMjpmN2EzOjA6NTIwMDo6YV0
 
 
-## dnscry.pt-anon-allentown-ipv4
-
-DNSCry.pt Allentown - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0yMy4xMzcuMjUzLjI0
-
-
-## dnscry.pt-anon-allentown-ipv6
-
-DNSCry.pt Allentown - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRxbMjYwMjpmYzI0OjE5Ojc0YjA6NTI4NTo6MTJd
-
-
 ## dnscry.pt-anon-amsterdam-ipv4
 
 DNSCry.pt Amsterdam - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1657,24 +1639,6 @@ DNSCry.pt Helsinki - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRVbMmEwNjoxNzAwOjE6M2E6OmNiYV0
-
-
-## dnscry.pt-anon-hochiminhcity-ipv4
-
-DNSCry.pt Ho-Chi-Minh City - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ0xNTcuMjAuODMuMTM1
-
-
-## dnscry.pt-anon-hochiminhcity-ipv6
-
-DNSCry.pt Ho-Chi-Minh City - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRhbMjQwMDo2ZWEwOjA6MTFhZTo6YWRjNF0
 
 
 ## dnscry.pt-anon-hongkong-ipv4
