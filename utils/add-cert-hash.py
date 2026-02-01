@@ -1,29 +1,36 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = ["pyopenssl"]
+# ///
 """
 Add certificate hashes to DNS stamps for a specific resolver.
 
 Usage:
     python3 utils/add-cert-hash.py v3/public-resolvers.md resolver-name
 
-This tool connects to the resolver's server via TLS, extracts the intermediate CA
-certificate hash (SHA256 of the TBS certificate), and adds it to the stamps.
+This tool connects to the resolver's server via TLS, extracts the highest
+intermediate CA certificate hash (SHA256 of the TBS certificate), and adds it
+to the stamps.
 
-The intermediate CA is preferred over the leaf certificate because it changes less
-frequently (years vs months), making the stamps more stable over time.
+The highest intermediate CA (closest to root) is used because:
+- Root CAs are NOT sent by servers (only leaf + intermediates are sent)
+- dnscrypt-proxy only verifies against certificates actually in the TLS chain
+- Intermediate CAs are more stable than leaf certs (years vs months)
 
 Note: The hash is computed from the TBS (To Be Signed) portion of the certificate,
-which is what dnscrypt-proxy verifies against. The root CA is NOT used because it's
-not sent by the server - only the leaf and intermediate certificates are sent.
+which is what dnscrypt-proxy verifies against.
 """
 
 import base64
 import hashlib
 import re
+import select
 import socket
-import ssl
 import struct
 import sys
 from typing import Optional
+
+from OpenSSL import SSL, crypto
 
 
 class DNSStamp:
@@ -242,7 +249,7 @@ class DNSStamp:
 
 def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[str, bytes]]:
     """
-    Connect to server via TLS and return TBS certificate hashes for all certs sent by server.
+    Connect to server via TLS and return TBS certificate hashes for certs sent by server.
 
     Args:
         host: IP address or hostname to connect to
@@ -252,47 +259,47 @@ def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[st
     Returns:
         List of (subject_cn, tbs_hash) tuples for each certificate sent by the server.
         The list is ordered: [leaf_cert, intermediate_ca1, intermediate_ca2, ...]
-        Note: Root CA is NOT included since it's not sent by the server.
+        Note: Root CA is not included since it's not sent by the server.
     """
-    context = ssl.create_default_context()
+    context = SSL.Context(SSL.TLS_CLIENT_METHOD)
+    context.set_default_verify_paths()
+    context.set_verify(SSL.VERIFY_PEER, lambda *args: True)
 
-    with socket.create_connection((host, port), timeout=10) as sock:
-        with context.wrap_socket(sock, server_hostname=server_hostname) as ssock:
-            # Get the verified chain - this includes all certs including root from trust store
-            cert_chain = ssock.get_verified_chain()
-            if not cert_chain:
-                raise RuntimeError("No certificate chain received")
+    sock = socket.create_connection((host, port), timeout=10)
+    sock.setblocking(False)
+    conn = SSL.Connection(context, sock)
+    conn.set_tlsext_host_name(server_hostname.encode())
+    conn.set_connect_state()
 
-            results = []
-            # Iterate all certs EXCEPT the last one (root CA from local trust store)
-            # These are the certificates actually sent by the server
-            for cert in cert_chain[:-1]:
-                if hasattr(cert, 'public_bytes'):
-                    from cryptography.hazmat.primitives.serialization import Encoding
-                    cert_der = cert.public_bytes(Encoding.DER)
-                else:
-                    cert_der = cert
+    while True:
+        try:
+            conn.do_handshake()
+            break
+        except SSL.WantReadError:
+            select.select([sock], [], [], 10)
+        except SSL.WantWriteError:
+            select.select([], [sock], [], 10)
 
-                tbs_hash = get_tbs_hash_from_der(cert_der)
+    cert_chain = conn.get_peer_cert_chain()
+    if not cert_chain:
+        conn.shutdown()
+        sock.close()
+        raise RuntimeError("No certificate chain received")
 
-                # Extract subject CN for display
-                subject = "unknown"
-                if hasattr(cert, 'subject'):
-                    # cryptography Certificate object
-                    from cryptography.x509.oid import NameOID
-                    try:
-                        cn = cert.subject.get_attributes_for_oid(NameOID.COMMON_NAME)
-                        if cn:
-                            subject = cn[0].value
-                    except Exception:
-                        pass
+    results = []
+    for cert in cert_chain:
+        cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
+        tbs_hash = get_tbs_hash_from_der(cert_der)
+        subject = cert.get_subject().CN or "unknown"
+        results.append((subject, tbs_hash))
 
-                results.append((subject, tbs_hash))
+    conn.shutdown()
+    sock.close()
 
-            if not results:
-                raise RuntimeError("No server certificates found in chain")
+    if not results:
+        raise RuntimeError("No server certificates found in chain")
 
-            return results
+    return results
 
 
 def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
@@ -395,17 +402,15 @@ def process_resolver(md_path: str, resolver_name: str) -> None:
                                 cert_hashes = get_cert_hashes(host, port, sni)
                                 print(f"  Certificates sent by server:")
                                 for i, (cn, h) in enumerate(cert_hashes):
-                                    cert_type = "Leaf" if i == 0 else f"Intermediate CA {i}"
+                                    if i == 0:
+                                        cert_type = "Leaf"
+                                    else:
+                                        cert_type = f"Intermediate CA {i}"
                                     print(f"    [{cert_type}] {cn}: {h.hex()}")
 
-                                # Use the intermediate CA if available (more stable),
-                                # otherwise fall back to leaf certificate
-                                if len(cert_hashes) > 1:
-                                    selected_cn, cert_hash = cert_hashes[1]  # First intermediate
-                                    print(f"  Using intermediate CA: {selected_cn}")
-                                else:
-                                    selected_cn, cert_hash = cert_hashes[0]  # Leaf
-                                    print(f"  Using leaf cert (no intermediate available): {selected_cn}")
+                                # Use highest intermediate CA (last sent by server) - most stable
+                                selected_cn, cert_hash = cert_hashes[-1]
+                                print(f"  Using: {selected_cn}")
 
                                 # Add hash if not already present
                                 if cert_hash not in stamp.hashes:

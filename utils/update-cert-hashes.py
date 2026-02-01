@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# /// script
+# dependencies = ["pyopenssl"]
+# ///
 """
 Update outdated certificate hashes in DNS stamps.
 
@@ -13,13 +16,15 @@ import argparse
 import base64
 import hashlib
 import re
+import select
 import socket
-import ssl
 import struct
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from typing import Optional
+
+from OpenSSL import SSL, crypto
 
 
 class DNSStamp:
@@ -253,41 +258,47 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
 
 
 def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float = 10) -> list[tuple[str, bytes]]:
-    """Connect to server via TLS and return TBS certificate hashes."""
-    context = ssl.create_default_context()
+    """Connect to server via TLS and return TBS certificate hashes for certs sent by server."""
+    context = SSL.Context(SSL.TLS_CLIENT_METHOD)
+    context.set_default_verify_paths()
+    context.set_verify(SSL.VERIFY_PEER, lambda *args: True)
 
-    with socket.create_connection((host, port), timeout=timeout) as sock:
-        with context.wrap_socket(sock, server_hostname=server_hostname) as ssock:
-            cert_chain = ssock.get_verified_chain()
-            if not cert_chain:
-                raise RuntimeError("No certificate chain received")
+    sock = socket.create_connection((host, port), timeout=timeout)
+    sock.setblocking(False)
+    conn = SSL.Connection(context, sock)
+    conn.set_tlsext_host_name(server_hostname.encode())
+    conn.set_connect_state()
 
-            results = []
-            for cert in cert_chain:
-                if hasattr(cert, 'public_bytes'):
-                    from cryptography.hazmat.primitives.serialization import Encoding
-                    cert_der = cert.public_bytes(Encoding.DER)
-                else:
-                    cert_der = cert
+    deadline = socket.getdefaulttimeout() or timeout
+    while True:
+        try:
+            conn.do_handshake()
+            break
+        except SSL.WantReadError:
+            select.select([sock], [], [], deadline)
+        except SSL.WantWriteError:
+            select.select([], [sock], [], deadline)
 
-                tbs_hash = get_tbs_hash_from_der(cert_der)
+    cert_chain = conn.get_peer_cert_chain()
+    if not cert_chain:
+        conn.shutdown()
+        sock.close()
+        raise RuntimeError("No certificate chain received")
 
-                subject = "unknown"
-                if hasattr(cert, 'subject'):
-                    from cryptography.x509.oid import NameOID
-                    try:
-                        cn = cert.subject.get_attributes_for_oid(NameOID.COMMON_NAME)
-                        if cn:
-                            subject = cn[0].value
-                    except Exception:
-                        pass
+    results = []
+    for cert in cert_chain:
+        cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
+        tbs_hash = get_tbs_hash_from_der(cert_der)
+        subject = cert.get_subject().CN or "unknown"
+        results.append((subject, tbs_hash))
 
-                results.append((subject, tbs_hash))
+    conn.shutdown()
+    sock.close()
 
-            if not results:
-                raise RuntimeError("No server certificates found in chain")
+    if not results:
+        raise RuntimeError("No server certificates found in chain")
 
-            return results
+    return results
 
 
 @dataclass
@@ -342,7 +353,7 @@ def check_and_update_stamp(resolver_name: str, line_num: int, stamp_str: str) ->
         if stamp_hash_set & current_hash_set:
             return None
 
-        # Prefer root CA (last in chain) as it's the most stable
+        # Use highest intermediate CA (last sent by server) - most stable
         selected_cn, new_hash = cert_hashes[-1]
 
         # Verify the hash works by reconnecting
