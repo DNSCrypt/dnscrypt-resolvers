@@ -4191,7 +4191,7 @@ sdns://AgcAAAAAAAAACjUuMS42Ni4yNTUgnUgyu0yNdyB7Jd4XWSaC78PKRfV53GZKDtXySPXJM5gNZ
 An open (non-logging, non-filtering, non-censoring) DoH resolver operated by Freifunk Munich with nodes in DE.
 https://ffmuc.net/
 
-sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTDWRvaC5mZm11Yy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjE4NS4xNTAuOTkuMjU1IJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYDWRvaC5mZm11Yy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## doh.ffmuc.net-v6
@@ -4367,14 +4367,6 @@ DNS-over-HTTPS Server (IPv6). Non-Logging, Non-Filtering, No ECS, Support DNSSEC
 Cached via Cloudflare.
 
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzMDo6YWM0MzphZDNiXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
-
-
-## jp2.vr.ekinao.com-ipv6
-
-DNSCrypt on IPv6 (UDP/TCP). No logging, No filtering,
-Details at https://www.ekinao.com/dnscrypt.html
-
-sdns://AQYAAAAAAAAAKFsyNDAxOjI1MDA6MjA0OjExMDY6MTUzOjEyNzoxNjoyMzVdOjUzNTMgZOO-8ssZk3pyPBipr0JNdsRFG_AWDnOBF3eKrk7Evj0hMi5kbnNjcnlwdC1jZXJ0LmpwMi52ci5la2luYW8uY29t
 
 
 ## ksol.io-ns2-dnscrypt-ipv4
