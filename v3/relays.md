@@ -565,20 +565,6 @@ IPv4 server. Anonymized DNS relay hosted in Nuremberg, Germany (netcup) and main
 sdns://gRIzNy4yMjEuMTk0Ljg0OjQ0MzQ
 
 
-## anon-dnscrypt.uk-ipv4
-
-Anonymized DNS relay in London. https://www.dnscrypt.uk
-
-sdns://gQ0xNjUuMjMyLjMyLjk1
-
-
-## anon-dnscrypt.uk-ipv6
-
-Anonymized DNS relay in London. https://www.dnscrypt.uk
-
-sdns://gRpbMmEwMzpiMGMwOjE6ZTA6OjQ4NzoxMDAxXQ
-
-
 ## anon-dnswarden-swiss
 
 Relay hosted in swizterland.
