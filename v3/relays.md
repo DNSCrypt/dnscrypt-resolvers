@@ -709,20 +709,6 @@ Anonymized DNS relay hosted in Singapore
 sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
 
 
-## anon-v.dnscrypt.uk-ipv4
-
-Anonymized DNS relay hosted in UK on Vultr
-
-sdns://gQ8xMDQuMjM4LjE4Ni4xOTI
-
-
-## anon-v.dnscrypt.uk-ipv6
-
-Anonymized DNS relay hosted in UK on Vultr
-
-sdns://gShbMjAwMToxOWYwOjc0MDI6MTU3NDo1NDAwOjJmZjpmZTY2OjJjZmZd
-
-
 ## dnscry.pt-anon-adelaide-ipv4
 
 DNSCry.pt Adelaide - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
