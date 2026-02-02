@@ -3877,14 +3877,6 @@ Free | Malware and phishing filtering | Zero logs | DNSSEC | Poland | https://dn
 sdns://AQMAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDU0IH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
 
 
-## dnscrypt.uk-ipv4
-
-DNSCrypt, no logs, uncensored, DNSSEC. Hosted in London UK on Digital Ocean
-https://www.dnscrypt.uk
-
-sdns://AQcAAAAAAAAADTE2NS4yMzIuMzIuOTUgAdMO6A4gTdoYcdOhDyhRVGdlvxS02kQEpP8EbX2paDwbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnVr
-
-
 ## dnsforfamily
 
 (DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
