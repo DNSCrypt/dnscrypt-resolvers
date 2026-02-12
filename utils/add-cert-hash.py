@@ -412,8 +412,8 @@ def process_resolver(md_path: str, resolver_name: str) -> None:
                                 selected_cn, cert_hash = cert_hashes[-1]
                                 print(f"  Using: {selected_cn}")
 
-                                # Add hash if not already present
-                                if cert_hash not in stamp.hashes:
+                                # Update hash if it differs from the expected one
+                                if stamp.hashes != [cert_hash]:
                                     stamp.hashes = [cert_hash]
                                     new_stamp = stamp.serialize()
                                     print(f"  Old: {line}")
