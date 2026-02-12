@@ -56,9 +56,11 @@ if $DNSCRYPT_PROXY -config "$CONFIG" -list -json 2>/dev/null | grep -F '"dnssec"
     DNSSEC=true
 fi
 
-# Show certificate info (silent mode)
-if ! $DNSCRYPT_PROXY -config "$CONFIG" -show-certs >/dev/null 2>&1; then
+# Show certificate info
+CERTOUT=$($DNSCRYPT_PROXY -config "$CONFIG" -show-certs 2>&1)
+if [ $? -ne 0 ]; then
     echo "Error: Failed to retrieve certificate information" >&2
+    echo "$CERTOUT" >&2
     exit 1
 fi
 
@@ -80,7 +82,7 @@ RETRIES=3
 SUCCESS=false
 
 for i in $(seq 1 $RETRIES); do
-    if $DNSCRYPT_PROXY -config "$CONFIG" -resolve "example.com" >/tmp/resolve-output 2>/dev/null; then
+    if $DNSCRYPT_PROXY -config "$CONFIG" -resolve "example.com" >/tmp/resolve-output 2>&1; then
         # Check DNSSEC if expected
         if [ "$DNSSEC" = "true" ]; then
             if grep -F "resolver doesn't support DNSSEC" /tmp/resolve-output >/dev/null; then
@@ -96,13 +98,22 @@ done
 
 # Clean up
 kill $(cat "$PIDFILE") 2>/dev/null
-rm -f /tmp/resolve-output
 
 # Return result
 if [ "$SUCCESS" = "true" ]; then
+    rm -f /tmp/resolve-output
     echo "OK: Resolver is working"
     exit 0
 else
     echo "FAIL: Unable to resolve queries" >&2
+    if [ -f /tmp/resolve-output ] && [ -s /tmp/resolve-output ]; then
+        echo "--- resolve output ---" >&2
+        cat /tmp/resolve-output >&2
+    fi
+    if [ -f "$LOGFILE" ] && [ -s "$LOGFILE" ]; then
+        echo "--- proxy log ---" >&2
+        tail -n 20 "$LOGFILE" >&2
+    fi
+    rm -f /tmp/resolve-output
     exit 1
 fi

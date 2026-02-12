@@ -1272,7 +1272,7 @@ Designed to block ads, malware, and surveillance. No logs.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAADjE1Mi41My4yMDcuMTkxILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0DWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE1Mi41My4yMDcuMTkxILTgqMmLCq5DtzgwN6zNEaHJZJcfa3T8vDcM0DD7Mo3dDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-adelaide-ipv4
