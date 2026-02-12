@@ -4499,14 +4499,6 @@ Homepage: https://sdns.360.net
 sdns://AgAAAAAAAAAAACBGRinMfizEpf6XTTrC4BNXB3syOlkxKYNaWpRbX7u40Qpkb2guMzYwLmNuCi9kbnMtcXVlcnk
 
 
-## quad101
-
-DNSSEC-aware public resolver by the Taiwan Network Information Center (TWNIC)
-https://101.101.101.101/index_en.html
-
-sdns://AgcAAAAAAAAAACD6FZeNKdZtjheTM0R4As184g4uTh98W5hVNgufwCLevgxkbnMudHduaWMudHcKL2Rucy1xdWVyeQ
-
-
 ## quad9-dnscrypt-ip4-filter-ecs-pri
 
 Quad9 (anycast) dnssec/no-log/filter/ecs 9.9.9.11 - 149.112.112.11
