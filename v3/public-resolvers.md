@@ -4770,7 +4770,7 @@ Account holder logs are anonymized and used for filter improvement. Data is neve
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AQIAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
+sdns://AQAAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
 ## safesurfer-doh-primary-ipv4
