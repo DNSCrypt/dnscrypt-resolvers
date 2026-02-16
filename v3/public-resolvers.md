@@ -4762,24 +4762,59 @@ sdns://AgYAAAAAAAAAACBdzvEcz84tL6QcR78t69kc0nufblyYal5di10An6SyUBJza3kucmV0aGlua
 sdns://AgYAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 
 
-## safesurfer
+## safesurfer-dnscrypt
 
-Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
-Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
-usage, data never sold - https://safesurfer.io
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
 
 Warning: this server is incompatible with DNS anonymization.
 
 sdns://AQIAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
-## safesurfer-doh
+## safesurfer-doh-primary-ipv4
 
-Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
-Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
-usage, data never sold - https://safesurfer.io
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
 
-sdns://AgAAAAAAAAAAACBW1D4A3rPRi8QazGGnZq98S8bEb0ZyDjFdjqVEtSPc3BFkb2guc2FmZXN1cmZlci5pbwovZG5zLXF1ZXJ5
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAADjM1LjIyNy4yMjYuMTQyIFZLkFKn851XolB8scViZfXvz5MhxPQDR-LvcTsWagolEWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
+
+
+## safesurfer-doh-primary-ipv6
+
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAAFFsyNjAwOjE5MDE6MDo1YTgyOjpdIFZLkFKn851XolB8scViZfXvz5MhxPQDR-LvcTsWagolEWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
+
+
+## safesurfer-doh-secondary-ipv4
+
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAADDQuMTUwLjE2OC41NyApOBQpAcz9-ZvoWm1Tthky3Ywrrkt8do50JL5t154GjhRkbnMuc2FmZXN1cmZlci5jby5uegovZG5zLXF1ZXJ5
+
+
+## safesurfer-doh-secondary-ipv6
+
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
+
+Warning: this server is incompatible with DNS anonymization.
+
+sdns://AgAAAAAAAAAAE1syNjAzOjEwMzA6Nzo3OjozYl0gKTgUKQHM_fmb6FptU7YZMt2MK65LfHaOdCS-bdeeBo4UZG5zLnNhZmVzdXJmZXIuY28ubnoKL2Rucy1xdWVyeQ
 
 
 ## saldns01-conoha-ipv4
