@@ -11,7 +11,11 @@ To use that list, add this to the `[sources]` section of your
     cache_file = 'opennic.md'
 
 --
+## ibksturm
 
+Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgQg5eFucIAx7hJqzl4olTm-o1y4qE7eThMBlzuZ4e_acYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 ## ibksturm
 
