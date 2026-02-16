@@ -4762,7 +4762,7 @@ sdns://AgYAAAAAAAAAACBdzvEcz84tL6QcR78t69kc0nufblyYal5di10An6SyUBJza3kucmV0aGlua
 sdns://AgYAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGRJtYXgucmV0aGlua2Rucy5jb20KL2Rucy1xdWVyeQ
 
 
-## safesurfer-dnscrypt
+## safesurfer
 
 Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
 available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
@@ -4773,7 +4773,7 @@ Warning: this server is incompatible with DNS anonymization.
 sdns://AQAAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
-## safesurfer-doh-primary-ipv4
+## safesurfer-doh
 
 Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
 available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
@@ -4784,7 +4784,7 @@ Warning: this server is incompatible with DNS anonymization.
 sdns://AgAAAAAAAAAADjM1LjIyNy4yMjYuMTQyIFZLkFKn851XolB8scViZfXvz5MhxPQDR-LvcTsWagolEWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
 
 
-## safesurfer-doh-primary-ipv6
+## safesurfer-doh-ipv6
 
 Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
 available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
