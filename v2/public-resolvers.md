@@ -4094,7 +4094,7 @@ sdns://AgcAAAAAAAAAFVsyMDAxOjY3ODplZDA6ZjAwMDo6XSDWHZbr-z-hkJbiwALjYDv3_arvsicE2
 
 ## doh.ibksturm
 
-Switzerland, running by ibksturm
+Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
 
 sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
@@ -4182,6 +4182,13 @@ Hurricane Electric DoH server (anycast)
 Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyINYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
+
+
+## ibksturm
+
+Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgQg5eFucIAx7hJqzl4olTm-o1y4qE7eThMBlzuZ4e_acYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## iij

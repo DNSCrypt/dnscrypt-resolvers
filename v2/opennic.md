@@ -13,6 +13,13 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## ibksturm
+
+Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgQg5eFucIAx7hJqzl4olTm-o1y4qE7eThMBlzuZ4e_acYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
+
 ## libredns
 
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
