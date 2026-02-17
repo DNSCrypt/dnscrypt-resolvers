@@ -1254,6 +1254,7 @@ Hosted in Zurich, Switzerland.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDMgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
 
 ## dns.digitale-gesellschaft.ch-ipv6
@@ -1264,6 +1265,7 @@ Hosted in Zurich, Switzerland.
 Non-logging, non-filtering, supports DNSSEC.
 
 sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
 
 
 ## dns.digitalsize.net
