@@ -4274,6 +4274,27 @@ sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF0gsKKKE4EwvtIbNjGjagI2607EdKSVH
 sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg0NF0gsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkaWzIwMDE6NDg2MDo0ODYwOjo4ODQ0XTo0NDMKL2Rucy1xdWVyeQ
 
 
+## hagezi-doh-juuri
+
+HaGeZi DoH server hosted in Helsinki, Finland. Non-logging with strict DNSSEC validation, QNAME minimization and no EDNS client subnet. Uses "HaGeZi Multi Pro" and "HaGeZi Threat Intelligence Feeds" blocklists for filtering. Learn more: https://github.com/hagezi/dns-servers
+
+sdns://AgMAAAAAAAAADTk1LjIxNy4xNjMuMTeg9fG17XnuRdVQoe8ccZ7OoEEEpE0JD564fzRnvXatq58gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQQanV1cmkuaGFnZXppLm9yZwovZG5zLXF1ZXJ5
+
+
+## hagezi-doh-root
+
+HaGeZi DoH server hosted in Falkenstein, Germany. Non-logging with strict DNSSEC validation, QNAME minimization and no EDNS client subnet. Uses "HaGeZi Multi Pro" and "HaGeZi Threat Intelligence Feeds" blocklists for filtering. Learn more: https://github.com/hagezi/dns-servers
+
+sdns://AgMAAAAAAAAADjE4OC4zNC4xNjEuMjEwoFK_kYVqmb1DavAZdV0pzWBPKo5y8m8lP-O837FSuAOkILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0D3Jvb3QuaGFnZXppLm9yZwovZG5zLXF1ZXJ5
+
+
+## hagezi-doh-wurzn
+
+HaGeZi DoH server hosted in Nuremberg, Germany. Non-logging with strict DNSSEC validation, QNAME minimization and no EDNS client subnet. Uses "HaGeZi Multi Pro" and "HaGeZi Threat Intelligence Feeds" blocklists for filtering. Learn more: https://github.com/hagezi/dns-servers
+
+sdns://AgMAAAAAAAAADTE1OS42OS4xNTUuOTSgi6hTgzwgWqJX7L6mNC4pI5tDevqftjR5LM1Cv05BuzcgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkQd3Vyem4uaGFnZXppLm9yZwovZG5zLXF1ZXJ5
+
+
 ## he
 
 Hurricane Electric DoH server (anycast)
