@@ -226,6 +226,27 @@ sdns://AgAAAAAAAAAADlsyNDAwOjMyMDA6OjFdIJjj1eU2rylYzS9_FPcE70onbSXjPNZfLmX15PJyf
 sdns://AgAAAAAAAAAAE1syNDAwOjMyMDA6YmFiYTo6MV0gmOPV5TavKVjNL38U9wTvSidtJeM81l8uZfXk8nJ8EzAJMjIzLjUuNS41Ci9kbnMtcXVlcnk
 
 
+## artikel10-doh-ipv4
+
+DNSSEC, No-filter and No-log DoH resolver operated by Artikel10 association. Homepage: https://artikel10.org
+
+sdns://AgcAAAAAAAAADjIxNy4xOTcuOTEuMTUzILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
+
+
+## artikel10-doh-ipv6
+
+DNSSEC, No-filter and No-log DoH resolver (IPv6) operated by Artikel10 association. Homepage: https://artikel10.org
+
+sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
+
+
+## blahdns-de-doh
+
+DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
+
+sdns://AgMAAAAAAAAADTc4LjQ2LjI0NC4xNDMAEmRvaC1kZS5ibGFoZG5zLmNvbQovZG5zLXF1ZXJ5
+
+
 ## blahdns-sg-doh
 
 DNS-over-HTTPS server. No Logging, filters ads, trackers and malware. DNSSEC ready, QNAME Minimization, No EDNS Client-Subnet.
@@ -4309,6 +4330,20 @@ https://www.fdn.fr/
 
 sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjEyXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOQpuczAuZmRuLmZyCi9kbnMtcXVlcnk
 sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOQpuczEuZmRuLmZyCi9kbnMtcXVlcnk
+
+
+## ffmuc.net
+
+An open (non-logging, non-filtering, non-censoring) DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
+
+sdns://AQcAAAAAAAAADzUuMS42Ni4yNTU6ODQ0MyAH0Hrxz9xdmXadPwJmkKcESWXCdCdseRyu9a7zuQxG-hkyLmRuc2NyeXB0LWNlcnQuZmZtdWMubmV0
+
+
+## ffmuc.net-v6
+
+An open (non-logging, non-filtering, non-censoring) DNSCrypt resolver operated by Freifunk Munich with nodes in DE.
+
+sdns://AQcAAAAAAAAAGlsyMDAxOjY3ODplNjg6ZjAwMDo6XTo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZcJ0J2x5HK71rvO5DEb6GTIuZG5zY3J5cHQtY2VydC5mZm11Yy5uZXQ
 
 
 ## google
