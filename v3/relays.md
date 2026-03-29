@@ -1887,15 +1887,6 @@ https://www.dnscry.pt
 sdns://gQs2Ni4xODcuNC4zOQ
 
 
-## dnscry.pt-anon-lasvegas-ipv6
-
-DNSCry.pt Las Vegas - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSVbMjYwNjo2NWMwOjEwOjE1ZDo5MmUwOmM3ZTU6YjU3OjViMDBd
-
-
 ## dnscry.pt-anon-libertylake-ipv4
 
 DNSCry.pt Liberty Lake - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -1903,15 +1894,6 @@ DNSCry.pt Liberty Lake - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 serv
 https://www.dnscry.pt
 
 sdns://gQwyMy4xODQuNDguMTk
-
-
-## dnscry.pt-anon-libertylake-ipv6
-
-DNSCry.pt Liberty Lake - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRhbMjYwMjpmYzI0OjE4OjMzZjI6OmFiMV0
 
 
 ## dnscry.pt-anon-lima02-ipv4
