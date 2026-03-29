@@ -589,13 +589,6 @@ Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project ht
 sdns://gRQxNjMuNDQuMTI0LjIwNDo1MDQ0Mw
 
 
-## anon-saldns02-conoha-ipv4
-
-Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
-
-sdns://gRUxNjAuMjUxLjIxNC4xNzI6NTA0NDM
-
-
 ## anon-saldns03-conoha-ipv4
 
 Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
