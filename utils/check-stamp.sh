@@ -5,9 +5,11 @@
 # Exit codes: 0 = working, 1 = not working or error
 
 DNSCRYPT_PROXY=~/src/dnscrypt-proxy/dnscrypt-proxy/dnscrypt-proxy
-CONFIG="/tmp/dnscrypt-proxy-check.toml"
-PIDFILE="/tmp/dnscrypt-proxy-check.pid"
-LOGFILE="/tmp/dnscrypt-proxy-check.log"
+WORKDIR=$(mktemp -d /tmp/dnscrypt-proxy-check-XXXXXX)
+CONFIG="$WORKDIR/config.toml"
+PIDFILE="$WORKDIR/pid"
+LOGFILE="$WORKDIR/log"
+PORT="${CHECK_PORT:-5300}"
 
 # Check arguments
 if [ $# -ne 1 ]; then
@@ -34,13 +36,13 @@ cleanup() {
     if [ -f "$PIDFILE" ]; then
         kill $(cat "$PIDFILE") 2>/dev/null
     fi
-    rm -f "$CONFIG" "$PIDFILE" "$LOGFILE"
+    rm -rf "$WORKDIR"
 }
 trap cleanup EXIT
 
 # Create config file
 {
-    echo 'listen_addresses = ["127.0.0.1:5300"]'
+    echo "listen_addresses = [\"127.0.0.1:${PORT}\"]"
     echo 'server_names = ["test-server"]'
     echo 'odoh_servers = true'
     echo 'timeout = 5000'
