@@ -4781,7 +4781,7 @@ Account holder logs are anonymized and used for filter improvement. Data is neve
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AgAAAAAAAAAADjM1LjIyNy4yMjYuMTQyIFZLkFKn851XolB8scViZfXvz5MhxPQDR-LvcTsWagolEWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAADjM1LjIyNy4yMjYuMTQyIKTcZA-_I4o3BTA0ntL7eQj7seY3QRbt-WfobX_DSjw_EWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
 
 
 ## safesurfer-doh-ipv6
@@ -4792,7 +4792,7 @@ Account holder logs are anonymized and used for filter improvement. Data is neve
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AgAAAAAAAAAAFFsyNjAwOjE5MDE6MDo1YTgyOjpdIFZLkFKn851XolB8scViZfXvz5MhxPQDR-LvcTsWagolEWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
+sdns://AgAAAAAAAAAAFFsyNjAwOjE5MDE6MDo1YTgyOjpdIKTcZA-_I4o3BTA0ntL7eQj7seY3QRbt-WfobX_DSjw_EWRvaC5zYWZlc3VyZmVyLmlvCi9kbnMtcXVlcnk
 
 
 ## safesurfer-doh-secondary-ipv4
