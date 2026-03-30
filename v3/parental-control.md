@@ -305,13 +305,13 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlc
 
 ## safesurfer
 
-Family safety focused blocklist for over 2 million adult sites, as well as phishing and malware and more.
-Free to use, paid for customizing blocking for more categories+sites and viewing usage at my.safesurfer.io. Logs taken for viewing
-usage, data never sold - https://safesurfer.io
+Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
+available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
+Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AQIAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
+sdns://AQAAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
 
 
 ## sfw.scaleway-fr
