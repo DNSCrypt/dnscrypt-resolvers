@@ -1,6 +1,6 @@
 #! /bin/sh
 
-DNSLOOKUP_VERSION=1.10.1
+DNSLOOKUP_VERSION=1.11.2
 
 case "$(uname -ms)" in
 Darwin\ x86_64) DNSLOOKUP_ARCH=darwin-amd64 ;;
@@ -74,7 +74,7 @@ if [ ! -s "$NEW_ENTRIES" ]; then
     exit 0
 fi
 
-curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.5/dnscrypt-proxy-linux_x86_64-2.1.5.tar.gz | tar xzvf -
+curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.15/dnscrypt-proxy-linux_x86_64-2.1.15.tar.gz | tar xzvf -
 cd linux-x86_64 || exit 1
 
 exit_code=0
