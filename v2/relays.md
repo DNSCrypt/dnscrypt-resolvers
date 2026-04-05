@@ -589,6 +589,13 @@ Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project ht
 sdns://gRQxNjMuNDQuMTI0LjIwNDo1MDQ0Mw
 
 
+## anon-saldns02-conoha-ipv4
+
+Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
+
+sdns://gRUxNjAuMjUxLjIxNC4xNzI6NTA0NDM
+
+
 ## anon-saldns03-conoha-ipv4
 
 Hosted on ConoHa VPS Tokyo region. No log. From experimental &mu;ODNS project https://junkurihara.github.io/dns/.
@@ -3170,4 +3177,3 @@ DNSCry.pt Yerevan - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRlbMmEwMzo5MGMwOjVmMToyOTAzOjo1Mzld
-
