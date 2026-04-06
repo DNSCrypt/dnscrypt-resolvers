@@ -1163,11 +1163,18 @@ DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Berlin, Germany.
 sdns://AQcAAAAAAAAADzE5NC4xNjQuMTk0LjIxNiACT6z2dYj94msaKqctjIpBaeDHG2JVOfPTqDH_0KzZkBYyLmRuc2NyeXB0LWNlcnQuZGN0LWRl
 
 
+## dct-de2
+
+DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Karlsruhe, Germany.
+
+sdns://AQcAAAAAAAAAETgyLjE2NS42MS41Mjo1MzUzIK8y9dKpNBKXneNlbwmpHZZBUvqfBXnojiW6Gdtp8p7PFzIuZG5zY3J5cHQtY2VydC5kY3QtZGUy
+
+
 ## dct-fr
 
 DNSCrypt | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
 
-sdns://AQcAAAAAAAAADTE4NS4yNTMuNTQuNjIgDEozVZI02DFe_DtXEu4eGw6xIm0ijfq6Zxs2adJV2ucWMi5kbnNjcnlwdC1jZXJ0LmRjdC1mcg
+sdns://AQcAAAAAAAAADTQ1LjE0Ny45OC4yMjMgxrLxuUBUIK0uhJptc75BSbkhou5kHDMi2p4AHf0zHgMWMi5kbnNjcnlwdC1jZXJ0LmRjdC1mcg
 
 
 ## deffer-dns.au
