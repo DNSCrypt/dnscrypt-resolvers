@@ -202,6 +202,16 @@ Warning: This server is incompatible with anonymization.
 sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjE6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1ogUHb8uwGay2volMi5kbnNjcnlwdC51bmZpbHRlcmVkLm5zMS5hZGd1YXJkLmNvbQ
 sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjI6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1ogUHb8uwGay2volMi5kbnNjcnlwdC51bmZpbHRlcmVkLm5zMS5hZGd1YXJkLmNvbQ
 
+## adnull
+
+Personal DoH resolver with ad, tracker and malware blocking.
+Operated by ADnull. Custom subdomain per user account.
+No permanent query logging.
+
+https://adnull.com
+
+sdns://AgMAAAAAAAAAEFsxODguMTkwLjE5MS43OF0ADmRucy5hZG51bGwuY29tCi9kbnMtcXVlcnk
+
 
 ## alidns-doh
 
