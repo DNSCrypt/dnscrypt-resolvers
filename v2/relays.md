@@ -1987,24 +1987,6 @@ https://www.dnscry.pt
 sdns://gRNbMjQwMTo4MzYwOmEyOjQ6OmFd
 
 
-## dnscry.pt-anon-losangeles-ipv4
-
-DNSCry.pt Los Angeles - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQ4xMDQuMTU2LjE1NC4xMQ
-
-
-## dnscry.pt-anon-losangeles-ipv6
-
-DNSCry.pt Los Angeles - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRJbMjYwMjpmN2Y4Ojc6ZDo6YV0
-
-
 ## dnscry.pt-anon-losangeles02-ipv4
 
 DNSCry.pt Los Angeles 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -2884,15 +2866,6 @@ DNSCry.pt Taos - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ42My4xMzMuMjIzLjEzOA
-
-
-## dnscry.pt-anon-taos-ipv6
-
-DNSCry.pt Taos - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRtbMjYwNjo2NjgwOjUzOjE6Ojg0NmE6YmQ3OV0
 
 
 ## dnscry.pt-anon-tbilisi-ipv6
