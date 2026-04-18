@@ -4345,6 +4345,11 @@ Unknown logging policy.
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
+## hlincore-dnscrypt-ipv6
+
+HlinCore DNSCrypt Server (IPv6) hosted in Sweden. DNSSEC, no logging and no filters.
+
+sdns://AQcAAAAAAAAAK1syMDAxOjliMTo0NWJjOmZmMDA6MjBjOjI5ZmY6ZmU2YjoyYmEwXTo0NDMgMXwpbTjoxZS40qbaryQ6RAFpZUfIR4Q966SVVNLMLi8jMi5kbnNjcnlwdC1jZXJ0LmhsaW5jb3JlLnNlY3VyZS5kbnM
 
 ## iij
 
