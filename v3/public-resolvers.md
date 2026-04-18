@@ -4957,6 +4957,16 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
 
+## shitblocker
+
+Located in Buenos Aires, Argentina. Public DoH and DoT resolver. Minimal log retention.
+Blocks ads, malware, tracking and fakenews (Hagezi Light/TIF, StevenBlack, SomeoneWhoCares).
+
+https://shitblocker.com
+
+sdns://AgEAAAAAAAAADTE0OS4zMy4xOS4yMzkgOhilBHYMTOmDtwhErigCvqbjekVZX5EkrKuPtdPByEwPc2hpdGJsb2NrZXIuY29tCi9kbnMtcXVlcnk
+
+
 ## switch
 
 Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
