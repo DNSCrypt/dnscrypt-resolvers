@@ -27,3 +27,11 @@ Maintained by Frank Denis.
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
 
+
+## odohrelay-numa
+
+Oblivious DoH relay run by the Numa project on Hetzner (Falkenstein, Germany). https://numa.rs
+Maintained by Razvan Dimescu.
+
+sdns://hQcAAAAAAAAAAAASb2RvaC1yZWxheS5udW1hLnJzBi9yZWxheQ
+
