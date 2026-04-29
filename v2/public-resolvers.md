@@ -4357,7 +4357,7 @@ sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYD
 
 HlinCore DNSCrypt Server (IPv6) hosted in Sweden. DNSSEC, no logging and no filters.
 
-sdns://AQcAAAAAAAAAK1syMDAxOjliMTo0NWJjOmZmMDA6MjBjOjI5ZmY6ZmU2YjoyYmEwXTo0NDMgMXwpbTjoxZS40qbaryQ6RAFpZUfIR4Q966SVVNLMLi8jMi5kbnNjcnlwdC1jZXJ0LmhsaW5jb3JlLnNlY3VyZS5kbnM
+sdns://AQcAAAAAAAAAK1syMDAxOjliMTo0NWJjOmZmMDA6MjBjOjI5ZmY6ZmUxYzpjMTJhXTo0NDMgF2us8UFijhQlRmAOf1z01hCVm96g7FHq-C3VnpJ53XQjMi5kbnNjcnlwdC1jZXJ0LmhsaW5jb3JlLnNlY3VyZS5kbnM
 
 
 ## iij
