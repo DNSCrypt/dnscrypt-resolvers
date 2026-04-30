@@ -1250,26 +1250,28 @@ sdns://AgMAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9oLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 DNS4EU is a European Union-sponsored DNS infastructure project.
 
-This is the unfiltered option.
+This was previously advertised as the unfiltered option, but a French court
+order now requires DNS4EU to block access to a number of websites.
 
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgcAAAAAAAAADDg2LjU0LjExLjEwMCCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORZ1bmZpbHRlcmVkLmpvaW5kbnM0LmV1Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDg2LjU0LjExLjEwMCCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORZ1bmZpbHRlcmVkLmpvaW5kbnM0LmV1Ci9kbnMtcXVlcnk
 
 
 ## dns4eu-ipv6
 
 DNS4EU is a European Union-sponsored DNS infastructure project.
 
-This is the unfiltered option.
+This was previously advertised as the unfiltered option, but a French court
+order now requires DNS4EU to block access to a number of websites.
 
 It will be accessed over IPv6.
 
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgcAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF0gkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkWdW5maWx0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF0gkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkWdW5maWx0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
 
 
 ## dns4eu-protective
