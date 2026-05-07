@@ -4424,6 +4424,14 @@ sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF0gsKKKE4EwvtIbNjGjagI2607EdKSVH
 sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg0NF0gsKKKE4EwvtIbNjGjagI2607EdKSVHowYZtyvD9iPrkkaWzIwMDE6NDg2MDo0ODYwOjo4ODQ0XTo0NDMKL2Rucy1xdWVyeQ
 
 
+## hanoi01-dnscrypt.vn
+First personal DNSCrypt resolver in Vietnam 
+An open, non-logging, non-filtering, non-censoring, support DNSSEC DNSCrypt resolver 
+Operated by VHP (powered by iNET-VN)
+
+sdns://AQcAAAAAAAAAEzEwMy4xNjYuMTgyLjIzNTo0NDMgSchQG_F86zvv4dlwx219EDFs3FxqJLz-PA12Du206iwjMi5kbnNjcnlwdC1jZXJ0Lmhhbm9pMDEtZG5zY3J5cHQudm4
+
+
 ## he
 
 Hurricane Electric DoH server (anycast)
