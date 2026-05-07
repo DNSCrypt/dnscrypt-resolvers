@@ -1301,6 +1301,15 @@ sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiBxTYz1ZnaR2ko2iI9x2OF2TdwrFQh9ysFQPDks4
 sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIHFNjPVmdpHaSjaIj3HY4XZN3CsVCH3KwVA8OSzj6OAACzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
+## dns.vhp-inet-hanoi.vn-ipv4
+
+DNSCrypt Resolver | IPv4 only | Non-logging | Non-filtering | DNSSEC | Paris, France.
+First public DNSCrypt Resolver in Vietnam.
+Operated by VHP (Git @vophuc8712). Powered by iNET-Vietnam.
+
+sdns://AQcAAAAAAAAAEzEwMy4xNjYuMTgyLjIzNTo0NDMgSchQG_F86zvv4dlwx219EDFs3FxqJLz-PA12Du206iwjMi5kbnNjcnlwdC1jZXJ0Lmhhbm9pMDEtZG5zY3J5cHQudm4
+
+
 ## dns4all-ipv4
 
 A DoH resolver operated by sidnlabs.nl. No-logs, DNSSEC. Filters domains sanctioned by the EU.
