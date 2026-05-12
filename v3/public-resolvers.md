@@ -5058,6 +5058,38 @@ Maintained by Frank Denis - https://fr.dnscrypt.info/sfw.html
 sdns://AQMAAAAAAAAADzE2My4xNzIuMTgwLjEyNSDfYnO_x1IZKotaObwMhaw_-WRF1zZE9mJygl01WPGh_x8yLmRuc2NyeXB0LWNlcnQuc2Z3LnNjYWxld2F5LWZy
 
 
+## sorcerousmachine
+
+Public, no-logs, non-filtering OpenNIC Tier-2 recursive resolver. DNSSEC against IANA and OpenNIC root anchors. Operated by Sorcerous Machine, LLC in Warrenton, VA, US.
+https://dns.sorcerousmachine.com/
+
+sdns://AQcAAAAAAAAAEjE1LjIwNC4xMzUuMjg6ODQ0MyBMpSYYYGo1AnEYIVggIK6tOA-aNBsMnVpbm8QvfUn23ygyLmRuc2NyeXB0LWNlcnQuZG5zLnNvcmNlcm91c21hY2hpbmUuY29t
+
+
+## sorcerousmachine-doh
+
+Public, no-logs, non-filtering OpenNIC Tier-2 recursive resolver (DoH). DNSSEC against IANA and OpenNIC root anchors. Operated by Sorcerous Machine, LLC in Warrenton, VA, US.
+https://dns.sorcerousmachine.com/
+
+sdns://AgcAAAAAAAAADTE1LjIwNC4xMzUuMjgAGGRucy5zb3JjZXJvdXNtYWNoaW5lLmNvbQovZG5zLXF1ZXJ5
+
+
+## sorcerousmachine-doh-ipv6
+
+Public, no-logs, non-filtering OpenNIC Tier-2 recursive resolver (DoH, IPv6). DNSSEC against IANA and OpenNIC root anchors. Operated by Sorcerous Machine, LLC in Warrenton, VA, US.
+https://dns.sorcerousmachine.com/
+
+sdns://AgcAAAAAAAAAFlsyNjA0OjJkYzA6MTAwOjRjODo6ZF0AGGRucy5zb3JjZXJvdXNtYWNoaW5lLmNvbQovZG5zLXF1ZXJ5
+
+
+## sorcerousmachine-ipv6
+
+Public, no-logs, non-filtering OpenNIC Tier-2 recursive resolver (IPv6). DNSSEC against IANA and OpenNIC root anchors. Operated by Sorcerous Machine, LLC in Warrenton, VA, US.
+https://dns.sorcerousmachine.com/
+
+sdns://AQcAAAAAAAAAG1syNjA0OjJkYzA6MTAwOjRjODo6ZF06ODQ0MyBMpSYYYGo1AnEYIVggIK6tOA-aNBsMnVpbm8QvfUn23ygyLmRuc2NyeXB0LWNlcnQuZG5zLnNvcmNlcm91c21hY2hpbmUuY29t
+
+
 ## switch
 
 Public DoH service provided by SWITCH in Switzerland. Provides protection against malware, but does not block ads.
