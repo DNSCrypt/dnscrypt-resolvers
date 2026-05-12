@@ -4033,7 +4033,7 @@ Completely free, no ads or any commercial motive. Operating for 4 years now.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkxhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmBhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-doh-no-safe-search
@@ -4050,7 +4050,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkydkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmCdkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-no-safe-search
@@ -4328,6 +4328,13 @@ sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYD
 HlinCore DNSCrypt Server (IPv6) hosted in Sweden. DNSSEC, no logging and no filters.
 
 sdns://AQcAAAAAAAAAK1syMDAxOjliMTo0NWJjOmZmMDA6MjBjOjI5ZmY6ZmUxYzpjMTJhXTo0NDMgF2us8UFijhQlRmAOf1z01hCVm96g7FHq-C3VnpJ53XQjMi5kbnNjcnlwdC1jZXJ0LmhsaW5jb3JlLnNlY3VyZS5kbnM
+
+
+## ibksturm
+
+Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgQg5eFucIAx7hJqzl4olTm-o1y4qE7eThMBlzuZ4e_acYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## iij
@@ -4956,7 +4963,7 @@ sdns://AgYAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8
 Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
-sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## uncensoreddns-ipv6
@@ -4964,7 +4971,7 @@ sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4
 Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
-sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## userspace-australia
