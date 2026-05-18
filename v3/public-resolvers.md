@@ -5125,34 +5125,15 @@ No logs | IPv6 | Filtered
 sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
 sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9oHjkzJkuS4EIP7-_aYKaU5t7y2YXv6GoW4EdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
 
-## vpsdns-doh
 
-Public DoH service in South Africa with local routing optimizations. 
+## vpsdns.co.za
+
+Public DoH service in South African ISP zones with local routing optimizations. 
 Features DNSSEC validation, strict no-logs data policy, and integrated threat intelligence filtering.
 
-Maintained by Rouve Bernardo - https://vpsdns.co.za
+Maintained by Bernardo Rouvé - https://vpsdns.co.za
 
-sdns://AgMAAAAAAAAAAAAADmRvaC52cHNkbnMuY28uemEKL2Rucy1xdWVyeQ
-
-
-## vpsdns-dot
-
-Public DNS-over-TLS (DoT) service in South Africa. 
-Provides a low-overhead, highly optimized serial connection stream over TCP. Features DNSSEC and strict no-logs policy.
-
-Maintained by Rouve Bernardo - https://vpsdns.co.za
-
-sdns://AwMAAAAAAAAAFWRvdC52cHNkbnMuY28uemE6ODUz
-
-
-## vpsdns-doq
-
-Public DNS-over-QUIC (DoQ) service in South Africa running on native infrastructure. 
-Bypasses Head-of-Line blocking via parallel UDP transport. Features DNSSEC and strict no-logs policy.
-
-Maintained by Rouve Bernardo - https://vpsdns.co.za
-
-sdns://BwMAAAAAAAAAFWRvcS52cHNkbnMuY28uemE6ODUz
+sdns://AgMAAAAAAAAAAABgYjMzZjkzMjIyYmYwZGUyM2VmNDNmMmNjMzFiMzNhZTViNjMyMGZjOWZhNDQ5NjY4ODAyMDNlNmQ5ZDVhMjhiMwoOZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
 
 
 ## wikimedia
