@@ -1820,6 +1820,15 @@ https://www.dnscry.pt
 sdns://gRdbMmMwZjpmMDMwOjYwODA6MTo6MTU2XQ
 
 
+## dnscry.pt-anon-johor-ipv4
+
+DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://gQ00NS4yNDkuOTEuMTUw
+
+
 ## dnscry.pt-anon-johor-ipv6
 
 DNSCry.pt Johor - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
