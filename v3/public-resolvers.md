@@ -5131,7 +5131,7 @@ sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9o
 Public DoH service in South African ISP zones with local routing optimizations. 
 Features DNSSEC validation, strict no-logs data policy, and integrated threat intelligence filtering.
 
-Maintained by Bernardo Rouvé - https://vpsdns.co.za
+Maintained by Rouvé Bernardo - https://vpsdns.co.za
 
 sdns://AgMAAAAAAAAAAABgYjMzZjkzMjIyYmYwZGUyM2VmNDNmMmNjMzFiMzNhZTViNjMyMGZjOWZhNDQ5NjY4ODAyMDNlNmQ5ZDVhMjhiMwoOZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
 
