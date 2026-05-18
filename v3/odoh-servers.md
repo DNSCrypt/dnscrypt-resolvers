@@ -30,6 +30,14 @@ Backend hosted by Scaleway. Maintained by Frank Denis.
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
+## odoh-id-gmail
+
+ODoH target server. Based in Singapore, no logs.
+Filter ads, trackers and malware.
+
+sdns://BQMAAAAAAAAADGRvaC50aWFyLmFwcAUvb2RvaA
+
+
 ## odoh-snowstorm
 
 ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
