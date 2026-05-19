@@ -4446,11 +4446,13 @@ Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgQg5eFucIAx7hJqzl4olTm-o1y4qE7eThMBlzuZ4e_acYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
+
 ## ibksturm-6
 
 Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
 
 sdns://AQcAAAAAAAAAGlsyMDAxOjQ3MDoyNTo3Yzo6MTk1XTo4NDQzIEIOXhbnCAMe4Sas5eKJU5vqNcuKhO3k4TAZc7meHv2nGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+
 
 ## iij
 
