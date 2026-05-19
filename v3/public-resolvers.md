@@ -1297,8 +1297,8 @@ DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
 
 Homepage: https://dns.sb
 
-sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiBxTYz1ZnaR2ko2iI9x2OF2TdwrFQh9ysFQPDks4-jgAA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExIHFNjPVmdpHaSjaIj3HY4XZN3CsVCH3KwVA8OSzj6OAACzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAACzQ1LjExLjQ1LjExILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0CzQ1LjExLjQ1LjExCi9kbnMtcXVlcnk
 
 
 ## dns4all-ipv4
@@ -1329,7 +1329,7 @@ order now requires DNS4EU to block access to a number of websites.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAADDg2LjU0LjExLjEwMCCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORZ1bmZpbHRlcmVkLmpvaW5kbnM0LmV1Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDg2LjU0LjExLjEwMCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZ1bmZpbHRlcmVkLmpvaW5kbnM0LmV1Ci9kbnMtcXVlcnk
 
 
 ## dns4eu-ipv6
@@ -1344,7 +1344,7 @@ It will be accessed over IPv6.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF0gkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkWdW5maWx0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQWdW5maWx0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
 
 
 ## dns4eu-protective
@@ -1354,7 +1354,7 @@ This variant filters websites with fraudulent or malicious content.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAACjg2LjU0LjExLjEgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkWcHJvdGVjdGl2ZS5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAACjg2LjU0LjExLjEgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQWcHJvdGVjdGl2ZS5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
 
 
 ## dns4eu-protective-ipv6
@@ -1366,7 +1366,7 @@ It will be accessed over IPv6.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAAF1syYTEzOjEwMDE6Ojg2OjU0OjExOjFdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5FnByb3RlY3RpdmUuam9pbmRuczQuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syYTEzOjEwMDE6Ojg2OjU0OjExOjFdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0FnByb3RlY3RpdmUuam9pbmRuczQuZXUKL2Rucy1xdWVyeQ
 
 
 ## dnsbunker
@@ -1377,7 +1377,7 @@ Designed to block ads, malware, and surveillance. No logs.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAADTQ1LjEzNi4yOS4xOTEgtOCoyYsKrkO3ODA3rM0Roclklx9rdPy8NwzQMPsyjd0NZG5zYnVua2VyLm9yZwovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjI3LjEyMy4yNDUuMTMwILTgqMmLCq5DtzgwN6zNEaHJZJcfa3T8vDcM0DD7Mo3dDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-adelaide-ipv4
@@ -4302,7 +4302,7 @@ Hosted in Vienna, Austria.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAACCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
+sdns://AgcAAAAAAAAAACCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
 
 
 ## doh.ffmuc.net
@@ -4382,7 +4382,7 @@ sdns://AQYAAAAAAAAAFFsyYTAxOjllMDA6OjU1XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTc
 DoH server in France operated by FDN - French Data Network (non-profit ISP)
 https://www.fdn.fr/
 
-sdns://AgcAAAAAAAAADDgwLjY3LjE2OS40MCCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOQpuczEuZmRuLmZyCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDgwLjY3LjE2OS40MCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdApuczEuZmRuLmZyCi9kbnMtcXVlcnk
 
 
 ## fdn-ipv6
@@ -4391,7 +4391,7 @@ DoH server in France operated by FDN - French Data Network (non-profit ISP)
 https://www.fdn.fr/
 
 sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjEyXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdApuczAuZmRuLmZyCi9kbnMtcXVlcnk
-sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOQpuczEuZmRuLmZyCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdApuczEuZmRuLmZyCi9kbnMtcXVlcnk
 
 
 ## ffmuc.net
@@ -5104,7 +5104,7 @@ sdns://AgYAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8
 Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
-sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## uncensoreddns-ipv6
@@ -5112,7 +5112,7 @@ sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8
 Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
-sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
+sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5GWFueWNhc3QudW5jZW5zb3JlZGRucy5vcmcKL2Rucy1xdWVyeQ
 
 
 ## userspace-australia
