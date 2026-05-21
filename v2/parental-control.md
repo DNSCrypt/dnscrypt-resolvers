@@ -276,17 +276,6 @@ Same as mullvad-doh but blocks ads, trackers, malware, adult content, and gambli
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 
 
-## safesurfer
-
-Family safety blocklist that blocks almost 3 million adult websites, along with CSAM and more. Free to use, with paid options
-available at my.safesurfer.io for custom blocking with additional content categories. Paid users can review their own logs.
-Account holder logs are anonymized and used for filter improvement. Data is never sold. – https://safesurfer.io
-
-Warning: this server is incompatible with DNS anonymization.
-
-sdns://AQAAAAAAAAAADzEwNC4xNTUuMjM3LjIyNSAnIH_VEgToNntINABd-f_R0wu-KpwzY55u2_iu2R1A2CAyLmRuc2NyeXB0LWNlcnQuc2FmZXN1cmZlci5jby5ueg
-
-
 ## sfw.scaleway-fr
 
 Uses deep learning to block adult websites. Free, DNSSEC, no logs.
