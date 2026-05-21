@@ -4956,11 +4956,11 @@ sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9o
 ## vpsdns.co.za
 
 Public DoH service in South African ISP zones with local routing optimizations. 
-Features DNSSEC validation, strict no-logs data policy, and integrated threat intelligence filtering. Domain proxied through Cloudflare.
+Features DNSSEC validation, strict no-logs data policy, and integrated threat intelligence filtering.
 
 Maintained by Rouvé Bernardo - https://vpsdns.co.za
 
-sdns://AgMAAAAAAAAAAAAcZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsz-TIivw3iPvQ_LMMbM65bYyD8n6RJZogCA-vZ1aKLMQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
 
 
 ## wikimedia
