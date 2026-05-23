@@ -3105,14 +3105,9 @@ sdns://gRdbMmExMzo5NDAxOjA6MTo6M2Q1ODoxXQ
 
 ## anon-vpsdns-za
 
-Name: anon-vpsdns-za
-Description: Anonymized DNS relay based in South Africa.
-Location: za
-Stamp: sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
-IPv6: no
-DNSSEC: yes
-No-Log: yes
-No-Filter: yes
+Anonymized DNSCrypt relay based in South Africa. Zero logging.
+
+sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
 
 
 ## dnscry.pt-anon-warsaw-ipv4
