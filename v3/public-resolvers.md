@@ -4953,14 +4953,27 @@ sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4I
 sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9oHjkzJkuS4EIP7-_aYKaU5t7y2YXv6GoW4EdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
 
 
-## vpsdns.co.za
+## vpsdns-za
 
-Public DoH service in South African ISP zones with local routing optimizations. 
-Features DNSSEC validation, strict no-logs data policy, and integrated threat intelligence filtering.
+Name: vpsdns-za
+Description: High-performance privacy DNS resolver based in South Africa. Zero logging.
+Location: za
+DNSCrypt: sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC0XARJZprRwyLmRuc2NyeXB0LWNlcnQudnBzZG5zLmNvLnph
+IPv6: no
+DNSSEC: yes
+No-Log: yes
+No-Filter: yes
 
-Maintained by Rouvé Bernardo - https://vpsdns.co.za
+## vpsdns-za-doh
 
-sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsz-TIivw3iPvQ_LMMbM65bYyD8n6RJZogCA-vZ1aKLMQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
+Name: vpsdns-za-doh
+Description: High-performance privacy DoH resolver based in South Africa. Zero logging.
+Location: za
+DoH: sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsz-TIivw3iPvQ_LMMbM65bYyD8n6RJZogCA-bZ1aKLMQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
+IPv6: no
+DNSSEC: yes
+No-Log: yes
+No-Filter: yes
 
 
 ## wikimedia
