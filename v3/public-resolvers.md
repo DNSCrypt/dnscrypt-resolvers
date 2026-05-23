@@ -4969,7 +4969,7 @@ No-Filter: yes
 Name: vpsdns-za-doh
 Description: High-performance privacy DoH resolver based in South Africa. Zero logging.
 Location: za
-DoH: sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsz-TIivw3iPvQ_LMMbM65bYyD8n6RJZogCA-bZ1aKLMQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
+DoH: sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIg5vEeyAbBx-ZMKDCsuvSaiZNVC7pEWvVl-yEncW8dIkgQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
 IPv6: no
 DNSSEC: yes
 No-Log: yes
