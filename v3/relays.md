@@ -3103,6 +3103,18 @@ https://www.dnscry.pt
 sdns://gRdbMmExMzo5NDAxOjA6MTo6M2Q1ODoxXQ
 
 
+## anon-vpsdns-za
+
+Name: anon-vpsdns-za
+Description: Anonymized DNS relay based in South Africa.
+Location: za
+Stamp: sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
+IPv6: no
+DNSSEC: yes
+No-Log: yes
+No-Filter: yes
+
+
 ## dnscry.pt-anon-warsaw-ipv4
 
 DNSCry.pt Warsaw - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
