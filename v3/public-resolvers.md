@@ -4956,7 +4956,7 @@ sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9o
 ## vpsdns-za
 
 Name: vpsdns-za
-Description: High-performance privacy DNS resolver based in South Africa. Zero logging.
+Description: High-performance privacy DNS resolver based in South Africa.
 Location: za
 DNSCrypt: sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC0XARJZprRwyLmRuc2NyeXB0LWNlcnQudnBzZG5zLmNvLnph
 IPv6: no
@@ -4967,7 +4967,7 @@ No-Filter: yes
 ## vpsdns-za-doh
 
 Name: vpsdns-za-doh
-Description: High-performance privacy DoH resolver based in South Africa. Zero logging.
+Description: High-performance privacy DoH resolver based in South Africa.
 Location: za
 DoH: sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIg5vEeyAbBx-ZMKDCsuvSaiZNVC7pEWvVl-yEncW8dIkgQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
 IPv6: no
