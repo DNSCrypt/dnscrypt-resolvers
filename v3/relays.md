@@ -628,6 +628,13 @@ Anonymized DNS relay hosted in Singapore
 sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
 
 
+## anon-vpsdns-za
+
+Anonymized DNSCrypt relay based in South Africa. Zero logging.
+
+sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
+
+
 ## dnscry.pt-anon-adelaide-ipv4
 
 DNSCry.pt Adelaide - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -3101,13 +3108,6 @@ DNSCry.pt Vilnius - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRdbMmExMzo5NDAxOjA6MTo6M2Q1ODoxXQ
-
-
-## anon-vpsdns-za
-
-Anonymized DNSCrypt relay based in South Africa. Zero logging.
-
-sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
 
 
 ## dnscry.pt-anon-warsaw-ipv4
