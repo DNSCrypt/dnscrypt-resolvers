@@ -4953,6 +4953,20 @@ sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4I
 sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9oHjkzJkuS4EIP7-_aYKaU5t7y2YXv6GoW4EdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
 
 
+## vpsdns-za
+
+High-performance privacy DNSCrypt resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+
+sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC0XARJZprRwyLmRuc2NyeXB0LWNlcnQudnBzZG5zLmNvLnph
+
+
+## vpsdns-za-doh
+
+High-performance privacy DoH resolver based in South Africa. Zero logging, unfiltered raw resolution.
+
+sdns://AgYAAAAAAAAADTEwMi4yMTQuMTAuODIg5vEeyAbBx-ZMKDCsuvSaiZNVC7pEWvVl-yEncW8dIkgQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
+
+
 ## wikimedia
 
 Wikimedia DNS (formerly called Wikidough), is a caching, recursive,
