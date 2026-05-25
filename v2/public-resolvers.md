@@ -4872,9 +4872,9 @@ sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC
 
 ## vpsdns-za-doh
 
-High-performance privacy DoH resolver based in South Africa. Zero logging, unfiltered raw resolution.
+High-performance privacy DoH resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
-sdns://AgYAAAAAAAAADTEwMi4yMTQuMTAuODIg5vEeyAbBx-ZMKDCsuvSaiZNVC7pEWvVl-yEncW8dIkgQZG9oLnZwc2Rucy5jby56YQovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAETEwMi4yMTQuMTAuODI6NDQzIObxHsgGwcfmTCgwrLr0momTVQu6RFr1ZfshJ3FvHSJIEGRvaC52cHNkbnMuY28uemEKL2Rucy1xdWVyeQ
 
 
 ## wikimedia
