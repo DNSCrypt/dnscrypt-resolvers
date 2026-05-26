@@ -4290,6 +4290,14 @@ Filters out ads, trackers and malware, NO ECS, supports DNSSEC.
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 
 
+## dorriere-fr
+
+Recursive-to-root DNSCrypt resolver hosted in France, operated by Nicolas Derriere. DNSSEC, no logs, no filters.
+Homepage: https://nicolas-dorriere.fr/blog/it-was-dns.html
+
+sdns://AQcAAAAAAAAAETkwLjQ2LjIwNi4yNDg6NDQzIBliqCXeEXeous1YRa1T3AIXMpYmK-Cz4yaK62AyQiOcRzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC1yZWN1cnNpdmUtdG8tcm9vdC11ZHAtb25seS5uaWNvbGFzLWRvcnJpZXJlLmZy
+
+
 ## fdn
 
 DoH server in France operated by FDN - French Data Network (non-profit ISP)
