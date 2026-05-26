@@ -1145,24 +1145,6 @@ https://www.dnscry.pt
 sdns://gRhbMjYwNzphNjgwOjY6ZjAxNjo6M2EyNV0
 
 
-## dnscry.pt-anon-detroit-ipv4
-
-DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://gQw2Ni4xODcuNy4xNDA
-
-
-## dnscry.pt-anon-detroit-ipv6
-
-DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gSNbMjYwNjo2NWMwOjQwOjQ6NWYzOjU0YzQ6OGQxMDo5Yjk4XQ
-
-
 ## dnscry.pt-anon-dhaka-ipv4
 
 DNSCry.pt Dhaka - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
