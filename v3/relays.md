@@ -628,13 +628,6 @@ Anonymized DNS relay hosted in Singapore
 sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
 
 
-## anon-vpsdns-za
-
-Anonymized DNSCrypt relay based in South Africa. Zero logging.
-
-sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
-
-
 ## dnscry.pt-anon-adelaide-ipv4
 
 DNSCry.pt Adelaide - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
@@ -659,6 +652,15 @@ DNSCry.pt Allentown - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
 https://www.dnscry.pt
 
 sdns://gQ0yMy4xMzcuMjUzLjI0
+
+
+## dnscry.pt-anon-allentown-ipv6
+
+DNSCry.pt Allentown - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gRxbMjYwMjpmYzI0OjE5Ojc0YjA6NTI4NTo6MTJd
 
 
 ## dnscry.pt-anon-amsterdam-ipv4
@@ -1152,6 +1154,24 @@ DNSCry.pt Denver - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRhbMjYwNzphNjgwOjY6ZjAxNjo6M2EyNV0
+
+
+## dnscry.pt-anon-detroit-ipv4
+
+DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://gQw2Ni4xODcuNy4xNDA
+
+
+## dnscry.pt-anon-detroit-ipv6
+
+DNSCry.pt Detroit - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gSNbMjYwNjo2NWMwOjQwOjQ6NWYzOjU0YzQ6OGQxMDo5Yjk4XQ
 
 
 ## dnscry.pt-anon-dhaka-ipv4
@@ -2811,6 +2831,15 @@ DNSCry.pt Sydney 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://gRhbMjQwMjo3MzQwOjUwMDA6NjIwMDo6YV0
+
+
+## dnscry.pt-anon-taipeh-ipv6
+
+DNSCry.pt Taipeh - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gRpbMjQwMzpjZmMwOjEwMDQ6OmI1Yjo0N2ZmXQ
 
 
 ## dnscry.pt-anon-tallinn-ipv4
