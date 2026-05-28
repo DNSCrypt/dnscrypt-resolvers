@@ -526,7 +526,7 @@ sdns://gRlbMmEwMjo1NzQwOjI0OjQ1Ojo1M106NDQz
 
 ## anon-dnswarden-swiss
 
-Relay hosted in swizterland.
+Relay hosted in Switzerland.
 For more information look at https://github.com/bhanupratapys/dnswarden or https://dnswarden.com
 
 sdns://gRQxODguMjQ0LjExNy4xMTQ6MTQ0Mw

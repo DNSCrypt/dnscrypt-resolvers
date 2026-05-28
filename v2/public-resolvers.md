@@ -722,14 +722,14 @@ sdns://AQcAAAAAAAAAF1syMDAxOjRiYTA6ZmZlZDo3Njo6NTNdIDEzcq1ZVjLCQWuHLwmPhRvduWUoT
 
 ## cs-finland
 
-Finland DNSCrypt server provided by https://cryptostorm.is
+Finland DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQcAAAAAAAAADTgzLjE0My4yNDIuNDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-finland6
 
-Finland IPv6 DNSCrypt server provided by https://cryptostorm.is
+Finland IPv6 DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQcAAAAAAAAAFlsyYTBkOjU2MDA6MTQyOjExOjo1M10gMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
@@ -1172,7 +1172,7 @@ sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0g1h2W6_s_oZCW4sAC42A79_2q7
 
 ## dns.sb
 
-DoH server runned by xTom.com. No logs, no filtering, supports DNSSEC.
+DoH server run by xTom.com. No logs, no filtering, supports DNSSEC.
 
 Homepage: https://dns.sb
 
@@ -3960,7 +3960,7 @@ sdns://AgcAAAAAAAAADjE4NS4xMTEuMTg4LjQ2ID8EEe3pxEdwV9V-V4g7HyBbIM3A8yYxKbHuAmmiZ
 
 ## dnsforfamily
 
-(DNSCrypt Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DNSCrypt Protocol) (Supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -3977,7 +3977,7 @@ sdns://AQMAAAAAAAAADDc4LjQ3LjY0LjE2MSATJeLOABXNSYcSJIoqR5_iUYz87Y4OecMLB84aEAKPr
 
 ## dnsforfamily-doh
 
-(DoH Protocol) (Now supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DoH Protocol) (Supports DNSSEC). Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -3992,7 +3992,7 @@ sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9
 
 ## dnsforfamily-doh-no-safe-search
 
-(DoH Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DoH Protocol) (Supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 Unlike other dnsforfamily servers, this one does not enforces safe search. So Google, YouTube, Bing, DuckDuckGo and Yandex are completely accessible without any restriction.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4009,7 +4009,7 @@ sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9
 
 ## dnsforfamily-no-safe-search
 
-(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DNSCrypt Protocol) (Supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 Unlike other dnsforfamily servers, this one does not enforces safe search. So Google, YouTube, Bing, DuckDuckGo and Yandex are completely accessible without any restriction.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4026,7 +4026,7 @@ sdns://AQMAAAAAAAAADzEzNS4xODEuMTkzLjIyMiDrxcZ_hFtGE6tfATvQZYjxgl5pTY_e2cRH_ms8b
 
 ## dnsforfamily-v6
 
-(DNSCrypt Protocol) (Now supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
+(DNSCrypt Protocol) (Supports DNSSEC) Block adult websites, gambling websites, malwares, trackers and advertisements.
 It also enforces safe search in: Google, YouTube, Bing, DuckDuckGo and Yandex.
 
 Social websites like Facebook and Instagram are not blocked. No DNS queries are logged.
@@ -4556,7 +4556,7 @@ sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwm
 
 ## qihoo360-doh
 
-DoH server runned by Qihoo 360, has logs, GFW filtering rules are applied.
+DoH server run by Qihoo 360, has logs, GFW filtering rules are applied.
 Homepage: https://sdns.360.net
 
 sdns://AgAAAAAAAAAAACB0U9UiRYe3qyTSjk1AVT4byYiucktDNFVJEcHmRNnlYwpkb2guMzYwLmNuCi9kbnMtcXVlcnk
