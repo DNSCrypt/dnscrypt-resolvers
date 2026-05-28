@@ -290,6 +290,20 @@ Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOmY1ZTE6OjFdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
 
 
+## cipherdns-jb1-za
+
+High-performance privacy DNSCrypt resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+
+sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC0XARJZprSMyLmRuc2NyeXB0LWNlcnQuamIxLmNpcGhlcmRucy5jby56YQ
+
+
+## cipherdns-jb1-doh-za
+
+High-performance privacy DoH resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+
+sdns://AgcAAAAAAAAAETEwMi4yMTQuMTAuODI6NDQzIOqZ_CHx5qkQnPKeJ6CeLnsGIXkvpnnuhnILI-WmYCw3F2piMS1kb2guY2lwaGVyZG5zLmNvLnphCi9kbnMtcXVlcnk
+
+
 ## cira-family
 
 Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - Family - Malware and phishing protection plus blocking pornographic content
