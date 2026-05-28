@@ -22,6 +22,13 @@ To use that list, add this to the `[sources]` section of your
 --
 
 
+## anon-cipherdns-jb1-za
+
+Anonymized DNSCrypt relay based in South Africa.
+
+sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
+
+
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
