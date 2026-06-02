@@ -14,6 +14,13 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 --
 
 
+## odoh-cipherdns-jb1-za
+
+ODoH target server based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+
+sdns://BQcAAAAAAAAAGGpiMS1vZG9oLmNpcGhlcmRucy5jby56YQovZG5zLXF1ZXJ5
+
+
 ## odoh-cloudflare
 
 Cloudflare ODoH server.
