@@ -71,7 +71,7 @@ Hosted in Sydney, Australia.
 
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
-sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5EHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
 
 
 ## adguard-dns
@@ -4336,7 +4336,7 @@ sdns://AQcAAAAAAAAAFFsyYTAxOjZlZTA6MTo6MjQxOjFdIBERKdQJgLSjqCSK99e2f_WRTQzEq9__D
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
 https://libredns.gr/
 
-sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTD2RvaC5saWJyZWRucy5ncgovZG5zLXF1ZXJ5
+sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgovZG5zLXF1ZXJ5
 
 
 ## libredns-noads
@@ -4344,7 +4344,7 @@ sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7
 DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
 no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hosts
 
-sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTD2RvaC5saWJyZWRucy5ncgYvbm9hZHM
+sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgYvbm9hZHM
 
 
 ## mullvad-adblock-doh
@@ -4741,7 +4741,7 @@ Account holder logs are anonymized and used for filter improvement. Data is neve
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AgAAAAAAAAAADDQuMTUwLjE2OC41NyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkxRkbnMuc2FmZXN1cmZlci5jby5uegovZG5zLXF1ZXJ5
+sdns://AgAAAAAAAAAADDQuMTUwLjE2OC41NyAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhRkbnMuc2FmZXN1cmZlci5jby5uegovZG5zLXF1ZXJ5
 
 
 ## safesurfer-doh-secondary-ipv6
@@ -4752,7 +4752,7 @@ Account holder logs are anonymized and used for filter improvement. Data is neve
 
 Warning: this server is incompatible with DNS anonymization.
 
-sdns://AgAAAAAAAAAAE1syNjAzOjEwMzA6Nzo3OjozYl0g1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MUZG5zLnNhZmVzdXJmZXIuY28ubnoKL2Rucy1xdWVyeQ
+sdns://AgAAAAAAAAAAE1syNjAzOjEwMzA6Nzo3OjozYl0gMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4UZG5zLnNhZmVzdXJmZXIuY28ubnoKL2Rucy1xdWVyeQ
 
 
 ## saldns01-conoha-ipv4
