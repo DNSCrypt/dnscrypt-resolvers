@@ -65,7 +65,7 @@ Hosted in Perth, Australia.
 
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
-sdns://AgMAAAAAAAAADTIwMy4yOS4yNDEuNzYgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQQcGVyLmFkZmlsdGVyLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTIwMy4yOS4yNDEuNzYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQQcGVyLmFkZmlsdGVyLm5ldAovZG5zLXF1ZXJ5
 
 
 ## adfilter-per-ipv6
@@ -74,7 +74,7 @@ Hosted in Perth, Australia.
 
 Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
 
-sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NDFhOTo0ODAwOjoxXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBBwZXIuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NDFhOTo0ODAwOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBwZXIuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
 
 
 ## adfilter-syd
@@ -230,14 +230,14 @@ sdns://AgAAAAAAAAAAE1syNDAwOjMyMDA6YmFiYTo6MV0gmOPV5TavKVjNL38U9wTvSidtJeM81l8uZ
 
 DNSSEC, No-filter and No-log DoH resolver operated by Artikel10 association. Homepage: https://artikel10.org
 
-sdns://AgcAAAAAAAAADjIxNy4xOTcuOTEuMTUzILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADjIxNy4xOTcuOTEuMTUzIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
 
 
 ## artikel10-doh-ipv6
 
 DNSSEC, No-filter and No-log DoH resolver (IPv6) operated by Artikel10 association. Homepage: https://artikel10.org
 
-sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
 
 
 ## blahdns-de-doh
@@ -1260,8 +1260,8 @@ Hosted in Zurich, Switzerland.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDMgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDMgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
 
 ## dns.digitale-gesellschaft.ch-ipv6
@@ -1271,8 +1271,8 @@ Hosted in Zurich, Switzerland.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
-sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
 
 
 ## dns.digitalsize.net
@@ -1899,6 +1899,15 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGFsyYTBkOmQ4YzA6MDpmMDQzOjo2OTI3XSBgQDjXqZdY1ihZK0Ip2czfXkWCiwuttrcXZAGFhH9JkBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
+## dnscry.pt-dallas-ipv4
+
+DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADTIzLjIzMC4yNTMuOTgg1OKRDMWAtnBoieTPNbjK-OrVjcuML2vQMc6gh-ZmYpAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+
+
 ## dnscry.pt-dallas-ipv6
 
 DNSCry.pt Dallas - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -2379,7 +2388,7 @@ DNSCry.pt Hong Kong 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serv
 
 https://www.dnscry.pt
 
-sdns://AQcAAAAAAAAAFVsyNjAyOmZhNjc6MTAxOjFkOjphXSARmtgpOf59ywLMnKON-FTF_DTHPo4LkCQt_i2_JDZEZBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+sdns://AQcAAAAAAAAAF1syNDA2OmVmODA6MToyMTczOjpiNWZdIE051A_5owd3KFF0cKbFZ57YasyL72DAOxmbF3SJUX2kGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-hongkong03-ipv4
@@ -2650,6 +2659,15 @@ DNSCry.pt Kyiv - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAEFsyYTAyOjI3YWQ6OjIwMV0gskgLubDTWs4bK9zH1IXKRYSylrG8XVPGWMJpUM37vwUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+
+
+## dnscry.pt-kyiv02-ipv4
+
+DNSCry.pt Kyiv 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADjE4NS4xMjYuMjU1LjMwIEIlrpRjjslwYRvDmYBYK2kQydPruVX2Q7UZ1wndsrOwGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
 ## dnscry.pt-kyiv02-ipv6
@@ -3757,6 +3775,15 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAG1syNjA2OjY2ODA6NTM6MTo6ODQ2YTpiZDc5XSCIIMuO6jU7NLND5y7gyuVHKUibf7e11Zk69LVp9UJajRkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
+## dnscry.pt-tbilisi-ipv4
+
+DNSCry.pt Tbilisi - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADzE5NC4xMzUuMTE5LjE1OCDyc4Y3cWcjNurZ3aEWt1p-gc0TsZr8cUxFjtCnfn37vBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+
+
 ## dnscry.pt-tbilisi-ipv6
 
 DNSCry.pt Tbilisi - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
@@ -4169,8 +4196,8 @@ Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
 
 Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAACzE3Ni45LjEuMTE3ILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0C2Ruc2ZvcmdlLmRlCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAACzE3Ni45LjEuMTE3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50C2Ruc2ZvcmdlLmRlCi9kbnMtcXVlcnk
 
 
 ## dnsforge.de-ipv6
@@ -4179,8 +4206,8 @@ Public DoH resolver running with Pihole for Adblocking (https://dnsforge.de).
 
 Non-logging, AD-filtering, supports DNSSEC. Hosted in Germany.
 
-sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNTE6MzRhYTo6MTk4XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNDE6MzE2ZDo6MTE3XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNTE6MzRhYTo6MTk4XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGFsyYTAxOjRmODoxNDE6MzE2ZDo6MTE3XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdAtkbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
 ## dnsforge.de-nofilter
@@ -4284,7 +4311,7 @@ Hosted in Vienna, Austria.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAACCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
+sdns://AgcAAAAAAAAAAKCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
 
 
 ## doh.ffmuc.net
@@ -4317,7 +4344,7 @@ sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 Non-Logging DNS-over-HTTPS (HTTP/2 & HTTP/3) server located in Singapore.
 Filters out ads, trackers and malware, supports DNSSEC, provided by id-gmail.
 
-sdns://AgMAAAAAAAAADjE3NC4xMzguMjkuMTc1IJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5DGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjE3NC4xMzguMjkuMTc1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50DGRvaC50aWFyLmFwcAovZG5zLXF1ZXJ5
 
 
 ## doh.tiarap.org
@@ -4357,7 +4384,7 @@ sdns://AgcAAAAAAAAADDgwLjY3LjE2OS40MCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhd
 DoH server in France operated by FDN - French Data Network (non-profit ISP)
 https://www.fdn.fr/
 
-sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjEyXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdApuczAuZmRuLmZyCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjEyXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdApuczAuZmRuLmZyCi9kbnMtcXVlcnk
 sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdApuczEuZmRuLmZyCi9kbnMtcXVlcnk
 
 
@@ -4413,7 +4440,7 @@ sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkRc
 Non-Logging, Non-Filtering DNS-over-HTTPS server in Japan.
 No ECS, Support DNSSEC
 
-sdns://AgcAAAAAAAAADTE3Mi4xMDQuOTMuODAgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkLanAudGlhci5hcHAKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTE3Mi4xMDQuOTMuODAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQLanAudGlhci5hcHAKL2Rucy1xdWVyeQ
 
 
 ## jp.tiar.app-doh-ipv6
@@ -4421,7 +4448,7 @@ sdns://AgcAAAAAAAAADTE3Mi4xMDQuOTMuODAgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhT
 Non-Logging, Non-Filtering DNS-over-HTTPS (IPv6) server in Japan.
 No ECS, Support DNSSEC
 
-sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk
 
 
 ## jp.tiarap.org
