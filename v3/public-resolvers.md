@@ -294,7 +294,7 @@ sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOmY1ZTE6OjFdIJB40hpWwOCJHZBiIbaZIzG90XFy6
 
 High-performance privacy DoH resolver based in Cape Town, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
-sdns://AgcAAAAAAAAADjEwMi4yMDkuMjEuMTc2IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7G2N0MS1kb2guY2lwaGVyZG5zLmNvLnphOjQ0MwovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwMi4yMDkuMjEuMTc2IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7F2N0MS1kb2guY2lwaGVyZG5zLmNvLnphCi9kbnMtcXVlcnk
 
 
 ## cipherdns-ct1-za
@@ -308,7 +308,7 @@ sdns://AQcAAAAAAAAAEzEwMi4yMDkuMjEuMTc2Ojg0NDMgXnTgm6IgQnhUO3h_6tAlE0lQ5dXjfG2Jm
 
 High-performance privacy DoH resolver based in Johannesburg, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
-sdns://AgcAAAAAAAAAETEwMi4yMTQuMTAuODI6NDQzIOqZ_CHx5qkQnPKeJ6CeLnsGIXkvpnnuhnILI-WmYCw3F2piMS1kb2guY2lwaGVyZG5zLmNvLnphCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQXamIxLWRvaC5jaXBoZXJkbnMuY28uemEKL2Rucy1xdWVyeQ
 
 
 ## cipherdns-jb1-za
