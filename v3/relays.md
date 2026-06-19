@@ -14,10 +14,17 @@ https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 To use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
 
-    [sources.'relays']
-    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/relays.md', 'https://download.dnscrypt.info/resolvers-list/v3/relays.md', 'https://cdn.jsdelivr.net/gh/DNSCrypt/dnscrypt-resolvers@master/v3/relays.md']
-    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
-    cache_file = 'relays.md'
+```toml
+[sources.relays]
+urls = [
+  "https://raw.github.com/dnscrypt/dnscrypt-resolvers/refs/heads/master/v3/relays.md",
+  "https://raw.githack.com/dnscrypt/dnscrypt-resolvers/refs/heads/master/v3/relays.md",
+  "https://cdn.jsdelivr.net/gh/dnscrypt/dnscrypt-resolvers/v3/relays.md",
+  "https://download.dnscrypt.info/resolvers-list/v3/relays.md"
+]
+minisign_key = "RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3"
+cache_file = "/var/cache/dnscrypt-proxy/relays.md"
+```
 
 --
 

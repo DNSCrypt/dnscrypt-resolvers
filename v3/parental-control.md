@@ -9,10 +9,17 @@ not English will require additional, local rules.
 To use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
 
-    [sources.'parental-control']
-    urls = ['https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/parental-control.md', 'https://download.dnscrypt.info/resolvers-list/v3/parental-control.md', 'https://cdn.jsdelivr.net/gh/DNSCrypt/dnscrypt-resolvers@master/v3/parental-control.md']
-    minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
-    cache_file = 'parental-control.md'
+```toml
+[sources.parental-control]
+urls = [
+  "https://raw.github.com/dnscrypt/dnscrypt-resolvers/refs/heads/master/v3/parental-control.md",
+  "https://raw.githack.com/dnscrypt/dnscrypt-resolvers/refs/heads/master/v3/parental-control.md",
+  "https://cdn.jsdelivr.net/gh/dnscrypt/dnscrypt-resolvers/v3/parental-control.md",
+  "https://download.dnscrypt.info/resolvers-list/v3/parental-control.md"
+]
+minisign_key = "RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3"
+cache_file = "/var/cache/dnscrypt-proxy/parental-control.md"
+```
 
 In order to enforce safe search results from Google and Youtube, you may
 also want to enable cloaking (`cloaking_rules` in the configuration file).
