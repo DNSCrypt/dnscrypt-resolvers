@@ -417,10 +417,13 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout*3)
 	defer cancel()
 
-	// Create TXT query for the certificate
+	// Create TXT query for the certificate. Pad it past the response size so a
+	// post-quantum resolver can return the full certificate set over UDP rather
+	// than truncating it under the anti-amplification rule.
 	query := new(dns.Msg)
 	query.SetQuestion(dns.Fqdn(certName), dns.TypeTXT)
 	query.Id = dns.Id()
+	padCertQuery(query)
 
 	wireFormat, err := query.Pack()
 	if err != nil {
@@ -705,6 +708,36 @@ func (t *Tester) testDoQ(stamp stamps.ServerStamp) error {
 	return fmt.Errorf("DoQ testing not implemented")
 }
 
+// certProbePaddedLen is the size we pad certificate probes to before sending
+// them over UDP. An Anonymized DNSCrypt relay and a resolver both refuse to
+// return a UDP response larger than the request that triggered it. A
+// post-quantum certificate is about 1.3 KB, ~1.5 KB once paired with the
+// classical certificate, and roughly 3 KB while a key rotation has both sets
+// live at once. Even the classical certificate alone is larger than a bare TXT
+// probe, so without padding the relay drops the whole response and the read
+// times out. Padding the probe past the rollover size lets the full set come
+// back over UDP. This matches dnscrypt-proxy's own certProbePaddedLen.
+const certProbePaddedLen = 3200
+
+// padCertQuery adds EDNS0 padding so the wire-format query reaches at least
+// certProbePaddedLen bytes.
+func padCertQuery(query *dns.Msg) {
+	packed, err := query.Pack()
+	if err != nil || len(packed) >= certProbePaddedLen {
+		return
+	}
+	// OPT RR header (11 bytes) plus padding option header (4 bytes).
+	const ednsOverhead = 15
+	padLen := certProbePaddedLen - len(packed) - ednsOverhead
+	if padLen < 0 {
+		padLen = 0
+	}
+	opt := &dns.OPT{Hdr: dns.RR_Header{Name: ".", Rrtype: dns.TypeOPT}}
+	opt.SetUDPSize(4096)
+	opt.Option = append(opt.Option, &dns.EDNS0_PADDING{Padding: make([]byte, padLen)})
+	query.Extra = append(query.Extra, opt)
+}
+
 // Reference DNSCrypt server for testing relays (scaleway-fr)
 // IP: 212.47.228.136, Port: 443, Provider: 2.dnscrypt-cert.fr.dnscrypt.org
 var referenceServerIP = net.ParseIP("212.47.228.136")
@@ -728,10 +761,13 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout*3)
 	defer cancel()
 
-	// Create a DNS TXT query for the reference server's certificate
+	// Create a DNS TXT query for the reference server's certificate.
+	// Pad it past the response size so the relay does not drop a large
+	// (post-quantum) certificate reply under its anti-amplification rule.
 	query := new(dns.Msg)
 	query.SetQuestion(dns.Fqdn(referenceProviderName), dns.TypeTXT)
 	query.Id = dns.Id()
+	padCertQuery(query)
 
 	wireFormat, err := query.Pack()
 	if err != nil {
