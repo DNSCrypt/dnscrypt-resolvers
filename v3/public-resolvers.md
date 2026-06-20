@@ -294,7 +294,7 @@ sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOmY1ZTE6OjFdIJB40hpWwOCJHZBiIbaZIzG90XFy6
 
 High-performance privacy DoH resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
-sdns://AgcAAAAAAAAAETEwMi4yMTQuMTAuODI6NDQzIOqZ_CHx5qkQnPKeJ6CeLnsGIXkvpnnuhnILI-WmYCw3F2piMS1kb2guY2lwaGVyZG5zLmNvLnphCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQXamIxLWRvaC5jaXBoZXJkbnMuY28uemEKL2Rucy1xdWVyeQ
 
 
 ## cipherdns-jb1-za
