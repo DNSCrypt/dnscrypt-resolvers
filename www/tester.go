@@ -417,18 +417,18 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout*3)
 	defer cancel()
 
-	// Create TXT query for the certificate. Pad it past the response size so a
-	// post-quantum resolver can return the full certificate set over UDP rather
-	// than truncating it under the anti-amplification rule.
-	query := new(dns.Msg)
-	query.SetQuestion(dns.Fqdn(certName), dns.TypeTXT)
-	query.Id = dns.Id()
-	padCertQuery(query)
-
-	wireFormat, err := query.Pack()
+	// Build two certificate probes raced against each other: a large one that
+	// lets a post-quantum resolver return its full certificate set over UDP, and
+	// a small one for servers that silently drop oversized queries (e.g. AdGuard).
+	paddedProbe, err := buildCertQuery(certName, certProbePaddedLen)
 	if err != nil {
 		return fmt.Errorf("failed to pack query: %v", err)
 	}
+	smallProbe, err := buildCertQuery(certName, certProbeSmallLen)
+	if err != nil {
+		return fmt.Errorf("failed to pack query: %v", err)
+	}
+	udpProbes := [][]byte{paddedProbe, smallProbe}
 
 	// Try UDP first with retries, then fall back to TCP
 	const maxUDPRetries = 3
@@ -444,19 +444,7 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 			}
 		}
 
-		// Per-attempt timeout for dialing
-		dialCtx, dialCancel := context.WithTimeout(ctx, t.timeout)
-		conn, err := new(net.Dialer).DialContext(dialCtx, "udp", addr)
-		dialCancel()
-		if err != nil {
-			lastErr = err
-			continue
-		}
-
-		// Per-attempt timeout for the query
-		conn.SetDeadline(time.Now().Add(t.timeout))
-		response, err := t.sendDNSQuery(conn, wireFormat, false)
-		conn.Close()
+		response, err := t.raceUDPProbes(ctx, addr, udpProbes)
 		if err != nil {
 			lastErr = err
 			continue
@@ -475,7 +463,7 @@ func (t *Tester) testDNSCrypt(stamp stamps.ServerStamp) error {
 	defer conn.Close()
 
 	conn.SetDeadline(time.Now().Add(t.timeout))
-	response, err := t.sendDNSQuery(conn, wireFormat, true)
+	response, err := t.sendDNSQuery(conn, smallProbe, true)
 	if err != nil {
 		return err
 	}
@@ -708,27 +696,28 @@ func (t *Tester) testDoQ(stamp stamps.ServerStamp) error {
 	return fmt.Errorf("DoQ testing not implemented")
 }
 
-// certProbePaddedLen is the size we pad certificate probes to before sending
-// them over UDP. An Anonymized DNSCrypt relay and a resolver both refuse to
-// return a UDP response larger than the request that triggered it. A
-// post-quantum certificate is about 1.3 KB, ~1.5 KB once paired with the
-// classical certificate, and roughly 3 KB while a key rotation has both sets
-// live at once. Even the classical certificate alone is larger than a bare TXT
-// probe, so without padding the relay drops the whole response and the read
-// times out. Padding the probe past the rollover size lets the full set come
-// back over UDP. This matches dnscrypt-proxy's own certProbePaddedLen.
-const certProbePaddedLen = 3200
+// Certificate probes are padded to one of these sizes and raced against each
+// other over UDP, mirroring dnscrypt-proxy. The large probe lets a post-quantum
+// resolver return its full certificate set over UDP and carries the small
+// classical reply past an Anonymized DNSCrypt relay's |request| >= |response|
+// anti-amplification rule. Some servers (AdGuard, for one) silently drop
+// oversized queries, so the small probe is sent at the same time and wins
+// whenever the large one is dropped.
+const (
+	certProbePaddedLen = 3200
+	certProbeSmallLen  = 480
+)
 
-// padCertQuery adds EDNS0 padding so the wire-format query reaches at least
-// certProbePaddedLen bytes.
-func padCertQuery(query *dns.Msg) {
+// padCertQueryTo adds EDNS0 padding so the wire-format query reaches at least
+// padTo bytes.
+func padCertQueryTo(query *dns.Msg, padTo int) {
 	packed, err := query.Pack()
-	if err != nil || len(packed) >= certProbePaddedLen {
+	if err != nil || len(packed) >= padTo {
 		return
 	}
 	// OPT RR header (11 bytes) plus padding option header (4 bytes).
 	const ednsOverhead = 15
-	padLen := certProbePaddedLen - len(packed) - ednsOverhead
+	padLen := padTo - len(packed) - ednsOverhead
 	if padLen < 0 {
 		padLen = 0
 	}
@@ -736,6 +725,55 @@ func padCertQuery(query *dns.Msg) {
 	opt.SetUDPSize(4096)
 	opt.Option = append(opt.Option, &dns.EDNS0_PADDING{Padding: make([]byte, padLen)})
 	query.Extra = append(query.Extra, opt)
+}
+
+// buildCertQuery builds a TXT certificate query for name, padded to padTo bytes.
+func buildCertQuery(name string, padTo int) ([]byte, error) {
+	query := new(dns.Msg)
+	query.SetQuestion(dns.Fqdn(name), dns.TypeTXT)
+	query.Id = dns.Id()
+	padCertQueryTo(query, padTo)
+	return query.Pack()
+}
+
+// raceUDPProbes sends every probe to addr on its own UDP socket at the same time
+// and returns the first response that reads back. Racing a large PQ-friendly
+// probe against a small one lets whichever the server actually answers win, so a
+// server that drops oversized queries still gets tested without slowing down the
+// common case.
+func (t *Tester) raceUDPProbes(ctx context.Context, addr string, probes [][]byte) (*dns.Msg, error) {
+	type probeResult struct {
+		msg *dns.Msg
+		err error
+	}
+	results := make(chan probeResult, len(probes))
+	for _, probe := range probes {
+		go func(probe []byte) {
+			dialCtx, cancel := context.WithTimeout(ctx, t.timeout)
+			conn, err := new(net.Dialer).DialContext(dialCtx, "udp", addr)
+			cancel()
+			if err != nil {
+				results <- probeResult{nil, err}
+				return
+			}
+			defer conn.Close()
+			conn.SetDeadline(time.Now().Add(t.timeout))
+			msg, err := t.sendDNSQuery(conn, probe, false)
+			results <- probeResult{msg, err}
+		}(probe)
+	}
+	var lastErr error
+	for range probes {
+		r := <-results
+		if r.err == nil {
+			return r.msg, nil
+		}
+		lastErr = r.err
+	}
+	if lastErr == nil {
+		lastErr = fmt.Errorf("no response")
+	}
+	return nil, lastErr
 }
 
 // Reference DNSCrypt server for testing relays (scaleway-fr)
@@ -761,22 +799,22 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	ctx, cancel := context.WithTimeout(context.Background(), t.timeout*3)
 	defer cancel()
 
-	// Create a DNS TXT query for the reference server's certificate.
-	// Pad it past the response size so the relay does not drop a large
-	// (post-quantum) certificate reply under its anti-amplification rule.
-	query := new(dns.Msg)
-	query.SetQuestion(dns.Fqdn(referenceProviderName), dns.TypeTXT)
-	query.Id = dns.Id()
-	padCertQuery(query)
-
-	wireFormat, err := query.Pack()
+	// Build two certificate probes for the reference server, each wrapped as an
+	// anonymized DNSCrypt packet and raced against each other. The large probe
+	// keeps post-quantum certificate retrieval working; both stay larger than the
+	// certificate reply so the relay does not drop them under its
+	// |request| >= |response| anti-amplification rule.
+	paddedQuery, err := buildCertQuery(referenceProviderName, certProbePaddedLen)
 	if err != nil {
 		return fmt.Errorf("failed to pack query: %v", err)
 	}
-
-	// Build the anonymized DNSCrypt packet:
-	// <anon-magic> <server-ip-as-ipv6> <server-port> <dns-query>
-	anonPacket := buildAnonPacket(referenceServerIP, referenceServerPort, wireFormat)
+	smallQuery, err := buildCertQuery(referenceProviderName, certProbeSmallLen)
+	if err != nil {
+		return fmt.Errorf("failed to pack query: %v", err)
+	}
+	paddedPacket := buildAnonPacket(referenceServerIP, referenceServerPort, paddedQuery)
+	smallPacket := buildAnonPacket(referenceServerIP, referenceServerPort, smallQuery)
+	udpProbes := [][]byte{paddedPacket, smallPacket}
 
 	// Try UDP first with retries, then fall back to TCP
 	// Use longer delays for relays since they have an extra network hop
@@ -793,19 +831,7 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 			}
 		}
 
-		// Per-attempt timeout for dialing
-		dialCtx, dialCancel := context.WithTimeout(ctx, t.timeout)
-		conn, err := new(net.Dialer).DialContext(dialCtx, "udp", addr)
-		dialCancel()
-		if err != nil {
-			lastErr = err
-			continue
-		}
-
-		// Per-attempt timeout for the query
-		conn.SetDeadline(time.Now().Add(t.timeout))
-		response, err := t.sendDNSQuery(conn, anonPacket, false)
-		conn.Close()
+		response, err := t.raceUDPProbes(ctx, addr, udpProbes)
 		if err != nil {
 			lastErr = err
 			continue
@@ -830,7 +856,7 @@ func (t *Tester) testRelay(stamp stamps.ServerStamp) error {
 	defer conn.Close()
 
 	conn.SetDeadline(time.Now().Add(t.timeout))
-	response, err := t.sendDNSQuery(conn, anonPacket, true)
+	response, err := t.sendDNSQuery(conn, smallPacket, true)
 	if err != nil {
 		return fmt.Errorf("relay test failed (UDP: %v, TCP: %v)", lastErr, err)
 	}
