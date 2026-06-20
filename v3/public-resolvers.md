@@ -310,8 +310,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - F
 
 Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-family-ipv6
@@ -320,8 +320,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - F
 
 Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 
 ## cira-private
@@ -330,8 +330,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'private' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjEwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjEwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjEwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjEwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLHnByaXZhdGUuY2FuYWRpYW5zaGllbGQuY2lyYS5jYQovZG5zLXF1ZXJ5
 
 
 ## cira-private-ipv6
@@ -340,8 +340,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'private' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoxMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoxMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoxMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoxMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsecHJpdmF0ZS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-protected
@@ -350,8 +350,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'protected' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjIwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjIwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjIwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjIwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLIHByb3RlY3RlZC5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-protected-ipv6
@@ -360,8 +360,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - P
 
 Info: Not anonymous but does not sell or share data. The 'protected' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoyMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoyMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjoyMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjoyMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsgcHJvdGVjdGVkLmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 
 ## circl-doh
@@ -1315,7 +1315,7 @@ order now requires DNS4EU to block access to a number of websites.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAADDg2LjU0LjExLjEwMCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZ1bmZpbHRlcmVkLmpvaW5kbnM0LmV1Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADDg2LjU0LjExLjEwMCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZ1bmZpbHRlcmVkLmpvaW5kbnM0LmV1Ci9kbnMtcXVlcnk
 
 
 ## dns4eu-ipv6
@@ -1330,7 +1330,7 @@ It will be accessed over IPv6.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQWdW5maWx0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGVsyYTEzOjEwMDE6Ojg2OjU0OjExOjEwMF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWdW5maWx0ZXJlZC5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
 
 
 ## dns4eu-protective
@@ -1340,7 +1340,7 @@ This variant filters websites with fraudulent or malicious content.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAACjg2LjU0LjExLjEgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQWcHJvdGVjdGl2ZS5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAACjg2LjU0LjExLjEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWcHJvdGVjdGl2ZS5qb2luZG5zNC5ldQovZG5zLXF1ZXJ5
 
 
 ## dns4eu-protective-ipv6
@@ -1352,7 +1352,7 @@ It will be accessed over IPv6.
 Note: the service uses name servers from CloudNS, a European company, but
 appears to rely significantly on non-EU infrastructure and service providers.
 
-sdns://AgMAAAAAAAAAF1syYTEzOjEwMDE6Ojg2OjU0OjExOjFdILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0FnByb3RlY3RpdmUuam9pbmRuczQuZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syYTEzOjEwMDE6Ojg2OjU0OjExOjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FnByb3RlY3RpdmUuam9pbmRuczQuZXUKL2Rucy1xdWVyeQ
 
 
 ## dnsbunker
@@ -1489,24 +1489,6 @@ DNSCry.pt Ashburn - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAE1syYTBhOjhkYzA6YTA2Nzo6YV0gk5bOuDPleG8cm1YtsUAWFyD397XVxBKmMxwYUxSwfEkZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-athens-ipv4
-
-DNSCry.pt Athens - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE4NS4yMzQuNTIuODcg7sJacnOa_EK646WTMceomii6ew1ZjD2YPZq6T3cbAZYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-athens-ipv6
-
-DNSCry.pt Athens - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyYTA5OmNkNDM6Zjo0MmExOjo1XSDuwlpyc5r8QrrjpZMxx6iaKLp7DVmMPZg9mrpPdxsBlhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-atlanta-ipv4
@@ -4297,7 +4279,7 @@ Hosted in Vienna, Austria.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAAKCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMOSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
+sdns://AgcAAAAAAAAAACCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
 
 
 ## doh.ffmuc.net
@@ -4403,14 +4385,7 @@ Hurricane Electric DoH server (anycast)
 
 Unknown logging policy.
 
-sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIJ1IMrtMjXcgeyXeF1kmgu_DykX1edxmSg7V8kj1yTOYDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
-
-
-## ibksturm-6
-
-Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
-
-sdns://AQcAAAAAAAAAGlsyMDAxOjQ3MDoyNTo3Yzo6MTk1XTo4NDQzIEIOXhbnCAMe4Sas5eKJU5vqNcuKhO3k4TAZc7meHv2nGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
+sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
 ## iij
@@ -5045,24 +5020,6 @@ Also known as censurfridns.
 DoH, no logs, no filter, anycast - https://blog.uncensoreddns.org
 
 sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdABlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
-
-
-## userspace-australia
-
-DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace.
-No logs | IPv4 | Filtered
-
-sdns://AQIAAAAAAAAAEDEwMy4xNi4xMzEuNzc6NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
-sdns://AQIAAAAAAAAAEjEwMy4yMzYuMTYyLjExOTo1NCBPr5jCD_2geOTMmS5LgQg_v79pgppTm3vLZhe_oahbgR0yLmRuc2NyeXB0LWNlcnQudXNlcnNwYWNlLW1lbA
-
-
-## userspace-australia-ipv6
-
-DNSCrypt in Australia (Brisbane & Melbourne) by UserSpace.
-No logs | IPv6 | Filtered
-
-sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjA6MTgwYV06NTQgnRNtOLv4IzxEfkbLFOaHa-ncLImdQiP-pS1jaFY5jlUdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1ibmU
-sdns://AQIAAAAAAAAAJVsyNDA0Ojk0MDA6MzowOjIxNjozZWZmOmZlZTA6N2Y2OV06NTQgT6-Ywg_9oHjkzJkuS4EIP7-_aYKaU5t7y2YXv6GoW4EdMi5kbnNjcnlwdC1jZXJ0LnVzZXJzcGFjZS1tZWw
 
 
 ## wikimedia

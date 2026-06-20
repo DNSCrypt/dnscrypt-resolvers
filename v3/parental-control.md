@@ -62,8 +62,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - F
 
 Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
-sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIAhEQFg7uYrZyKqQhlnZIgC2akFQCoq_4RXI_l5iJDPTHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIxLjMwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE0OS4xMTIuMTIyLjMwIMlfeyD2_NOf06B6LkQlJCO2NP2-NeHgRdlk3upiYRXLHWZhbWlseS5jYW5hZGlhbnNoaWVsZC5jaXJhLmNhCi9kbnMtcXVlcnk
 
 
 ## cira-family-ipv6
@@ -72,8 +72,8 @@ Canadian Internet Registration Authority (CIRA) Canadian Shield DNS resolver - F
 
 Info: Not anonymous but does not sell or share data. The 'family' name is one that CIRA designates themselves to this resolver.
 
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
-sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0gCERAWDu5itnIqpCGWdkiALZqQVAKir_hFcj-XmIkM9MdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJDOjozMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 
 ## cisco-familyshield
