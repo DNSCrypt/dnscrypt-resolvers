@@ -4175,7 +4175,7 @@ Hosted in Vienna, Austria.
 
 Non-logging, non-filtering, supports DNSSEC.
 
-sdns://AgcAAAAAAAAAACCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
+sdns://AgcAAAAAAAAAAKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdBZkb2guYXBwbGllZHByaXZhY3kubmV0Bi9xdWVyeQ
 
 
 ## doh.ffmuc.net
