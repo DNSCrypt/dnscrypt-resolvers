@@ -254,16 +254,30 @@ Hosted in Nuremberg, Germany. (https://dns.brahma.world)
 sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOmY1ZTE6OjFdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
 
 
+## cipherdns-ct1-doh-za
+
+High-performance privacy DoH resolver based in Cape Town, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+
+sdns://AgcAAAAAAAAADjEwMi4yMDkuMjEuMTc2IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7F2N0MS1kb2guY2lwaGVyZG5zLmNvLnphCi9kbnMtcXVlcnk
+
+
+## cipherdns-ct1-za
+
+High-performance privacy DNSCrypt resolver based in Cape Town, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+
+sdns://AQcAAAAAAAAAEzEwMi4yMDkuMjEuMTc2Ojg0NDMgXnTgm6IgQnhUO3h_6tAlE0lQ5dXjfG2JmvSXCde6P6QjMi5kbnNjcnlwdC1jZXJ0LmN0MS5jaXBoZXJkbnMuY28uemE
+
+
 ## cipherdns-jb1-doh-za
 
-High-performance privacy DoH resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+High-performance privacy DoH resolver based in Johannesburg, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
 sdns://AgcAAAAAAAAADTEwMi4yMTQuMTAuODIgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQXamIxLWRvaC5jaXBoZXJkbnMuY28uemEKL2Rucy1xdWVyeQ
 
 
 ## cipherdns-jb1-za
 
-High-performance privacy DNSCrypt resolver based in South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
+High-performance privacy DNSCrypt resolver based in Johannesburg, South Africa. Zero logging, DNSSEC validation, unfiltered raw resolution.
 
 sdns://AQcAAAAAAAAAEjEwMi4yMTQuMTAuODI6ODQ0MyAp_ZK8Ab77yIXFI7AIeSrgjZjUJ2zG9acKC0XARJZprSMyLmRuc2NyeXB0LWNlcnQuamIxLmNpcGhlcmRucy5jby56YQ
 

@@ -13,9 +13,16 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## anon-cipherdns-ct1-za
+
+Anonymized DNSCrypt relay based in Cape Town, South Africa.
+
+sdns://gRMxMDIuMjA5LjIxLjE3Njo4NDQz
+
+
 ## anon-cipherdns-jb1-za
 
-Anonymized DNSCrypt relay based in South Africa.
+Anonymized DNSCrypt relay based in Johannesburg, South Africa.
 
 sdns://gRIxMDIuMjE0LjEwLjgyOjg0NDM
 
