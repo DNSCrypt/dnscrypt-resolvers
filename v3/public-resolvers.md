@@ -4479,6 +4479,13 @@ Same as mullvad-doh but blocks ads and trackers.
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi4zABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 
+## mullvad-adblock-doh-ipv6
+
+Same as mullvad-adblock-doh but accessible over IPv6.
+
+sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjNdABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+
+
 ## mullvad-all-doh
 
 Same as mullvad-doh but blocks ads, trackers, malware, adult content, gambling, and social media.
@@ -4486,11 +4493,25 @@ Same as mullvad-doh but blocks ads, trackers, malware, adult content, gambling, 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi45ABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 
 
+## mullvad-all-doh-ipv6
+
+Same as mullvad-all-doh but accessible over IPv6.
+
+sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjldABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+
+
 ## mullvad-base-doh
 
 Same as mullvad-doh but blocks ads, trackers, and malware.
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi40ABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
+
+
+## mullvad-base-doh-ipv6
+
+Same as mullvad-base-doh but accessible over IPv6.
+
+sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjRdABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 
 ## mullvad-doh
@@ -4502,6 +4523,13 @@ https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 sdns://AgcAAAAAAAAACzE5NC4yNDIuMi4yAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
+## mullvad-doh-ipv6
+
+Same as mullvad-doh but accessible over IPv6.
+
+sdns://AgcAAAAAAAAADlsyYTA3OmUzNDA6OjJdAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+
+
 ## mullvad-extend-doh
 
 Same as mullvad-doh but blocks ads, trackers, malware, and social media.
@@ -4509,11 +4537,25 @@ Same as mullvad-doh but blocks ads, trackers, malware, and social media.
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi41ABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
+## mullvad-extend-doh-ipv6
+
+Same as mullvad-extend-doh but accessible over IPv6.
+
+sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjVdABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
+
+
 ## mullvad-family-doh
 
 Same as mullvad-doh but blocks ads, trackers, malware, adult content, and gambling.
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+
+
+## mullvad-family-doh-ipv6
+
+Same as mullvad-family-doh but accessible over IPv6.
+
+sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjZdABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 
 
 ## nextdns
