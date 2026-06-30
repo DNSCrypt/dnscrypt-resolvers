@@ -260,7 +260,7 @@ Non-logging DoH server in France operated by Stéphane Bortzmeyer.
 
 https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 
-sdns://AgcAAAAAAAAADDE5My43MC44NS4xMSDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkxFkb2guYm9ydHptZXllci5mcgEv
+sdns://AgcAAAAAAAAADDE5My43MC44NS4xMSAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhFkb2guYm9ydHptZXllci5mcgEv
 
 
 ## bortzmeyer-ipv6
@@ -269,7 +269,7 @@ Non-logging DoH server in France operated by Stéphane Bortzmeyer (IPv6 only).
 
 https://www.bortzmeyer.org/doh-bortzmeyer-fr-policy.html
 
-sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0g1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MRZG9oLmJvcnR6bWV5ZXIuZnIBLw
+sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0gMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4RZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
 ## brahma-world
@@ -1280,7 +1280,7 @@ sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0
 A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled, QNAME minimization and no EDNS client subnet (https://dns.digitalsize.net).
 Hosted in Germany.
 
-sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzINYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuE2Rucy5kaWdpdGFsc2l6ZS5uZXQKL2Rucy1xdWVyeQ
 
 
 ## dns.digitalsize.net-ipv6
@@ -1288,7 +1288,7 @@ sdns://AgcAAAAAAAAADjk0LjEzMC4xMzUuMjAzINYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7
 A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled, QNAME minimization and no EDNS client subnet (https://dns.digitalsize.net).
 Hosted in Germany.
 
-sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0g1h2W6_s_oZCW4sAC42A79_2q77InBNqGaAYrvobtS5MTZG5zLmRpZ2l0YWxzaXplLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0gMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4TZG5zLmRpZ2l0YWxzaXplLm5ldAovZG5zLXF1ZXJ5
 
 
 ## dns.sb
@@ -4601,16 +4601,16 @@ sdns://AgcAAAAAAAAAACCbNPrD425-Kx_uSEenN2Yi1M4shzeMLqLUYEcj3T_2KQ5kbnMubmV4dGRuc
 
 Open, DNSSEC, No-log and No-filter DoH operated by https://nic.cz
 
-sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdAtvZHZyLm5pYy5jegovZG5zLXF1ZXJ5
-sdns://AgcAAAAAAAAACzE5My4xNy40Ny4xILJfLzaWf3OU8Jk3iFszP6o1bXGf6s84zOnwNVAA8-F0C29kdnIubmljLmN6Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDE4NS40My4xMzUuMSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdAtvZHZyLm5pYy5jegovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzE5My4xNy40Ny4xIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50C29kdnIubmljLmN6Ci9kbnMtcXVlcnk
 
 
 ## nic.cz-ipv6
 
 Open, DNSSEC, No-log and No-filter DoH over IPv6 operated by https://nic.cz
 
-sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZTo6MV0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQLb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZjo6MV0gsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQLb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZTo6MV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQLb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAE1syMDAxOjE0OGY6ZmZmZjo6MV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQLb2R2ci5uaWMuY3oKL2Rucy1xdWVyeQ
 
 
 ## njalla-doh
@@ -4619,7 +4619,7 @@ Non-logging DoH server in Sweden operated by Njalla.
 
 https://dns.njal.la/
 
-sdns://AgYAAAAAAAAADDk1LjIxNS4xOS41MyDWHZbr-z-hkJbiwALjYDv3_arvsicE2oZoBiu-hu1LkwtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
+sdns://AgYAAAAAAAAADDk1LjIxNS4xOS41MyAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLgtkbnMubmphbC5sYQovZG5zLXF1ZXJ5
 
 
 ## nwps.fi
@@ -5087,7 +5087,7 @@ Reliability Engineering (Traffic) team at the Foundation.
 Wikimedia DNS helps prevent some surveillance and censorship of our
 wikis and other websites by securing DNS lookups.
 
-sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4IJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5EXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EXdpa2ltZWRpYS1kbnMub3JnCi9kbnMtcXVlcnk
 
 
 ## yandex
