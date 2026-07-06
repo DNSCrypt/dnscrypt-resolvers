@@ -1720,6 +1720,15 @@ https://www.dnscry.pt
 sdns://gRRbMjAwMTpkZjI6ZDQwOjI5OjoyXQ
 
 
+## dnscry.pt-anon-istanbul-ipv4
+
+dnscry.pt Istanbul relay.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gQ8xODguMTMyLjE5Mi4xNjg
+
+
 ## dnscry.pt-anon-istanbul-ipv6
 
 dnscry.pt Istanbul relay.
@@ -1817,6 +1826,15 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRdbMmMwZjpmMDMwOjYwODA6MTo6MTU2XQ
+
+
+## dnscry.pt-anon-johor-ipv4
+
+dnscry.pt Johor relay.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gQ00NS4yNDkuOTEuMTUw
 
 
 ## dnscry.pt-anon-kansascity-ipv4
