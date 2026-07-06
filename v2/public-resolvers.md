@@ -4540,6 +4540,16 @@ IPv6 endpoint. No logging, no filtering, DNSSEC enforced, no EDNS Client Subnet,
 sdns://AQcAAAAAAAAAFFsyYTAxOjZlZTA6MTo6MjQxOjFdIBERKdQJgLSjqCSK99e2f_WRTQzEq9__DeXlQFvxxhZ6GzIuZG5zY3J5cHQtY2VydC5uczIua3NvbC5pbw
 
 
+## la-contre-voie
+
+La Contre-Voie non-filtering public resolver.
+Located in Falkenstein, Germany. DNSSEC validation. Keeps connection logs for 14 days.
+Does not keep DNS query contents.
+Operated by La Contre-Voie. Service page: https://lacontrevoie.fr/services/doh/
+
+sdns://AgUAAAAAAAAADDE3OC4xMDUuMTYuNiCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORNkb2gubGFjb250cmV2b2llLmZyCi9kbnMtcXVlcnk
+
+
 ## libredns
 
 LibreDNS public resolver in Germany.
