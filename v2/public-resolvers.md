@@ -3887,6 +3887,13 @@ Non-logging, non-filtering, supports DNSSEC. Hosted in Germany.
 sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORFibGFuay5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5
 
 
+## dnshome-de
+
+dnsHome.de public resolver in Germany. No logging, no filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAACCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmA5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
+
+
 ## dnslow.me
 
 dnslow.me is an open source project, also your advertisement and threat blocking, privacy-first, encrypted DNS.

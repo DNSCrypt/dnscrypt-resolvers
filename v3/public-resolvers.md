@@ -3987,6 +3987,13 @@ sdns://AgcAAAAAAAAAGFsyYTAxOjRmODpjMTc6N2FhNTo6MjQ5XSCQeNIaVsDgiR2QYiG2mSMxvdFxc
 sdns://AgcAAAAAAAAAGVsyYTAxOjRmODpjMDEzOmFhZTk6OjE5NF0gkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkRYmxhbmsuZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ
 
 
+## dnshome-de
+
+dnsHome.de public resolver in Germany. No logging, no filtering, supports DNSSEC.
+
+sdns://AgcAAAAAAAAAACCdSDK7TI13IHsl3hdZJoLvw8pF9XncZkoO1fJI9ckzmA5kbnMuZG5zaG9tZS5kZQovZG5zLXF1ZXJ5
+
+
 ## dnslow.me
 
 dnslow.me is an open source project, also your advertisement and threat blocking, privacy-first, encrypted DNS.
