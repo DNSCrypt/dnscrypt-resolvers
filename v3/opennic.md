@@ -15,16 +15,18 @@ To use that list, add this to the `[sources]` section of your
 
 ## libredns
 
-DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
-https://libredns.gr/
+LibreDNS public resolver in Germany.
+No logging, but no DNS padding and no DNSSEC support. https://libredns.gr/
+Operated by LibreOps. Service page: https://libredns.gr/
 
 sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgovZG5zLXF1ZXJ5
 
 
 ## libredns-noads
 
-DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
-no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hosts
+LibreDNS ad-blocking resolver in Germany.
+No logging, but no DNS padding and no DNSSEC support. Uses StevenBlack's hosts list: https://github.com/StevenBlack/hosts
+Operated by LibreOps. Service page: https://libredns.gr/
 
 sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgYvbm9hZHM
 

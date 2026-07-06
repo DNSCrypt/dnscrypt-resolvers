@@ -22,16 +22,16 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 
 ## odohrelay-crypto-sx
 
-Oblivious DoH relay running on Fastly Compute. https://fastly.com
-Maintained by Frank Denis.
+crypto.sx ODoH relay.
+Runs on Fastly Compute. Maintained by Frank Denis. https://fastly.com
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw
 
 
 ## odohrelay-numa
 
-Oblivious DoH relay run by the Numa project on Hetzner (Falkenstein, Germany). https://numa.rs
-Maintained by Razvan Dimescu.
+Numa ODoH relay.
+Run by the Numa project on Hetzner in Falkenstein, Germany. Maintained by Razvan Dimescu. https://numa.rs
 
 sdns://hQcAAAAAAAAAAAASb2RvaC1yZWxheS5udW1hLnJzBi9yZWxheQ
 

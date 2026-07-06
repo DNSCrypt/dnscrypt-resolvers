@@ -16,39 +16,44 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 
 ## odoh-cloudflare
 
-Cloudflare ODoH server.
-https://cloudflare.com
+Cloudflare ODoH target.
+Operated by Cloudflare. https://cloudflare.com
 
 sdns://BQcAAAAAAAAAF29kb2guY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 
 
 ## odoh-crypto-sx
 
-ODoH target server. Anycast, no logs.
-Backend hosted by Scaleway. Maintained by Frank Denis.
+crypto.sx ODoH target.
+Anycast, no logs. Backend hosted by Scaleway. Maintained by Frank Denis.
+Maintained by Frank Denis. Service page: https://crypto.sx
 
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 
 
 ## odoh-id-gmail
 
-ODoH target server. Based in Singapore, no logs.
-Filter ads, trackers and malware.
+Tiarap Singapore ODoH target.
+Maintained by id-gmail. Based in Singapore, no logs. Filters ads, trackers and malware.
+Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
 
 sdns://BQMAAAAAAAAADGRvaC50aWFyLmFwcAUvb2RvaA
 
 
 ## odoh-snowstorm
 
-ODoH target server hosted by Snowstorm. No logs, No Filter, DNSSEC.
+Snowstorm ODoH target.
+Hosted by Snowstorm. No logs, no filtering, DNSSEC.
+Operated by Snowstorm. Service page: https://snowstorm.net/
 
 sdns://BQcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
 
 
 ## odoh-tiarap.org
 
-ODoH target server via Cloudflare, no logs.
-Filter ads, trackers and malware.
+Tiarap Cloudflare-cached ODoH target.
+Maintained by id-gmail. No logs. Filters ads, trackers and malware.
+Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
 
 sdns://BQMAAAAAAAAADmRvaC50aWFyYXAub3JnBS9vZG9o
 
