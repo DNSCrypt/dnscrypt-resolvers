@@ -4889,3 +4889,463 @@ Yandex public DNS server with malware filtering (anycast IPv6)
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
+## adnull_dns
+
+Personal DoH resolver with ad and tracker blocking per user
+
+sdns://AgEAAAAAAAAADjE4OC4xOTAuMTkxLjc4AA5kbnMuYWRudWxsLmNvbQovZG5zLXF1ZXJ5
+
+
+## andrews_-_arnold
+
+no logging (see DNS Disclaimer), also support DoT
+
+sdns://AgEAAAAAAAAADTIxNy4xNjkuMjAuMjIADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+
+
+## applewebkit-dev
+
+Block ads, use Cloudflare upstream, also support DoT
+
+sdns://AgEAAAAAAAAADjE0Ni41Ni4xMTguMTEyABNkbnMuYXBwbGV3ZWJraXQuZGV2Ci9kbnMtcXVlcnk
+
+
+## aquilenet_dns
+
+Non profit ISP DIY in France. Support IPv4+IPv6, DoT, uncensored, unfiltered, encrypted, DNSSEC
+
+sdns://AgEAAAAAAAAACzQ1LjY3LjgxLjIzABBkbnMuYXF1aWxlbmV0LmZyCi9kbnMtcXVlcnk
+
+
+## asteri_moon
+
+Adblocking, also support DoT
+
+sdns://AgEAAAAAAAAADjIwNC4yMTYuMTU0LjgwABJkbnMuYXN0ZXJpbW9vbi5jb20KL2Rucy1xdWVyeQ
+
+
+## bitservices
+
+Adblocking, use Cloudflare upstream, also support DoT & DoQ
+
+sdns://AgEAAAAAAAAADTYzLjMyLjIxMi4xNzIAEmRucy5iaXRzZXJ2aWNlcy5pbwovZG5zLXF1ZXJ5
+
+
+## blokada_dns
+
+No logging, also support DoT
+
+sdns://AgEAAAAAAAAADDE5My4xODAuODAuMgAPZG5zLmJsb2thZGEub3JnCi9kbnMtcXVlcnk
+
+
+## brahma_world
+
+No logging • Blocks Ads + Trackers + Malware + Phishing domains, DNSSEC ready • QNAME Minimization • No EDNS Client-Subnet • Also support DoT
+
+sdns://AgEAAAAAAAAADTE1Ny45MC4xMjQuNjIAEGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
+
+
+## brembeck-cloud
+
+Block ads & porn, use AdGuard browsing security and parental control web service
+
+sdns://AgEAAAAAAAAADjE1OS4xOTUuNjIuMTY2ABJkbnMuYnJlbWJlY2suY2xvdWQKL2Rucy1xdWVyeQ
+
+
+## caspervk-net
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAACjE1OS42OS40LjIAEGRucy5jYXNwZXJ2ay5uZXQKL2Rucy1xdWVyeQ
+
+
+## cert_estonia
+
+Block phishing, malware, porn & gambling, support DoT
+
+sdns://AgEAAAAAAAAADTQ2LjIyNi4xNDMuODYAC2Rucy5jZXJ0LmVlCi9kbnMtcXVlcnk
+
+
+## chunghwamc
+
+Block ads, use Cloudflare upstream, support DoT & DoQ
+
+sdns://AgEAAAAAAAAADDU5LjEyNy4wLjE4NAASZG5zLmNodW5naHdhbWMuY29tCi9kbnMtcXVlcnk
+
+
+## cleveradmin
+
+Adblocking, also support DoT & DoQ
+
+sdns://AgEAAAAAAAAADzE4NS4yMjguMTM2LjE5MQAUZG5zMS50ZWNobml2ZXJzZS5uZXQKL2Rucy1xdWVyeQ
+
+
+## datenquark-de
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAADjE1Mi41My4xMzAuMTA1ABFkbnMuZGF0ZW5xdWFyay5kZQovZG5zLXF1ZXJ5
+
+
+## dev-umbrellagov
+
+Support DoT
+
+sdns://AgEAAAAAAAAADTE4LjI1NC45Ni4xNjcAF2Rucy5kZXYtdW1icmVsbGFnb3YuY29tCi9kbnMtcXVlcnk
+
+
+## digitale_gesellschaft
+
+No query/IP logging, no filtering, QNAME minimization, TLS 1.3, DNSSEC, DoT; https://www.digitale-gesellschaft.ch/dns/
+
+sdns://AgEAAAAAAAAADTE4NS45NS4yMTguNDMAHGRucy5kaWdpdGFsZS1nZXNlbGxzY2hhZnQuY2gKL2Rucy1xdWVyeQ
+
+
+## disconnect-app
+
+Use Cloudflare upstream
+
+sdns://AgEAAAAAAAAADjE3Mi42Ny4xNDAuMTcxABJkb2guZGlzY29ubmVjdC5hcHAKL2Rucy1xdWVyeQ
+
+
+## dns-digitalsize-net
+
+A public, non-tracking, non-filtering DNS resolver with DNSSEC enabled, QNAME minimization and no EDNS client subnet. Supports DoT. Hosted in Germany.
+
+sdns://AgEAAAAAAAAADjk0LjEzMC4xMzUuMjAzABNkbnMuZGlnaXRhbHNpemUubmV0Ci9kbnMtcXVlcnk
+
+
+## dns-flatuslifir-is
+
+no logging, no filtering. Also support DoT
+
+sdns://AgEAAAAAAAAADTQ1LjEzNC44OC4xMjEAEmRucy5mbGF0dXNsaWZpci5pcwovZG5zLXF1ZXJ5
+
+
+## dnshome-de
+
+Supports DoH/DoH3 DoT/DoQ and DNSCrypt, No logging, No blocking
+
+sdns://AgEAAAAAAAAADDQ1Ljg2LjEyNS41OQAOZG5zLmRuc2hvbWUuZGUKL2Rucy1xdWVyeQ
+
+
+## dshubham-xyz
+
+Block ads, support DoT & DoQ
+
+sdns://AgEAAAAAAAAADzE1NS4yNDguMjQwLjE3MwAQYWdoLmRzaHViaGFtLnh5egovZG5zLXF1ZXJ5
+
+
+## elemental_software
+
+Support DoT
+
+sdns://AgEAAAAAAAAADDQ1LjMzLjYwLjExOQAWZG5zLmVsZW1lbnRhbC5zb2Z0d2FyZQovZG5zLXF1ZXJ5
+
+
+## familiamv-net
+
+Adblocking, use Cloudflare upstream, support DoT
+
+sdns://AgEAAAAAAAAADTE0My40Ny41MS4yMTgAFGRuc3Zwcy5mYW1pbGlhbXYubmV0Ci9kbnMtcXVlcnk
+
+
+## farshidhakimy-de
+
+Block ads, use AdGuard browsing security web service, support DoT
+
+sdns://AgEAAAAAAAAADDg5LjU3LjQ1LjIwNgAUZG5zLmZhcnNoaWRoYWtpbXkuZGUKL2Rucy1xdWVyeQ
+
+
+## floriantinney-de
+
+Use AdGuard browsing security web service, support DoT
+
+sdns://AgEAAAAAAAAADTE5NC45Ny4xNTcuMjIAFGRucy5mbG9yaWFudGlubmV5LmRlCi9kbnMtcXVlcnk
+
+
+## furrix_vix
+
+OpenNIC compatible with support for DoT and DoH. Small community project providing two name servers over IPv4/IPv6. Hosted in Kansas City, MO, US. Used to be operated by Marbled Fennec Networks.
+
+sdns://AgEAAAAAAAAADjIwNC4xMi4yMzcuMTk3AA9kbnMuZnVycml4LnpvbmUKL2Rucy1xdWVyeQ
+
+
+## gottlieb_freitag
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAACzg4Ljk5LjkzLjgwAAtkbnMuZ2xmLnd0ZgovZG5zLXF1ZXJ5
+
+
+## inforlogia
+
+Block ads, use Cloudflare upstream, support DoT & DoQ
+
+sdns://AgEAAAAAAAAADTE1Mi43MC4yMTguNTgAEmRucy5pbmZvcmxvZ2lhLmNvbQovZG5zLXF1ZXJ5
+
+
+## internet_initiative_japan
+
+Planned to run until March 2027, support DoT
+
+sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUAEXB1YmxpYy5kbnMuaWlqLmpwCi9kbnMtcXVlcnk
+
+
+## kernel_error
+
+DNSSEC-validating, support DoT & DoQ, Privacy-Policy
+
+sdns://AgEAAAAAAAAADjM3LjEyMC4xODMuMjIwABNkbnMua2VybmVsLWVycm9yLmRlCi9kbnMtcXVlcnk
+
+
+## krctech-dev
+
+Block ads, use Cloudflare upstream, support DoT & DoQ
+
+sdns://AgEAAAAAAAAACzEzOS45OS40NC4zABNhZGJsb2NrLmtyY3RlY2guZGV2Ci9kbnMtcXVlcnk
+
+
+## la_contre-voie
+
+Supports DNSSEC and IPv6, not logging queries' content, uses unbound. Commits for net neutrality, hosted in France.
+
+sdns://AgEAAAAAAAAADDE3OC4xMDUuMTYuNgATZG9oLmxhY29udHJldm9pZS5mcgovZG5zLXF1ZXJ5
+
+
+## luma_medien
+
+Block ads, use AdGuard browsing security web service, support DoT & DoQ
+
+sdns://AgEAAAAAAAAADDg4Ljk5LjE0Mi44NwATZG5zLmx1bWEtbWVkaWVuLmNvbQovZG5zLXF1ZXJ5
+
+
+## marasov-id
+
+Block ads, use Cloudflare upstream
+
+sdns://AgEAAAAAAAAADzEwOS4xMjMuMjM2LjI1MAAOZG5zLm1hcmFzb3YuaWQKL2Rucy1xdWVyeQ
+
+
+## masters_of_cloud
+
+OpenNIC, support DoT
+
+sdns://AgEAAAAAAAAADTE1Mi41My4xMTkuNzYAE21hc3RlcnMtb2YtY2xvdWQuZGUKL2Rucy1xdWVyeQ
+
+
+## meddy94-de
+
+Adblocking, support DoT
+
+sdns://AgEAAAAAAAAADTEzMC42MS4yNC4xNjAAEmFkZ3VhcmQubWVkZHk5NC5kZQovZG5zLXF1ZXJ5
+
+
+## mh4ckt3mh4ckt1c4s-xyz
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAACzUuMTk2Ljc0Ljc2ABlkbnMubWg0Y2t0M21oNGNrdDFjNHMueHl6Ci9kbnMtcXVlcnk
+
+
+## mmmalia-com
+
+Block ads & porn, use AdGuard parental control web service
+
+sdns://AgEAAAAAAAAADjg4LjExNS4yMDYuMTEzAA9kb2gubW1tYWxpYS5jb20KL2Rucy1xdWVyeQ
+
+
+## mzj_technology
+
+Support DoT
+
+sdns://AgEAAAAAAAAADDQ1Ljc5LjE3LjEwMwAVZG5zLm16anRlY2hub2xvZ3kuY29tCi9kbnMtcXVlcnk
+
+
+## nick_slowinski
+
+Block ads
+
+sdns://AgEAAAAAAAAADTEyOC4xNDAuODkuNzMAFWRucy5uaWNrLXNsb3dpbnNraS5kZQovZG5zLXF1ZXJ5
+
+
+## ofdoom-net
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAADjE1Mi43MC4xNTYuMTI5AA5kbnMub2Zkb29tLm5ldAovZG5zLXF1ZXJ5
+
+
+## openbld-net
+
+Block ads, malicious. Support DoT, DoH - HTTP/2, TLSv1.3. Without DNS leaks. Use own upstreams and update services.
+
+sdns://AgEAAAAAAAAADDk1Ljg1Ljk0LjExNgAPYWRhLm9wZW5ibGQubmV0Ci9kbnMtcXVlcnk
+
+
+## pavol_decky
+
+Block ads, use Cloudflare upstream, support DoT
+
+sdns://AgEAAAAAAAAADjExNi4yMDIuOTguMTc3AAxkbnMuZGVja3kuZXUKL2Rucy1xdWVyeQ
+
+
+## pooblet-co-za
+
+Adblocking, use Cloudflare upstream
+
+sdns://AgEAAAAAAAAADTEwNC4yMS40Mi4xOTgADXBvb2JsZXQuY28uemEKL2Rucy1xdWVyeQ
+
+
+## practically_unhackable
+
+Also support DoT
+
+sdns://AgEAAAAAAAAADjEyOC4yNTQuMjA2LjI1AB1kbnMucHJhY3RpY2FsbHl1bmhhY2thYmxlLmNvbQovZG5zLXF1ZXJ5
+
+
+## quiet_rocks
+
+Block ads, use Cloudflare upstream, support DoT
+
+sdns://AgEAAAAAAAAADDIwNy4xMjcuOTMuMwAPZG5zLnF1aWV0LnJvY2tzCi9kbnMtcXVlcnk
+
+
+## redhosting-com-ar
+
+Block ads & gambling, use Cloudflare upstream, support DoT
+
+sdns://AgEAAAAAAAAADTMxLjk3LjI0OS4xNzgAFWRucy5yZWRob3N0aW5nLmNvbS5hcgovZG5zLXF1ZXJ5
+
+
+## renardbleu-dev
+
+OpenNIC, support DoT
+
+sdns://AgEAAAAAAAAADjY2LjE1NC4xMTguMTAzAA5yZW5hcmRibGV1LmRldgovZG5zLXF1ZXJ5
+
+
+## robingroppe-de
+
+Malware blocking, DNSSEC validation, support DoT
+
+sdns://AgEAAAAAAAAADjE4NS4yNDUuOTcuMTUwAApkbnMucmJuLmdyCi9kbnMtcXVlcnk
+
+
+## roedel-cloud
+
+Block ads, support DoT & DoQ
+
+sdns://AgEAAAAAAAAADjExNi4yMDMuMTM1LjcxABBkbnMucm9lZGVsLmNsb3VkCi9kbnMtcXVlcnk
+
+
+## shoupperuser-com
+
+Ad & porn blocking, use AdGuard browsing security and parental control web service, support DoT
+
+sdns://AgEAAAAAAAAADTUwLjExNi41OS4yNTEAGGFkZ3VhcmQuc2hvdXBwZXJ1c2VyLmNvbQovZG5zLXF1ZXJ5
+
+
+## slinkyman-net
+
+Adblocking, use Cloudflare upstream, support DoT
+
+sdns://AgEAAAAAAAAADTIwMy4yOS4yNDAuNTIAEWRucy5zbGlua3ltYW4ubmV0Ci9kbnMtcXVlcnk
+
+
+## smartguard
+
+Customizable policy and filtering, support DoT
+
+sdns://AgEAAAAAAAAADjk1LjE3OS4xNjEuMTM4ABFkbnMuc21hcnRndWFyZC5pbwovZG5zLXF1ZXJ5
+
+
+## startup_stack
+
+Support DoT
+
+sdns://AgEAAAAAAAAADDQ1Ljc5LjEwMi42NwAVZG5zLnN0YXJ0dXBzdGFjay50ZWNoCi9kbnMtcXVlcnk
+
+
+## stirringphoto-com
+
+Support DoT
+
+sdns://AgEAAAAAAAAADjY2LjE3NS4yMjMuMTQzABVkbnMuc3RpcnJpbmdwaG90by5jb20KL2Rucy1xdWVyeQ
+
+
+## stormycloud
+
+Support DoT
+
+sdns://AgEAAAAAAAAADDIzLjEyOC4yNDguMgATZG5zLnN0b3JteWNsb3VkLm9yZwovZG5zLXF1ZXJ5
+
+
+## surfshark_dns
+
+Support DoT & DoQ
+
+sdns://AgEAAAAAAAAADzE5NC4xNjkuMTY5LjE2OQAUZG5zLnN1cmZzaGFya2Rucy5jb20KL2Rucy1xdWVyeQ
+
+
+## sunnygyl-com
+
+Adblocking, use Cloudflare upstream, support DoT
+
+sdns://AgEAAAAAAAAADTQ3LjI0My4yMzMuNTUADHN1bm55Z3lsLmNvbQovZG5zLXF1ZXJ5
+
+
+## szpadel-ovh
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAADDIxMy4zMi4yNS4yNQAPZG5zLnN6cGFkZWwub3ZoCi9kbnMtcXVlcnk
+
+
+## telekom_deutschland
+
+Support DoT
+
+sdns://AgEAAAAAAAAADDIxNy4wLjQzLjE2MgAOZG5zLnRlbGVrb20uZGUKL2Rucy1xdWVyeQ
+
+
+## tipsycoffee
+
+Block ads & gambling, support DoT
+
+sdns://AgEAAAAAAAAADTExOC4xNjMuMTcwLjIAEGRucy50aXBzeS5jb2ZmZWUKL2Rucy1xdWVyeQ
+
+
+## uncensoreddns
+
+Support DoT & DoQ
+
+sdns://AgEAAAAAAAAADjkxLjIzOS4xMDAuMTAwABlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
+
+
+## usable_privacy
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAADTc4LjQ3LjE2My4xNDEAGGFkZnJlZS51c2FibGVwcml2YWN5Lm5ldAovZG5zLXF1ZXJ5
+
+
+## wikimedia_dns
+
+No filtering, no ECS except for Wikimedia-run servers, QNAME minimization enabled, DNSSEC validation enforced. Requests are served by the nearest Wikimedia data center, support DoT
+
+sdns://AgEAAAAAAAAADjE4NS43MS4xMzguMTM4ABF3aWtpbWVkaWEtZG5zLm9yZwovZG5zLXF1ZXJ5
+
+
+## 4netguides
+
+Block ads, support DoT
+
+sdns://AgEAAAAAAAAADTk0LjE2LjExNy4xMDcAEm5zMi40bmV0Z3VpZGVzLm9yZwovZG5zLXF1ZXJ5
+
+
+## publicarray_dns-seby-io
+
+Australian server that runs @m13253's Go implementation, OpenNIC, Unbound with DNSSEC, No ECS, and No logs. Support DoT
+
+sdns://AgEAAAAAAAAADDQ1Ljc2LjExMy4zMQALZG9oLnNlYnkuaW8KL2Rucy1xdWVyeQ
