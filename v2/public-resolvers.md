@@ -4762,6 +4762,24 @@ Operated by NWPS.fi. Service page: https://nwps.fi/wordpress/free-recursive-dns/
 sdns://AQcAAAAAAAAAETk1LjIxNy4xMS42Mzo4NDQzILqK827XPyVhFNCgYRi2VrryJyHhnfkeQnBB2EvkiM-3FzIuZG5zY3J5cHQtY2VydC5ud3BzLmZp
 
 
+## olilo-doh
+
+Olilo public resolver. Two nodes in London.
+No logging, no filtering, DNSSEC validation. No EDNS Client Subnet.
+Operated by Olilo (AS212683). DNS service: https://dns.as212683.net
+
+sdns://AgcAAAAAAAAADDUuMTgyLjExNS43NAAQZG5zLmFzMjEyNjgzLm5ldAovZG5zLXF1ZXJ5
+
+
+## olilo-doh-ipv6
+
+Olilo public resolver. Two nodes in London.
+IPv6 endpoint. No logging, no filtering, DNSSEC validation. No EDNS Client Subnet.
+Operated by Olilo (AS212683). DNS service: https://dns.as212683.net
+
+sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo0XQAQZG5zLmFzMjEyNjgzLm5ldAovZG5zLXF1ZXJ5
+
+
 ## plan9dns-fl
 
 plan9-dns Miami resolver.
