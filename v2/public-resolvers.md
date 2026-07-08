@@ -4768,7 +4768,7 @@ Olilo public resolver. Two nodes in London.
 No logging, no filtering, DNSSEC validation. No EDNS Client Subnet.
 Operated by Olilo (AS212683). DNS service: https://dns.as212683.net
 
-sdns://AgcAAAAAAAAADDUuMTgyLjExNS43NAAQZG5zLmFzMjEyNjgzLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADDUuMTgyLjExNS43NCA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRBkbnMuYXMyMTI2ODMubmV0Ci9kbnMtcXVlcnk
 
 
 ## olilo-doh-ipv6
@@ -4777,7 +4777,7 @@ Olilo public resolver. Two nodes in London.
 IPv6 endpoint. No logging, no filtering, DNSSEC validation. No EDNS Client Subnet.
 Operated by Olilo (AS212683). DNS service: https://dns.as212683.net
 
-sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo0XQAQZG5zLmFzMjEyNjgzLm5ldAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo0XSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRBkbnMuYXMyMTI2ODMubmV0Ci9kbnMtcXVlcnk
 
 
 ## plan9dns-fl
