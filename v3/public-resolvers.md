@@ -4622,15 +4622,6 @@ No logs, DNSSEC. OpenNIC-based resolver operated by ibksturm.
 
 sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHJ1Xm4-iOYHncRNo6suy63ko3F1S-OCNwCd3GGQWb64YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
-## ibksturm-V6
-
-ibksturm OpenNIC resolver in Switzerland.
-No logs, DNSSEC. OpenNIC-based resolver operated by ibksturm.
-
-sdns://AQcAAAAAAAAAGlsyMDAxOjQ3MDoyNTo3Yzo6MTk1XTo4NDQzIEIOXhbnCAMe4Sas5eKJU5vqNcuKhO3k4TAZc7meHv2nGDIuZG5zY3J5cHQtY2VydC5pYmtzdHVybQ
-
-
-
 
 ## iij
 
