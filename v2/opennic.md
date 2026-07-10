@@ -13,6 +13,14 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## ibksturm
+
+ibksturm OpenNIC resolver in Switzerland.
+No logs, DNSSEC. OpenNIC-based resolver operated by ibksturm.
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHJ1Xm4-iOYHncRNo6suy63ko3F1S-OCNwCd3GGQWb64YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
+
 ## libredns
 
 LibreDNS public resolver in Germany.

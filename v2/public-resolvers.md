@@ -7183,6 +7183,14 @@ Anycast service operated by Hurricane Electric. Unknown logging policy. https://
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## ibksturm
+
+ibksturm OpenNIC resolver in Switzerland.
+No logs, DNSSEC. OpenNIC-based resolver operated by ibksturm.
+
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHJ1Xm4-iOYHncRNo6suy63ko3F1S-OCNwCd3GGQWb64YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+
+
 ## iij
 
 Internet Initiative Japan public resolver.
