@@ -851,6 +851,15 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD25jbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
+## dnscry.pt-odoh-newyork
+
+dnscry.pt New York ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD255YzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-odoh-nuremberg
 
 dnscry.pt Nuremberg ODoH target.
@@ -1074,6 +1083,15 @@ Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redire
 https://www.dnscry.pt
 
 sdns://BQcAAAAAAAAAD2dlZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
+## dnscry.pt-odoh-stockholm
+
+dnscry.pt Stockholm ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD3N0bzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-odoh-stockholm02
