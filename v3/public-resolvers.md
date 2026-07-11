@@ -1524,7 +1524,19 @@ Operated by DNSBunker.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAADjI3LjEyMy4yNDUuMTMwILTgqMmLCq5DtzgwN6zNEaHJZJcfa3T8vDcM0DD7Mo3dDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE4NS4yNTAuMjUwLjYxILTgqMmLCq5DtzgwN6zNEaHJZJcfa3T8vDcM0DD7Mo3dDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
+
+
+## dnsbunker-ipv6
+
+A DNS resolver located in Germany.
+
+Designed to block ads, malware, and surveillance. No logs.
+Operated by DNSBunker.
+
+https://dnsbunker.org
+
+sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XSC04KjJiwquQ7c4MDeszRGhyWSXH2t0_Lw3DNAw-zKN3Q1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
 
 
 ## dnscry.pt-adelaide-ipv4
