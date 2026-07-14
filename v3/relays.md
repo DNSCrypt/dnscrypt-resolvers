@@ -3204,3 +3204,8 @@ https://www.dnscry.pt
 
 sdns://gRVbMmEwMjoyOWI4OjgwMDE6NDo6YV0
 
+## ibksturm
+
+Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
+
+sdns://gRMyMTMuMTk2LjE5MS45Njo4NDQz
