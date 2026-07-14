@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # /// script
-# dependencies = ["pyopenssl"]
+# dependencies = ["cryptography", "pyopenssl"]
 # ///
 """
 Add certificate hashes to DNS stamps for a specific resolver.
@@ -8,14 +8,14 @@ Add certificate hashes to DNS stamps for a specific resolver.
 Usage:
     python3 utils/add-cert-hash.py v3/public-resolvers.md resolver-name
 
-This tool connects to the resolver's server via TLS, extracts the highest
-intermediate CA certificate hash (SHA256 of the TBS certificate), and adds it
-to the stamps.
+This tool connects to the resolver's server via TLS, extracts the topmost
+non-root CA certificate hash (SHA256 of the TBS certificate), and adds it to
+the stamps.
 
-The highest intermediate CA (closest to root) is used because:
-- Root CAs are NOT sent by servers (only leaf + intermediates are sent)
+The topmost non-root CA sent by the server is used because:
+- Self-signed root CAs must never be pinned, even if a server sends one
 - dnscrypt-proxy only verifies against certificates actually in the TLS chain
-- Intermediate CAs are more stable than leaf certs (years vs months)
+- A topmost CA is more stable than leaf certificates and lower intermediates
 
 Note: The hash is computed from the TBS (To Be Signed) portion of the certificate,
 which is what dnscrypt-proxy verifies against.
@@ -30,6 +30,8 @@ import struct
 import sys
 from typing import Optional
 
+from cryptography import x509
+from cryptography.x509 import ExtensionNotFound
 from OpenSSL import SSL, crypto
 
 
@@ -247,9 +249,9 @@ class DNSStamp:
         return addr, 443
 
 
-def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[str, bytes]]:
+def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[str, bytes, bool, bool]]:
     """
-    Connect to server via TLS and return TBS certificate hashes for certs sent by server.
+    Connect to server via TLS and return each peer certificate's TBS hash, CA status, and self-issued status.
 
     Args:
         host: IP address or hostname to connect to
@@ -257,9 +259,10 @@ def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[st
         server_hostname: SNI hostname for TLS
 
     Returns:
-        List of (subject_cn, tbs_hash) tuples for each certificate sent by the server.
-        The list is ordered: [leaf_cert, intermediate_ca1, intermediate_ca2, ...]
-        Note: Root CA is not included since it's not sent by the server.
+        List of (subject_cn, tbs_hash, is_ca, is_self_issued) tuples for each
+        certificate sent by the server, in peer-chain order.
+        A conforming server normally does not send a root, but callers must
+        still identify and exclude a self-issued root if it is present.
     """
     context = SSL.Context(SSL.TLS_CLIENT_METHOD)
     context.set_default_verify_paths()
@@ -291,7 +294,14 @@ def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[st
         cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
         tbs_hash = get_tbs_hash_from_der(cert_der)
         subject = cert.get_subject().CN or "unknown"
-        results.append((subject, tbs_hash))
+        certificate = cert.to_cryptography()
+        try:
+            is_ca = certificate.extensions.get_extension_for_class(
+                x509.BasicConstraints
+            ).value.ca
+        except ExtensionNotFound:
+            is_ca = False
+        results.append((subject, tbs_hash, is_ca, certificate.subject == certificate.issuer))
 
     conn.shutdown()
     sock.close()
@@ -401,15 +411,24 @@ def process_resolver(md_path: str, resolver_name: str) -> None:
                             try:
                                 cert_hashes = get_cert_hashes(host, port, sni)
                                 print(f"  Certificates sent by server:")
-                                for i, (cn, h) in enumerate(cert_hashes):
-                                    if i == 0:
-                                        cert_type = "Leaf"
-                                    else:
-                                        cert_type = f"Intermediate CA {i}"
-                                    print(f"    [{cert_type}] {cn}: {h.hex()}")
+                                for i, (cn, h, is_ca, is_self_issued) in enumerate(cert_hashes):
+                                    cert_type = "CA" if is_ca else "Leaf"
+                                    root_marker = " self-issued" if is_self_issued else ""
+                                    print(f"    [{cert_type}{root_marker}] {cn}: {h.hex()}")
 
-                                # Use highest intermediate CA (last sent by server) - most stable
-                                selected_cn, cert_hash = cert_hashes[-1]
+                                selected = next(
+                                    (
+                                        (cn, cert_hash)
+                                        for cn, cert_hash, is_ca, is_self_issued in reversed(cert_hashes)
+                                        if is_ca and not is_self_issued
+                                    ),
+                                    None,
+                                )
+                                if selected is None:
+                                    raise RuntimeError(
+                                        "TLS chain has no non-root CA certificate sent by the server"
+                                    )
+                                selected_cn, cert_hash = selected
                                 print(f"  Using: {selected_cn}")
 
                                 # Update hash if it differs from the expected one

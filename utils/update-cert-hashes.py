@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # /// script
-# dependencies = ["pyopenssl"]
+# dependencies = ["cryptography", "pyopenssl"]
 # ///
 """
-Update outdated certificate hashes in DNS stamps.
+Update DoH certificate hashes in DNS stamps.
+
+Pins are derived from the topmost non-root CA certificate sent by the server.
 
 Usage:
     python3 utils/update-cert-hashes.py v3/public-resolvers.md [--dry-run]
@@ -24,6 +26,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from typing import Optional
 
+from cryptography import x509
+from cryptography.x509 import ExtensionNotFound
 from OpenSSL import SSL, crypto
 
 
@@ -257,8 +261,8 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
     return hashlib.sha256(tbs_data).digest()
 
 
-def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float = 10) -> list[tuple[str, bytes]]:
-    """Connect to server via TLS and return TBS certificate hashes for certs sent by server."""
+def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float = 10) -> list[tuple[str, bytes, bool, bool]]:
+    """Connect to a TLS server and return each peer certificate's CN, TBS hash, CA status, and self-issued status."""
     context = SSL.Context(SSL.TLS_CLIENT_METHOD)
     context.set_default_verify_paths()
     context.set_verify(SSL.VERIFY_PEER, lambda *args: True)
@@ -290,7 +294,14 @@ def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float =
         cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
         tbs_hash = get_tbs_hash_from_der(cert_der)
         subject = cert.get_subject().CN or "unknown"
-        results.append((subject, tbs_hash))
+        certificate = cert.to_cryptography()
+        try:
+            is_ca = certificate.extensions.get_extension_for_class(
+                x509.BasicConstraints
+            ).value.ca
+        except ExtensionNotFound:
+            is_ca = False
+        results.append((subject, tbs_hash, is_ca, certificate.subject == certificate.issuer))
 
     conn.shutdown()
     sock.close()
@@ -347,23 +358,41 @@ def check_and_update_stamp(resolver_name: str, line_num: int, stamp_str: str) ->
 
         cert_hashes = get_cert_hashes(host, port, sni, timeout=15)
 
-        current_hash_set = {h for _, h in cert_hashes}
+        selected = next(
+            (
+                (cn, cert_hash)
+                for cn, cert_hash, is_ca, is_self_issued in reversed(cert_hashes)
+                if is_ca and not is_self_issued
+            ),
+            None,
+        )
+        if selected is None:
+            raise RuntimeError("TLS chain has no non-root CA certificate sent by the server")
+        selected_cn, new_hash = selected
         stamp_hash_set = set(stamp.hashes)
 
-        if stamp_hash_set & current_hash_set:
+        # Sample additional connections. TLS edges may serve more than one valid chain.
+        selected_hashes = [new_hash]
+        for _ in range(2):
+            verify_hashes = get_cert_hashes(host, port, sni, timeout=15)
+            verified = next(
+                (
+                    cert_hash
+                    for _, cert_hash, is_ca, is_self_issued in reversed(verify_hashes)
+                    if is_ca and not is_self_issued
+                ),
+                None,
+            )
+            if verified is None:
+                raise RuntimeError("Verification failed: TLS chain has no non-root CA certificate")
+            selected_hashes.append(verified)
+
+        selected_hashes = list(dict.fromkeys(selected_hashes))
+        if stamp_hash_set == set(selected_hashes):
             return None
 
-        # Use highest intermediate CA (last sent by server) - most stable
-        selected_cn, new_hash = cert_hashes[-1]
-
-        # Verify the hash works by reconnecting
-        verify_hashes = get_cert_hashes(host, port, sni, timeout=15)
-        verify_hash_set = {h for _, h in verify_hashes}
-        if new_hash not in verify_hash_set:
-            raise RuntimeError(f"Verification failed: hash not found in certificate chain")
-
         old_hashes = [h.hex() for h in stamp.hashes]
-        stamp.hashes = [new_hash]
+        stamp.hashes = selected_hashes
         new_stamp = stamp.serialize()
 
         return StampUpdate(
