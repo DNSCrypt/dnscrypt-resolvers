@@ -13,6 +13,17 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## adguard-dns-family
+
+AdGuard DNS Family Protection resolver.
+Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
+
+Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNTo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWuMm1AFq6ITIuZG5zY3J5cHQuZmFtaWx5Lm5zMS5hZGd1YXJkLmNvbQ
+
+
 ## adguard-dns-family-doh
 
 AdGuard DNS Family Protection resolver.
@@ -31,6 +42,17 @@ Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 sdns://AgMAAAAAAAAAFFsyYTEwOjUwYzA6OmJhZDE6ZmZdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZFmZhbWlseS5hZGd1YXJkLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
+## adguard-dns-family-ipv6
+
+AdGuard DNS Family Protection resolver.
+IPv6 endpoint. Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
+
+Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAGVsyYTEwOjUwYzA6OmJhZDE6ZmZdOjU0NDMguDFd17FLbuMgpHDcLtaxqjmMyeWG-F1FRda4ybUAWrohMi5kbnNjcnlwdC5mYW1pbHkubnMxLmFkZ3VhcmQuY29t
+
+
 ## cira-family-ipv6
 
 CIRA Canadian Shield Family resolver.
@@ -42,6 +64,49 @@ Info: Not anonymous, but CIRA says it does not sell user data or use it for adve
 sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2WTe6mJhFcsdZmFtaWx5LmNhbmFkaWFuc2hpZWxkLmNpcmEuY2EKL2Rucy1xdWVyeQ
 
 
+## cisco-familyshield
+
+Cisco OpenDNS FamilyShield resolver.
+Preconfigured to block adult content.
+
+Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+Currently incompatible with DNS anonymization.
+
+sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+
+
+## cisco-familyshield-ipv6
+
+Cisco OpenDNS FamilyShield resolver.
+IPv6 endpoint. Preconfigured to block adult content.
+
+Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
+Warning: Doesn't work any more in some countries such as France and Portugal.
+
+Warning: This server is incompatible with anonymization.
+
+Warning: modifies your queries to include a copy of your network
+address when forwarding them to a selection of companies and organizations.
+
+sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ_t5GzIuZG5zY3J5cHQtY2VydC5vcGVuZG5zLmNvbQ
+
+
+## cleanbrowsing-adult
+
+CleanBrowsing Adult Filter.
+Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
+
+Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UGNx3YGXUjykRY2xlYW5icm93c2luZy5vcmc
+
+
 ## cleanbrowsing-adult-doh
 
 CleanBrowsing Adult Filter.
@@ -51,6 +116,28 @@ Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWNsZWFuYnJvd3Npbmcub3JnES9kb2gvYWR1bHQtZmlsdGVy
 
 
+## cleanbrowsing-adult-ipv6
+
+CleanBrowsing Adult Filter.
+IPv6 endpoint. Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
+
+Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3HdgZdSPKRFjbGVhbmJyb3dzaW5nLm9yZw
+
+
+## cleanbrowsing-family
+
+CleanBrowsing Family Filter.
+Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
+
+Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
+
+
 ## cleanbrowsing-family-doh
 
 CleanBrowsing Family Filter.
@@ -58,6 +145,17 @@ Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
 sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWNsZWFuYnJvd3Npbmcub3JnEi9kb2gvZmFtaWx5LWZpbHRlcg
+
+
+## cleanbrowsing-family-ipv6
+
+CleanBrowsing Family Filter.
+IPv6 endpoint. Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
+
+Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
+Warning: This server is incompatible with anonymization.
+
+sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6OmflBjcd2Bl1I8pEWNsZWFuYnJvd3Npbmcub3Jn
 
 
 ## cloudflare-family
@@ -122,6 +220,16 @@ Warning: This server is incompatible with anonymization.
 Provided by: https://dnsforfamily.com
 
 sdns://AQMAAAAAAAAADzEzNS4xODEuMTkzLjIyMiDrxcZ_hFtGE6tfATvQZYjxgl5pTY_e2cRH_ms8bEWofBBkbnNmb3JmYW1pbHkuY29t
+
+
+## dnsforfamily-v6
+
+DNS for Family safe-search resolver.
+IPv6 endpoint. Blocks adult, gambling, drug, malware, scam/phishing, proxy/anonymizer and advertising domains; its blacklist is updated daily. Enforces safe search in Google, YouTube, Brave, Ecosia, Bing, DuckDuckGo and Yandex. Social sites such as Facebook and Instagram are not blocked. No DNS queries are logged. Free service.
+
+Provided by: https://dnsforfamily.com
+
+sdns://AQMAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIBMl4s4AFc1JhxIkiipHn-JRjPztjg55wwsHzhoQAo-tEGRuc2ZvcmZhbWlseS5jb20
 
 
 ## doh-cleanbrowsing-adult

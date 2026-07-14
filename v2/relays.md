@@ -1484,6 +1484,24 @@ https://www.dnscry.pt
 sdns://gRhbMjYwNzphNjgwOjQ6ZjAwMzo6ZWMzMl0
 
 
+## dnscry.pt-anon-jakarta-ipv4
+
+dnscry.pt Jakarta relay.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gQ4xNTEuMjQzLjIyMi45NA
+
+
+## dnscry.pt-anon-jakarta-ipv6
+
+dnscry.pt Jakarta relay.
+IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gR5bMjQwNzo2YWMwOjM6NToxMjM0OjQzMjE6ODk6MV0
+
+
 ## dnscry.pt-anon-jena-ipv4
 
 dnscry.pt Jena relay.
