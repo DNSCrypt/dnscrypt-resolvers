@@ -11,18 +11,18 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: check with dnscrypt-proxy
         run: |
-          curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.3/dnscrypt-proxy-linux_x86_64-2.1.3.tar.gz | tar xzvf -
+          curl -qL https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.1.16/dnscrypt-proxy-linux_x86_64-2.1.16.tar.gz | tar xzvf -
           cp v3/* linux-x86_64
           cd linux-x86_64
           cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
           sed -i -e 's/listen_addresses.*/listen_addresses = ["127.0.0.1:5300"]/' dnscrypt-proxy.toml
           sed -i -e 's/require_dnssec.*/require_dnssec = false/' dnscrypt-proxy.toml
           sed -i -e 's/require_nolog.*/require_nolog = false/' dnscrypt-proxy.toml
-          sed -i -e 's/http3.*/http3 = true/' dnscrypt-proxy.toml
+          sed -i -e 's/^http3 .*/http3 = true/' dnscrypt-proxy.toml
           sed -i -e 's/require_nofilter.*/require_nofilter = false/' dnscrypt-proxy.toml
           ./dnscrypt-proxy -list-all
           ./dnscrypt-proxy -show-certs

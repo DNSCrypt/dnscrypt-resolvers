@@ -15,23 +15,26 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 ## ibksturm
 
-Switzerland, running by ibksturm, Opennic, nologs, DNSSEC
+ibksturm OpenNIC resolver in Switzerland.
+No logs, DNSSEC. OpenNIC-based resolver operated by ibksturm.
 
-sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgQg5eFucIAx7hJqzl4olTm-o1y4qE7eThMBlzuZ4e_acYMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
+sdns://AQcAAAAAAAAAEzIxMy4xOTYuMTkxLjk2Ojg0NDMgHJ1Xm4-iOYHncRNo6suy63ko3F1S-OCNwCd3GGQWb64YMi5kbnNjcnlwdC1jZXJ0Lmlia3N0dXJt
 
 
 ## libredns
 
-DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
-https://libredns.gr/
+LibreDNS public resolver in Germany.
+No logging, but no DNS padding and no DNSSEC support. https://libredns.gr/
+Operated by LibreOps. Service page: https://libredns.gr/
 
-sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTD2RvaC5saWJyZWRucy5ncgovZG5zLXF1ZXJ5
+sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgovZG5zLXF1ZXJ5
 
 
 ## libredns-noads
 
-DoH server in Germany. No logging, but no DNS padding and no DNSSEC support.
-no ads version, uses StevenBlack's host list: https://github.com/StevenBlack/hosts
+LibreDNS ad-blocking resolver in Germany.
+No logging, but no DNS padding and no DNSSEC support. Uses StevenBlack's hosts list: https://github.com/StevenBlack/hosts
+Operated by LibreOps. Service page: https://libredns.gr/
 
-sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2INYdluv7P6GQluLAAuNgO_f9qu-yJwTahmgGK76G7UuTD2RvaC5saWJyZWRucy5ncgYvbm9hZHM
+sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgYvbm9hZHM
 

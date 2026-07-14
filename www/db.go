@@ -325,6 +325,7 @@ func (d *DB) updateResolverStats(resolverID int64, stamp string, success bool, r
 				max_rtt = CASE WHEN ? > max_rtt THEN ? ELSE max_rtt END,
 				last_success = ?,
 				last_tested = ?,
+				last_error = NULL,
 				reliability_pct = CAST(success_count + 1 AS REAL) / (total_tests + 1) * 100.0
 		`
 		args = []interface{}{
@@ -407,7 +408,6 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 		s.Description = description.String
 		s.SourceFile = sourceFile.String
 		s.Stamp = stamp.String
-		s.LastError = lastError.String
 		s.TotalTests = int(totalTests.Int64)
 		s.SuccessCount = int(successCount.Int64)
 		s.FailCount = int(failCount.Int64)
@@ -428,6 +428,9 @@ func (d *DB) GetAllStats() ([]ResolverStats, error) {
 		}
 		if lastTested.Valid {
 			s.LastTestedAt, _ = parseDBTime(lastTested.String)
+		}
+		if lastError.Valid && s.LastFail != nil && (s.LastSuccess == nil || s.LastFail.After(*s.LastSuccess)) {
+			s.LastError = lastError.String
 		}
 
 		stats = append(stats, s)
