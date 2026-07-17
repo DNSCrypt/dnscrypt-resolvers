@@ -25,94 +25,141 @@ To use that list, add this to the `[sources]` section of your
 
 ## a-and-a
 
-Andrews & Arnold non-filtering resolver.
-No logging, DNSSEC validation. Homepage: https://www.aa.net.uk/dns/
-Operated by Andrews & Arnold. Service page: https://www.aa.net.uk/dns/
+| Name |   |
+| -- | -- |
+| Operator | Andrews & Arnold |
+| Homepage | https://www.aa.net.uk/dns/ |
+| Type |  DOH |
+| Comment | Andrews & Arnold non-filtering resolver. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ✔️ |
 
-sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjIADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+`sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjIADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ`
+`sdns://AgcAAAAAAAAADTIxNy4xNjkuMjAuMjMADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ`
 
 
 ## a-and-a-ipv6
 
-Andrews & Arnold non-filtering resolver.
-IPv6 endpoint. No logging, DNSSEC validation. Homepage: https://www.aa.net.uk/dns/
-Operated by Andrews & Arnold. Service page: https://www.aa.net.uk/dns/
+| Name |   |
+| -- | -- |
+| Operator | Andrews & Arnold |
+| Homepage | https://www.aa.net.uk/dns/ |
+| Type |  DOH |
+| Comment | Andrews & Arnold non-filtering resolver. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ✔️ |
 
-sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyMl0ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
-sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyM10ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ
+`sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyMl0ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ`
+`sdns://AgcAAAAAAAAAEFsyMDAxOjhiMDo6MjAyM10ADWRucy5hYS5uZXQudWsKL2Rucy1xdWVyeQ`
 
 
 ## adfilter-adl
 
-Hosted in Adelaide, Australia.
+| Name |   |
+| -- | -- |
+| Operator | ADFilter |
+| Homepage | https://adfilter.com/ |
+| Type |  DOH |
+| Comment | Hosted in Adelaide, Australia. No EDNS Client-Subnet. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ❌ Blocks ads, malware, trackers and more. |
 
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-Operated by ADFilter. Service page: https://adfilter.com/
-
-sdns://AgMAAAAAAAAADzEwMy4yNDkuMjM4LjEyNCCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+`sdns://AgMAAAAAAAAADzEwMy4yNDkuMjM4LjEyNCCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk`
 
 
 ## adfilter-adl-ipv6
 
-Hosted in Adelaide, Australia.
+| Name |   |
+| -- | -- |
+| Operator | ADFilter |
+| Homepage | https://adfilter.com/ |
+| Type |  DOH |
+| Comment | Hosted in Adelaide, Australia. No EDNS Client-Subnet. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ❌ Blocks ads, malware, trackers and more. |
 
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-Operated by ADFilter. Service page: https://adfilter.com/
-
-sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NjkwMzoyMTAwOjoxXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+`sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NjkwMzoyMTAwOjoxXSCQeNIaVsDgiR2QYiG2mSMxvdFxcusPM92gfVxlxuFMORBhZGwuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk`
 
 
 ## adfilter-per
 
-Hosted in Perth, Australia.
+| Name |   |
+| -- | -- |
+| Operator | ADFilter |
+| Homepage | https://adfilter.com/ |
+| Type |  DOH |
+| Comment | Hosted in Perth, Australia. No EDNS Client-Subnet. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ❌ Blocks ads, malware, trackers and more. |
 
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-Operated by ADFilter. Service page: https://adfilter.com/
-
-sdns://AgMAAAAAAAAADTIwMy4yOS4yNDEuNzYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQQcGVyLmFkZmlsdGVyLm5ldAovZG5zLXF1ZXJ5
+`sdns://AgMAAAAAAAAADTIwMy4yOS4yNDEuNzYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQQcGVyLmFkZmlsdGVyLm5ldAovZG5zLXF1ZXJ5`
 
 
 ## adfilter-per-ipv6
 
-Hosted in Perth, Australia.
+| Name |   |
+| -- | -- |
+| Operator | ADFilter |
+| Homepage | https://adfilter.com/ |
+| Type |  DOH |
+| Comment | Hosted in Perth, Australia. No EDNS Client-Subnet. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ❌ Blocks ads, malware, trackers and more. |
 
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-Operated by ADFilter. Service page: https://adfilter.com/
-
-sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NDFhOTo0ODAwOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBwZXIuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk
+`sdns://AgMAAAAAAAAAGFsyNDA0Ojk0MDA6NDFhOTo0ODAwOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBwZXIuYWRmaWx0ZXIubmV0Ci9kbnMtcXVlcnk`
 
 
 ## adfilter-syd
 
-Hosted in Sydney, Australia.
+| Name |   |
+| -- | -- |
+| Operator | ADFilter |
+| Homepage | https://adfilter.com/ |
+| Type |  DOH |
+| Comment | Hosted in Sydney, Australia. No EDNS Client-Subnet. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ✔️ |
+| No Filter? | ❌ Blocks ads, malware, trackers and more. |
 
-Blocks ads, malware, trackers and more. No persistent logs. DNSSEC. No EDNS Client-Subnet.
-Operated by ADFilter. Service page: https://adfilter.com/
-
-sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ
+`sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHN5ZC5hZGZpbHRlci5uZXQKL2Rucy1xdWVyeQ`
 
 
 ## adguard-dns
 
-AdGuard DNS Default public resolver.
-Blocks ads, trackers, phishing and malicious domains.
+| Name |   |
+| -- | -- |
+| Operator | AdGuard |
+| Homepage | https://adguard-dns.io/en/public-dns.html |
+| Type |  DOH |
+| Comment | AdGuard DNS Default public resolver. Warning: This server is incompatible with anonymization. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ❌ |
+| No Filter? | ❌ Blocks ads, trackers, phishing and malicious domains. |
 
-Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
-Warning: This server is incompatible with anonymization.
-
-sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNDo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuUso_OQhzIjIuZG5zY3J5cHQuZGVmYXVsdC5uczEuYWRndWFyZC5jb20
-sdns://AQMAAAAAAAAAETk0LjE0MC4xNS4xNTo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuUso_OQhzIjIuZG5zY3J5cHQuZGVmYXVsdC5uczEuYWRndWFyZC5jb20
+`sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNDo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuUso_OQhzIjIuZG5zY3J5cHQuZGVmYXVsdC5uczEuYWRndWFyZC5jb20`
+`sdns://AQMAAAAAAAAAETk0LjE0MC4xNS4xNTo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuUso_OQhzIjIuZG5zY3J5cHQuZGVmYXVsdC5uczEuYWRndWFyZC5jb20`
 
 
 ## adguard-dns-doh
 
-AdGuard DNS Default public resolver.
-Blocks ads, trackers, phishing and malicious domains.
-Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
+| Name |   |
+| -- | -- |
+| Operator | AdGuard |
+| Homepage | https://adguard-dns.io/en/public-dns.html |
+| Type |  DOH |
+| Comment | AdGuard DNS Default public resolver. Warning: This server is incompatible with anonymization. |
+| Has DNSSEC? | ✔️ |
+| No logging? | ❌ |
+| No Filter? | ❌ Blocks ads, trackers, phishing and malicious domains. |
 
-sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNCCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQw5NC4xNDAuMTQuMTQKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAADDk0LjE0MC4xNS4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQw5NC4xNDAuMTUuMTUKL2Rucy1xdWVyeQ
+`sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNCCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQw5NC4xNDAuMTQuMTQKL2Rucy1xdWVyeQ`
+`sdns://AgMAAAAAAAAADDk0LjE0MC4xNS4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQw5NC4xNDAuMTUuMTUKL2Rucy1xdWVyeQ`
 
 
 ## adguard-dns-doh-ipv6
