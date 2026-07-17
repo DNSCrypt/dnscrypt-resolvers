@@ -273,26 +273,6 @@ IPv6 endpoint. Non-logging public resolver operated by Stéphane Bortzmeyer. Pol
 sdns://AgcAAAAAAAAAGVsyMDAxOjQxZDA6MzAyOjIyMDA6OjE4MF0gMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4RZG9oLmJvcnR6bWV5ZXIuZnIBLw
 
 
-## brahma-world
-
-Brahma World public resolver in Germany.
-No logging. Blocks ads, trackers, malware and phishing domains. DNSSEC ready, QNAME minimization, no EDNS Client Subnet.
-
-Hosted in Nuremberg, Germany. (https://dns.brahma.world)
-
-sdns://AgMAAAAAAAAADTE1Ny45MC4xMjQuNjIgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkQZG5zLmJyYWhtYS53b3JsZAovZG5zLXF1ZXJ5
-
-
-## brahma-world-ipv6
-
-Brahma World public resolver in Germany.
-IPv6 endpoint. No logging. Blocks ads, trackers, malware and phishing domains. DNSSEC ready, QNAME minimization, no EDNS Client Subnet.
-
-Hosted in Nuremberg, Germany. (https://dns.brahma.world)
-
-sdns://AgMAAAAAAAAAF1syYTAxOjRmODoxYzFjOmY1ZTE6OjFdIJB40hpWwOCJHZBiIbaZIzG90XFy6w8z3aB9XGXG4Uw5EGRucy5icmFobWEud29ybGQKL2Rucy1xdWVyeQ
-
-
 ## cipherdns-ct1-doh-za
 
 CipherDNS Cape Town privacy resolver.
@@ -1697,26 +1677,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAG1syNjA2OjY2ODA6Mzc6MTo6Yzk4NDo0YmEzXSBuTdsn8xjENavEUWKPcGp9pDK_NwntjpAjKTvC2FItpBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
-## dnscry.pt-bogota-ipv4
-
-dnscry.pt Bogotá resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTEwMy41Ny4yNTAuNTQgGczZZmZn2G8wpYy_sRNY7bSEhs8NX7LYbgXPgpAF-4oZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-bogota-ipv6
-
-dnscry.pt Bogotá resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyYTAzOmY4MDo1Nzo5OGIxOjoxXSAZzNlmZmfYbzCljL-xE1jttISGzw1fsthuBc-CkAX7ihkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
 ## dnscry.pt-bratislava-ipv4
 
 dnscry.pt Bratislava resolver.
@@ -2291,24 +2251,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6Mzc6MTo6Yzk4NDo0YmEzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9iZWkwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
-## dnscry.pt-doh-bogota-ipv4
-
-dnscry.pt Bogotá DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADTEwMy41Ny4yNTAuNTQgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYm9nMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-bogota-ipv6
-
-dnscry.pt Bogotá DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFVsyYTAzOmY4MDo1Nzo5OGIxOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9ib2cwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
 ## dnscry.pt-doh-bratislava-ipv4
 
 dnscry.pt Bratislava DoH resolver.
@@ -2513,7 +2455,7 @@ dnscry.pt Coventry DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTQ1LjE1NS4zNy4xNjUgsl8vNpZ_c5TwmTeIWzM_qjVtcZ_qzzjM6fA1UADz4XQPY3Z0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1LjE1NS4zNy4xNjUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPY3Z0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-coventry-ipv6
@@ -2522,7 +2464,7 @@ dnscry.pt Coventry DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyYTBkOmQ4YzA6MDpmMDQzOjo2OTI3XSCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdA9jdnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyYTBkOmQ4YzA6MDpmMDQzOjo2OTI3XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9jdnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-dallas-ipv4
@@ -5209,16 +5151,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAF1syYzBmOmYwMzA6NjA4MDoxOjoxNTZdIAV4WsI535GbZ-KOVe1rW1W_ohm50nFwku1_hF64akicGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-johor-ipv4
-
-dnscry.pt Johor resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTQ1LjI0OS45MS4xNTAgHONiOhMA1VOPBBcvrkvy9IW-Q0dhA1aY-g5rKbpy9noZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-johor-ipv6
 
 dnscry.pt Johor resolver.
@@ -7005,7 +6937,7 @@ sdns://AQcAAAAAAAAAETkwLjQ2LjIwNi4yNDg6NDQzIBliqCXeEXeous1YRa1T3AIXMpYmK-Cz4yaK6
 FDN public resolver.
 Operated in France by FDN, the French Data Network non-profit ISP. https://www.fdn.fr/
 
-sdns://AgcAAAAAAAAADDgwLjY3LjE2OS40MCCyXy82ln9zlPCZN4hbMz-qNW1xn-rPOMzp8DVQAPPhdApuczEuZmRuLmZyCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADDgwLjY3LjE2OS40MCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdApuczEuZmRuLmZyCi9kbnMtcXVlcnk
 
 
 ## fdn-ipv6

@@ -845,24 +845,6 @@ https://www.dnscry.pt
 sdns://gRZbMjQwMTpkNGUwOjE6ZjdmZDo6NTNd
 
 
-## dnscry.pt-anon-bogota-ipv4
-
-dnscry.pt Bogotá relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ0xMDMuNTcuMjUwLjU0
-
-
-## dnscry.pt-anon-bogota-ipv6
-
-dnscry.pt Bogotá relay.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gRVbMmEwMzpmODA6NTc6OThiMTo6MV0
-
-
 ## dnscry.pt-anon-bratislava-ipv4
 
 dnscry.pt Bratislava relay.
