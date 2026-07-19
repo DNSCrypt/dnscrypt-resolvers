@@ -6990,42 +6990,6 @@ Operated by Internet Initiative Japan in Tokyo. Blocks child pornography. https:
 sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUgkHjSGlbA4IkdkGIhtpkjMb3RcXLrDzPdoH1cZcbhTDkRcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
 
 
-## jp.tiar.app-doh
-
-Tiarap Japan non-filtering resolver.
-No logging, no filtering, no EDNS Client Subnet, supports DNSSEC. https://jp.tiar.app
-Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
-
-sdns://AgcAAAAAAAAADTE3Mi4xMDQuOTMuODAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQLanAudGlhci5hcHAKL2Rucy1xdWVyeQ
-
-
-## jp.tiar.app-doh-ipv6
-
-Tiarap Japan non-filtering resolver.
-IPv6 endpoint. No logging, no filtering, no EDNS Client Subnet, supports DNSSEC. https://jp.tiar.app
-Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
-
-sdns://AgcAAAAAAAAAIFsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50C2pwLnRpYXIuYXBwCi9kbnMtcXVlcnk
-
-
-## jp.tiarap.org
-
-Tiarap Japan non-filtering resolver.
-Cached via Cloudflare. No logging, no filtering, no EDNS Client Subnet, supports DNSSEC. https://jp.tiarap.org
-Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
-
-sdns://AgcAAAAAAAAAAAANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
-
-
-## jp.tiarap.org-ipv6
-
-Tiarap Japan non-filtering resolver.
-IPv6 endpoint, cached via Cloudflare. No logging, no filtering, no EDNS Client Subnet, supports DNSSEC. https://jp.tiarap.org
-Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
-
-sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzMDo6YWM0MzphZDNiXQANanAudGlhcmFwLm9yZwovZG5zLXF1ZXJ5
-
-
 ## ksol.io-ns2-dnscrypt-ipv4
 
 ksol.io ns2 resolver in Hungary.
