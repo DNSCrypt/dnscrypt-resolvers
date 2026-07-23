@@ -1699,26 +1699,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAHFsyYTA2OjEyODA6YmVlMToyOjplZTEyOjIwOF0gFZBlBK4zOYv9gA2x2vbrAU4eYkJgS0DY_YkjrDX7R7MZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-baku-ipv4
-
-dnscry.pt Baku resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTE4MC4xNDkuNDQuMjIgzFqKs9NlDJYf28HgAJmVod3LGm6J7S5RqKIX639xBoYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-baku-ipv6
-
-dnscry.pt Baku resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6MTk1Ojo5MV0gzFqKs9NlDJYf28HgAJmVod3LGm6J7S5RqKIX639xBoYZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-bangkok-ipv4
 
 dnscry.pt Bangkok resolver.
@@ -1837,26 +1817,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAIlsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjY6NzE5NF0gHcOFB0ClNHK4wi9FJAR0EFnfMxRk9M8r2Gy5Lc2rtzkZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-brussels-ipv4
-
-dnscry.pt Brussels resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADzE5Mi4xMjEuMTcwLjE1MSAT1-NSdE3OfjoVPgHNxNnBX5TUCfS8OtUxrRV9UpJZBxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-brussels-ipv6
-
-dnscry.pt Brussels resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFVsyYTAzOmY4MDozMjo1MmQ5OjoxXSAT1-NSdE3OfjoVPgHNxNnBX5TUCfS8OtUxrRV9UpJZBxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
 
 
 ## dnscry.pt-bucharest-ipv4
@@ -2125,7 +2085,7 @@ dnscry.pt Adelaide DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE3NS40NS4xODIuMTc5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2FkbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE3NS40NS4xODIuMTc5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2FkbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-adelaide-ipv6
@@ -2134,7 +2094,7 @@ dnscry.pt Adelaide DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNDA0Ojk0MDA6NjhmMToxMDA6OjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9hZGwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNDA0Ojk0MDA6NjhmMToxMDA6OjUzXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9hZGwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-allendale-ipv4
@@ -2143,7 +2103,7 @@ dnscry.pt Allendale DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjIzLjEyOS4xODAuMTk1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2FxeDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIzLjEyOS4xODAuMTk1IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2FxeDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-allendale-ipv6
@@ -2152,7 +2112,7 @@ dnscry.pt Allendale DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNjAyOmY3YTM6MDo1MjAwOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9hcXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNjAyOmY3YTM6MDo1MjAwOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9hcXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-allentown-ipv4
@@ -2161,7 +2121,7 @@ dnscry.pt Allentown DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIzLjEzNy4yNTMuMjQgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYWJlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIzLjEzNy4yNTMuMjQg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYWJlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-allentown-ipv6
@@ -2170,7 +2130,7 @@ dnscry.pt Allentown DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHFsyNjAyOmZjMjQ6MTk6NzRiMDo1Mjg1OjoxMl0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYWJlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAHFsyNjAyOmZjMjQ6MTk6NzRiMDo1Mjg1OjoxMl0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYWJlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-amsterdam-ipv4
@@ -2179,7 +2139,7 @@ dnscry.pt Amsterdam DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE5OC4xNDAuMTQxLjQ2IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2FtczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE5OC4xNDAuMTQxLjQ2IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2FtczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-amsterdam-ipv6
@@ -2188,7 +2148,7 @@ dnscry.pt Amsterdam DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFlsyYTAzOjk0ZTM6MjIyYjo6MTAzMl0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYW1zMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFlsyYTAzOjk0ZTM6MjIyYjo6MTAzMl0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYW1zMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-amsterdam02-ipv4
@@ -2197,7 +2157,7 @@ dnscry.pt Amsterdam 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTQ1Ljg2LjE2Mi4xMTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYW1zMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1Ljg2LjE2Mi4xMTAg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYW1zMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-amsterdam02-ipv6
@@ -2206,7 +2166,7 @@ dnscry.pt Amsterdam 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syYTA3OmVmYzA6MTAwMTphNWNlOjpiNGI0XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9hbXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syYTA3OmVmYzA6MTAwMTphNWNlOjpiNGI0XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9hbXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-amsterdam03-ipv4
@@ -2215,7 +2175,7 @@ dnscry.pt Amsterdam 03 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIzLjEzNy4yNDkuMjYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYW1zMDMuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIzLjEzNy4yNDkuMjYg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYW1zMDMuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-amsterdam03-ipv6
@@ -2224,7 +2184,7 @@ dnscry.pt Amsterdam 03 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjAyOmZjMjQ6MTI6OTg3Mzo6YWIxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9hbXMwMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNjAyOmZjMjQ6MTI6OTg3Mzo6YWIxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9hbXMwMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-ashburn-ipv4
@@ -2233,7 +2193,7 @@ dnscry.pt Ashburn DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjc3LjI0Ny4xMjcuMTA3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2FibjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjc3LjI0Ny4xMjcuMTA3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2FibjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-ashburn-ipv6
@@ -2242,7 +2202,7 @@ dnscry.pt Ashburn DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syYTBhOjhkYzA6YTA2Nzo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYWJuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syYTBhOjhkYzA6YTA2Nzo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYWJuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-atlanta-ipv4
@@ -2251,7 +2211,7 @@ dnscry.pt Atlanta DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE3MC4yNDkuMjM3LjE1NCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9hdGwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE3MC4yNDkuMjM3LjE1NCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9hdGwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-atlanta-ipv6
@@ -2260,7 +2220,7 @@ dnscry.pt Atlanta DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNjAwOjRjMDA6ODA6ODo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYXRsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNjAwOjRjMDA6ODA6ODo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYXRsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-auckland-ipv4
@@ -2269,7 +2229,7 @@ dnscry.pt Auckland DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE4NS45OS4xMzMuMTEyIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2FrbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS45OS4xMzMuMTEyIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2FrbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-auckland-ipv6
@@ -2278,25 +2238,7 @@ dnscry.pt Auckland DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHFsyYTA2OjEyODA6YmVlMToyOjplZTEyOjIwOF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYWtsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-baku-ipv4
-
-dnscry.pt Baku DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADTE4MC4xNDkuNDQuMjIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ3lkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-baku-ipv6
-
-dnscry.pt Baku DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAzOjkwYzA6MTk1Ojo5MV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ3lkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAHFsyYTA2OjEyODA6YmVlMToyOjplZTEyOjIwOF0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYWtsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-bangkok-ipv4
@@ -2305,7 +2247,7 @@ dnscry.pt Bangkok DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwMy4zOC4yNTAuNTUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYmtrMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMy4zOC4yNTAuNTUg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYmtrMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-bangkok-ipv6
@@ -2314,7 +2256,7 @@ dnscry.pt Bangkok DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syMDAxOmRmMTo4OGMwOjIwMDo6MTRdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2JrazAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syMDAxOmRmMTo4OGMwOjIwMDo6MTRdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2JrazAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-bengaluru-ipv4
@@ -2323,7 +2265,7 @@ dnscry.pt Bengaluru DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE2MC4xOTEuMTgyLjIxNiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9ibHIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2MC4xOTEuMTgyLjIxNiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9ibHIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-bengaluru-ipv6
@@ -2332,7 +2274,7 @@ dnscry.pt Bengaluru DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFlsyNDAxOmQ0ZTA6MTpmN2ZkOjo1M10gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYmxyMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFlsyNDAxOmQ0ZTA6MTpmN2ZkOjo1M10g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYmxyMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-berkeleysprings-ipv4
@@ -2341,7 +2283,7 @@ dnscry.pt Berkeley Springs DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE5My40Mi4yNDYuMTA4IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2JlaTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE5My40Mi4yNDYuMTA4IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2JlaTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-berkeleysprings-ipv6
@@ -2350,7 +2292,7 @@ dnscry.pt Berkeley Springs DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6Mzc6MTo6Yzk4NDo0YmEzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9iZWkwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6Mzc6MTo6Yzk4NDo0YmEzXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9iZWkwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-bratislava-ipv4
@@ -2359,7 +2301,7 @@ dnscry.pt Bratislava DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjk1LjEzMS4yMDIuMTA1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2J0czAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjk1LjEzMS4yMDIuMTA1IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2J0czAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-bratislava-ipv6
@@ -2368,7 +2310,7 @@ dnscry.pt Bratislava DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHVsyYTA1OjU1MDI6OjU5MDY6OTdmODoyZDBlOjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2J0czAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAHVsyYTA1OjU1MDI6OjU5MDY6OTdmODoyZDBlOjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2J0czAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-bremen-ipv4
@@ -2377,7 +2319,7 @@ dnscry.pt Bremen DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTg5LjEwNi43OC4xMDYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYnJlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTg5LjEwNi43OC4xMDYg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYnJlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-bremen-ipv6
@@ -2386,7 +2328,7 @@ dnscry.pt Bremen DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTA2OmRlMDQ6MTA6MTIxMjo6XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9icmUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTA2OmRlMDQ6MTA6MTIxMjo6XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9icmUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-brisbane-ipv4
@@ -2395,7 +2337,7 @@ dnscry.pt Brisbane DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjQzLjIyNC4xODAuMTM3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2JuZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjQzLjIyNC4xODAuMTM3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2JuZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-brisbane-ipv6
@@ -2404,25 +2346,7 @@ dnscry.pt Brisbane DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAIlsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjY6NzE5NF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPYm5lMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-brussels-ipv4
-
-dnscry.pt Brussels DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADzE5Mi4xMjEuMTcwLjE1MSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9icnUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-brussels-ipv6
-
-dnscry.pt Brussels DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFVsyYTAzOmY4MDozMjo1MmQ5OjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9icnUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAIlsyNDA0Ojk0MDA6MTowOjIxNjozZWZmOmZlZjY6NzE5NF0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPYm5lMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-bucharest-ipv4
@@ -2431,7 +2355,7 @@ dnscry.pt Bucharest DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE4NS45My4yMjEuMTY3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2J1aDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS45My4yMjEuMTY3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2J1aDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-bucharest-ipv6
@@ -2440,7 +2364,7 @@ dnscry.pt Bucharest DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyYTBkOjllYzI6MDpmMDNkOjpjNDllXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9idWgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyYTBkOjllYzI6MDpmMDNkOjpjNDllXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9idWgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-budapest-ipv4
@@ -2449,7 +2373,7 @@ dnscry.pt Budapest DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE5My4yMDEuMTg1LjE0NiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9idWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE5My4yMDEuMTg1LjE0NiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9idWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-budapest-ipv6
@@ -2458,7 +2382,7 @@ dnscry.pt Budapest DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syYTAxOjZlZTA6MTo6ZmZmZjpiYWVdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2J1ZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syYTAxOjZlZTA6MTo6ZmZmZjpiYWVdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2J1ZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-capetown-ipv4
@@ -2467,7 +2391,7 @@ dnscry.pt Cape Town DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwMi4yMTYuNzkuMjM3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2NwdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwMi4yMTYuNzkuMjM3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2NwdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-capetown-ipv6
@@ -2476,7 +2400,7 @@ dnscry.pt Cape Town DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGVsyYzBmOmVmMTg6OWZmZjoxOmJmZjo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPY3B0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGVsyYzBmOmVmMTg6OWZmZjoxOmJmZjo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPY3B0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-capetown02-ipv4
@@ -2485,7 +2409,7 @@ dnscry.pt Cape Town 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE2MC4xMTkuMjMzLjI0NSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9jcHQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2MC4xMTkuMjMzLjI0NSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9jcHQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-capetown02-ipv6
@@ -2494,7 +2418,7 @@ dnscry.pt Cape Town 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGVsyYzBmOmYwMzA6MTAwMDoyMzM6OjI0NV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPY3B0MDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGVsyYzBmOmYwMzA6MTAwMDoyMzM6OjI0NV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPY3B0MDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-chicago-ipv4
@@ -2503,7 +2427,7 @@ dnscry.pt Chicago DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTQ1LjQxLjIwNC4yMDQgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPb3JkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1LjQxLjIwNC4yMDQg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPb3JkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-chicago-ipv6
@@ -2512,7 +2436,7 @@ dnscry.pt Chicago DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAH1syNjAyOmZlYTc6ZTBjOmU6YmZmOjY6NzA6MTk0Y10gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPb3JkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAH1syNjAyOmZlYTc6ZTBjOmU6YmZmOjY6NzA6MTk0Y10g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPb3JkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-chisinau-ipv4
@@ -2521,7 +2445,7 @@ dnscry.pt Chișinău DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE3Ni4xMjMuMTAuMTA1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2tpdjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE3Ni4xMjMuMTAuMTA1IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2tpdjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-chisinau-ipv6
@@ -2530,7 +2454,7 @@ dnscry.pt Chișinău DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHVsyMDAxOjY3ODo2ZDQ6NTA4MDo6M2RlYToxMDldIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2tpdjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAHVsyMDAxOjY3ODo2ZDQ6NTA4MDo6M2RlYToxMDldIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2tpdjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-copenhagen-ipv4
@@ -2539,7 +2463,7 @@ dnscry.pt Copenhagen DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE5Mi4xMjEuMTE5LjE5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2NwaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE5Mi4xMjEuMTE5LjE5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2NwaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-copenhagen-ipv6
@@ -2548,7 +2472,7 @@ dnscry.pt Copenhagen DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAI1syMDAxOjY3YzpiZWM6Yjo0M2E6MWFmZjpmZWIxOmViNWRdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2NwaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAI1syMDAxOjY3YzpiZWM6Yjo0M2E6MWFmZjpmZWIxOmViNWRdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2NwaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-coventry-ipv4
@@ -2557,7 +2481,7 @@ dnscry.pt Coventry DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTQ1LjE1NS4zNy4xNjUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPY3Z0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1LjE1NS4zNy4xNjUg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPY3Z0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-coventry-ipv6
@@ -2566,7 +2490,7 @@ dnscry.pt Coventry DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyYTBkOmQ4YzA6MDpmMDQzOjo2OTI3XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9jdnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyYTBkOmQ4YzA6MDpmMDQzOjo2OTI3XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9jdnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-dallas-ipv4
@@ -2575,7 +2499,7 @@ dnscry.pt Dallas DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIzLjIzMC4yNTMuOTggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZGZ3MDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIzLjIzMC4yNTMuOTgg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZGZ3MDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dallas-ipv6
@@ -2584,7 +2508,7 @@ dnscry.pt Dallas DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNjAyOmZiOTQ6MTozOTo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZGZ3MDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNjAyOmZiOTQ6MTozOTo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZGZ3MDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-denver-ipv4
@@ -2593,7 +2517,7 @@ dnscry.pt Denver DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzIxNi4xMjAuMjAxLjEwNSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9kZW4wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzIxNi4xMjAuMjAxLjEwNSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9kZW4wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-denver-ipv6
@@ -2602,7 +2526,7 @@ dnscry.pt Denver DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjA3OmE2ODA6NjpmMDE2OjozYTI1XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9kZW4wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNjA3OmE2ODA6NjpmMDE2OjozYTI1XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9kZW4wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-detroit-ipv4
@@ -2611,7 +2535,7 @@ dnscry.pt Detroit DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDY2LjE4Ny43LjE0MCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9kdHcwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDY2LjE4Ny43LjE0MCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9kdHcwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-detroit-ipv6
@@ -2620,7 +2544,7 @@ dnscry.pt Detroit DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAI1syNjA2OjY1YzA6NDA6NDo1ZjM6NTRjNDo4ZDEwOjliOThdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2R0dzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAI1syNjA2OjY1YzA6NDA6NDo1ZjM6NTRjNDo4ZDEwOjliOThdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2R0dzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-dhaka-ipv4
@@ -2629,7 +2553,7 @@ dnscry.pt Dhaka DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwMy4xNzQuNTEuNzEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZGFjMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMy4xNzQuNTEuNzEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZGFjMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dhaka-ipv6
@@ -2638,7 +2562,7 @@ dnscry.pt Dhaka DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyMDAxOmRmMTo4ZjQwOjUxOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9kYWMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyMDAxOmRmMTo4ZjQwOjUxOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9kYWMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-dublin-ipv4
@@ -2647,7 +2571,7 @@ dnscry.pt Dublin DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE5NC4yNi4yMTMuMTUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZHViMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE5NC4yNi4yMTMuMTUg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZHViMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dublin-ipv6
@@ -2656,7 +2580,7 @@ dnscry.pt Dublin DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTA5OmNkNDY6Zjo0MjllOjo1XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9kdWIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTA5OmNkNDY6Zjo0MjllOjo1XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9kdWIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-durham-ipv4
@@ -2665,7 +2589,7 @@ dnscry.pt Durham DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDM4LjQ1LjY0LjExNyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9yZHUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDM4LjQ1LjY0LjExNyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9yZHUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-durham-ipv6
@@ -2674,7 +2598,7 @@ dnscry.pt Durham DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHVsyMDAxOjU1MDo1YTAwOjVlYjo6ZGI1OmZhY2VdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3JkdTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAHVsyMDAxOjU1MDo1YTAwOjVlYjo6ZGI1OmZhY2VdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3JkdTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-dusseldorf-ipv4
@@ -2683,7 +2607,7 @@ dnscry.pt Düsseldorf DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTUuMTc1LjE4MC4xNzEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZHVzMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTUuMTc1LjE4MC4xNzEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZHVzMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dusseldorf-ipv6
@@ -2692,7 +2616,7 @@ dnscry.pt Düsseldorf DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyYTBmOjYyODQ6NDMwMDoxMDE6OjEyYTVdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2R1czAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyYTBmOjYyODQ6NDMwMDoxMDE6OjEyYTVdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2R1czAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-dusseldorf02-ipv4
@@ -2701,7 +2625,7 @@ dnscry.pt Düsseldorf 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTM3LjExNC41OC4xMTUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZHVzMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTM3LjExNC41OC4xMTUg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZHVzMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dusseldorf02-ipv6
@@ -2710,7 +2634,7 @@ dnscry.pt Düsseldorf 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFlsyYTA2OmRlMDA6NDAxOjIyNzo6Ml0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZHVzMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFlsyYTA2OmRlMDA6NDAxOjIyNzo6Ml0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZHVzMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dusseldorf03-ipv4
@@ -2719,7 +2643,7 @@ dnscry.pt Düsseldorf 03 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTExOC45MS4xODQuODkgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZHVzMDMuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTExOC45MS4xODQuODkg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZHVzMDMuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-dusseldorf03-ipv6
@@ -2728,25 +2652,7 @@ dnscry.pt Düsseldorf 03 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEVsyYTBkOmQ5MDA6MTEwOjpdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2R1czAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-ebenecity-ipv4
-
-dnscry.pt Ebène City DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADjEwMi4yMjIuMTA2Ljk2IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21ydTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-ebenecity-ipv6
-
-dnscry.pt Ebène City DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAH1syYzBmOmU4Zjg6MjAwMDoyMzM6OjQyNTQ6YzViMl0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbXJ1MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAEVsyYTBkOmQ5MDA6MTEwOjpdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2R1czAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-ebenecity02-ipv4
@@ -2755,7 +2661,7 @@ dnscry.pt Ebène City 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDE5Ni40Ni41MC45MyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9tcnUwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDE5Ni40Ni41MC45MyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9tcnUwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-ebenecity02-ipv6
@@ -2764,7 +2670,7 @@ dnscry.pt Ebène City 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyMDAxOjQ3MDoxZjIzOjEzOTo6YjpiXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9tcnUwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyMDAxOjQ3MDoxZjIzOjEzOTo6YjpiXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9tcnUwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-eygelshoven-ipv4
@@ -2773,7 +2679,7 @@ dnscry.pt Eygelshoven DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDkzLjk1LjExNS4yMSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9leWcwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDkzLjk1LjExNS4yMSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9leWcwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-eygelshoven-ipv6
@@ -2782,7 +2688,7 @@ dnscry.pt Eygelshoven DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADlsyYTEwOmNhODA6OmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2V5ZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADlsyYTEwOmNhODA6OmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2V5ZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-flint-ipv4
@@ -2791,7 +2697,7 @@ dnscry.pt Flint DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE0Ny4xODkuMTQwLjEzNiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9mbnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE0Ny4xODkuMTQwLjEzNiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9mbnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-flint-ipv6
@@ -2800,7 +2706,7 @@ dnscry.pt Flint DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6Mjk6MTo6NTg1OTphMzdiXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9mbnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6Mjk6MTo6NTg1OTphMzdiXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9mbnQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-frankfurt-ipv4
@@ -2809,7 +2715,7 @@ dnscry.pt Frankfurt DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDQ1LjgyLjEyMC42MSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9mcmEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDQ1LjgyLjEyMC42MSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9mcmEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-frankfurt-ipv6
@@ -2818,7 +2724,7 @@ dnscry.pt Frankfurt DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syYTBlOjZhODA6Mzo2Njk6Ol0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZnJhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syYTBlOjZhODA6Mzo2Njk6Ol0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZnJhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-frankfurt02-ipv4
@@ -2827,7 +2733,7 @@ dnscry.pt Frankfurt 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTQ1LjE0Ny41MS4xMjMgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZnJhMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1LjE0Ny41MS4xMjMg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZnJhMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-frankfurt02-ipv6
@@ -2836,7 +2742,7 @@ dnscry.pt Frankfurt 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyYTA3OmQ4ODQ6MTAwOjozNDRdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2ZyYTAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyYTA3OmQ4ODQ6MTAwOjozNDRdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2ZyYTAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-fremont02-ipv4
@@ -2845,7 +2751,7 @@ dnscry.pt Fremont 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDE2Ny44OC40OC4xOCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9mZXQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDE2Ny44OC40OC4xOCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9mZXQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-fremont02-ipv6
@@ -2854,7 +2760,7 @@ dnscry.pt Fremont 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjAyOmZlZDI6NzE5ODo3YWYxOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9mZXQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNjAyOmZlZDI6NzE5ODo3YWYxOjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9mZXQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-gdansk-ipv4
@@ -2863,7 +2769,7 @@ dnscry.pt Gdańsk DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTgyLjExOC4yMS4xODkgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ2RuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTgyLjExOC4yMS4xODkg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZ2RuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-gdansk-ipv6
@@ -2872,7 +2778,7 @@ dnscry.pt Gdańsk DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEFsyYTA1Ojk0MDQ6Ojg5OV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ2RuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAEFsyYTA1Ojk0MDQ6Ojg5OV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZ2RuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-geneva-ipv4
@@ -2881,7 +2787,7 @@ dnscry.pt Geneva DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDQ1LjkwLjU5LjE5MyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9ndmEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDQ1LjkwLjU5LjE5MyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9ndmEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-geneva-ipv6
@@ -2890,7 +2796,7 @@ dnscry.pt Geneva DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEFsyYTA1Ojk0MDY6OmFlMV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ3ZhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAEFsyYTA1Ojk0MDY6OmFlMV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZ3ZhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-grandrapids-ipv4
@@ -2899,7 +2805,7 @@ dnscry.pt Grand Rapids DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE4NS4xNjUuNDQuMTY0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2dycjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS4xNjUuNDQuMTY0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2dycjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-grandrapids-ipv6
@@ -2908,7 +2814,7 @@ dnscry.pt Grand Rapids DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNjAyOmY5NjQ6MToyNDo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ3JyMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNjAyOmY5NjQ6MToyNDo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZ3JyMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-hafnarfjordur-ipv4
@@ -2917,7 +2823,7 @@ dnscry.pt Hafnarfjordur DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE5Mi43MS4yMTguMTIxIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hhZjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE5Mi43MS4yMTguMTIxIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hhZjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hafnarfjordur-ipv6
@@ -2926,7 +2832,7 @@ dnscry.pt Hafnarfjordur DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFlsyYTAzOmY4MDozNTQ6MzZhMTo6MV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaGFmMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFlsyYTAzOmY4MDozNTQ6MzZhMTo6MV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaGFmMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-halifax-ipv4
@@ -2935,7 +2841,7 @@ dnscry.pt Halifax DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDIzLjE5MS44MC40MyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95aHowMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDIzLjE5MS44MC40MyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95aHowMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-halifax-ipv6
@@ -2944,7 +2850,7 @@ dnscry.pt Halifax DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNjAyOmZjMWM6ZmEwOjI5OjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95aHowMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNjAyOmZjMWM6ZmEwOjI5OjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95aHowMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-hanoi-ipv4
@@ -2953,7 +2859,7 @@ dnscry.pt Hanoi DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwMy4xOTkuMTYuOTMgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaGFuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMy4xOTkuMTYuOTMg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaGFuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-hanoi-ipv6
@@ -2962,7 +2868,7 @@ dnscry.pt Hanoi DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNDA0OmZiYzA6MDoxMWM4OjphMzI0XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9oYW4wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNDA0OmZiYzA6MDoxMWM4OjphMzI0XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9oYW4wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-helsinki-ipv4
@@ -2971,7 +2877,7 @@ dnscry.pt Helsinki DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjM3LjIyOC4xMjkuMTYwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hlbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjM3LjIyOC4xMjkuMTYwIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hlbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-helsinki-ipv6
@@ -2980,7 +2886,7 @@ dnscry.pt Helsinki DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTA2OjE3MDA6MTozYTo6Y2JhXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9oZWwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTA2OjE3MDA6MTozYTo6Y2JhXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9oZWwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-hochiminhcity-ipv4
@@ -2989,7 +2895,7 @@ dnscry.pt Ho-Chi-Minh City DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE2NS45OS4xMzEuOTUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2duMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE2NS45OS4xMzEuOTUg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPc2duMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-hochiminhcity-ipv6
@@ -2998,7 +2904,7 @@ dnscry.pt Ho-Chi-Minh City DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyNDAwOmQ3NjA6MDozNDM6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NnbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyNDAwOmQ3NjA6MDozNDM6OjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NnbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hongkong-ipv4
@@ -3007,7 +2913,7 @@ dnscry.pt Hong Kong DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzk2LjkuMjI4LjI3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hrZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzk2LjkuMjI4LjI3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hrZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hongkong-ipv6
@@ -3016,7 +2922,7 @@ dnscry.pt Hong Kong DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGVsyMDAxOmRmMTo4MDE6YTAyMjo6YzQ6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaGtnMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGVsyMDAxOmRmMTo4MDE6YTAyMjo6YzQ6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaGtnMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-hongkong02-ipv4
@@ -3025,7 +2931,7 @@ dnscry.pt Hong Kong 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjIxNi4yNTAuOTcuMTQ4IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hrZzAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIxNi4yNTAuOTcuMTQ4IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hrZzAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hongkong02-ipv6
@@ -3034,7 +2940,7 @@ dnscry.pt Hong Kong 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syNDA2OmVmODA6MToyMTczOjpiNWZdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hrZzAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syNDA2OmVmODA6MToyMTczOjpiNWZdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hrZzAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hongkong03-ipv4
@@ -3043,7 +2949,7 @@ dnscry.pt Hong Kong 03 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjQ1LjEyMy4xODguMTI5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hrZzAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjQ1LjEyMy4xODguMTI5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hrZzAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hongkong03-ipv6
@@ -3052,7 +2958,7 @@ dnscry.pt Hong Kong 03 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syNDA2OjQzMDA6YmFlOjZiMDg6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2hrZzAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syNDA2OjQzMDA6YmFlOjZiMDg6OjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2hrZzAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-houston-ipv4
@@ -3061,7 +2967,7 @@ dnscry.pt Houston DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjIwOS4xMzUuMTcwLjUxIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lhaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIwOS4xMzUuMTcwLjUxIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2lhaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-houston-ipv6
@@ -3070,7 +2976,7 @@ dnscry.pt Houston DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyNjAyOmY5ZjM6MDoyOjoxOTNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lhaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyNjAyOmY5ZjM6MDoyOjoxOTNdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2lhaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-hudiksvall-ipv4
@@ -3079,7 +2985,7 @@ dnscry.pt Hudiksvall DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTk1LjE0My4xOTYuMTYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaHV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTk1LjE0My4xOTYuMTYg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaHV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-hudiksvall-ipv6
@@ -3088,7 +2994,7 @@ dnscry.pt Hudiksvall DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGVsyYTAzOmQ3ODA6MDoxOTY6OjM6NTZhZl0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaHV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGVsyYTAzOmQ3ODA6MDoxOTY6OjM6NTZhZl0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaHV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-ikeja-ipv4
@@ -3097,7 +3003,7 @@ dnscry.pt Ikeja DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE2Ny44OC41MS4yNDUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbG9zMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE2Ny44OC41MS4yNDUg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbG9zMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-ikeja-ipv6
@@ -3106,7 +3012,7 @@ dnscry.pt Ikeja DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyYTAxOmUyODE6YWMwMTpmZDBkOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9sb3MwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyYTAxOmUyODE6YWMwMTpmZDBkOjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9sb3MwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-indianapolis-ipv4
@@ -3115,7 +3021,7 @@ dnscry.pt Indianapolis DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjIzLjE2OC4xMzYuMTQ0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2luZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIzLjE2OC4xMzYuMTQ0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2luZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-indianapolis-ipv6
@@ -3124,7 +3030,7 @@ dnscry.pt Indianapolis DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyNjAyOmY5YmQ6ODA6MTE6OmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2luZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyNjAyOmY5YmQ6ODA6MTE6OmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2luZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-islamabad-ipv4
@@ -3133,7 +3039,7 @@ dnscry.pt Islamabad DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwMy45OS4xMzMuMTEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwMy45OS4xMzMuMTEwIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-islamabad-ipv6
@@ -3142,7 +3048,7 @@ dnscry.pt Islamabad DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyMDAxOmRmMjpkNDA6Mjk6OjJdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyMDAxOmRmMjpkNDA6Mjk6OjJdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-istanbul-ipv4
@@ -3151,7 +3057,7 @@ dnscry.pt Istanbul DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE4OC4xMzIuMTkyLjE2OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9pc3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE4OC4xMzIuMTkyLjE2OCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9pc3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-istanbul-ipv6
@@ -3160,7 +3066,7 @@ dnscry.pt Istanbul DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyYTEyOmUzNDI6MzAwOjpkYWNhOjYzZWFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lzdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyYTEyOmUzNDI6MzAwOjpkYWNhOjYzZWFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2lzdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-jacksonville-ipv4
@@ -3169,7 +3075,7 @@ dnscry.pt Jacksonville DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzEwNC4yMjUuMTI5LjEwNiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qYXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwNC4yMjUuMTI5LjEwNiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9qYXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-jacksonville-ipv6
@@ -3178,7 +3084,7 @@ dnscry.pt Jacksonville DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjA3OmE2ODA6NDpmMDAzOjplYzMyXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qYXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNjA3OmE2ODA6NDpmMDAzOjplYzMyXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9qYXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-jakarta-ipv4
@@ -3187,7 +3093,7 @@ dnscry.pt Jakarta DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE1MS4yNDMuMjIyLjk0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2prdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE1MS4yNDMuMjIyLjk0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2prdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-jakarta-ipv6
@@ -3196,7 +3102,7 @@ dnscry.pt Jakarta DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHlsyNDA3OjZhYzA6Mzo1OjEyMzQ6NDMyMTo4OToxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qa3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAHlsyNDA3OjZhYzA6Mzo1OjEyMzQ6NDMyMTo4OToxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9qa3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-jena-ipv6
@@ -3205,7 +3111,7 @@ dnscry.pt Jena DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syYTAyOjE4MDo2OjE6OjhiNF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPamVuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syYTAyOjE4MDo2OjE6OjhiNF0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPamVuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-johannesburg-ipv4
@@ -3214,7 +3120,7 @@ dnscry.pt Johannesburg DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE2OS4yMzkuMTI4LjEyNCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qbmIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2OS4yMzkuMTI4LjEyNCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9qbmIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-johannesburg-ipv6
@@ -3223,7 +3129,7 @@ dnscry.pt Johannesburg DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyYzBmOmY1MzA6OmQwMDoxODhdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2puYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyYzBmOmY1MzA6OmQwMDoxODhdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2puYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-johannesburg02-ipv4
@@ -3232,7 +3138,7 @@ dnscry.pt Johannesburg 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE2MC4xMTkuMjM0LjE1NiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qbmIwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2MC4xMTkuMjM0LjE1NiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9qbmIwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-johannesburg02-ipv6
@@ -3241,7 +3147,7 @@ dnscry.pt Johannesburg 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syYzBmOmYwMzA6NjA4MDoxOjoxNTZdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2puYjAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syYzBmOmYwMzA6NjA4MDoxOjoxNTZdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2puYjAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-johor-ipv4
@@ -3250,7 +3156,7 @@ dnscry.pt Johor DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTQ1LjI0OS45MS4xNTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPamhiMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTQ1LjI0OS45MS4xNTAg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPamhiMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-johor-ipv6
@@ -3259,7 +3165,7 @@ dnscry.pt Johor DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyMDAxOmRmNDoxODQwOjlmOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qaGIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyMDAxOmRmNDoxODQwOjlmOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9qaGIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-kansascity-ipv4
@@ -3268,7 +3174,7 @@ dnscry.pt Kansas City DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIzLjE1MC40MC4xMjEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWNpMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIzLjE1MC40MC4xMjEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbWNpMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-kansascity-ipv6
@@ -3277,7 +3183,7 @@ dnscry.pt Kansas City DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGVsyNjAyOjJiNzpkMDE6YzI5NTo6YjoxOF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWNpMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGVsyNjAyOjJiNzpkMDE6YzI5NTo6YjoxOF0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbWNpMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-kyiv-ipv4
@@ -3286,7 +3192,7 @@ dnscry.pt Kyiv DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIxNy4xMi4yMjEuNjEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaWV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIxNy4xMi4yMjEuNjEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaWV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-kyiv-ipv6
@@ -3295,7 +3201,7 @@ dnscry.pt Kyiv DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEFsyYTAyOjI3YWQ6OjIwMV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPaWV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAEFsyYTAyOjI3YWQ6OjIwMV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPaWV2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-kyiv02-ipv4
@@ -3304,7 +3210,7 @@ dnscry.pt Kyiv 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE4NS4xMjYuMjU1LjMwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2lldjAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS4xMjYuMjU1LjMwIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2lldjAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-kyiv02-ipv6
@@ -3313,7 +3219,7 @@ dnscry.pt Kyiv 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTAxOmY1MDA6MjoxNTAwOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9pZXYwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTAxOmY1MDA6MjoxNTAwOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9pZXYwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-lasvegas-ipv4
@@ -3322,7 +3228,7 @@ dnscry.pt Las Vegas DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzY2LjE4Ny40LjM5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xhczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzY2LjE4Ny40LjM5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xhczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-lasvegas-ipv6
@@ -3331,7 +3237,7 @@ dnscry.pt Las Vegas DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAJlsyNjA2OjY1YzA6MTA6MjBlOjE2MjE6ZDk2MzoxMzFjOmJkNGNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xhczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAJlsyNjA2OjY1YzA6MTA6MjBlOjE2MjE6ZDk2MzoxMzFjOmJkNGNdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xhczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-libertylake-ipv4
@@ -3340,7 +3246,7 @@ dnscry.pt Liberty Lake DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDIzLjE4NC40OC4xOSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9sbGswMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDIzLjE4NC40OC4xOSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9sbGswMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-libertylake-ipv6
@@ -3349,25 +3255,7 @@ dnscry.pt Liberty Lake DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyNjAyOmZjMjQ6MjA6NDg6OmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xsazAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-lima02-ipv4
-
-dnscry.pt Lima 02 DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADDg3LjEyMS45OS4yMyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9saW0wMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-lima02-ipv6
-
-dnscry.pt Lima 02 DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAzOjkwYzA6NTU1Ojo3Ml0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbGltMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFFsyNjAyOmZjMjQ6MjA6NDg6OmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xsazAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-lisbon-ipv4
@@ -3376,7 +3264,7 @@ dnscry.pt Lisbon DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDE0My4yMC4xMi4zMiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9saXMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDE0My4yMC4xMi4zMiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9saXMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-lisbon-ipv6
@@ -3385,7 +3273,7 @@ dnscry.pt Lisbon DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyYTBmOmM0NDI6ODAwMDo6MzJdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xpczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyYTBmOmM0NDI6ODAwMDo6MzJdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xpczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-lisbon02-ipv4
@@ -3394,7 +3282,7 @@ dnscry.pt Lisbon 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDkxLjIwOS4xNi45OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9saXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDkxLjIwOS4xNi45OCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9saXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-lisbon02-ipv6
@@ -3403,7 +3291,7 @@ dnscry.pt Lisbon 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAD1syYTBmOmM0NDQ6Ojk4XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9saXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAD1syYTBmOmM0NDQ6Ojk4XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9saXMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-london-ipv4
@@ -3412,7 +3300,7 @@ dnscry.pt London DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDQ1LjY3Ljg0LjEzMiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9sb24wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDQ1LjY3Ljg0LjEzMiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9sb24wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-london-ipv6
@@ -3421,7 +3309,7 @@ dnscry.pt London DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNDAxOjgzNjA6YTI6NDo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbG9uMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNDAxOjgzNjA6YTI6NDo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbG9uMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-losangeles-ipv4
@@ -3430,7 +3318,7 @@ dnscry.pt Los Angeles DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwNC4xNTYuMTU0LjExIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xheDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwNC4xNTYuMTU0LjExIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xheDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-losangeles-ipv6
@@ -3439,7 +3327,7 @@ dnscry.pt Los Angeles DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAElsyNjAyOmY3Zjg6NzpkOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9sYXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAElsyNjAyOmY3Zjg6NzpkOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9sYXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-losangeles02-ipv4
@@ -3448,7 +3336,7 @@ dnscry.pt Los Angeles 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwNC4yMDAuNjcuMTk0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xheDAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwNC4yMDAuNjcuMTk0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xheDAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-losangeles02-ipv6
@@ -3457,25 +3345,7 @@ dnscry.pt Los Angeles 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syNjAyOmZmNzU6NzpiNzk6OmI0YjRdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2xheDAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-luxembourg-ipv4
-
-dnscry.pt Luxembourg DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADDQ1LjgwLjIwOS41NSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9sdXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-luxembourg-ipv6
-
-dnscry.pt Luxembourg DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAzOjkwYzA6ODU6OjEwMl0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbHV4MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAF1syNjAyOmZmNzU6NzpiNzk6OmI0YjRdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2xheDAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-madrid-ipv4
@@ -3484,7 +3354,7 @@ dnscry.pt Madrid DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTUuMTM0LjExOC4xOTggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWFkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTUuMTM0LjExOC4xOTgg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbWFkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-madrid-ipv6
@@ -3493,7 +3363,7 @@ dnscry.pt Madrid DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syYTAzOmM3YzA6NTI6MjY0MToxODA6OjEzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9tYWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syYTAzOmM3YzA6NTI6MjY0MToxODA6OjEzXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9tYWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-manchester-ipv4
@@ -3502,7 +3372,7 @@ dnscry.pt Manchester DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjIxNi4yNDUuMTQwLjIwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21hbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIxNi4yNDUuMTQwLjIwIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D21hbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-manchester-ipv6
@@ -3511,7 +3381,7 @@ dnscry.pt Manchester DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syYTBhOjhkYzA6NjA1ODo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWFuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syYTBhOjhkYzA6NjA1ODo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbWFuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-manila-ipv4
@@ -3520,7 +3390,7 @@ dnscry.pt Manila DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwMy4zOC4yNTEuNjAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbW5sMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMy4zOC4yNTEuNjAg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbW5sMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-manila-ipv6
@@ -3529,7 +3399,7 @@ dnscry.pt Manila DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNDAxOmYyZTA6MDoxMDI6OjE0XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9tbmwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNDAxOmYyZTA6MDoxMDI6OjE0XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9tbmwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-marseille-ipv4
@@ -3538,7 +3408,7 @@ dnscry.pt Marseille DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjQ1LjE0MC4xNjQuMTI3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21yczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjQ1LjE0MC4xNjQuMTI3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D21yczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-marseille-ipv6
@@ -3547,7 +3417,7 @@ dnscry.pt Marseille DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyYTA2OmU4ODE6NzAwMDo6Yjg1Mzo0OTVdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21yczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyYTA2OmU4ODE6NzAwMDo6Yjg1Mzo0OTVdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D21yczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-melbourne-ipv4
@@ -3556,7 +3426,7 @@ dnscry.pt Melbourne DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwMy4xMDguMjI4LjE1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21lbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwMy4xMDguMjI4LjE1IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D21lbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-melbourne-ipv6
@@ -3565,7 +3435,7 @@ dnscry.pt Melbourne DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNDAyOjczNDA6ODAwMDo6NV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWVsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNDAyOjczNDA6ODAwMDo6NV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbWVsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-miami-ipv4
@@ -3574,7 +3444,7 @@ dnscry.pt Miami DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEyOC4yNTQuMjA3LjUwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21pYTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEyOC4yNTQuMjA3LjUwIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D21pYTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-miami-ipv6
@@ -3583,7 +3453,7 @@ dnscry.pt Miami DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAElsyNjAyOmY3Zjg6NjphOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9taWEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAElsyNjAyOmY3Zjg6NjphOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9taWEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-milan-ipv4
@@ -3592,7 +3462,7 @@ dnscry.pt Milan DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTgyLjExOC4xNi4xMjEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbWlsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTgyLjExOC4xNi4xMjEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbWlsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-milan-ipv6
@@ -3601,7 +3471,7 @@ dnscry.pt Milan DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTAyOjI3YWU6ODAwMDo6MmExXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9taWwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTAyOjI3YWU6ODAwMDo6MmExXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9taWwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-molln-ipv4
@@ -3610,7 +3480,7 @@ dnscry.pt Mölln DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTkxLjEwOC44MC4xNTkgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbW9lMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTkxLjEwOC44MC4xNTkg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbW9lMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-molln-ipv6
@@ -3619,7 +3489,7 @@ dnscry.pt Mölln DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syYTA1OjkwMTo2OjEwNDg6Ol0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbW9lMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syYTA1OjkwMTo2OjEwNDg6Ol0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbW9lMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-montreal-ipv4
@@ -3628,7 +3498,7 @@ dnscry.pt Montreal DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE0Ny4xODkuMTM2LjE4MyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95bXEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE0Ny4xODkuMTM2LjE4MyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95bXEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-montreal-ipv6
@@ -3637,7 +3507,7 @@ dnscry.pt Montreal DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyNjA2OjY2ODA6NDU6MTo6Zjc4Yzo5YjBdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ltcTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyNjA2OjY2ODA6NDU6MTo6Zjc4Yzo5YjBdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3ltcTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-moscow-ipv4
@@ -3646,7 +3516,7 @@ dnscry.pt Moscow DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjkzLjE4My4xMDYuMjIyIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D21vdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjkzLjE4My4xMDYuMjIyIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D21vdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-moscow-ipv6
@@ -3655,7 +3525,7 @@ dnscry.pt Moscow DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAElsyYTAzOmUzNDA6MzozOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9tb3cwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAElsyYTAzOmUzNDA6MzozOjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9tb3cwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-mumbai02-ipv6
@@ -3664,7 +3534,7 @@ dnscry.pt Mumbai 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEVsyNjAyOmZhMDg6NTo6NzVdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2JvbTAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAEVsyNjAyOmZhMDg6NTo6NzVdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2JvbTAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-munich-ipv4
@@ -3673,7 +3543,7 @@ dnscry.pt Munich DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE5NC4zOS4yMDUuMTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbXVjMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE5NC4zOS4yMDUuMTAg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbXVjMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-munich-ipv6
@@ -3682,7 +3552,7 @@ dnscry.pt Munich DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyYTBjOjhmYzA6MTc0OTo2NjoxODo6MTZdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D211YzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyYTBjOjhmYzA6MTc0OTo2NjoxODo6MTZdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D211YzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-naaldwijk-ipv4
@@ -3691,7 +3561,7 @@ dnscry.pt Naaldwijk DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzQ1Ljk1LjM4LjI5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D25hdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzQ1Ljk1LjM4LjI5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D25hdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-naaldwijk-ipv6
@@ -3700,7 +3570,7 @@ dnscry.pt Naaldwijk DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAIFsyYTAwOjdjODM6MDoxMjoxNGQwOmY1YjY6NGVjOmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D25hdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAIFsyYTAwOjdjODM6MDoxMjoxNGQwOmY1YjY6NGVjOmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D25hdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-newcastle-ipv4
@@ -3709,7 +3579,7 @@ dnscry.pt Newcastle DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzgyLjIyLjIwLjM0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D25jbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzgyLjIyLjIwLjM0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D25jbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-newcastle-ipv6
@@ -3718,7 +3588,7 @@ dnscry.pt Newcastle DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyYTAzOjU4NDA6MTIzOjg6OmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D25jbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyYTAzOjU4NDA6MTIzOjg6OmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D25jbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-newyork-ipv4
@@ -3727,7 +3597,7 @@ dnscry.pt New York DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE5OS4xMTkuMTM3Ljc0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D255YzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE5OS4xMTkuMTM3Ljc0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D255YzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-newyork-ipv6
@@ -3736,7 +3606,7 @@ dnscry.pt New York DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAElsyNjAyOmY3Zjg6MjpjOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9ueWMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAElsyNjAyOmY3Zjg6MjpjOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9ueWMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-nuremberg-ipv4
@@ -3745,7 +3615,7 @@ dnscry.pt Nuremberg DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIwMi42MS4yMzYuNjcgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbnVlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIwMi42MS4yMzYuNjcg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbnVlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-nuremberg-ipv6
@@ -3754,7 +3624,7 @@ dnscry.pt Nuremberg DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAJVsyYTAzOjQwMDA6NWM6NTE6MjRiOTo1MWZmOmZlODA6ZjNhN10gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPbnVlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAJVsyYTAzOjQwMDA6NWM6NTE6MjRiOTo1MWZmOmZlODA6ZjNhN10g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPbnVlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-ogden-ipv4
@@ -3763,7 +3633,7 @@ dnscry.pt Ogden DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwNy4xODIuMTczLjgzIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D29nZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwNy4xODIuMTczLjgzIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D29nZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-ogden-ipv6
@@ -3772,7 +3642,7 @@ dnscry.pt Ogden DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjA3OmYyZDg6NDAxYjoxMDQ1OjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9vZ2QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNjA3OmYyZDg6NDAxYjoxMDQ1OjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9vZ2QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-oradea-ipv4
@@ -3781,7 +3651,7 @@ dnscry.pt Oradea DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE4NS4yMDcuMTI1LjEwMCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9vbXIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE4NS4yMDcuMTI1LjEwMCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9vbXIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-oradea-ipv6
@@ -3790,7 +3660,7 @@ dnscry.pt Oradea DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHVsyYTBkOjgxNDQ6MDpmNjoyOTE1OmFmOjA6MThdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D29tcjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAHVsyYTBkOjgxNDQ6MDpmNjoyOTE1OmFmOjA6MThdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D29tcjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-ottoville-ipv4
@@ -3799,7 +3669,7 @@ dnscry.pt Ottoville DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzEwNC4yMzQuMjMxLjIzOSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9vdHQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwNC4yMzQuMjMxLjIzOSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9vdHQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-ottoville-ipv6
@@ -3808,7 +3678,7 @@ dnscry.pt Ottoville DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNjAyOmY5NTM6NjoyNTo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPb3R0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNjAyOmY5NTM6NjoyNTo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPb3R0MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-paris-ipv4
@@ -3817,7 +3687,7 @@ dnscry.pt Paris DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzg5LjExNy4yLjE3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3BhcjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzg5LjExNy4yLjE3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3BhcjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-paris-ipv6
@@ -3826,7 +3696,7 @@ dnscry.pt Paris DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHlsyNDAyOmQwYzA6MjI6NmNkMDo0OjQ6NDo1YjgxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9wYXIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAHlsyNDAyOmQwYzA6MjI6NmNkMDo0OjQ6NDo1YjgxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9wYXIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-perth-ipv4
@@ -3835,7 +3705,7 @@ dnscry.pt Perth DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjIwMy4yOS4yNDAuMjQ5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3BlcjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjIwMy4yOS4yNDAuMjQ5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3BlcjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-perth-ipv6
@@ -3844,7 +3714,7 @@ dnscry.pt Perth DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAIlsyNDA0Ojk0MDA6NDowOjIxNjozZWZmOmZlZTY6YTc2Ml0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPcGVyMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAIlsyNDA0Ojk0MDA6NDowOjIxNjozZWZmOmZlZTY6YTc2Ml0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPcGVyMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-phoenix-ipv4
@@ -3853,7 +3723,7 @@ dnscry.pt Phoenix DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE3My4yNDkuMjA1LjE5OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9waHgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE3My4yNDkuMjA1LjE5OCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9waHgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-phoenix-ipv6
@@ -3862,7 +3732,7 @@ dnscry.pt Phoenix DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syNjA3OjkwMDA6NzAwOjEwMzA6OmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3BoeDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syNjA3OjkwMDA6NzAwOjEwMzA6OmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3BoeDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-portedwards-ipv4
@@ -3871,7 +3741,7 @@ dnscry.pt Port Edwards DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE3Ni4xMTEuMjE5LjEyNiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9wZWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE3Ni4xMTEuMjE5LjEyNiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9wZWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-portedwards-ipv6
@@ -3880,7 +3750,7 @@ dnscry.pt Port Edwards DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyMDAxOjQ3MDoxZjExOjJiYjo6YjIzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9wZWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyMDAxOjQ3MDoxZjExOjJiYjo6YjIzXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9wZWQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-portland-ipv4
@@ -3889,7 +3759,7 @@ dnscry.pt Portland DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzEwMy4xMjQuMTA2LjIzMyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9wZHgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwMy4xMjQuMTA2LjIzMyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9wZHgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-portland-ipv6
@@ -3898,7 +3768,7 @@ dnscry.pt Portland DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAIVsyNDAyOmQwYzA6MTY6YTFlNjowOmI4OTM6YmY3OmRkXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9wZHgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAIVsyNDAyOmQwYzA6MTY6YTFlNjowOmI4OTM6YmY3OmRkXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9wZHgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-prague-ipv4
@@ -3907,7 +3777,7 @@ dnscry.pt Prague DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE5NS4xMjMuMjQ1LjE5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ByZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE5NS4xMjMuMjQ1LjE5IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3ByZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-prague-ipv6
@@ -3916,25 +3786,7 @@ dnscry.pt Prague DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEFsyYTA1Ojk0MDM6Ojk5OV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPcHJnMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-queretaro-ipv4
-
-dnscry.pt Querétaro DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADDg5LjIyMy44OC43NCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9xcm8wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-queretaro-ipv6
-
-dnscry.pt Querétaro DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFFsyYTAzOjkwYzA6NTQ1OjoxMWFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3FybzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAEFsyYTA1Ojk0MDM6Ojk5OV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPcHJnMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-redditch-ipv4
@@ -3943,7 +3795,7 @@ dnscry.pt Redditch DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDQ1LjY3Ljg1LjIxOSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9yZGQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDQ1LjY3Ljg1LjIxOSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9yZGQwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-redditch-ipv6
@@ -3952,7 +3804,7 @@ dnscry.pt Redditch DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNDAxOjgzNjA6YTM6ZTo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPcmRkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNDAxOjgzNjA6YTM6ZTo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPcmRkMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-riga-ipv4
@@ -3961,7 +3813,7 @@ dnscry.pt Riga DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE5NS4xMjMuMjEyLjIwMCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9yaXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE5NS4xMjMuMjEyLjIwMCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9yaXgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-riga-ipv6
@@ -3970,7 +3822,7 @@ dnscry.pt Riga DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAEVsyYTAyOjI3YWM6OjEyNDldIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3JpeDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAEVsyYTAyOjI3YWM6OjEyNDldIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3JpeDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-saltlakecity-ipv4
@@ -3979,7 +3831,7 @@ dnscry.pt Salt Lake City DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwMy4xMTQuMTYyLjY1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NsYzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwMy4xMTQuMTYyLjY1IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NsYzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-saltlakecity-ipv6
@@ -3988,7 +3840,7 @@ dnscry.pt Salt Lake City DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAIVsyNDAyOmQwYzA6MTg6YzhmZjowOmI4OTM6YmY3OmRkXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zbGMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAIVsyNDAyOmQwYzA6MTg6YzhmZjowOmI4OTM6YmY3OmRkXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zbGMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-sandefjord-ipv4
@@ -3997,7 +3849,7 @@ dnscry.pt Sandefjord DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE5NC4zMi4xMDcuNDggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdHJmMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE5NC4zMi4xMDcuNDgg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdHJmMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-sandefjord-ipv6
@@ -4006,7 +3858,7 @@ dnscry.pt Sandefjord DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTAzOjk0ZTA6MjcxZjo6NWIxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90cmYwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTAzOjk0ZTA6MjcxZjo6NWIxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90cmYwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-sanjose-ipv4
@@ -4015,7 +3867,7 @@ dnscry.pt San Jose DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE4NS4xMDYuOTYuMjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NqYzAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE4NS4xMDYuOTYuMjEwIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NqYzAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-sanjose-ipv6
@@ -4024,7 +3876,7 @@ dnscry.pt San Jose DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syNjA3OmYzNTg6MWE6ZTo6OGFhMjo5MzMzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zamMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syNjA3OmYzNTg6MWE6ZTo6OGFhMjo5MzMzXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zamMwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-santaclara-ipv4
@@ -4033,7 +3885,7 @@ dnscry.pt Santa Clara DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE3Ni4xMTEuMjIzLjE2NyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zamMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE3Ni4xMTEuMjIzLjE2NyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zamMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-santaclara-ipv6
@@ -4042,7 +3894,7 @@ dnscry.pt Santa Clara DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6MzU6MTo6NTA2ZDo4Y2UyXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zamMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6MzU6MTo6NTA2ZDo4Y2UyXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zamMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-seattle-ipv4
@@ -4051,7 +3903,7 @@ dnscry.pt Seattle DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzIwOS4xODIuMjI1LjEwMyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zZWEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzIwOS4xODIuMjI1LjEwMyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zZWEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-seattle-ipv6
@@ -4060,25 +3912,7 @@ dnscry.pt Seattle DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjA3OmE2ODA6OTpmMDA1Ojo4NmU3XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zZWEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-seoul-ipv4
-
-dnscry.pt Seoul DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADTkyLjM4LjEzNS4xMjggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2VsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-seoul-ipv6
-
-dnscry.pt Seoul DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAzOjkwYzA6MTI1Ojo4OF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2VsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGFsyNjA3OmE2ODA6OTpmMDA1Ojo4NmU3XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zZWEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-seoul02-ipv4
@@ -4087,7 +3921,7 @@ dnscry.pt Seoul 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE1MS4yNDUuMTA2LjE4MSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zZWwwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE1MS4yNDUuMTA2LjE4MSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zZWwwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-seoul02-ipv6
@@ -4096,7 +3930,7 @@ dnscry.pt Seoul 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNDA2OmVmODA6NTo0OGE5OjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zZWwwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNDA2OmVmODA6NTo0OGE5OjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zZWwwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-singapore-ipv4
@@ -4105,7 +3939,7 @@ dnscry.pt Singapore DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE1Ny4yMC4xMDUuMTE1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NpbjAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE1Ny4yMC4xMDUuMTE1IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NpbjAzLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-singapore-ipv6
@@ -4114,7 +3948,7 @@ dnscry.pt Singapore DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMzpmOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zaW4wMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMzpmOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zaW4wMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-singapore02-ipv4
@@ -4123,7 +3957,7 @@ dnscry.pt Singapore 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwMy4xNzkuNDQuNzMgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2luMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMy4xNzkuNDQuNzMg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPc2luMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-singapore02-ipv6
@@ -4132,7 +3966,7 @@ dnscry.pt Singapore 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNDAxOjQ1MjA6MTEyMjo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2luMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNDAxOjQ1MjA6MTEyMjo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPc2luMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-sofia-ipv4
@@ -4141,7 +3975,7 @@ dnscry.pt Sofia DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzc5LjEyNC43LjQzIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NvZjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzc5LjEyNC43LjQzIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NvZjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-sofia-ipv6
@@ -4150,7 +3984,7 @@ dnscry.pt Sofia DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syYTAxOjg3NDA6MTo4NjM6OjNiOGNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NvZjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syYTAxOjg3NDA6MTo4NjM6OjNiOGNdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NvZjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-spokane-ipv4
@@ -4159,7 +3993,7 @@ dnscry.pt Spokane DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwNC4zNi44Ni4xODEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZ2VnMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwNC4zNi44Ni4xODEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPZ2VnMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-spokane-ipv6
@@ -4168,7 +4002,7 @@ dnscry.pt Spokane DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyNjA2OmE4YzA6MzoyMDI6OmFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2dlZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyNjA2OmE4YzA6MzoyMDI6OmFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D2dlZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-stockholm-ipv4
@@ -4177,7 +4011,7 @@ dnscry.pt Stockholm DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDE5NS43Mi42MC42NiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zdG8wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDE5NS43Mi42MC42NiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zdG8wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-stockholm-ipv6
@@ -4186,7 +4020,7 @@ dnscry.pt Stockholm DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syYTA3OmUwNDM6MTo1ZDo6MV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc3RvMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syYTA3OmUwNDM6MTo1ZDo6MV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPc3RvMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-stockholm02-ipv4
@@ -4195,7 +4029,7 @@ dnscry.pt Stockholm 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE4NS4yMzEuMTAwLjEwNiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zdG8wMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE4NS4yMzEuMTAwLjEwNiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zdG8wMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-stockholm02-ipv6
@@ -4204,7 +4038,7 @@ dnscry.pt Stockholm 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAKFsyYTBjOjU3MDA6MzEzMzo2NTA6OTZkNTo5OWZmOmZlOGI6NzRmNF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc3RvMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAKFsyYTBjOjU3MDA6MzEzMzo2NTA6OTZkNTo5OWZmOmZlOGI6NzRmNF0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPc3RvMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-sydney02-ipv4
@@ -4213,7 +4047,7 @@ dnscry.pt Sydney 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE5NS4xMTQuMTQuNzQgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc3lkMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE5NS4xMTQuMTQuNzQg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPc3lkMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-sydney02-ipv6
@@ -4222,7 +4056,7 @@ dnscry.pt Sydney 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNDAyOjczNDA6NTAwMDo2MjAwOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9zeWQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNDAyOjczNDA6NTAwMDo2MjAwOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw9zeWQwMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-taipeh-ipv4
@@ -4231,7 +4065,7 @@ dnscry.pt Taipeh DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzEwMy4xMzEuMTg5LjE5MSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90cGUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzEwMy4xMzEuMTg5LjE5MSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90cGUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-taipeh-ipv6
@@ -4240,7 +4074,7 @@ dnscry.pt Taipeh DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyNDAzOmNmYzA6MTAwNDo6YjViOjQ3ZmZdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3RwZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAGlsyNDAzOmNmYzA6MTAwNDo6YjViOjQ3ZmZdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3RwZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-tallinn-ipv4
@@ -4249,7 +4083,7 @@ dnscry.pt Tallinn DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE4NS4xOTQuNTMuMjIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdGxsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE4NS4xOTQuNTMuMjIg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdGxsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-tallinn-ipv6
@@ -4258,7 +4092,7 @@ dnscry.pt Tallinn DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAElsyYTA0OjZmMDA6NDo6MTdhXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90bGwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAElsyYTA0OjZmMDA6NDo6MTdhXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90bGwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tampa-ipv4
@@ -4267,7 +4101,7 @@ dnscry.pt Tampa DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE2NS4xNDAuMTE3LjI0OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90cGEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE2NS4xNDAuMTE3LjI0OCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90cGEwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tampa-ipv6
@@ -4276,7 +4110,7 @@ dnscry.pt Tampa DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGVsyNjAyOmZjYzA6MjIyMjo5ZDJlOjo1M10gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdHBhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGVsyNjAyOmZjYzA6MjIyMjo5ZDJlOjo1M10g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdHBhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-taos-ipv4
@@ -4285,7 +4119,7 @@ dnscry.pt Taos DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjYzLjEzMy4yMjMuMTM4IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3RzbTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjYzLjEzMy4yMjMuMTM4IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3RzbTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-taos-ipv6
@@ -4294,7 +4128,7 @@ dnscry.pt Taos DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6NTM6MTo6ODQ2YTpiZDc5XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90c20wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAG1syNjA2OjY2ODA6NTM6MTo6ODQ2YTpiZDc5XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90c20wMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tbilisi-ipv4
@@ -4303,7 +4137,7 @@ dnscry.pt Tbilisi DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADzE5NC4xMzUuMTE5LjE1OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90YnMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADzE5NC4xMzUuMTE5LjE1OCDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90YnMwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tbilisi-ipv6
@@ -4312,25 +4146,7 @@ dnscry.pt Tbilisi DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGlsyYTEyOmUzNDA6MzAwOjoxNzY4OmE5NWZdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3RiczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-telaviv-ipv4
-
-dnscry.pt Tel Aviv DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADDUuMTg4LjIyNy4xMyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90bHYwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-telaviv-ipv6
-
-dnscry.pt Tel Aviv DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAzOjkwYzA6MWU3OjozOV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdGx2MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAGlsyYTEyOmUzNDA6MzAwOjoxNzY4OmE5NWZdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3RiczAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-thessaloniki-ipv4
@@ -4339,7 +4155,7 @@ dnscry.pt Thessaloniki DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzg1LjkwLjE5Ny43IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NrZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzg1LjkwLjE5Ny43IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NrZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-thessaloniki-ipv6
@@ -4348,7 +4164,7 @@ dnscry.pt Thessaloniki DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFFsyYTEyOjZmYzM6ODAwMDo6MTldIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3NrZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAFFsyYTEyOjZmYzM6ODAwMDo6MTldIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3NrZzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-timisoara-ipv4
@@ -4357,7 +4173,7 @@ dnscry.pt Timișoara DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDQ1LjEzNC40OC4yNSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90c3IwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDQ1LjEzNC40OC4yNSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90c3IwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-timisoara-ipv6
@@ -4366,7 +4182,7 @@ dnscry.pt Timișoara DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHlsyYTBjOjlmMDA6MjpkOTI4OjZmMGE6YjRlMjo6XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90c3IwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAHlsyYTBjOjlmMDA6MjpkOTI4OjZmMGE6YjRlMjo6XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90c3IwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tirana-ipv4
@@ -4375,7 +4191,7 @@ dnscry.pt Tirana DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE4NS43NS4yNDMuODAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdGlhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE4NS43NS4yNDMuODAg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdGlhMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-tirana-ipv6
@@ -4384,7 +4200,7 @@ dnscry.pt Tirana DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHVsyYTEzOjk0MDM6OjdhNmE6NTMwNjoxZTM1OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3RpYTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAHVsyYTEzOjk0MDM6OjdhNmE6NTMwNjoxZTM1OjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3RpYTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-tokyo-ipv4
@@ -4393,7 +4209,7 @@ dnscry.pt Tokyo DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDQ1LjY3Ljg2LjEyMyCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90eW8wMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDQ1LjY3Ljg2LjEyMyDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90eW8wMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tokyo-ipv6
@@ -4402,7 +4218,7 @@ dnscry.pt Tokyo DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMjpkOjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90eW8wMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNjA2OmZjNDA6NDAwMjpkOjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90eW8wMy5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tokyo02-ipv4
@@ -4411,7 +4227,7 @@ dnscry.pt Tokyo 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDEwMy4xNzkuNDUuNiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA90eW8wMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDEwMy4xNzkuNDUuNiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw90eW8wMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tokyo02-ipv6
@@ -4420,7 +4236,7 @@ dnscry.pt Tokyo 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAE1syNDAxOjQ1MjA6MzAxZTo6YV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdHlvMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAE1syNDAxOjQ1MjA6MzAxZTo6YV0g30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdHlvMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-toronto-ipv4
@@ -4429,7 +4245,7 @@ dnscry.pt Toronto DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjE3Mi45My4xNjcuMjE0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3l5ejAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjE3Mi45My4xNjcuMjE0IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3l5ejAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-toronto-ipv6
@@ -4438,7 +4254,7 @@ dnscry.pt Toronto DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMDk5OjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95eXowMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMDk5OjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95eXowMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-toronto02-ipv4
@@ -4447,7 +4263,7 @@ dnscry.pt Toronto 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADjEwMy4xNDQuMTc3LjU3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3l5ejAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADjEwMy4xNDQuMTc3LjU3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3l5ejAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-toronto02-ipv6
@@ -4456,7 +4272,7 @@ dnscry.pt Toronto 02 DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNjAyOmZlZDI6ZmEwOjRhOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95eXowMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNjAyOmZlZDI6ZmEwOjRhOjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95eXowMi5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-tuusula-ipv4
@@ -4465,7 +4281,7 @@ dnscry.pt Tuusula DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTY1LjIxLjI1Mi4yMDEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdHV1MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTY1LjIxLjI1Mi4yMDEg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdHV1MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-tuusula-ipv6
@@ -4474,7 +4290,7 @@ dnscry.pt Tuusula DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syYTAxOjRmOTpjMDExOmI4NGU6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3R1dTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syYTAxOjRmOTpjMDExOmI4NGU6OjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3R1dTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-valdivia-ipv4
@@ -4483,7 +4299,7 @@ dnscry.pt Valdivia DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTIxNi43My4xNTkuMjYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPemFsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTIxNi43My4xNTkuMjYg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPemFsMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-valdivia-ipv6
@@ -4492,7 +4308,7 @@ dnscry.pt Valdivia DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTA2OmEwMDY6ZDFkMTo6MTE2XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA96YWwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTA2OmEwMDY6ZDFkMTo6MTE2XSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw96YWwwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-vancouver-ipv4
@@ -4501,7 +4317,7 @@ dnscry.pt Vancouver DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADDIzLjE1NC44MS45MiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95dnIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADDIzLjE1NC44MS45MiDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95dnIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-vancouver-ipv6
@@ -4510,7 +4326,7 @@ dnscry.pt Vancouver DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyNjAyOmZlZDI6ZmIwOjZkOjoxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA95dnIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyNjAyOmZlZDI6ZmIwOjZkOjoxXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw95dnIwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-vienna-ipv4
@@ -4519,7 +4335,7 @@ dnscry.pt Vienna DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTgzLjEzOC41NS4xODYgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdmllMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTgzLjEzOC41NS4xODYg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdmllMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-vienna-ipv6
@@ -4528,7 +4344,7 @@ dnscry.pt Vienna DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ZpZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3ZpZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-vilnius-ipv4
@@ -4537,7 +4353,7 @@ dnscry.pt Vilnius DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE2Mi4yNTQuODYuMTMgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdm5vMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE2Mi4yNTQuODYuMTMg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPdm5vMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-vilnius-ipv6
@@ -4546,7 +4362,7 @@ dnscry.pt Vilnius DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAF1syYTEzOjk0MDE6MDoxOjozZDU4OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ZubzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAF1syYTEzOjk0MDE6MDoxOjozZDU4OjFdIN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3ZubzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-warsaw-ipv4
@@ -4555,7 +4371,7 @@ dnscry.pt Warsaw DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTE5NS4zLjIyMS4xNjIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPd2F3MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTE5NS4zLjIyMS4xNjIg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbsPd2F3MDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-warsaw-ipv6
@@ -4564,25 +4380,7 @@ dnscry.pt Warsaw DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAHlsyYTAzOmNmYzA6ODAwMDoyNjo6YzMwMzpkZGEyXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA93YXcwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-yerevan-ipv4
-
-dnscry.pt Yerevan DoH resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADTg1LjkwLjIwNy4xOTkgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZXZuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
-## dnscry.pt-doh-yerevan-ipv6
-
-dnscry.pt Yerevan DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAGVsyYTAzOjkwYzA6NWYxOjI5MDM6OjUzOV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPZXZuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAHlsyYTAzOmNmYzA6ODAwMDoyNjo6YzMwMzpkZGEyXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw93YXcwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-doh-zurich-ipv4
@@ -4591,7 +4389,7 @@ dnscry.pt Zürich DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAACzk0LjI2LjM1LjU3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3pyaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAACzk0LjI2LjM1LjU3IN9Gmj6Z-sGI6kgHGCuJ-2IbQ7MV1jsrEVngkymImwm7D3pyaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-doh-zurich-ipv6
@@ -4600,7 +4398,7 @@ dnscry.pt Zürich DoH resolver.
 IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAAFVsyYTAyOjI5Yjg6ODAwMTo0OjphXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA96cmgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAAFVsyYTAyOjI5Yjg6ODAwMTo0OjphXSDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJuw96cmgwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-dublin-ipv4
@@ -4681,26 +4479,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAEVsyYTBkOmQ5MDA6MTEwOjpdIAVTncRFpBvclMmr4gGgmzyTKgBt-liv61S5GLykqgoMGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-ebenecity-ipv4
-
-dnscry.pt Ebène City resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjEwMi4yMjIuMTA2Ljk2INVM0KkXMpdK3U9cM5QmkFEp4C4EYK9p7td1k0eTupPHGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-ebenecity-ipv6
-
-dnscry.pt Ebène City resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAH1syYzBmOmU4Zjg6MjAwMDoyMzM6OjQyNTQ6YzViMl0g1UzQqRcyl0rdT1wzlCaQUSngLgRgr2nu13WTR5O6k8cZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-ebenecity02-ipv4
@@ -5363,26 +5141,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAFFsyNjAyOmZjMjQ6MjA6NDg6OmFdILCDerZcrrPvR4cmGLQfvCFZD9lZDKWEwi2-oql30a3NGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-lima02-ipv4
-
-dnscry.pt Lima 02 resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDg3LjEyMS45OS4yMyBLyNV6BQU_iwNJcoib09jF8sIn-ucAJBLfUIuXHZQD1hkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-lima02-ipv6
-
-dnscry.pt Lima 02 resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6NTU1Ojo3Ml0gS8jVegUFP4sDSXKIm9PYxfLCJ_rnACQS31CLlx2UA9YZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-lisbon-ipv4
 
 dnscry.pt Lisbon resolver.
@@ -5481,26 +5239,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAF1syNjAyOmZmNzU6NzpiNzk6OmI0YjRdIIhxeSuGQHwchZdstQqcoKD_RAuV4w8Qr_1XmXFZucGEGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-luxembourg-ipv4
-
-dnscry.pt Luxembourg resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDQ1LjgwLjIwOS41NSBRqTRnzxNNFAm2RL2O30OikS0iH19NmFv0HfSfn7-8NBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-luxembourg-ipv6
-
-dnscry.pt Luxembourg resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6ODU6OjEwMl0gUak0Z88TTRQJtkS9jt9DopEtIh9fTZhb9B30n5-_vDQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-madrid-ipv4
@@ -6021,26 +5759,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAEFsyYTA1Ojk0MDM6Ojk5OV0gP9xH_fqjMy8K9H_LM4Ogd9fyeWk7unsgGxuplTmlAgQZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-queretaro-ipv4
-
-dnscry.pt Querétaro resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDg5LjIyMy44OC43NCAD9sK-SHZoULQx-vfHCV5RJ-PJT45xrNe6ivGRKnP_ShkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-queretaro-ipv6
-
-dnscry.pt Querétaro resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFFsyYTAzOjkwYzA6NTQ1OjoxMWFdIAP2wr5IdmhQtDH698cJXlEn48lPjnGs17qK8ZEqc_9KGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-redditch-ipv4
 
 dnscry.pt Redditch resolver.
@@ -6179,26 +5897,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAGFsyNjA3OmE2ODA6OTpmMDA1Ojo4NmU3XSAbREpgYMxYxNqglLJnR6df63qELMlAVMwxGlsjPMMThhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-seoul-ipv4
-
-dnscry.pt Seoul resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTkyLjM4LjEzNS4xMjggyHfVGamJyxLfoAWjERmO4pY3KzKkqY-vSa2UnVx_gYAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-seoul-ipv6
-
-dnscry.pt Seoul resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6MTI1Ojo4OF0gyHfVGamJyxLfoAWjERmO4pY3KzKkqY-vSa2UnVx_gYAZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-seoul02-ipv4
@@ -6461,26 +6159,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGlsyYTEyOmUzNDA6MzAwOjoxNzY4OmE5NWZdIPJzhjdxZyM26tndoRa3Wn6BzROxmvxxTEWO0Kd-ffu8GTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
 
 
-## dnscry.pt-telaviv-ipv4
-
-dnscry.pt Tel Aviv resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADDUuMTg4LjIyNy4xMyC9GtlYrJYNAgOSHcPGAeLI5mm2I3F9QS4mM0Ygkku-zxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-telaviv-ipv6
-
-dnscry.pt Tel Aviv resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAzOjkwYzA6MWU3OjozOV0gvRrZWKyWDQIDkh3DxgHiyOZptiNxfUEuJjNGIJJLvs8ZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
 ## dnscry.pt-thessaloniki-ipv4
 
 dnscry.pt Thessaloniki resolver.
@@ -6739,26 +6417,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAHlsyYTAzOmNmYzA6ODAwMDoyNjo6YzMwMzpkZGEyXSD04GlskrFkkZj5hQjfFY1en6T8yATN_00Vmu4GyZdHuhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-yerevan-ipv4
-
-dnscry.pt Yerevan resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADTg1LjkwLjIwNy4xOTkgk1VXqXvUtR3JLu9xcONFSHTVnBWEj2rWkjgjmv9iQSoZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
-
-
-## dnscry.pt-yerevan-ipv6
-
-dnscry.pt Yerevan resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAGVsyYTAzOjkwYzA6NWYxOjI5MDM6OjUzOV0gk1VXqXvUtR3JLu9xcONFSHTVnBWEj2rWkjgjmv9iQSoZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-zurich-ipv4
