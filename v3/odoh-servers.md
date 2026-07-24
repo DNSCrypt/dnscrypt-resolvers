@@ -563,6 +563,15 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD2prdDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
+## dnscry.pt-odoh-jena
+
+dnscry.pt Jena ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD2plbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-odoh-johannesburg
 
 dnscry.pt Johannesburg ODoH target.
