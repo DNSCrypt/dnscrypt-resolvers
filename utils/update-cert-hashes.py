@@ -20,8 +20,10 @@ import hashlib
 import re
 import select
 import socket
+import ssl
 import struct
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from typing import Optional
@@ -261,7 +263,9 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
     return hashlib.sha256(tbs_data).digest()
 
 
-def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float = 10) -> list[tuple[str, bytes, bool, bool]]:
+def get_cert_hashes(
+    host: str, port: int, server_hostname: Optional[str], timeout: float = 10
+) -> list[tuple[str, bytes, bool, bool]]:
     """Connect to a TLS server and return each peer certificate's CN, TBS hash, CA status, and self-issued status."""
     context = SSL.Context(SSL.TLS_CLIENT_METHOD)
     context.set_default_verify_paths()
@@ -270,18 +274,25 @@ def get_cert_hashes(host: str, port: int, server_hostname: str, timeout: float =
     sock = socket.create_connection((host, port), timeout=timeout)
     sock.setblocking(False)
     conn = SSL.Connection(context, sock)
-    conn.set_tlsext_host_name(server_hostname.encode())
+    if server_hostname:
+        conn.set_tlsext_host_name(server_hostname.encode())
     conn.set_connect_state()
 
-    deadline = socket.getdefaulttimeout() or timeout
+    deadline = time.monotonic() + timeout
     while True:
         try:
             conn.do_handshake()
             break
         except SSL.WantReadError:
-            select.select([sock], [], [], deadline)
+            remaining = deadline - time.monotonic()
+            if remaining <= 0:
+                raise TimeoutError("TLS handshake timed out")
+            select.select([sock], [], [], remaining)
         except SSL.WantWriteError:
-            select.select([], [sock], [], deadline)
+            remaining = deadline - time.monotonic()
+            if remaining <= 0:
+                raise TimeoutError("TLS handshake timed out")
+            select.select([], [sock], [], remaining)
 
     cert_chain = conn.get_peer_cert_chain()
     if not cert_chain:
@@ -324,12 +335,41 @@ class StampUpdate:
     cert_info: str
 
 
-def check_and_update_stamp(resolver_name: str, line_num: int, stamp_str: str) -> Optional[StampUpdate]:
+@dataclass
+class StampFailure:
+    """Represents a stamp whose live TLS chain could not be audited."""
+    resolver_name: str
+    line_num: int
+    error: str
+
+
+@dataclass
+class AuditResult:
+    """The complete result of checking one resolver-list file."""
+    updates: int
+    failures: int
+
+
+def validate_tls(
+    host: str, port: int, server_hostname: Optional[str], timeout: float = 15
+) -> None:
+    """Require a publicly trusted chain, and validate the name when the stamp has one."""
+    context = ssl.create_default_context()
+    if not server_hostname:
+        context.check_hostname = False
+    with socket.create_connection((host, port), timeout=timeout) as sock:
+        with context.wrap_socket(sock, server_hostname=server_hostname):
+            pass
+
+
+def check_and_update_stamp(
+    resolver_name: str, line_num: int, stamp_str: str
+) -> Optional[StampUpdate | StampFailure]:
     """Check a stamp and return update info if hashes need updating."""
     try:
         stamp = DNSStamp.parse(stamp_str)
     except Exception as e:
-        return None
+        return StampFailure(resolver_name, line_num, f"invalid stamp: {e}")
 
     if stamp.proto not in (DNSStamp.DOH, DNSStamp.DOT, DNSStamp.DOQ,
                            DNSStamp.ODOH_TARGET, DNSStamp.ODOH_RELAY):
@@ -351,11 +391,12 @@ def check_and_update_stamp(resolver_name: str, line_num: int, stamp_str: str) ->
         elif ":" in sni and sni.rsplit(":", 1)[1].isdigit():
             sni = sni.rsplit(":", 1)[0]
 
-        # Skip stamps where SNI is an IP address (no hostname available)
-        # These can't be updated without knowing the real hostname
+        # IP-only DoH stamps do not carry a TLS name. Still validate their
+        # chain and derive the pin, but deliberately omit SNI/hostname checks.
         if re.match(r"^[\d.:a-fA-F]+$", sni):
-            return None
+            sni = None
 
+        validate_tls(host, port, sni)
         cert_hashes = get_cert_hashes(host, port, sni, timeout=15)
 
         selected = next(
@@ -401,16 +442,15 @@ def check_and_update_stamp(resolver_name: str, line_num: int, stamp_str: str) ->
             old_stamp=stamp_str,
             new_stamp=new_stamp,
             old_hashes=old_hashes,
-            new_hashes=[new_hash.hex()],
+            new_hashes=[cert_hash.hex() for cert_hash in selected_hashes],
             cert_info=selected_cn
         )
 
     except Exception as e:
-        print(f"  [{resolver_name}] Error: {e}", file=sys.stderr)
-        return None
+        return StampFailure(resolver_name, line_num, str(e))
 
 
-def process_file(md_path: str, dry_run: bool = False, max_workers: int = 10) -> int:
+def process_file(md_path: str, dry_run: bool = False, max_workers: int = 10) -> AuditResult:
     """Process the markdown file and update outdated certificate hashes."""
     with open(md_path, "r") as f:
         lines = f.readlines()
@@ -432,12 +472,12 @@ def process_file(md_path: str, dry_run: bool = False, max_workers: int = 10) -> 
 
     if not stamps_to_check:
         print("No stamps with certificate hashes found.")
-        return 0
+        return AuditResult(updates=0, failures=0)
 
     print(f"Found {len(stamps_to_check)} stamps with certificate hashes to check...")
 
     updates: list[StampUpdate] = []
-    errors = 0
+    failures: list[StampFailure] = []
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {
@@ -451,26 +491,42 @@ def process_file(md_path: str, dry_run: bool = False, max_workers: int = 10) -> 
 
             try:
                 result = future.result()
-                if result:
+                if isinstance(result, StampUpdate):
                     updates.append(result)
+                elif isinstance(result, StampFailure):
+                    failures.append(result)
             except Exception as e:
-                errors += 1
+                failures.append(StampFailure(name, line_num, str(e)))
 
     print()
 
+    if failures:
+        print(f"\n{len(failures)} stamps could not be audited:", file=sys.stderr)
+        for failure in sorted(failures, key=lambda item: item.line_num):
+            print(
+                f"  {failure.resolver_name} (line {failure.line_num + 1}): {failure.error}",
+                file=sys.stderr,
+            )
+
     if not updates:
-        print(f"\nAll certificate hashes are up to date! ({errors} connection errors)")
-        return 0
+        if failures:
+            print(f"\nNo hash updates found; {len(failures)} stamps need investigation.")
+        else:
+            print("\nAll certificate hashes are up to date!")
+        return AuditResult(updates=0, failures=len(failures))
 
     print(f"\nFound {len(updates)} stamps with outdated hashes:")
     for update in updates:
         print(f"\n  {update.resolver_name} (line {update.line_num + 1}):")
         print(f"    Old hash: {update.old_hashes[0][:16]}...")
-        print(f"    New hash: {update.new_hashes[0][:16]}... ({update.cert_info})")
+        print(
+            f"    New hash(es): {', '.join(cert_hash[:16] + '...' for cert_hash in update.new_hashes)} "
+            f"({update.cert_info})"
+        )
 
     if dry_run:
         print(f"\nDry run - no changes made. Use without --dry-run to apply updates.")
-        return len(updates)
+        return AuditResult(updates=len(updates), failures=len(failures))
 
     for update in updates:
         lines[update.line_num] = update.new_stamp + "\n"
@@ -479,7 +535,7 @@ def process_file(md_path: str, dry_run: bool = False, max_workers: int = 10) -> 
         f.writelines(lines)
 
     print(f"\nUpdated {len(updates)} stamps in {md_path}")
-    return len(updates)
+    return AuditResult(updates=len(updates), failures=len(failures))
 
 
 def main():
@@ -491,12 +547,16 @@ def main():
                         help="Check for outdated hashes without modifying the file")
     parser.add_argument("--workers", type=int, default=10,
                         help="Number of concurrent connections (default: 10)")
+    parser.add_argument("--strict", action="store_true",
+                        help="Exit nonzero if any stamp could not be audited")
 
     args = parser.parse_args()
 
     try:
-        count = process_file(args.file, dry_run=args.dry_run, max_workers=args.workers)
-        sys.exit(0 if count == 0 else 1)
+        result = process_file(args.file, dry_run=args.dry_run, max_workers=args.workers)
+        if args.strict and result.failures:
+            sys.exit(2)
+        sys.exit(0 if result.updates == 0 else 1)
     except FileNotFoundError:
         print(f"Error: File not found: {args.file}", file=sys.stderr)
         sys.exit(2)
