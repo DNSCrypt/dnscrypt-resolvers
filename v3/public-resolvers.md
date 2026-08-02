@@ -1388,6 +1388,22 @@ Hosted on AWS in Sydney. DNSSEC, non-logged, uncensored.
 sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
 
 
+## dnspub.restena.lu-ipv4
+
+The Restena Foundation interconnects and provides network and security services for research and education institutions in Luxembourg, as well as in the health, culture and national administration sectors. It also manages the .lu domain name registration infrastructure, the top level domain name for Luxembourg.
+https://restena.lu/en/document/190-configuring-your-server-public-dns-resolver
+
+sdns://AgcAAAAAAAAACzE1OC42NC4xLjI5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWRuc3B1Yi5yZXN0ZW5hLmx1Ci9kbnMtcXVlcnk
+
+
+## dnspub.restena.lu-ipv6
+
+The Restena Foundation interconnects and provides network and security services for research and education institutions in Luxembourg, as well as in the health, culture and national administration sectors. It also manages the .lu domain name registration infrastructure, the top level domain name for Luxembourg.
+https://restena.lu/en/document/190-configuring-your-server-public-dns-resolver
+
+sdns://AgcAAAAAAAAAEFsyMDAxOmExODoxOjoyOV0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQRZG5zcHViLnJlc3RlbmEubHUKL2Rucy1xdWVyeQ
+
+
 ## dns.digitale-gesellschaft.ch
 
 Digital Society Switzerland public resolver.
