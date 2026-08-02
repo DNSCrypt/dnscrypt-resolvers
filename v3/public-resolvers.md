@@ -1555,6 +1555,21 @@ https://dns.belnet.be/
 sdns://AgUAAAAAAAAADjE5My4xOTAuMTgyLjUzIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50DWRucy5iZWxuZXQuYmUKL2Rucy1xdWVyeQ
 
 
+## dns.kescher.at-Austria-ipv4
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAACzg5LjU4LjE4Ljg1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EGthbG9zLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+## dns.kescher.at-Austria-ipv6
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAAFFsyYTBhOjRjYzA6MDpmMzE6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EGthbG9zLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+
 ## dns.kescher.at-Germany-ipv4
 
 This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
