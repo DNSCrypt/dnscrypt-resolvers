@@ -1388,6 +1388,15 @@ Hosted on AWS in Sydney. DNSSEC, non-logged, uncensored.
 sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
 
 
+## digitale-gesellschaft.ch
+
+Seit Anfang 2019 bieten wir der Öffentlichkeit neu DNS-Resolver über die verschlüsselten Kommunikationswege DNS-over-TLS (DoT) und DNS-over-HTTPS (DoH) an. Damit möchten wir eine Alternative zu kommerziellen Betreiberinnen bieten.
+Die DNS-Resolver sind so konfiguriert, dass sie die Privatsphäre möglichst gut schützen und einen freien Zugang zum Internet gewähren. Es findet kein Logging statt und es werden keine Sperrlisten verwendet. DNSSEC wird validiert.
+https://www.digitale-gesellschaft.ch/dns/
+
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+
+
 ## dnspub.restena.lu-ipv4
 
 The Restena Foundation interconnects and provides network and security services for research and education institutions in Luxembourg, as well as in the health, culture and national administration sectors. It also manages the .lu domain name registration infrastructure, the top level domain name for Luxembourg.
