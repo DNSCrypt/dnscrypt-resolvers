@@ -1519,6 +1519,22 @@ https://dnsbunker.org
 sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XSC04KjJiwquQ7c4MDeszRGhyWSXH2t0_Lw3DNAw-zKN3Q1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
 
 
+## dns.kescher.at-Germany-ipv4
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAADjQ1LjEyOS4xODEuMTY0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHVub3ZhLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+
+## dns.kescher.at-Germany-ipv6
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAAFFsyYTAzOjQwMDA6NDc6OGI6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHVub3ZhLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+
 ## dnscry.pt-adelaide-ipv4
 
 dnscry.pt Adelaide resolver.
