@@ -275,6 +275,17 @@ IPv6 endpoint. DNSSEC-validating and non-filtering, operated by the Artikel10 as
 sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
 
 
+## belnet
+
+Because DoH was developed to protect your privacy, we decided not to log your individual queries
+For performance monitoring and statistics we do some logging:
+Your IP, response code, protocol and response time are logged (not the DNS query)
+Queries are logged anonymized by our recurive DNS servers.
+https://dns.belnet.be/
+
+sdns://AgUAAAAAAAAADjE5My4xOTAuMTgyLjUzIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50DWRucy5iZWxuZXQuYmUKL2Rucy1xdWVyeQ
+
+
 ## blahdns-de-doh
 
 BlahDNS ad-blocking resolver in Germany.
@@ -1388,15 +1399,6 @@ Hosted on AWS in Sydney. DNSSEC, non-logged, uncensored.
 sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
 
 
-## digitale-gesellschaft.ch
-
-Seit Anfang 2019 bieten wir der Öffentlichkeit neu DNS-Resolver über die verschlüsselten Kommunikationswege DNS-over-TLS (DoT) und DNS-over-HTTPS (DoH) an. Damit möchten wir eine Alternative zu kommerziellen Betreiberinnen bieten.
-Die DNS-Resolver sind so konfiguriert, dass sie die Privatsphäre möglichst gut schützen und einen freien Zugang zum Internet gewähren. Es findet kein Logging statt und es werden keine Sperrlisten verwendet. DNSSEC wird validiert.
-https://www.digitale-gesellschaft.ch/dns/
-
-sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQcZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
-
-
 ## dnspub.restena.lu-ipv4
 
 The Restena Foundation interconnects and provides network and security services for research and education institutions in Luxembourg, as well as in the health, culture and national administration sectors. It also manages the .lu domain name registration infrastructure, the top level domain name for Luxembourg.
@@ -1542,48 +1544,6 @@ Operated by DNSBunker.
 https://dnsbunker.org
 
 sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XSC04KjJiwquQ7c4MDeszRGhyWSXH2t0_Lw3DNAw-zKN3Q1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
-
-
-## dns.belnet.be
-
-Because DoH was developed to protect your privacy, we decided not to log your individual queries
-For performance monitoring and statistics we do some logging:
-Your IP, response code, protocol and response time are logged (not the DNS query)
-Queries are logged anonymized by our recurive DNS servers.
-https://dns.belnet.be/
-
-sdns://AgUAAAAAAAAADjE5My4xOTAuMTgyLjUzIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50DWRucy5iZWxuZXQuYmUKL2Rucy1xdWVyeQ
-
-
-## dns.kescher.at-Austria-ipv4
-
-This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
-https://dns.kescher.at/
-
-sdns://AgcAAAAAAAAACzg5LjU4LjE4Ljg1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EGthbG9zLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
-
-## dns.kescher.at-Austria-ipv6
-
-This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
-https://dns.kescher.at/
-
-sdns://AgcAAAAAAAAAFFsyYTBhOjRjYzA6MDpmMzE6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EGthbG9zLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
-
-
-## dns.kescher.at-Germany-ipv4
-
-This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
-https://dns.kescher.at/
-
-sdns://AgcAAAAAAAAADjQ1LjEyOS4xODEuMTY0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHVub3ZhLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
-
-
-## dns.kescher.at-Germany-ipv6
-
-This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation). We also have a cache for repeated DNS requests, in order to be nice to authoritative DNS servers around the world. We do not set or forward ECS (EDNS Client Subnet) information, except for the domains authoritatively hosted on the same servers (kescher.at). For these, logging is disabled entirely, and this info is only used for GeoIP purposes (so from the servers I own, you get the closest to you as determined by your IP or resolver IP).
-https://dns.kescher.at/
-
-sdns://AgcAAAAAAAAAFFsyYTAzOjQwMDA6NDc6OGI6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHVub3ZhLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
 
 
 ## dnscry.pt-adelaide-ipv4
@@ -7090,6 +7050,38 @@ Internet Initiative Japan public resolver.
 Operated by Internet Initiative Japan in Tokyo. Blocks child pornography. https://www.iij.ad.jp/
 
 sdns://AgEAAAAAAAAACjEwMy4yLjU3LjUgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQRcHVibGljLmRucy5paWouanAKL2Rucy1xdWVyeQ
+
+
+## kescher-austria
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAACzg5LjU4LjE4Ljg1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EGthbG9zLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+
+## kescher-austria-ipv6
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAAFFsyYTBhOjRjYzA6MDpmMzE6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EGthbG9zLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+
+## kescher-germany
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAADjQ1LjEyOS4xODEuMTY0IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHVub3ZhLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
+
+
+## kescher-germany-ipv6
+
+This DNS service has been set up specifically to be as privacy-friendly as possible. We don't permanently log queries or source IP addresses. However, we do keep of query counts per IP, per second, in memory, for automatic rate limiting/enforcing a TCP connection (reflection-amplification attack mitigation).
+https://dns.kescher.at/
+
+sdns://AgcAAAAAAAAAFFsyYTAzOjQwMDA6NDc6OGI6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EHVub3ZhLmtlc2NoZXIuYXQKL2Rucy1xdWVyeQ
 
 
 ## ksol.io-ns2-dnscrypt-ipv4
