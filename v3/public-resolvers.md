@@ -6814,9 +6814,9 @@ sdns://AgYAAAAAAAAADDk1LjIxNS4xOS41MyAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnL
 
 NWPS.fi public resolver in Helsinki.
 No filters, no logs, DNSSEC.
-Operated by NWPS.fi. Service page: https://nwps.fi/wordpress/free-recursive-dns/
+Operated by NWPS.fi. Service page: https://nwps.fi/dnscrypt.php
 
-sdns://AQcAAAAAAAAAETk1LjIxNy4xMS42Mzo4NDQzILqK827XPyVhFNCgYRi2VrryJyHhnfkeQnBB2EvkiM-3FzIuZG5zY3J5cHQtY2VydC5ud3BzLmZp
+sdns://AQcAAAAAAAAAEzk1LjIxNi4xMzguMTQxOjg0NDMguorzbtc_JWEU0KBhGLZWuvInIeGd-R5CcEHYS-SIz7cXMi5kbnNjcnlwdC1jZXJ0Lm53cHMuZmk
 
 
 ## olilo-doh
