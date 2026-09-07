@@ -6599,7 +6599,7 @@ sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFM
 
 ## mullvad-adblock-doh
 
-Mullvad Ads & Trackers resolver.
+Mullvad Ads & Trackers resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable, global anycast network. Blocks ads and trackers.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6608,7 +6608,7 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi4zABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1Z
 
 ## mullvad-adblock-doh-ipv6
 
-Mullvad Ads & Trackers resolver.
+Mullvad Ads & Trackers resolver. - Deprecated, will be shot down on 11/02/2026
 IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads and trackers.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6617,7 +6617,7 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjNdABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zL
 
 ## mullvad-all-doh
 
-Mullvad all-filter resolver.
+Mullvad all-filter resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content, gambling and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6626,7 +6626,7 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi45ABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 
 ## mullvad-all-doh-ipv6
 
-Mullvad all-filter resolver.
+Mullvad all-filter resolver. - Deprecated, will be shot down on 11/02/2026
 IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content, gambling and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6635,7 +6635,7 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjldABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlc
 
 ## mullvad-base-doh
 
-Mullvad base filtering resolver.
+Mullvad base filtering resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers and malware.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6644,7 +6644,7 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi40ABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 
 ## mullvad-base-doh-ipv6
 
-Mullvad base filtering resolver.
+Mullvad base filtering resolver. - Deprecated, will be shot down on 11/02/2026
 IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers and malware.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6653,7 +6653,7 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjRdABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1Z
 
 ## mullvad-doh
 
-Mullvad non-filtering public resolver.
+Mullvad non-filtering public resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable. Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU, and SG.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6662,7 +6662,7 @@ sdns://AgcAAAAAAAAACzE5NC4yNDIuMi4yAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 ## mullvad-doh-ipv6
 
-Mullvad non-filtering public resolver.
+Mullvad non-filtering public resolver. - Deprecated, will be shot down on 11/02/2026
 IPv6 endpoint. No logging, DNSSEC-capable, global anycast network.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6671,7 +6671,7 @@ sdns://AgcAAAAAAAAADlsyYTA3OmUzNDA6OjJdAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 ## mullvad-extend-doh
 
-Mullvad extended filtering resolver.
+Mullvad extended filtering resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6680,7 +6680,7 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi41ABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xd
 
 ## mullvad-extend-doh-ipv6
 
-Mullvad extended filtering resolver.
+Mullvad extended filtering resolver. - Deprecated, will be shot down on 11/02/2026
 IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6689,7 +6689,7 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjVdABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Ruc
 
 ## mullvad-family-doh
 
-Mullvad family filtering resolver.
+Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
@@ -6698,7 +6698,7 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlc
 
 ## mullvad-family-doh-ipv6
 
-Mullvad family filtering resolver.
+Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
 IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
