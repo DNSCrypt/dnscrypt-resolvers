@@ -3026,24 +3026,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAHlsyNDA3OjZhYzA6Mzo1OjEyMzQ6NDMyMTo4OToxXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA9qa3QwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
 
 
-## dnscry.pt-doh-jena-ipv4
-
-DNSCry.pt Jena - DoH, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAACzgxLjcuMTEuMjQ2IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D2plbjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-doh-jena-ipv6
-
-dnscry.pt Jena DoH resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAE1syYTAyOjE4MDo2OjE6OjhiNF0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPamVuMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
 ## dnscry.pt-doh-johannesburg-ipv4
 
 dnscry.pt Johannesburg DoH resolver.
@@ -4259,24 +4241,6 @@ https://www.dnscry.pt
 sdns://AgcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50D3ZpZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
-## dnscry.pt-doh-vientiane-ipv4
-
-DNSCry.pt Vientiane - DoH, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAADzEwMy4yMjguMTAxLjE3OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA92dGUwMS5kbnNjcnkucHQKL2Rucy1xdWVyeQ
-
-
-## dnscry.pt-doh-vientiane-ipv6
-
-DNSCry.pt Vientiane - DoH, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AgcAAAAAAAAAFlsyNDAwOjgxYzA6ZGMwMTo4NTo6Ml0gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPdnRlMDEuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
-
-
 ## dnscry.pt-doh-vilnius-ipv4
 
 dnscry.pt Vilnius DoH resolver.
@@ -4819,26 +4783,6 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAE1syNjA1OmZhODA6MToxNzo6YV0guqA-ESXGxfnn2VmRNUtHPKE5G-D2-rpY4Rnw16ZYs3wZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
-## dnscry.pt-islamabad-ipv4
-
-dnscry.pt Islamabad resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADjEwMy45OS4xMzMuMTEwIFPjUb1Byf1Q1sjfnNHrBCXbDr7mAHAw49_8PNpk5kiEGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-islamabad-ipv6
-
-dnscry.pt Islamabad resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFFsyMDAxOmRmMjpkNDA6Mjk6OjJdIFPjUb1Byf1Q1sjfnNHrBCXbDr7mAHAw49_8PNpk5kiEGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
 ## dnscry.pt-istanbul-ipv4
 
 dnscry.pt Istanbul resolver.
@@ -4897,26 +4841,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAHlsyNDA3OjZhYzA6Mzo1OjEyMzQ6NDMyMTo4OToxXSDKfpLdkE1Xh8Xx7s7AZvGPo_y5005XYSmx3wOtSiE7HxkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-jena-ipv4
-
-dnscry.pt Jena resolver.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAACzgxLjcuMTEuMjQ2IBvtASWQpVAO2tlQ273LY_mPl7f-D2JbYcoAHt14hJVBGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-jena-ipv6
-
-dnscry.pt Jena resolver.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAE1syYTAyOjE4MDo2OjE6OjhiNF0gG-0BJZClUA7a2VDbvctj-Y-Xt_4PYlthygAe3XiElUEZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-johannesburg-ipv4
@@ -6264,24 +6188,6 @@ All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAAF1syYTBkOmYzMDI6MTEwOjY1MTc6OjFdIN5MiNa1GMEMps26xdXOX2IcNa1pjk5vC-otWiEsJusuGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
-
-
-## dnscry.pt-vientiane-ipv4
-
-DNSCry.pt Vientiane - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAADzEwMy4yMjguMTAxLjE3OCDsBgKLhj_vw4R4VLAYAe0lINIZEMImGhQboH6ssbjp4xkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-vientiane-ipv6
-
-DNSCry.pt Vientiane - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAFlsyNDAwOjgxYzA6ZGMwMTo4NTo6Ml0g7AYCi4Y_78OEeFSwGAHtJSDSGRDCJhoUG6B-rLG46eMZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-vilnius-ipv4
