@@ -1583,24 +1583,6 @@ https://www.dnscry.pt
 sdns://gR5bMjQwNzo2YWMwOjM6NToxMjM0OjQzMjE6ODk6MV0
 
 
-## dnscry.pt-anon-jena-ipv4
-
-dnscry.pt Jena relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQs4MS43LjExLjI0Ng
-
-
-## dnscry.pt-anon-jena-ipv6
-
-DNSCry.pt Jena - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRNbMmEwMjoxODA6NjoxOjo4YjRd
-
-
 ## dnscry.pt-anon-johannesburg-ipv4
 
 dnscry.pt Johannesburg relay.

@@ -254,7 +254,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 ## mullvad-family-doh
 
-Mullvad family filtering resolver.
+Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
 No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
