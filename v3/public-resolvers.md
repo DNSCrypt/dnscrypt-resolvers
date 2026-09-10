@@ -7326,4 +7326,4 @@ sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSCoF6cUD2dwqtorNi96I2e3nkHPS
 
 Uncensored and privacy-friendly DNSCrypt resolver located in Nuernberg, Germany. Strictly no logs and no filters. DNSSEC validating.
 
-sdns://AQcAAAAAAAAAEzE2Ny4yMzMuMjQxLjEwMTo0NDMgp-gLrhNDDtyqPkVz0AIvWp184aGspPPNUCvfSvLrS2gfMi5kbnNjcnlwdC1jZXJ0Lm5iZy1kbnNjcnlwdC5ld
+sdns://AQcAAAAAAAAAEzE2Ny4yMzMuMjQxLjEwMTo0NDMgp-gLrhNDDtyqPkVz0AIvWp184aGspPPNUCvfSvLrS2gfMi5kbnNjcnlwdC1jZXJ0Lm5iZy1kbnNjcnlwdC5ldQ
