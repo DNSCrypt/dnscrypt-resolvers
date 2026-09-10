@@ -6611,6 +6611,13 @@ Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-an
 sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjZdABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 
 
+## nbg-dnscrypt
+
+Uncensored and privacy-friendly DNSCrypt resolver located in Nuernberg, Germany. Strictly no logs and no filters. DNSSEC validating.
+
+sdns://AQcAAAAAAAAAEzE2Ny4yMzMuMjQxLjEwMTo0NDMgp-gLrhNDDtyqPkVz0AIvWp184aGspPPNUCvfSvLrS2gfMi5kbnNjcnlwdC1jZXJ0Lm5iZy1kbnNjcnlwdC5ldQ
+
+
 ## nextdns
 
 NextDNS non-filtering private DNS resolver.
