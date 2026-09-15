@@ -44,6 +44,8 @@ dnsforfamily-v6
 dnswarden-adult-doh
 doh-cleanbrowsing-adult
 doh-cleanbrowsing-family
+dremaxx-family
+dremaxx-family-ipv6
 mullvad-family-doh
 puredns-family-doh
 puredns-family-doh-ipv6

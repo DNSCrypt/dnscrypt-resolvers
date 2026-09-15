@@ -282,6 +282,29 @@ Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 
+## dremaxx-family
+
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering. IPv4 endpoint.
+Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
+Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
+
+sdns://AgMAAAAAAAAADTE4NS40NC44Mi4xNTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAACjYyLjMuNTAuNDIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjE4NS4xMjEuMTY5LjQ1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FmZhbWlseS5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
+
+
+## dremaxx-family-ipv6
+
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+IPv6 anycast endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering.
+Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
+Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
+
+sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMDo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMTo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+
+
 ## mullvad-family-doh
 
 Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
