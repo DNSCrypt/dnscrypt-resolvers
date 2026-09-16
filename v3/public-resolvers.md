@@ -7390,3 +7390,21 @@ Operated by Yandex. Service page: https://dns.yandex.com/
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIB-hf85sMO1vDexLBqz0GmyMT_AyAidbKy0haHRNsfeYCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
+
+
+## yunzheng
+
+YunZheng LAB public resolver.
+Anycast service with DNSSEC validation and no filtering. No per-query logs are kept. Service addresses: 177.177.83.83, 2602:f3ff:83::83. DoH, DoT and DoQ on dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
+
+sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuODMAEmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
+
+
+## yunzheng-filtered
+
+YunZheng LAB public resolver, filtering.
+Anycast service with DNSSEC validation. Advertising, tracking and known-malware domains are refused and answered with a notice page. No per-query logs are kept. Service addresses: 177.177.83.84, 2602:f3ff:83::84. DoH, DoT and DoQ on filter.dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
+
+sdns://AgMAAAAAAAAADTE3Ny4xNzcuODMuODQAGWZpbHRlci5kbnMueXVuemhlbmcuc3BhY2UKL2Rucy1xdWVyeQ
