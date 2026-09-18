@@ -577,7 +577,7 @@ sdns://AQUAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoM
 Comss.one ad-blocking resolver.
 DNS with ad-blocking and anti-phishing filters, popular among Russian-speaking users.
 
-sdns://AgMAAAAAAAAADjgzLjIyMC4xNjkuMTU1IKSyl_7Pgklj04d7IAintC3XV2ogOeLGTFT-NU8y9R8cDWRucy5jb21zcy5vbmUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjgzLjIyMC4xNjkuMTU1IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDWRucy5jb21zcy5vbmUKL2Rucy1xdWVyeQ
 
 
 ## controld-block-malware
@@ -7153,7 +7153,7 @@ Yandex Public DNS Basic resolver.
 Anycast service operated by Yandex.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
-sdns://AgUAAAAAAAAACTc3Ljg4LjguMSCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjEKL2Rucy1xdWVyeQ
+sdns://AgUAAAAAAAAACTc3Ljg4LjguMSAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjEKL2Rucy1xdWVyeQ
 
 
 ## yandex-ipv6
@@ -7162,7 +7162,7 @@ Yandex Public DNS Basic resolver.
 IPv6 anycast service operated by Yandex.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
-sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gqBenFA9ncKraKzYveiNnt55Bz0iR9ZGt8W3ToJZjlZEJNzcuODguOC4xCi9kbnMtcXVlcnk
+sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gH6F_zmww7W8N7EsGrPQabIxP8DICJ1srLSFodE2x95gJNzcuODguOC4xCi9kbnMtcXVlcnk
 
 
 ## yandex-safe
@@ -7171,7 +7171,7 @@ Yandex Public DNS Safe resolver.
 Anycast service operated by Yandex with malware filtering.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
-sdns://AgEAAAAAAAAACTc3Ljg4LjguMiCoF6cUD2dwqtorNi96I2e3nkHPSJH1ka3xbdOglmOVkQk3Ny44OC44LjIKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAACTc3Ljg4LjguMiAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
 
 ## yandex-safe-ipv6
@@ -7180,5 +7180,5 @@ Yandex Public DNS Safe resolver.
 IPv6 anycast service operated by Yandex with malware filtering.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
-sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIKgXpxQPZ3Cq2is2L3ojZ7eeQc9IkfWRrfFt06CWY5WRCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIB-hf85sMO1vDexLBqz0GmyMT_AyAidbKy0haHRNsfeYCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 
