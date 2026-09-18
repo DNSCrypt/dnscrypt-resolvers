@@ -6514,6 +6514,50 @@ Homepage: https://nicolas-dorriere.fr/blog/it-was-dns.html
 sdns://AQcAAAAAAAAAETkwLjQ2LjIwNi4yNDg6NDQzIBliqCXeEXeous1YRa1T3AIXMpYmK-Cz4yaK62AyQiOcRzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC1yZWN1cnNpdmUtdG8tcm9vdC11ZHAtb25seS5uaWNvbGFzLWRvcnJpZXJlLmZy
 
 
+## dremaxx
+
+Dremaxx Open resolver. Non-filtering, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+Resolves on its own (not a frontend to another public resolver). IPv4 endpoint; IPv6 is anycast from AS218835.
+Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
+
+sdns://AgcAAAAAAAAADTE4NS40NC44Mi4xNTggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQUb3Blbi5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADTE5NC4yOC45OS4yNDggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQUb3Blbi5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
+sdns://AgcAAAAAAAAADjE4NS4xMjEuMTY5LjQ3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FG9wZW4uZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+
+
+## dremaxx-family
+
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering. IPv4 endpoint.
+Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
+Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
+
+sdns://AgMAAAAAAAAADTE4NS40NC44Mi4xNTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAACjYyLjMuNTAuNDIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjE4NS4xMjEuMTY5LjQ1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FmZhbWlseS5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
+
+
+## dremaxx-family-ipv6
+
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+IPv6 anycast endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering.
+Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
+Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
+
+sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMDo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMTo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+
+
+## dremaxx-ipv6
+
+Dremaxx Open resolver. Non-filtering, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+IPv6 anycast endpoint (AS218835). Resolves on its own (not a frontend to another public resolver).
+Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
+
+sdns://AgcAAAAAAAAAFFsyYTBjOjlhNDA6ZTEwMDo6NTNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FG9wZW4uZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAFFsyYTBjOjlhNDA6ZTEwMTo6NTNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FG9wZW4uZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+
+
 ## fdn
 
 FDN public resolver.
