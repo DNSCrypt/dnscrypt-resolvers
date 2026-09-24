@@ -6561,7 +6561,7 @@ sdns://AgcAAAAAAAAAFFsyYTBjOjlhNDA6ZTEwMTo6NTNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_Z
 ## ekinao-doh-ipv4
 
 Operated by [ekinao.com](https://www.ekinao.com/).
-No logging, no filtering, DNSSEC validated, no EDNS.
+No logging, no filtering, DNSSEC validation enabled, no EDNS.
 Service page: [パブリックDNSサービス](https://www.ekinao.com/publicdns.html)
 
 sdns://AgcAAAAAAAAADTE2NC43MC4xMTQuNTEgGCIAvAfxCOu-YYCtJCF6Kyz1g5KF4AQjN8UH6BKbswIOZG5zLmVraW5hby5jb20KL2Rucy1xdWVyeQ
@@ -6570,7 +6570,7 @@ sdns://AgcAAAAAAAAADTE2NC43MC4xMTQuNTEgGCIAvAfxCOu-YYCtJCF6Kyz1g5KF4AQjN8UH6BKbs
 ## ekinao-doh-ipv6
 
 Operated by [ekinao.com](https://www.ekinao.com/).
-No logging, no filtering, DNSSEC validated, no EDNS.
+No logging, no filtering, DNSSEC validation enabled, no EDNS.
 Service page: [パブリックDNSサービス](https://www.ekinao.com/publicdns.html)
 
 sdns://AgcAAAAAAAAAH1syMDAxOjJjMDoxMDA6NDA5OjE0OmNhZmU6ZDk6MV0gGCIAvAfxCOu-YYCtJCF6Kyz1g5KF4AQjN8UH6BKbswIOZG5zLmVraW5hby5jb20KL2Rucy1xdWVyeQ
