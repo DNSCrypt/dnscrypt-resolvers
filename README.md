@@ -16,7 +16,7 @@ Stable download URLs:
 - https://download.dnscrypt.info/dnscrypt-resolvers/v3/
 
 More DNS server sources:
-- https://github.com/jedisct1/dnscrypt-proxy/wiki/DNS-server-sources
+- https://github.com/DNSCrypt/dnscrypt-proxy/wiki/DNS-server-sources
 
 # List of DNSCrypt relays
 
