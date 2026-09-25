@@ -6270,7 +6270,7 @@ sdns://AgcAAAAAAAAAACAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLg5kbnMuZG5zaG9tZ
 ## dnslow.me
 
 dnslow.me privacy-first filtering resolver.
-Open-source project with advertising and threat blocking. More info on the [homepage](https://dnslow.me) and [GitHub](https://github.com/PeterDaveHello/dnslow.me)
+Open-source project with advertising and threat blocking. More info on the homepage (https://dnslow.me) and GitHub (https://github.com/PeterDaveHello/dnslow.me)
 
 sdns://AgAAAAAAAAAAACCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdAlkbnNsb3cubWUKL2Rucy1xdWVyeQ
 
@@ -6437,6 +6437,24 @@ IPv6 anycast endpoint (AS218835). Resolves on its own (not a frontend to another
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
 sdns://AgcAAAAAAAAAFFsyYTBjOjlhNDA6ZTEwMDo6NTNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FG9wZW4uZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+
+
+## ekinao-doh-ipv4
+
+Operated by ekinao.com (https://www.ekinao.com/).
+No logging, no filtering, DNSSEC validation enabled, no EDNS.
+Service page: パブリックDNSサービス (https://www.ekinao.com/publicdns.html)
+
+sdns://AgcAAAAAAAAADTE2NC43MC4xMTQuNTEgGCIAvAfxCOu-YYCtJCF6Kyz1g5KF4AQjN8UH6BKbswIOZG5zLmVraW5hby5jb20KL2Rucy1xdWVyeQ
+
+
+## ekinao-doh-ipv6
+
+Operated by ekinao.com (https://www.ekinao.com/).
+No logging, no filtering, DNSSEC validation enabled, no EDNS.
+Service page: パブリックDNSサービス (https://www.ekinao.com/publicdns.html)
+
+sdns://AgcAAAAAAAAAH1syMDAxOjJjMDoxMDA6NDA5OjE0OmNhZmU6ZDk6MV0gGCIAvAfxCOu-YYCtJCF6Kyz1g5KF4AQjN8UH6BKbswIOZG5zLmVraW5hby5jb20KL2Rucy1xdWVyeQ
 
 
 ## fdn
