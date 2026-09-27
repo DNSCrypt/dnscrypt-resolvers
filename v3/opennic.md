@@ -1,6 +1,6 @@
 # opennic
 
-Resolvers from the [OpenNIC](https://www.opennic.org/) project.
+Resolvers from the OpenNIC project (https://www.opennic.org/).
 
 To use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
