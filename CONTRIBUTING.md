@@ -1,6 +1,6 @@
-# Submitting updates and Adding new servers
+# Submitting updates and adding new servers
 
-### Server Requirements
+## Server Requirements
 
 - Servers from these lists are expected to be reliable, maintained, freely and publicly accessible from anywhere.
   - You should test the server is properly accessible and usable before submitting it.
@@ -10,7 +10,7 @@
 - **Frontends to other public services (for example, using Cloudflare or Google as a resolver) are not allowed.**
   - In addition to collecting more data, their value is unclear. To protect client IP addresses, we recommend running proper DNS resolvers.
 
-### Every entry should include:
+## Every entry should include:
 
 - **Name**:
   - The unique name that users will configure in their software.
@@ -32,7 +32,7 @@ Services accessible over IPv4 and IPv6 must have distinct entries. Do not mix IP
 
 The **new server** entry should only be added to the `v3/public-resolvers.md` file. You don't have to edit other files.
 
-### DNS stamps attributes
+## DNS stamps attributes
 
 - **DNSSEC**: The server supports DNSSEC for both upstream and downstream queries.
 - **No filter**: Responses received from upstream servers are not blocked or semantically changed.
@@ -53,11 +53,11 @@ At startup, the service prints the stamp of the DNS relay, which looks like this
 
 By convention, relays start with an `anon-` prefix.
 
-### DNSCrypt servers
+## DNSCrypt servers
 
 [`encrypted-dns-server`](https://github.com/DNSCrypt/encrypted-dns-server) prints the stamps at startup. Other software may or may not print them.
 
-### DoH servers
+## DoH servers
 
 If you operate the DoH server, check out the [operational recommendations for DoH servers](https://github.com/DNSCrypt/doh-server?tab=readme-ov-file#operational-recommendations) first.
 
@@ -69,7 +69,7 @@ The DoH protocol is fragile, and unless the server frequently switches certifica
 
 Before submitting a new entry to the list, take the time to test the server with `dnscrypt-proxy`, both with and without `HTTP/3` if supported by the server.
 
-### Oblivious DoH
+## Oblivious DoH
 
 Modern DoH servers that allow the client IP address to be hidden by a relay can be added to the `v3/odoh-servers.md` list.
 
@@ -77,14 +77,14 @@ The stamp must have the `Oblivious DoH target` type, and only the server propert
 
 The [DoH server](https://github.com/DNSCrypt/doh-server) supports ODoH out of the box. Other software may or may not.
 
-### OpenNIC and servers for parental control
+## OpenNIC and servers for parental control
 
 The `opennic.md` and `parental-control.md` files are built automatically from the main `v3/public-resolvers.md` file.
 
 If the server supports the OpenNIC TLD, add it to `v3/opennic.subset`. If the server provides parental controls, add it to `v3/parental-control.md`.
 
 
-# Before you send a pull request
+## Before you send a pull request
 
 The availability of the servers and relays is monitored continuously. [The DNS status files](https://download.dnscrypt.info/resolvers-list/status/) are updated continuously with their status.
 
