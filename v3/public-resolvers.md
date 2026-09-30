@@ -6948,6 +6948,30 @@ IPv6 endpoint. kronos.plan9-dns.com, operated by jlongua and hosted on Vultr in 
 sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
+## pidoh-mapledns
+
+PiDoH (mapledns.net) public resolver.
+Blocks ads, trackers and malware. DNSSEC validating. Query logs retained 30 days.
+Operated by Aaron (VY2EK). Service page: https://maplecube.net/pidoh/
+
+sdns://AgEAAAAAAAAADzE4OC4yNDUuMTkyLjE5NgAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAADjE3Mi45My4xNjcuMTc2ABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAADjIzLjI1Mi4xMjMuMTg3ABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAADjEwOS45NC4xNzEuMjM1ABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
+## pidoh-mapledns-ipv6
+
+PiDoH (mapledns.net) public resolver.
+IPv6 endpoint. Blocks ads, trackers and malware. DNSSEC validating. Query logs retained 30 days.
+Operated by Aaron (VY2EK). Service page: https://maplecube.net/pidoh/
+
+sdns://AgEAAAAAAAAAFlsyYTAxOjRmODpjMTc6Y2UyZDo6MV0AEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+sdns://AgEAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMGM1OjphXQAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAGFsyNjA3OmYyZDg6ODQxNjoxMTM0OjphXQAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgEAAAAAAAAAF1syYTAzOmQ5YzI6MTAwOjEyY2Q6OmFdABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
 ## qihoo360-doh
 
 Qihoo 360 public resolver.
