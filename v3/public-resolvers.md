@@ -1383,6 +1383,28 @@ Hosted in Germany.
 sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0gMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4TZG5zLmRpZ2l0YWxzaXplLm5ldAovZG5zLXF1ZXJ5
 
 
+## dns.habith.eu
+
+dns.habith.eu (service page: dnsrelay.at) - private DoH resolver in Austria and Slovenia with active ad/tracker/malware blocklists, DNSSEC, no query logs.
+Filtered resolver: blocks ads, trackers, phishing and malware domains (Hagezi Pro + Threat Intelligence Feed mini blocklists). Validates DNSSEC.
+Does not log queries (only operational lines such as TLS errors and rate-limit events are kept). Two independent servers (Austria and Slovenia) behind the single hostname dns.habith.eu for automatic failover.
+IPv4 endpoint. Non-commercial, privately operated. Also supports DoT. Service page: https://dnsrelay.at
+
+sdns://AgMAAAAAAAAADTE1MS4yMzYuOC4xNDkADWRucy5oYWJpdGguZXUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADTE5Mi43MS4yNDQuNjkADWRucy5oYWJpdGguZXUKL2Rucy1xdWVyeQ
+
+
+## dns.habith.eu-ipv6
+
+dns.habith.eu (service page: dnsrelay.at) - private DoH resolver in Austria and Slovenia with active ad/tracker/malware blocklists, DNSSEC, no query logs.
+Filtered resolver: blocks ads, trackers, phishing and malware domains (Hagezi Pro + Threat Intelligence Feed mini blocklists). Validates DNSSEC.
+Does not log queries (only operational lines such as TLS errors and rate-limit events are kept). Two independent servers (Austria and Slovenia) behind the single hostname dns.habith.eu for automatic failover.
+IPv6 endpoint. Non-commercial, privately operated. Also supports DoT. Service page: https://dnsrelay.at
+
+sdns://AgMAAAAAAAAAF1syYTAzOmY4MDplZDE1OjRlZTM6OjFdAA1kbnMuaGFiaXRoLmV1Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFlsyYTAzOmY4MDozODY6ZjFjYzo6MV0ADWRucy5oYWJpdGguZXUKL2Rucy1xdWVyeQ
+
+
 ## dns.sb
 
 DNS.SB public resolver.
@@ -6393,28 +6415,6 @@ Warning: GFW filtering rules are applied by this resolver.
 sdns://AgAAAAAAAAAADDEyMC41My41My41MwAMMTIwLjUzLjUzLjUzCi9kbnMtcXVlcnk
 sdns://AgAAAAAAAAAACjEuMTIuMTIuMTIACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 sdns://AgAAAAAAAAAACjEuMTIuMzQuNTYACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
-
-
-## dnsrelay
-
-dnsrelay.at - private DoH resolver in Austria and Slovenia with active ad/tracker/malware blocklists, DNSSEC, no query logs.
-Filtered resolver: blocks ads, trackers, phishing and malware domains (Hagezi Pro + Threat Intelligence Feed mini blocklists). Validates DNSSEC.
-Does not log queries (only operational lines such as TLS errors and rate-limit events are kept). Two independent servers (Austria and Slovenia) behind dns.habith.eu for automatic failover.
-IPv4 endpoint. Non-commercial, privately operated. Also supports DoT. Service page: https://dnsrelay.at
-
-sdns://AgMAAAAAAAAADTE1MS4yMzYuOC4xNDkADWRucy5oYWJpdGguZXUKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAADTE5Mi43MS4yNDQuNjkADWRucy5oYWJpdGguZXUKL2Rucy1xdWVyeQ
-
-
-## dnsrelay-ipv6
-
-dnsrelay.at - private DoH resolver in Austria and Slovenia with active ad/tracker/malware blocklists, DNSSEC, no query logs.
-Filtered resolver: blocks ads, trackers, phishing and malware domains (Hagezi Pro + Threat Intelligence Feed mini blocklists). Validates DNSSEC.
-Does not log queries (only operational lines such as TLS errors and rate-limit events are kept). Two independent servers (Austria and Slovenia) behind dns.habith.eu for automatic failover.
-IPv6 endpoint. Non-commercial, privately operated. Also supports DoT. Service page: https://dnsrelay.at
-
-sdns://AgMAAAAAAAAAF1syYTAzOmY4MDplZDE1OjRlZTM6OjFdAA1kbnMuaGFiaXRoLmV1Ci9kbnMtcXVlcnk
-sdns://AgMAAAAAAAAAFlsyYTAzOmY4MDozODY6ZjFjYzo6MV0ADWRucy5oYWJpdGguZXUKL2Rucy1xdWVyeQ
 
 
 ## doh-cleanbrowsing-adult
