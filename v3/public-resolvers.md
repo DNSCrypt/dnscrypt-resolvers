@@ -6843,6 +6843,13 @@ IPv6 endpoint. kronos.plan9-dns.com, operated by jlongua and hosted on Vultr in 
 sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
+## pidoh-mapledns
+
+MapleDNS public recursive resolver. GeoDNS directs each client to the closest node for best latency (Canada/US/Germany). No query logging. Blocks ads, trackers and malware. DNSSEC validating.
+
+sdns://AgMAAAAAAAAAAAAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+
+
 ## qihoo360-doh
 
 Qihoo 360 public resolver.
