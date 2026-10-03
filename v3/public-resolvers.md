@@ -7390,3 +7390,31 @@ Operated by Yandex. Service page: https://dns.yandex.com/
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIB-hf85sMO1vDexLBqz0GmyMT_AyAidbKy0haHRNsfeYCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
+
+
+## hqdns-doh
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+DoH endpoint: https://dns.hqdns.sarl/dns-query
+DoT hostname: dns.hqdns.sarl
+Official IPv4: 185.215.166.168
+Official IPv6: 2a02:c207:2355:6761::1
+
+sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCDaknoeSuGKZzxJQKvh_GfVvPIDQDR7BwylmZ9bf9CtSA5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
+## hqdns-doh-ipv6
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+DoH endpoint: https://dns.hqdns.sarl/dns-query
+DoT hostname: dns.hqdns.sarl
+Official IPv4: 185.215.166.168
+Official IPv6: 2a02:c207:2355:6761::1
+
+sdns://AgAAAAAAAAAAGFsyYTAyOmMyMDc6MjM1NTo2NzYxOjoxXSDaknoeSuGKZzxJQKvh_GfVvPIDQDR7BwylmZ9bf9CtSA5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
