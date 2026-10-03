@@ -1592,15 +1592,6 @@ https://www.dnscry.pt
 sdns://gRlbMjYwMjoyYjc6ZDAxOmMyOTU6OmI6MThd
 
 
-## dnscry.pt-anon-kyiv02-ipv4
-
-dnscry.pt Kyiv 02 relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ4xODUuMTI2LjI1NS4zMA
-
-
 ## dnscry.pt-anon-lasvegas-ipv4
 
 dnscry.pt Las Vegas relay.

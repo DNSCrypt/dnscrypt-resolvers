@@ -545,6 +545,15 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD21jaTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
+## dnscry.pt-odoh-kyiv02
+
+dnscry.pt Kyiv 02 ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD2lldjAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-odoh-lasvegas
 
 dnscry.pt Las Vegas ODoH target.
