@@ -2824,3 +2824,17 @@ https://www.dnscry.pt
 
 sdns://gRVbMmEwMjoyOWI4OjgwMDE6NDo6YV0
 
+
+
+## anon-cryptids-relay
+
+Public DNSCrypt anonymized relay. IPv4 endpoint.
+
+sdns://gRE3NS4xMTkuMTQ0LjA6ODQ0Mw
+
+
+## anon-cryptids-relay-ipv6
+
+Public DNSCrypt anonymized relay. IPv6 endpoint.
+
+sdns://gR1bMmEwMjpjMjA3OjMwMTg6OTEwMTo6MV06ODQ0Mw
