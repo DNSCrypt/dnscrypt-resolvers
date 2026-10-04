@@ -6845,9 +6845,22 @@ sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwm
 
 ## pidoh-mapledns
 
-MapleDNS public recursive resolver. GeoDNS directs each client to the closest node for best latency (Canada/US/Germany). No query logging. Blocks ads, trackers and malware. DNSSEC validating.
+MapleDNS public recursive resolver. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
 
-sdns://AgMAAAAAAAAAAAAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADzE4OC4yNDUuMTkyLjE5NgAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAADjE3Mi45My4xNjcuMTc2ABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjIzLjI1Mi4xMjMuMTg3ABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjEwOS45NC4xNzEuMjM1ABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
+## pidoh-mapledns-ipv6
+
+MapleDNS public recursive resolver. IPv6. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6Y2UyZDo6MV0AEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMGM1OjphXQAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAGFsyNjA3OmYyZDg6ODQxNjoxMTM0OjphXQAScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAF1syYTAzOmQ5YzI6MTAwOjEyY2Q6OmFdABJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
 
 
 ## qihoo360-doh
