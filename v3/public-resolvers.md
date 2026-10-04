@@ -6779,6 +6779,26 @@ sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo0XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJ
 sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo1XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBkbnMuYXMyMTI2ODMubmV0Ci9kbnMtcXVlcnk
 
 
+## pidoh-mapledns
+
+MapleDNS public recursive resolver. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAADzE4OC4yNDUuMTkyLjE5NiA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE3Mi45My4xNjcuMTc2IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjIzLjI1Mi4xMjMuMTg3IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjEwOS45NC4xNzEuMjM1IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+
+
+## pidoh-mapledns-ipv6
+
+MapleDNS public recursive resolver. IPv6. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6Y2UyZDo6MV0gNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMGM1OjphXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAGFsyNjA3OmYyZDg6ODQxNjoxMTM0OjphXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAF1syYTAzOmQ5YzI6MTAwOjEyY2Q6OmFdIDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
+
+
 ## plan9dns-fl
 
 plan9-dns Miami resolver.
@@ -6841,6 +6861,7 @@ plan9-dns New Jersey resolver.
 IPv6 endpoint. kronos.plan9-dns.com, operated by jlongua and hosted on Vultr in Piscataway, New Jersey, USA. No logs, no filtering, DNSSEC. Project page: https://jlongua.github.io/plan9-dns/
 
 sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
+
 
 
 ## qihoo360-doh
