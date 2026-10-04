@@ -6863,7 +6863,6 @@ IPv6 endpoint. kronos.plan9-dns.com, operated by jlongua and hosted on Vultr in 
 sdns://AQcAAAAAAAAAKlsyMDAxOjE5ZjA6NTozYmQ3OjU0MDA6NGZmOmZlMDU6ZGE4M106ODQ0MyCwmQlIDpKk8SiiyrJbPgKhHxCrBJLb8ZWlu6tvr1KvkyQyLmRuc2NyeXB0LWNlcnQua3Jvbm9zLnBsYW45LWRucy5jb20
 
 
-
 ## qihoo360-doh
 
 Qihoo 360 public resolver.

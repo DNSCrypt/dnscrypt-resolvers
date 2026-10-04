@@ -6653,6 +6653,20 @@ Operated by Olilo (AS212683). DNS service: https://dns.as212683.net
 sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo0XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBBkbnMuYXMyMTI2ODMubmV0Ci9kbnMtcXVlcnk
 
 
+## pidoh-mapledns
+
+MapleDNS public recursive resolver. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAADzE4OC4yNDUuMTkyLjE5NiA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
+
+
+## pidoh-mapledns-ipv6
+
+MapleDNS public recursive resolver. IPv6. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+
+sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6Y2UyZDo6MV0gNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
+
+
 ## plan9dns-fl
 
 plan9-dns Miami resolver.
