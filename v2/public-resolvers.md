@@ -6376,6 +6376,24 @@ Anycast service operated by Hurricane Electric. Unknown logging policy. https://
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## hqdns-doh
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+
+sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
+## hqdns-doh-ipv6
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+
+sdns://AgAAAAAAAAAAGFsyYTAyOmMyMDc6MjM1NTo2NzYxOjoxXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
 ## ibksturm
 
 ibksturm OpenNIC resolver in Switzerland.
