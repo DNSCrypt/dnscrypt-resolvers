@@ -728,15 +728,6 @@ https://www.dnscry.pt
 sdns://gRtbMmEwNzplZmMwOjEwMDE6YTVjZTo6YjRiNF0
 
 
-## dnscry.pt-anon-amsterdam03-ipv4
-
-dnscry.pt Amsterdam 03 relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ0yMy4xMzcuMjQ5LjI2
-
-
 ## dnscry.pt-anon-amsterdam03-ipv6
 
 dnscry.pt Amsterdam 03 relay.
@@ -807,15 +798,6 @@ IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gQ0xMDMuMzguMjUwLjU1
-
-
-## dnscry.pt-anon-bangkok-ipv6
-
-DNSCry.pt Bangkok - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRdbMjAwMTpkZjE6ODhjMDoyMDA6OjE0XQ
 
 
 ## dnscry.pt-anon-bengaluru-ipv4
@@ -1313,24 +1295,6 @@ https://www.dnscry.pt
 sdns://gRBbMmEwNTo5NDA2OjphZTFd
 
 
-## dnscry.pt-anon-grandrapids-ipv4
-
-dnscry.pt Grand Rapids relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ4xODUuMTY1LjQ0LjE2NA
-
-
-## dnscry.pt-anon-grandrapids-ipv6
-
-DNSCry.pt Grand Rapids - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRNbMjYwMjpmOTY0OjE6MjQ6OmFd
-
-
 ## dnscry.pt-anon-hafnarfjordur-ipv4
 
 dnscry.pt Hafnarfjordur relay.
@@ -1529,24 +1493,6 @@ https://www.dnscry.pt
 sdns://gRNbMjYwNTpmYTgwOjE6MTc6OmFd
 
 
-## dnscry.pt-anon-islamabad-ipv4
-
-dnscry.pt Islamabad relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ4xMDMuOTkuMTMzLjExMA
-
-
-## dnscry.pt-anon-islamabad-ipv6
-
-dnscry.pt Islamabad relay.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gRRbMjAwMTpkZjI6ZDQwOjI5OjoyXQ
-
-
 ## dnscry.pt-anon-istanbul-ipv6
 
 dnscry.pt Istanbul relay.
@@ -1572,15 +1518,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRhbMjYwNzphNjgwOjQ6ZjAwMzo6ZWMzMl0
-
-
-## dnscry.pt-anon-jakarta-ipv4
-
-dnscry.pt Jakarta relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ4xNTEuMjQzLjIyMi45NA
 
 
 ## dnscry.pt-anon-jakarta-ipv6
@@ -1653,42 +1590,6 @@ DNSCry.pt Kansas City - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 serve
 https://www.dnscry.pt
 
 sdns://gRlbMjYwMjoyYjc6ZDAxOmMyOTU6OmI6MThd
-
-
-## dnscry.pt-anon-kyiv-ipv4
-
-dnscry.pt Kyiv relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ0yMTcuMTIuMjIxLjYx
-
-
-## dnscry.pt-anon-kyiv-ipv6
-
-dnscry.pt Kyiv relay.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gRBbMmEwMjoyN2FkOjoyMDFd
-
-
-## dnscry.pt-anon-kyiv02-ipv4
-
-dnscry.pt Kyiv 02 relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ4xODUuMTI2LjI1NS4zMA
-
-
-## dnscry.pt-anon-kyiv02-ipv6
-
-dnscry.pt Kyiv 02 relay.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gRVbMmEwMTpmNTAwOjI6MTUwMDo6YV0
 
 
 ## dnscry.pt-anon-lasvegas-ipv4
@@ -2402,24 +2303,6 @@ https://www.dnscry.pt
 sdns://gRVbMjYwNjpmYzQwOjQwMDM6Zjo6YV0
 
 
-## dnscry.pt-anon-singapore02-ipv4
-
-dnscry.pt Singapore 02 relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ0xMDMuMTc5LjQ0Ljcz
-
-
-## dnscry.pt-anon-singapore02-ipv6
-
-dnscry.pt Singapore 02 relay.
-IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gRNbMjQwMTo0NTIwOjExMjI6OmFd
-
-
 ## dnscry.pt-anon-sofia-ipv4
 
 dnscry.pt Sofia relay.
@@ -2490,24 +2373,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRhbMjQwMjo3MzQwOjUwMDA6NjIwMDo6YV0
-
-
-## dnscry.pt-anon-taipeh-ipv4
-
-dnscry.pt Taipeh relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ8xMDMuMTMxLjE4OS4xOTE
-
-
-## dnscry.pt-anon-taipeh-ipv6
-
-DNSCry.pt Taipeh - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRpbMjQwMzpjZmMwOjEwMDQ6OmI1Yjo0N2ZmXQ
 
 
 ## dnscry.pt-anon-tallinn-ipv4

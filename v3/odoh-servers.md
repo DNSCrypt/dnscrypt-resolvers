@@ -482,15 +482,6 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD2luZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
-## dnscry.pt-odoh-islamabad
-
-dnscry.pt Islamabad ODoH target.
-Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://BQcAAAAAAAAAD2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
 ## dnscry.pt-odoh-istanbul
 
 dnscry.pt Istanbul ODoH target.
@@ -552,15 +543,6 @@ Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redire
 https://www.dnscry.pt
 
 sdns://BQcAAAAAAAAAD21jaTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-odoh-kyiv
-
-dnscry.pt Kyiv ODoH target.
-Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://BQcAAAAAAAAAD2lldjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-odoh-kyiv02
@@ -984,15 +966,6 @@ Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redire
 https://www.dnscry.pt
 
 sdns://BQcAAAAAAAAAD3N5ZDAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-odoh-taipeh
-
-dnscry.pt Taipeh ODoH target.
-Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://BQcAAAAAAAAAD3RwZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-odoh-tallinn
