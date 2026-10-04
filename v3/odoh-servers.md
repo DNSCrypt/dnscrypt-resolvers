@@ -968,6 +968,15 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD3N5ZDAyLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
+## dnscry.pt-odoh-taipeh
+
+dnscry.pt Taipeh ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD3RwZTAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-odoh-tallinn
 
 dnscry.pt Tallinn ODoH target.
