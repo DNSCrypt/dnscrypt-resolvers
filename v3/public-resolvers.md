@@ -6498,6 +6498,24 @@ Anycast service operated by Hurricane Electric. Unknown logging policy. https://
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## hqdns-doh
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+
+sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
+## hqdns-doh-ipv6
+
+Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
+Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Homepage: https://hqdns.sarl
+
+sdns://AgAAAAAAAAAAGFsyYTAyOmMyMDc6MjM1NTo2NzYxOjoxXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+
+
 ## ibksturm
 
 ibksturm OpenNIC resolver in Switzerland.
@@ -7268,30 +7286,29 @@ sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIB-hf85sMO1vDexLBqz0GmyMT_AyAidbK
 sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjIKL2Rucy1xdWVyeQ
 
 
+## yunzheng
 
-## hqdns-doh
+YunZheng LAB public resolver.
+Anycast service with DNSSEC validation and no filtering. No per-query logs are kept. Service addresses: 177.177.83.83, 2602:f3ff:83::83. DoH, DoT and DoQ on dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
 
-Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
-Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
-Homepage: https://hqdns.sarl
-DoH endpoint: https://dns.hqdns.sarl/dns-query
-DoT hostname: dns.hqdns.sarl
-Official IPv4: 185.215.166.168
-Official IPv6: 2a02:c207:2355:6761::1
-
-sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCDaknoeSuGKZzxJQKvh_GfVvPIDQDR7BwylmZ9bf9CtSA5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuODMAEmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
 
 
-## hqdns-doh-ipv6
+## yunzheng-dns64
 
-Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
-Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
-Homepage: https://hqdns.sarl
-DoH endpoint: https://dns.hqdns.sarl/dns-query
-DoT hostname: dns.hqdns.sarl
-Official IPv4: 185.215.166.168
-Official IPv6: 2a02:c207:2355:6761::1
+YunZheng LAB public resolver, DNS64.
+Anycast service with DNSSEC validation and no filtering, plus DNS64 (RFC 6147) on the well-known prefix 64:ff9b::/96: a name with no AAAA record is answered with an address built from its A record, for IPv6-only networks whose NAT64 gateway uses that prefix. No per-query logs are kept. Service addresses: 177.177.83.64, 2602:f3ff:83::64. DoH, DoT and DoQ on dns64.dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
 
-sdns://AgAAAAAAAAAAGFsyYTAyOmMyMDc6MjM1NTo2NzYxOjoxXSDaknoeSuGKZzxJQKvh_GfVvPIDQDR7BwylmZ9bf9CtSA5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuNjQAGGRuczY0LmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
 
+
+## yunzheng-filtered
+
+YunZheng LAB public resolver, filtering.
+Anycast service with DNSSEC validation. Advertising, tracking and known-malware domains are refused and answered with a notice page. No per-query logs are kept. Service addresses: 177.177.83.84, 2602:f3ff:83::84. DoH, DoT and DoQ on filter.dns.yunzheng.space.
+Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
+
+sdns://AgMAAAAAAAAADTE3Ny4xNzcuODMuODQAGWZpbHRlci5kbnMueXVuemhlbmcuc3BhY2UKL2Rucy1xdWVyeQ
 
