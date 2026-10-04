@@ -4793,6 +4793,26 @@ https://www.dnscry.pt
 sdns://AQcAAAAAAAAAGVsyNjAyOjJiNzpkMDE6YzI5NTo6YjoxOF0gQprQrFLF3Y2975ylDjnD8kdKAJLUvauubVrBGueEkcgZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
+## dnscry.pt-kyiv02-ipv4
+
+dnscry.pt Kyiv 02 resolver.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADjE4NS4xMjYuMjU1LjMwIEIlrpRjjslwYRvDmYBYK2kQydPruVX2Q7UZ1wndsrOwGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
+
+
+## dnscry.pt-kyiv02-ipv6
+
+dnscry.pt Kyiv 02 resolver.
+IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+All dnscry.pt resolvers can also be used as Anonymized DNSCrypt relays.
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAAFVsyYTAxOmY1MDA6MjoxNTAwOjphXSBCJa6UY47JcGEbw5mAWCtpEMnT67lV9kO1GdcJ3bKzsBkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
+
+
 ## dnscry.pt-lasvegas-ipv4
 
 dnscry.pt Las Vegas resolver.
