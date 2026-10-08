@@ -6529,7 +6529,7 @@ sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD
 ## hqdns-doh
 
 Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
-Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Personal, non-commercial project. No logging: query, error and web console logs are disabled in Technitium DNS Server. HQDNS performs its own recursive DNS resolution.
 Homepage: https://hqdns.sarl
 
 sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
@@ -6538,7 +6538,7 @@ sdns://AgAAAAAAAAAADzE4NS4yMTUuMTY2LjE2OCA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y
 ## hqdns-doh-ipv6
 
 Independent public DNS resolver with filtering for ads, trackers, malware and phishing.
-Personal, non-commercial project. HQDNS does not retain DNS query logs and performs its own recursive DNS resolution.
+Personal, non-commercial project. No logging: query, error and web console logs are disabled in Technitium DNS Server. HQDNS performs its own recursive DNS resolution.
 Homepage: https://hqdns.sarl
 
 sdns://AgAAAAAAAAAAGFsyYTAyOmMyMDc6MjM1NTo2NzYxOjoxXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ5kbnMuaHFkbnMuc2FybAovZG5zLXF1ZXJ5
