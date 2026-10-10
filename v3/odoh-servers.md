@@ -482,6 +482,15 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD2luZDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
+## dnscry.pt-odoh-islamabad
+
+dnscry.pt Islamabad ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD2lzYjAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-odoh-istanbul
 
 dnscry.pt Istanbul ODoH target.
