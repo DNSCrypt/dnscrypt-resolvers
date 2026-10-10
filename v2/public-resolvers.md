@@ -1255,7 +1255,7 @@ sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV0
 Digital Society Switzerland public resolver.
 Operated by Digitale Gesellschaft. Homepage: https://www.digitale-gesellschaft.ch
 
-sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDKgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4cZG5zLmRpZ2l0YWxlLWdlc2VsbHNjaGFmdC5jaAovZG5zLXF1ZXJ5
 
 
 ## dns.digitale-gesellschaft.ch-ipv6
@@ -1263,7 +1263,7 @@ sdns://AgcAAAAAAAAADTE4NS45NS4yMTguNDIgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJ
 Digital Society Switzerland public resolver.
 IPv6 endpoint. Operated by Digitale Gesellschaft. Homepage: https://www.digitale-gesellschaft.ch
 
-sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXSAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAAD1syYTA1OmZjODQ6OjQyXaCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdCAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhxkbnMuZGlnaXRhbGUtZ2VzZWxsc2NoYWZ0LmNoCi9kbnMtcXVlcnk
 
 
 ## dns.digitalsize.net
@@ -3712,7 +3712,7 @@ dnscry.pt Singapore 02 DoH resolver.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://AgcAAAAAAAAADTEwMy4xNzkuNDQuNzOg30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbugNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2luMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
+sdns://AgcAAAAAAAAADTEwMy4xNzkuNDQuNzMgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQPc2luMDIuZG5zY3J5LnB0Ci9kbnMtcXVlcnk
 
 
 ## dnscry.pt-doh-singapore02-ipv6

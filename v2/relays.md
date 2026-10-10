@@ -1484,6 +1484,24 @@ https://www.dnscry.pt
 sdns://gRNbMjYwNTpmYTgwOjE6MTc6OmFd
 
 
+## dnscry.pt-anon-islamabad-ipv4
+
+dnscry.pt Islamabad relay.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gQ4xMDMuOTkuMTMzLjExMA
+
+
+## dnscry.pt-anon-islamabad-ipv6
+
+dnscry.pt Islamabad relay.
+IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gRRbMjAwMTpkZjI6ZDQwOjI5OjoyXQ
+
+
 ## dnscry.pt-anon-istanbul-ipv4
 
 dnscry.pt Istanbul relay.
@@ -1598,7 +1616,7 @@ dnscry.pt Kyiv 02 relay.
 IPv4 endpoint. Operated by dnscry.pt.
 https://www.dnscry.pt
 
-sdns://AQcAAAAAAAAADjE4NS4xMjYuMjU1LjMwIEIlrpRjjslwYRvDmYBYK2kQydPruVX2Q7UZ1wndsrOwGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
+sdns://gQ4xODUuMTI2LjI1NS4zMA
 
 
 ## dnscry.pt-anon-lasvegas-ipv4
@@ -2310,6 +2328,15 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRVbMjYwNjpmYzQwOjQwMDM6Zjo6YV0
+
+
+## dnscry.pt-anon-singapore02-ipv4
+
+dnscry.pt Singapore 02 relay.
+IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://gQ0xMDMuMTc5LjQ0Ljcz
 
 
 ## dnscry.pt-anon-singapore02-ipv6
