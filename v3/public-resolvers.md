@@ -274,6 +274,16 @@ IPv6 endpoint. DNSSEC-validating and non-filtering, operated by the Artikel10 as
 sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
 
 
+## bezmezhau-doh
+
+Bezmezhau DNS free encrypted resolver.
+Blocks ads and trackers. DNSSEC validation, no logging.
+Operated by Bezmezhau. Service page: https://bezmezhau.com/
+
+sdns://AgMAAAAAAAAADDE0My4yMC42NC41NSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRFkbnMuYmV6bWV6aGF1LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADTkxLjEwOC4yNDMuNzggNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyERZG5zLmJlem1lemhhdS5jb20KL2Rucy1xdWVyeQ
+
+
 ## blahdns-de-doh
 
 BlahDNS ad-blocking resolver in Germany.
