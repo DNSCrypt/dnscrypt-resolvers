@@ -1151,6 +1151,7 @@ sdns://BQcAAAAAAAAAD3pyaDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 ## odoh-cloudflare
 
 Cloudflare ODoH target.
+Available through servers in multiple locations around the world.
 Operated by Cloudflare. https://cloudflare.com
 
 sdns://BQcAAAAAAAAAF29kb2guY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
@@ -1159,7 +1160,8 @@ sdns://BQcAAAAAAAAAF29kb2guY2xvdWRmbGFyZS1kbnMuY29tCi9kbnMtcXVlcnk
 ## odoh-crypto-sx
 
 crypto.sx ODoH target.
-Anycast, no logs. Backend hosted by Scaleway. Maintained by Frank Denis.
+Available through servers in multiple locations around the world.
+No logs. Backend hosted by Scaleway. Maintained by Frank Denis.
 Maintained by Frank Denis. Service page: https://crypto.sx
 
 sdns://BQcAAAAAAAAADm9kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
@@ -1186,6 +1188,7 @@ sdns://BQcAAAAAAAAAE2RvcGUuc25vd3N0b3JtLmxvdmUKL2Rucy1xdWVyeQ
 ## odoh-tiarap.org
 
 Tiarap Cloudflare-cached ODoH target.
+Available through servers in multiple locations around the world.
 Maintained by id-gmail. No logs. Filters ads, trackers and malware.
 Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
 

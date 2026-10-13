@@ -23,6 +23,7 @@ To use that list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 ## odohrelay-crypto-sx
 
 crypto.sx ODoH relay.
+Available through servers in multiple locations around the world.
 Runs on Fastly Compute. Maintained by Frank Denis. https://fastly.com
 
 sdns://hQcAAAAAAAAAAAAab2RvaC1yZWxheS5lZGdlY29tcHV0ZS5hcHABLw

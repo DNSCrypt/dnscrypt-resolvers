@@ -96,6 +96,7 @@ sdns://AgMAAAAAAAAADjExMi4yMTMuMzIuMjE5IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 ## adguard-dns
 
 AdGuard DNS Default public resolver.
+Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing and malicious domains.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -108,6 +109,7 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNS4xNTo1NDQzINErR_JS3PLCu_iZEIbq95zkSV2LFsigxDIuU
 ## adguard-dns-doh
 
 AdGuard DNS Default public resolver.
+Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing and malicious domains.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -118,6 +120,7 @@ sdns://AgMAAAAAAAAADDk0LjE0MC4xNS4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCG
 ## adguard-dns-doh-ipv6
 
 AdGuard DNS Default public resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing and malicious domains.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -128,6 +131,7 @@ sdns://AgMAAAAAAAAAE1syYTEwOjUwYzA6OmFkMjpmZl0gmjo09yfeubylEAPZzpw5-PJ92cUkKQHCu
 ## adguard-dns-family
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -140,6 +144,7 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNS4xNjo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWu
 ## adguard-dns-family-doh
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -150,6 +155,7 @@ sdns://AgMAAAAAAAAADDk0LjE0MC4xNS4xNiCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCG
 ## adguard-dns-family-doh-ipv6
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -160,6 +166,7 @@ sdns://AgMAAAAAAAAAFFsyYTEwOjUwYzA6OmJhZDI6ZmZdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBw
 ## adguard-dns-family-ipv6
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -172,6 +179,7 @@ sdns://AQMAAAAAAAAAGVsyYTEwOjUwYzA6OmJhZDI6ZmZdOjU0NDMguDFd17FLbuMgpHDcLtaxqjmMy
 ## adguard-dns-ipv6
 
 AdGuard DNS Default public resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing and malicious domains.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -184,6 +192,7 @@ sdns://AQMAAAAAAAAAGFsyYTEwOjUwYzA6OmFkMjpmZl06NTQ0MyDRK0fyUtzywrv4mRCG6vec5Eldi
 ## adguard-dns-unfiltered
 
 AdGuard DNS Non-filtering public resolver.
+Available through servers in multiple locations around the world.
 Does not block or rewrite domains.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -196,6 +205,7 @@ sdns://AQcAAAAAAAAAEjk0LjE0MC4xNC4xNDE6NTQ0MyC16ETWuDo-PhJo62gfvqcN48X6aNvWiBQdv
 ## adguard-dns-unfiltered-doh
 
 AdGuard DNS Non-filtering public resolver.
+Available through servers in multiple locations around the world.
 Does not block or rewrite domains.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -206,6 +216,7 @@ sdns://AgcAAAAAAAAADTk0LjE0MC4xNC4xNDEgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaA
 ## adguard-dns-unfiltered-doh-ipv6
 
 AdGuard DNS Non-filtering public resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Does not block or rewrite domains.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -216,6 +227,7 @@ sdns://AgcAAAAAAAAAEVsyYTEwOjUwYzA6OjI6ZmZdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxp
 ## adguard-dns-unfiltered-ipv6
 
 AdGuard DNS Non-filtering public resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Does not block or rewrite domains.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -390,6 +402,7 @@ sdns://AgYAAAAAAAAAElsyYTAwOjU5ODA6OTQ6OjcxXQAMZG5zLmNpcmNsLmx1Ci9kbnMtcXVlcnk
 ## cisco
 
 Cisco OpenDNS public resolver.
+Available through servers in multiple locations around the world.
 Part of Cisco consumer and Umbrella DNS services.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -406,6 +419,7 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMjIwILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 ## cisco-doh
 
 Cisco OpenDNS public resolver.
+Available through servers in multiple locations around the world.
 Part of Cisco consumer and Umbrella DNS services.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -420,6 +434,7 @@ sdns://AgAAAAAAAAAADDE0Ni4xMTIuNDEuMiCYZO337qhZZ1J0sPrfvSaTZamrnrp3PahnSUxalKQ33
 ## cisco-familyshield
 
 Cisco OpenDNS FamilyShield resolver.
+Available through servers in multiple locations around the world.
 Preconfigured to block adult content.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -436,6 +451,7 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 ## cisco-familyshield-ipv6
 
 Cisco OpenDNS FamilyShield resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Preconfigured to block adult content.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -452,6 +468,7 @@ sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev
 ## cisco-ipv6
 
 Cisco OpenDNS public resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Part of Cisco consumer and Umbrella DNS services.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -468,6 +485,7 @@ sdns://AQEAAAAAAAAAD1syNjIwOjA6Y2NjOjoyXSC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-ry
 ## cisco-ipv6-doh
 
 Cisco OpenDNS public resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Part of Cisco consumer and Umbrella DNS services.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -481,7 +499,8 @@ sdns://AgAAAAAAAAAAEFsyNjIwOjExOTpmYzo6Ml0gmGTt9-6oWWdSdLD6370mk2Wpq566dz2oZ0lMW
 
 ## cisco-sandbox
 
-Cisco OpenDNS Sandbox (anycast)
+Cisco OpenDNS Sandbox.
+Available through servers in multiple locations around the world.
 
 Warning: Doesn't work any more in some countries such as France and Portugal.
 
@@ -494,6 +513,7 @@ sdns://AQEAAAAAAAAADDE0Ni4xMTIuNDEuNCC3NRFAIG8iXT4r2CLX_WkeocM8yNZmjQy-BL-rykP7e
 ## cleanbrowsing-adult
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -505,6 +525,7 @@ sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UG
 ## cleanbrowsing-adult-doh
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
@@ -515,6 +536,7 @@ sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0
 ## cleanbrowsing-adult-ipv6
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -527,6 +549,7 @@ sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6Mjo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn
 ## cleanbrowsing-family
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -538,6 +561,7 @@ sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 ## cleanbrowsing-family-doh
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
@@ -548,6 +572,7 @@ sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0
 ## cleanbrowsing-family-ipv6
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -560,6 +585,7 @@ sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6Mjo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 ## cleanbrowsing-security
 
 CleanBrowsing Security Filter.
+Available through servers in multiple locations around the world.
 Blocks phishing, spam, malware and other malicious domains, without adult-content filtering.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -571,6 +597,7 @@ sdns://AQMAAAAAAAAAEjE4NS4yMjguMTY4Ljk6ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn5QY3
 ## cleanbrowsing-security-doh
 
 CleanBrowsing Security Filter.
+Available through servers in multiple locations around the world.
 Blocks phishing, spam, malware and other malicious domains, without adult-content filtering.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
@@ -581,6 +608,7 @@ sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0
 ## cleanbrowsing-security-ipv6
 
 CleanBrowsing Security Filter.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks phishing, spam, malware and other malicious domains, without adult-content filtering.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -593,7 +621,8 @@ sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6Mjo6Ml06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn
 ## cloudflare
 
 Cloudflare 1.1.1.1 public resolver.
-Global anycast, non-filtering.
+Available through servers in multiple locations around the world.
+Non-filtering.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgcAAAAAAAAABzEuMC4wLjEAEmRucy5jbG91ZGZsYXJlLmNvbQovZG5zLXF1ZXJ5
@@ -609,7 +638,8 @@ sdns://AgcAAAAAAAAADjEwNC4xNi4yNDguMjQ5ABJjbG91ZGZsYXJlLWRucy5jb20KL2Rucy1xdWVye
 ## cloudflare-family
 
 Cloudflare 1.1.1.1 for Families resolver.
-Global anycast. Blocks malware and adult-content domains.
+Available through servers in multiple locations around the world.
+Blocks malware and adult-content domains.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgMAAAAAAAAABzEuMC4wLjMABzEuMC4wLjMKL2Rucy1xdWVyeQ
@@ -618,7 +648,8 @@ sdns://AgMAAAAAAAAABzEuMC4wLjMABzEuMC4wLjMKL2Rucy1xdWVyeQ
 ## cloudflare-family-ipv6
 
 Cloudflare 1.1.1.1 for Families resolver.
-IPv6 endpoint. Global anycast. Blocks malware and adult-content domains.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. Blocks malware and adult-content domains.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGlsyNjA2OjQ3MDA6NDcwMDo6MTExM106NDQzCi9kbnMtcXVlcnk
@@ -628,7 +659,8 @@ sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwM10AGlsyNjA2OjQ3MDA6NDcwMDo6MTAwM
 ## cloudflare-ipv6
 
 Cloudflare 1.1.1.1 public resolver.
-IPv6 endpoint. Global anycast, non-filtering.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. Non-filtering.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMV0AGlsyNjA2OjQ3MDA6NDcwMDo6MTExMV06NDQzCi9kbnMtcXVlcnk
@@ -642,7 +674,8 @@ sdns://AgcAAAAAAAAAFlsyNjA2OjQ3MDA6OjY4MTA6ZjlmOV0AEmNsb3VkZmxhcmUtZG5zLmNvbQovZ
 ## cloudflare-security
 
 Cloudflare 1.1.1.1 security resolver.
-Global anycast. Blocks malware domains.
+Available through servers in multiple locations around the world.
+Blocks malware domains.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgMAAAAAAAAABzEuMC4wLjIABzEuMC4wLjIKL2Rucy1xdWVyeQ
@@ -651,7 +684,8 @@ sdns://AgMAAAAAAAAABzEuMC4wLjIABzEuMC4wLjIKL2Rucy1xdWVyeQ
 ## cloudflare-security-ipv6
 
 Cloudflare 1.1.1.1 security resolver.
-IPv6 endpoint. Global anycast. Blocks malware domains.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. Blocks malware domains.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AGlsyNjA2OjQ3MDA6NDcwMDo6MTExMl06NDQzCi9kbnMtcXVlcnk
@@ -660,7 +694,8 @@ sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AGlsyNjA2OjQ3MDA6NDcwMDo6MTAwM
 
 ## comodo-02
 
-Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
+Comodo Dome Shield - https://cdome.comodo.com/shield/
+Available through servers in multiple locations around the world.
 Operated by Comodo. Service page: https://cdome.comodo.com/shield/
 
 sdns://AQUAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
@@ -679,7 +714,8 @@ sdns://AgMAAAAAAAAADjgzLjIyMC4xNjkuMTU1IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFM
 ## controld-block-malware
 
 Control D Free DNS Malware resolver.
-Blocks known dangerous domains. No query logging. Global anycast network. https://controld.com/free-dns
+Available through servers in multiple locations around the world.
+Blocks known dangerous domains. No query logging. https://controld.com/free-dns
 Operated by Control D. Service page: https://controld.com/free-dns
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMQ
@@ -688,7 +724,8 @@ sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMQ
 ## controld-block-malware-ad
 
 Control D Free DNS Ads & Tracking resolver.
-Blocks malware, ads and trackers. No query logging. Global anycast network. https://controld.com/free-dns
+Available through servers in multiple locations around the world.
+Blocks malware, ads and trackers. No query logging. https://controld.com/free-dns
 Operated by Control D. Service page: https://controld.com/free-dns
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMg
@@ -697,7 +734,8 @@ sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMg
 ## controld-block-malware-ad-social
 
 Control D Free DNS Social resolver.
-Blocks malware, ads, trackers and major social-media services. No query logging. Global anycast network. https://controld.com/free-dns
+Available through servers in multiple locations around the world.
+Blocks malware, ads, trackers and major social-media services. No query logging. https://controld.com/free-dns
 Operated by Control D. Service page: https://controld.com/free-dns
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMw
@@ -706,7 +744,8 @@ sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMw
 ## controld-family-friendly
 
 Control D Free DNS Family Friendly resolver.
-Blocks malware, ads, trackers, adult content and drug-related domains. No query logging. Global anycast network. https://controld.com/free-dns
+Available through servers in multiple locations around the world.
+Blocks malware, ads, trackers, adult content and drug-related domains. No query logging. https://controld.com/free-dns
 Operated by Control D. Service page: https://controld.com/free-dns
 
 sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tBy9mYW1pbHk
@@ -715,7 +754,8 @@ sdns://AgMAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tBy9mYW1pbHk
 ## controld-uncensored
 
 Control D Free DNS Uncensored resolver.
-Attempts to unblock domains censored in various countries. No query logging. Global anycast network. https://controld.com/free-dns
+Available through servers in multiple locations around the world.
+Attempts to unblock domains censored in various countries. No query logging. https://controld.com/free-dns
 Operated by Control D. Service page: https://controld.com/free-dns
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
@@ -724,7 +764,8 @@ sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
 ## controld-unfiltered
 
 Control D Free DNS Unfiltered resolver.
-Does not block or rewrite domains. No query logging. Global anycast network. https://controld.com/free-dns
+Available through servers in multiple locations around the world.
+Does not block or rewrite domains. No query logging. https://controld.com/free-dns
 Operated by Control D. Service page: https://controld.com/free-dns
 
 sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
@@ -1385,6 +1426,7 @@ sdns://AgcAAAAAAAAAGVsyYTAxOjRmODoxM2I6MzQwNzo6ZmFjZV0gMu27Ecwlj74zws0koUknDwvm9
 ## dns.sb
 
 DNS.SB public resolver.
+Available through servers in multiple locations around the world.
 Operated by xTom. No logs, no filtering, supports DNSSEC. Homepage: https://dns.sb
 
 sdns://AgcAAAAAAAAADzE4NS4yMjIuMjIyLjIyMiCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA8xODUuMjIyLjIyMi4yMjIKL2Rucy1xdWVyeQ
@@ -6337,6 +6379,7 @@ sdns://AgAAAAAAAAAAACCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdAlkbnNsb3cubWUKL
 ## dnspod
 
 DNSPod Public DNS resolver.
+Available through servers in multiple locations.
 Operated by Tencent Cloud DNSPod for users in China. Overseas access to the free Public DNS service may be unreliable.
 Homepage: https://dnspod.cn
 
@@ -6350,6 +6393,7 @@ sdns://AgAAAAAAAAAACjEuMTIuMzQuNTYACjEuMTIuMTIuMTIKL2Rucy1xdWVyeQ
 ## doh-cleanbrowsing-adult
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -6360,6 +6404,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 ## doh-cleanbrowsing-family
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -6370,6 +6415,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 ## doh-cleanbrowsing-security
 
 CleanBrowsing Security Filter.
+Available through servers in multiple locations around the world.
 Blocks phishing, malware and malicious domains. Does not block adult content.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
@@ -6379,7 +6425,8 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnFS9kb2gvc2VjdXJpdHktZmlsdGVyL
 ## doh-crypto-sx
 
 crypto.sx public resolver.
-Maintained by Frank Denis. Anycast, globally cached via Cloudflare, no logs, no censorship, DNSSEC. https://crypto.sx
+Available through servers in multiple locations around the world.
+Maintained by Frank Denis. Cached via Cloudflare. No logs, no censorship, DNSSEC. https://crypto.sx
 
 sdns://AgcAAAAAAAAACzEwNC4yMS42Ljc4AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 sdns://AgcAAAAAAAAADjE3Mi42Ny4xMzQuMTU3AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
@@ -6388,7 +6435,8 @@ sdns://AgcAAAAAAAAADjE3Mi42Ny4xMzQuMTU3AA1kb2guY3J5cHRvLnN4Ci9kbnMtcXVlcnk
 ## doh-crypto-sx-ipv6
 
 crypto.sx public resolver.
-IPv6 endpoint. Maintained by Frank Denis. Anycast, globally cached via Cloudflare, no logs, no censorship, DNSSEC. https://crypto.sx
+Available through servers in multiple locations around the world.
+IPv6 endpoint. Maintained by Frank Denis. Cached via Cloudflare. No logs, no censorship, DNSSEC. https://crypto.sx
 
 sdns://AgcAAAAAAAAAGlsyNjA2OjQ3MDA6MzAzNzo6NjgxNTo2NGVdABJkb2gtaXB2Ni5jcnlwdG8uc3gKL2Rucy1xdWVyeQ
 sdns://AgcAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNjo6YWM0Mzo4NjlkXQASZG9oLWlwdjYuY3J5cHRvLnN4Ci9kbnMtcXVlcnk
@@ -6444,6 +6492,7 @@ sdns://AgMAAAAAAAAADjE3NC4xMzguMjkuMTc1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 ## doh.tiarap.org
 
 Tiarap Cloudflare-cached filtering resolver.
+Available through servers in multiple locations around the world.
 Operated by id-gmail. No logging, blocks ads, trackers and malware, no EDNS Client Subnet, supports DNSSEC. https://doh.tiarap.org
 
 sdns://AgMAAAAAAAAADDEwNC4yMS42NS42MAAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
@@ -6452,6 +6501,7 @@ sdns://AgMAAAAAAAAADDEwNC4yMS42NS42MAAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
 ## doh.tiarap.org-ipv6
 
 Tiarap Cloudflare-cached filtering resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Operated by id-gmail. No logging, blocks ads, trackers and malware, no EDNS Client Subnet, supports DNSSEC. https://doh.tiarap.org
 
 sdns://AgMAAAAAAAAAG1syNjA2OjQ3MDA6MzAzNDo6NjgxNTo0MTNjXQAOZG9oLnRpYXJhcC5vcmcKL2Rucy1xdWVyeQ
@@ -6468,8 +6518,9 @@ sdns://AQcAAAAAAAAAETkwLjQ2LjIwNi4yNDg6NDQzIBliqCXeEXeous1YRa1T3AIXMpYmK-Cz4yaK6
 
 ## dremaxx
 
-Dremaxx Open resolver. Non-filtering, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
-Resolves on its own (not a frontend to another public resolver). IPv4 endpoint; IPv6 is anycast from AS218835.
+Dremaxx Open resolver. Non-filtering, no logs, DNSSEC validation. Recursive.
+Available through servers in Zurich, Dusseldorf and Houston.
+Resolves on its own (not a frontend to another public resolver). IPv4 endpoint.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
 sdns://AgcAAAAAAAAADTE4NS40NC44Mi4xNTggjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQUb3Blbi5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
@@ -6479,7 +6530,8 @@ sdns://AgcAAAAAAAAADjE4NS4xMjEuMTY5LjQ3IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 
 ## dremaxx-family
 
-Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive.
+Available through servers in Zurich, Dusseldorf and Houston.
 Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering. IPv4 endpoint.
 Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
@@ -6491,8 +6543,9 @@ sdns://AgMAAAAAAAAADjE4NS4xMjEuMTY5LjQ1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 
 ## dremaxx-family-ipv6
 
-Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
-IPv6 anycast endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering.
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive.
+Available through servers in Zurich, Dusseldorf and Houston.
+IPv6 endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering.
 Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
@@ -6502,8 +6555,9 @@ sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMTo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v
 
 ## dremaxx-ipv6
 
-Dremaxx Open resolver. Non-filtering, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
-IPv6 anycast endpoint (AS218835). Resolves on its own (not a frontend to another public resolver).
+Dremaxx Open resolver. Non-filtering, no logs, DNSSEC validation. Recursive.
+Available through servers in Zurich, Dusseldorf and Houston.
+IPv6 endpoint (AS218835). Resolves on its own (not a frontend to another public resolver).
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
 sdns://AgcAAAAAAAAAFFsyYTBjOjlhNDA6ZTEwMDo6NTNdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FG9wZW4uZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
@@ -6548,7 +6602,8 @@ sdns://AgcAAAAAAAAAElsyMDAxOjkxMDo4MDA6OjQwXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJ
 ## google
 
 Google Public DNS resolver.
-Global anycast service operated by Google.
+Available through servers in multiple locations around the world.
+Service operated by Google.
 Operated by Google Public DNS. Service page: https://developers.google.com/speed/public-dns
 
 sdns://AgUAAAAAAAAABzguOC44LjggalBisNF41VbxY7E7Gw8ZQ10CWIKRzHVYnf7m6xHI1cMHOC44LjguOAovZG5zLXF1ZXJ5
@@ -6558,7 +6613,8 @@ sdns://AgUAAAAAAAAABzguOC40LjQgalBisNF41VbxY7E7Gw8ZQ10CWIKRzHVYnf7m6xHI1cMHOC44L
 ## google-ipv6
 
 Google Public DNS resolver.
-IPv6 endpoint. Global anycast service operated by Google.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. Service operated by Google.
 Operated by Google Public DNS. Service page: https://developers.google.com/speed/public-dns
 
 sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF0galBisNF41VbxY7E7Gw8ZQ10CWIKRzHVYnf7m6xHI1cMaWzIwMDE6NDg2MDo0ODYwOjo4ODg4XTo0NDMKL2Rucy1xdWVyeQ
@@ -6568,7 +6624,8 @@ sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg0NF0galBisNF41VbxY7E7Gw8ZQ10CWIKRz
 ## he
 
 Hurricane Electric public resolver.
-Anycast service operated by Hurricane Electric. Unknown logging policy. https://he.net/
+Available through servers in multiple locations.
+Service operated by Hurricane Electric. Unknown logging policy. https://he.net/
 
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
@@ -6654,7 +6711,8 @@ sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2IDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFM
 ## mullvad-adblock-doh
 
 Mullvad Ads & Trackers resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable, global anycast network. Blocks ads and trackers.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable. Blocks ads and trackers.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi4zABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
@@ -6663,7 +6721,8 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi4zABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1Z
 ## mullvad-adblock-doh-ipv6
 
 Mullvad Ads & Trackers resolver. - Deprecated, will be shot down on 11/02/2026
-IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads and trackers.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. No logging, DNSSEC-capable. Blocks ads and trackers.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjNdABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
@@ -6672,7 +6731,8 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjNdABdhZGJsb2NrLmRucy5tdWxsdmFkLm5ldAovZG5zL
 ## mullvad-all-doh
 
 Mullvad all-filter resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content, gambling and social media.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable. Blocks ads, trackers, malware, adult content, gambling and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi45ABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
@@ -6681,7 +6741,8 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi45ABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
 ## mullvad-all-doh-ipv6
 
 Mullvad all-filter resolver. - Deprecated, will be shot down on 11/02/2026
-IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content, gambling and social media.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. No logging, DNSSEC-capable. Blocks ads, trackers, malware, adult content, gambling and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjldABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
@@ -6690,7 +6751,8 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjldABNhbGwuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlc
 ## mullvad-base-doh
 
 Mullvad base filtering resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers and malware.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable. Blocks ads, trackers and malware.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi40ABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
@@ -6699,7 +6761,8 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi40ABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
 ## mullvad-base-doh-ipv6
 
 Mullvad base filtering resolver. - Deprecated, will be shot down on 11/02/2026
-IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers and malware.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. No logging, DNSSEC-capable. Blocks ads, trackers and malware.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjRdABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1ZXJ5
@@ -6708,7 +6771,8 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjRdABRiYXNlLmRucy5tdWxsdmFkLm5ldAovZG5zLXF1Z
 ## mullvad-doh
 
 Mullvad non-filtering public resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable. Anycast IPv4/IPv6 with servers in SE, DE, UK, US, AU, and SG.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgcAAAAAAAAACzE5NC4yNDIuMi4yAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
@@ -6717,7 +6781,8 @@ sdns://AgcAAAAAAAAACzE5NC4yNDIuMi4yAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 ## mullvad-doh-ipv6
 
 Mullvad non-filtering public resolver. - Deprecated, will be shot down on 11/02/2026
-IPv6 endpoint. No logging, DNSSEC-capable, global anycast network.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. No logging, DNSSEC-capable.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgcAAAAAAAAADlsyYTA3OmUzNDA6OjJdAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
@@ -6726,7 +6791,8 @@ sdns://AgcAAAAAAAAADlsyYTA3OmUzNDA6OjJdAA9kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 ## mullvad-extend-doh
 
 Mullvad extended filtering resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware and social media.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable. Blocks ads, trackers, malware and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi41ABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
@@ -6735,7 +6801,8 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi41ABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xd
 ## mullvad-extend-doh-ipv6
 
 Mullvad extended filtering resolver. - Deprecated, will be shot down on 11/02/2026
-IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware and social media.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. No logging, DNSSEC-capable. Blocks ads, trackers, malware and social media.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjVdABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
@@ -6744,7 +6811,8 @@ sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjVdABhleHRlbmRlZC5kbnMubXVsbHZhZC5uZXQKL2Ruc
 ## mullvad-family-doh
 
 Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content and gambling.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
@@ -6753,7 +6821,8 @@ sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlc
 ## mullvad-family-doh-ipv6
 
 Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
-IPv6 endpoint. No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content and gambling.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. No logging, DNSSEC-capable. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAADlsyYTA3OmUzNDA6OjZdABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
@@ -6769,7 +6838,8 @@ sdns://AQcAAAAAAAAAEzE2Ny4yMzMuMjQxLjEwMTo0NDMgp-gLrhNDDtyqPkVz0AIvWp184aGspPPNU
 ## nextdns
 
 NextDNS non-filtering private DNS resolver.
-Cloud-based service that gives users control over what is allowed and blocked. DNSSEC, anycast, non-logging, no filters.
+Available through servers in multiple locations around the world.
+Cloud-based service that gives users control over what is allowed and blocked. DNSSEC, non-logging, no filters.
 
 Operated by NextDNS. Service page: https://www.nextdns.io/
 
@@ -6779,7 +6849,8 @@ sdns://AgcAAAAAAAAACjQ1LjkwLjMwLjAgmzT6w-Nufisf7khHpzdmItTOLIc3jC6i1GBHI90_9ikWY
 ## nextdns-ipv6
 
 NextDNS non-filtering private DNS resolver.
-IPv6 endpoint. DNSSEC, anycast, non-logging, no filters.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. DNSSEC, non-logging, no filters.
 
 Operated by NextDNS. Service page: https://www.nextdns.io/
 
@@ -6789,10 +6860,11 @@ sdns://AgcAAAAAAAAADVsyYTA3OmE4YzA6Ol0gmzT6w-Nufisf7khHpzdmItTOLIc3jC6i1GBHI90_9
 ## nextdns-ultralow
 
 NextDNS ultralow-latency resolver.
-Cloud-based service that gives users control over what is allowed and blocked. DNSSEC, anycast, non-logging, no filters.
+Available through servers in multiple locations around the world.
+Cloud-based service that gives users control over what is allowed and blocked. DNSSEC, non-logging, no filters.
 
 Operated by NextDNS. Service page: https://www.nextdns.io/
-To select the server location, the "-ultralow" variant relies on bootstrap servers instead of anycast.
+The "-ultralow" variant uses bootstrap servers to select a server location.
 
 sdns://AgcAAAAAAAAAACCbNPrD425-Kx_uSEenN2Yi1M4shzeMLqLUYEcj3T_2KQ5kbnMubmV4dGRucy5pbw8vZG5zY3J5cHQtcHJveHk
 
@@ -6857,6 +6929,7 @@ sdns://AgcAAAAAAAAAElsyYTExOjI2NDY6MToyOjo1XSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJ
 ## pidoh-mapledns
 
 MapleDNS public recursive resolver. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+Available through servers in multiple locations around the world.
 
 sdns://AgMAAAAAAAAADzE4OC4yNDUuMTkyLjE5NiA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
 sdns://AgMAAAAAAAAADjE3Mi45My4xNjcuMTc2IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hEnBpZG9oLm1hcGxlZG5zLm5ldAovZG5zLXF1ZXJ5
@@ -6867,6 +6940,7 @@ sdns://AgMAAAAAAAAADjEwOS45NC4xNzEuMjM1IDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6
 ## pidoh-mapledns-ipv6
 
 MapleDNS public recursive resolver. IPv6. Blocks ads, trackers and malware. DNSSEC validating. No query logging. DoH and DoT. No plain DNS.
+Available through servers in multiple locations around the world.
 
 sdns://AgMAAAAAAAAAFlsyYTAxOjRmODpjMTc6Y2UyZDo6MV0gNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEScGlkb2gubWFwbGVkbnMubmV0Ci9kbnMtcXVlcnk
 sdns://AgMAAAAAAAAAGFsyNjA2OjYwODA6MjAwMToxMGM1OjphXSA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IRJwaWRvaC5tYXBsZWRucy5uZXQKL2Rucy1xdWVyeQ
@@ -6949,7 +7023,8 @@ sdns://AgAAAAAAAAAAACD6FZeNKdZtjheTM0R4As184g4uTh98W5hVNgufwCLevgpkb2guMzYwLmNuC
 ## quad9-dnscrypt-ip4-filter-ecs-pri
 
 Quad9 Secure + ECS resolver.
-Anycast service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.11, 149.112.112.11.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.11, 149.112.112.11.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQMAAAAAAAAADTkuOS45LjExOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
@@ -6959,7 +7034,8 @@ sdns://AQMAAAAAAAAAEzE0OS4xMTIuMTEyLjExOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMR
 ## quad9-dnscrypt-ip4-filter-pri
 
 Quad9 Secure resolver.
-Anycast service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.9, 149.112.112.9, 149.112.112.112.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.9, 149.112.112.9, 149.112.112.112.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQMAAAAAAAAADDkuOS45Ljk6ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -6970,7 +7046,8 @@ sdns://AQMAAAAAAAAAFDE0OS4xMTIuMTEyLjExMjo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALj
 ## quad9-dnscrypt-ip4-nofilter-ecs-pri
 
 Quad9 No Threat Blocking + ECS resolver.
-Anycast service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.12, 149.112.112.12.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.12, 149.112.112.12.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQcAAAAAAAAADTkuOS45LjEyOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
@@ -6980,7 +7057,8 @@ sdns://AQcAAAAAAAAAEzE0OS4xMTIuMTEyLjEyOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMR
 ## quad9-dnscrypt-ip4-nofilter-pri
 
 Quad9 No Threat Blocking resolver.
-Anycast service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.10, 149.112.112.10.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.10, 149.112.112.10.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQcAAAAAAAAADTkuOS45LjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMRwNo34Idhj4ZMi5kbnNjcnlwdC1jZXJ0LnF1YWQ5Lm5ldA
@@ -6990,7 +7068,8 @@ sdns://AQcAAAAAAAAAEzE0OS4xMTIuMTEyLjEwOjg0NDMgZ8hHuMh1jNEgJFVDvnVnRt803x2EwAuMR
 ## quad9-dnscrypt-ip6-filter-ecs-pri
 
 Quad9 Secure + ECS resolver.
-IPv6 anycast service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::11, 2620:fe::fe:11.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::11, 2620:fe::fe:11.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQMAAAAAAAAAElsyNjIwOmZlOjoxMV06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -7000,7 +7079,8 @@ sdns://AQMAAAAAAAAAFVsyNjIwOmZlOjpmZToxMV06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC
 ## quad9-dnscrypt-ip6-filter-pri
 
 Quad9 Secure resolver.
-IPv6 anycast service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::fe, 2620:fe::9, 2620:fe::fe:9.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::fe, 2620:fe::9, 2620:fe::fe:9.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQMAAAAAAAAAElsyNjIwOmZlOjpmZV06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -7011,7 +7091,8 @@ sdns://AQMAAAAAAAAAFFsyNjIwOmZlOjpmZTo5XTo4NDQzIGfIR7jIdYzRICRVQ751Z0bfNN8dhMALj
 ## quad9-dnscrypt-ip6-nofilter-ecs-pri
 
 Quad9 No Threat Blocking + ECS resolver.
-IPv6 anycast service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::12, 2620:fe::fe:12.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::12, 2620:fe::fe:12.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQcAAAAAAAAAElsyNjIwOmZlOjoxMl06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -7021,7 +7102,8 @@ sdns://AQcAAAAAAAAAFVsyNjIwOmZlOjpmZToxMl06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC
 ## quad9-dnscrypt-ip6-nofilter-pri
 
 Quad9 No Threat Blocking resolver.
-IPv6 anycast service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::10, 2620:fe::fe:10.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::10, 2620:fe::fe:10.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AQcAAAAAAAAAElsyNjIwOmZlOjoxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC4xHA2jfgh2GPhkyLmRuc2NyeXB0LWNlcnQucXVhZDkubmV0
@@ -7031,7 +7113,8 @@ sdns://AQcAAAAAAAAAFVsyNjIwOmZlOjpmZToxMF06ODQ0MyBnyEe4yHWM0SAkVUO-dWdG3zTfHYTAC
 ## quad9-doh-ip4-port443-filter-ecs-pri
 
 Quad9 Secure + ECS resolver.
-Anycast service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.11, 149.112.112.11.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.11, 149.112.112.11.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgMAAAAAAAAACDkuOS45LjExILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczExLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
@@ -7041,7 +7124,8 @@ sdns://AgMAAAAAAAAADjE0OS4xMTIuMTEyLjExILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8n
 ## quad9-doh-ip4-port443-filter-pri
 
 Quad9 Secure resolver.
-Anycast service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.9, 149.112.112.9, 149.112.112.112.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.9, 149.112.112.9, 149.112.112.112.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgMAAAAAAAAABzkuOS45LjkgsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8SZG5zOS5xdWFkOS5uZXQ6NDQzCi9kbnMtcXVlcnk
@@ -7051,7 +7135,8 @@ sdns://AgMAAAAAAAAADTE0OS4xMTIuMTEyLjkgsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJ
 ## quad9-doh-ip4-port443-nofilter-ecs-pri
 
 Quad9 No Threat Blocking + ECS resolver.
-Anycast service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.12, 149.112.112.12.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.12, 149.112.112.12.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgcAAAAAAAAACDkuOS45LjEyILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczEyLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
@@ -7061,7 +7146,8 @@ sdns://AgcAAAAAAAAADjE0OS4xMTIuMTEyLjEyILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8n
 ## quad9-doh-ip4-port443-nofilter-pri
 
 Quad9 No Threat Blocking resolver.
-Anycast service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.10, 149.112.112.10.
+Available through servers in multiple locations around the world.
+Service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 9.9.9.10, 149.112.112.10.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgcAAAAAAAAACDkuOS45LjEwILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8nSQvE2RuczEwLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
@@ -7071,7 +7157,8 @@ sdns://AgcAAAAAAAAADjE0OS4xMTIuMTEyLjEwILAZIHRLu3bJqwU-AeB7fgUORz0g95976kNfr-Q8n
 ## quad9-doh-ip6-port443-filter-ecs-pri
 
 Quad9 Secure + ECS resolver.
-IPv6 anycast service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::11, 2620:fe::fe:11.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation, EDNS Client Subnet and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::11, 2620:fe::fe:11.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgMAAAAAAAAADVsyNjIwOmZlOjoxMV0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTEucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
@@ -7081,7 +7168,8 @@ sdns://AgMAAAAAAAAAEFsyNjIwOmZlOjpmZToxMV0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5
 ## quad9-doh-ip6-port443-filter-pri
 
 Quad9 Secure resolver.
-IPv6 anycast service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::fe, 2620:fe::9, 2620:fe::fe:9.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation and malicious-domain blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::fe, 2620:fe::9, 2620:fe::fe:9.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgMAAAAAAAAADVsyNjIwOmZlOjpmZV0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8RZG5zLnF1YWQ5Lm5ldDo0NDMKL2Rucy1xdWVyeQ
@@ -7092,7 +7180,8 @@ sdns://AgMAAAAAAAAAD1syNjIwOmZlOjpmZTo5XSCwGSB0S7t2yasFPgHge34FDkc9IPefe-pDX6_kP
 ## quad9-doh-ip6-port443-nofilter-ecs-pri
 
 Quad9 No Threat Blocking + ECS resolver.
-IPv6 anycast service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::12, 2620:fe::fe:12.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation and EDNS Client Subnet. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::12, 2620:fe::fe:12.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgcAAAAAAAAADVsyNjIwOmZlOjoxMl0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTIucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
@@ -7102,7 +7191,8 @@ sdns://AgcAAAAAAAAAEFsyNjIwOmZlOjpmZToxMl0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5
 ## quad9-doh-ip6-port443-nofilter-pri
 
 Quad9 No Threat Blocking resolver.
-IPv6 anycast service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::10, 2620:fe::fe:10.
+Available through servers in multiple locations around the world.
+IPv6 service with DNSSEC validation. Does not perform security blocking. Quad9 says it does not log client IP addresses. Service addresses: 2620:fe::10, 2620:fe::fe:10.
 Operated by Quad9 Foundation. Service page: https://quad9.net/service/service-addresses-and-features/
 
 sdns://AgcAAAAAAAAADVsyNjIwOmZlOjoxMF0gsBkgdEu7dsmrBT4B4Ht-BQ5HPSD3n3vqQ1-v5DydJC8TZG5zMTAucXVhZDkubmV0OjQ0MwovZG5zLXF1ZXJ5
@@ -7130,6 +7220,7 @@ sdns://AgcAAAAAAAAAEFsyMDAxOmExODoxOjoyOV0gW75WfDO4f7-UO5XFs2lABc8fYjVvIwQHaF3uR
 ## rethinkdns-doh
 
 RethinkDNS public resolver.
+Available through servers in multiple locations around the world.
 No logging, no filtering. `sky.rethinkdns.com` is a Cloudflare-hosted stub resolver; `max.rethinkdns.com` is a recursive resolver hosted on Fly.io. The stub strips identification parameters from the request and proxies to another recursive resolver.
 Operated by RethinkDNS. Service page: https://rethinkdns.com/
 
@@ -7318,7 +7409,8 @@ sdns://AgYAAAAAAAAAElsyYTAxOjNhMDo1Mzo1Mzo6XQAZdW5pY2FzdC51bmNlbnNvcmVkZG5zLm9yZ
 
 ## uncensoreddns-ipv4
 
-UncensoredDNS anycast resolver.
+UncensoredDNS public resolver.
+Available through servers in Denmark and the United States.
 Also known as censurfridns. Run by Thomas Steen Rasmussen. No logs, no filtering. https://blog.uncensoreddns.org
 
 sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwABlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
@@ -7326,7 +7418,8 @@ sdns://AgYAAAAAAAAADjkxLjIzOS4xMDAuMTAwABlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kb
 
 ## uncensoreddns-ipv6
 
-UncensoredDNS anycast resolver.
+UncensoredDNS public resolver.
+Available through servers in Denmark and the United States.
 IPv6 endpoint. Also known as censurfridns. Run by Thomas Steen Rasmussen. No logs, no filtering. https://blog.uncensoreddns.org
 
 sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdABlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnCi9kbnMtcXVlcnk
@@ -7335,6 +7428,7 @@ sdns://AgYAAAAAAAAAEVsyMDAxOjY3YzoyOGE0OjpdABlhbnljYXN0LnVuY2Vuc29yZWRkbnMub3JnC
 ## wikimedia
 
 Wikimedia DNS resolver.
+Available through servers in multiple locations around the world.
 Caching recursive public resolver run by the Wikimedia Foundation Site Reliability Engineering Traffic team. Helps secure DNS lookups for Wikimedia projects and other websites.
 Operated by Wikimedia DNS. Service page: https://wikimedia-dns.org/
 
@@ -7344,7 +7438,8 @@ sdns://AgcAAAAAAAAADjE4NS43MS4xMzguMTM4IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 ## yandex
 
 Yandex Public DNS Basic resolver.
-Anycast service operated by Yandex.
+Available through servers in multiple locations.
+Service operated by Yandex.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
 sdns://AgUAAAAAAAAACTc3Ljg4LjguMSAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjEKL2Rucy1xdWVyeQ
@@ -7354,7 +7449,8 @@ sdns://AgUAAAAAAAAACTc3Ljg4LjguOCAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3N
 ## yandex-ipv6
 
 Yandex Public DNS Basic resolver.
-IPv6 anycast service operated by Yandex.
+Available through servers in multiple locations.
+IPv6 service operated by Yandex.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
 sdns://AgUAAAAAAAAAE1syYTAyOjZiODo6ZmVlZDpmZl0gH6F_zmww7W8N7EsGrPQabIxP8DICJ1srLSFodE2x95gJNzcuODguOC4xCi9kbnMtcXVlcnk
@@ -7364,7 +7460,8 @@ sdns://AgUAAAAAAAAAF1syYTAyOjZiODowOjE6OmZlZWQ6ZmZdIB-hf85sMO1vDexLBqz0GmyMT_AyA
 ## yandex-safe
 
 Yandex Public DNS Safe resolver.
-Anycast service operated by Yandex with malware filtering.
+Available through servers in multiple locations.
+Service operated by Yandex with malware filtering.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
 sdns://AgEAAAAAAAAACTc3Ljg4LjguMiAfoX_ObDDtbw3sSwas9BpsjE_wMgInWystIWh0TbH3mAk3Ny44OC44LjIKL2Rucy1xdWVyeQ
@@ -7374,7 +7471,8 @@ sdns://AgEAAAAAAAAACjc3Ljg4LjguODggH6F_zmww7W8N7EsGrPQabIxP8DICJ1srLSFodE2x95gKN
 ## yandex-safe-ipv6
 
 Yandex Public DNS Safe resolver.
-IPv6 anycast service operated by Yandex with malware filtering.
+Available through servers in multiple locations.
+IPv6 service operated by Yandex with malware filtering.
 Operated by Yandex. Service page: https://dns.yandex.com/
 
 sdns://AgEAAAAAAAAAFFsyYTAyOjZiODo6ZmVlZDpiYWRdIB-hf85sMO1vDexLBqz0GmyMT_AyAidbKy0haHRNsfeYCTc3Ljg4LjguMgovZG5zLXF1ZXJ5
@@ -7384,7 +7482,8 @@ sdns://AgEAAAAAAAAAGFsyYTAyOjZiODowOjE6OmZlZWQ6YmFkXSAfoX_ObDDtbw3sSwas9BpsjE_wM
 ## yunzheng
 
 YunZheng LAB public resolver.
-Anycast service with DNSSEC validation and no filtering. No per-query logs are kept. Service addresses: 177.177.83.83, 2602:f3ff:83::83. DoH, DoT and DoQ on dns.yunzheng.space.
+Available through servers in Asia and Europe.
+Service with DNSSEC validation and no filtering. No per-query logs are kept. Service addresses: 177.177.83.83, 2602:f3ff:83::83. DoH, DoT and DoQ on dns.yunzheng.space.
 Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
 
 sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuODMAEmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
@@ -7393,7 +7492,8 @@ sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuODMAEmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
 ## yunzheng-dns64
 
 YunZheng LAB public resolver, DNS64.
-Anycast service with DNSSEC validation and no filtering, plus DNS64 (RFC 6147) on the well-known prefix 64:ff9b::/96: a name with no AAAA record is answered with an address built from its A record, for IPv6-only networks whose NAT64 gateway uses that prefix. No per-query logs are kept. Service addresses: 177.177.83.64, 2602:f3ff:83::64. DoH, DoT and DoQ on dns64.dns.yunzheng.space.
+Available through servers in Asia and Europe.
+Service with DNSSEC validation and no filtering, plus DNS64 (RFC 6147) on the well-known prefix 64:ff9b::/96: a name with no AAAA record is answered with an address built from its A record, for IPv6-only networks whose NAT64 gateway uses that prefix. No per-query logs are kept. Service addresses: 177.177.83.64, 2602:f3ff:83::64. DoH, DoT and DoQ on dns64.dns.yunzheng.space.
 Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
 
 sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuNjQAGGRuczY0LmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
@@ -7402,7 +7502,8 @@ sdns://AgcAAAAAAAAADTE3Ny4xNzcuODMuNjQAGGRuczY0LmRucy55dW56aGVuZy5zcGFjZQovZG5zL
 ## yunzheng-filtered
 
 YunZheng LAB public resolver, filtering.
-Anycast service with DNSSEC validation. Advertising, tracking and known-malware domains are refused and answered with a notice page. No per-query logs are kept. Service addresses: 177.177.83.84, 2602:f3ff:83::84. DoH, DoT and DoQ on filter.dns.yunzheng.space.
+Available through servers in Asia and Europe.
+Service with DNSSEC validation. Advertising, tracking and known-malware domains are refused and answered with a notice page. No per-query logs are kept. Service addresses: 177.177.83.84, 2602:f3ff:83::84. DoH, DoT and DoQ on filter.dns.yunzheng.space.
 Operated by YunZheng LAB (AS204921), a non-profit educational and research laboratory. Service page: https://orbit.yunzheng.space/public-resolver/ Privacy policy: https://orbit.yunzheng.space/public-resolver/privacy/
 
 sdns://AgMAAAAAAAAADTE3Ny4xNzcuODMuODQAGWZpbHRlci5kbnMueXVuemhlbmcuc3BhY2UKL2Rucy1xdWVyeQ

@@ -16,6 +16,7 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 ## adguard-dns-family
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -27,6 +28,7 @@ sdns://AQMAAAAAAAAAETk0LjE0MC4xNC4xNTo1NDQzILgxXdexS27jIKRw3C7Wsao5jMnlhvhdRUXWu
 ## adguard-dns-family-doh
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -36,6 +38,7 @@ sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCG
 ## adguard-dns-family-doh-ipv6
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
@@ -45,6 +48,7 @@ sdns://AgMAAAAAAAAAFFsyYTEwOjUwYzA6OmJhZDE6ZmZdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBw
 ## adguard-dns-family-ipv6
 
 AdGuard DNS Family Protection resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
@@ -67,6 +71,7 @@ sdns://AgEAAAAAAAAAE1syNjIwOjEwQTo4MEJCOjozMF0gyV97IPb805_ToHouRCUkI7Y0_b414eBF2
 ## cisco-familyshield
 
 Cisco OpenDNS FamilyShield resolver.
+Available through servers in multiple locations around the world.
 Preconfigured to block adult content.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -83,6 +88,7 @@ sdns://AQEAAAAAAAAADjIwOC42Ny4yMjAuMTIzILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev6vKQ
 ## cisco-familyshield-ipv6
 
 Cisco OpenDNS FamilyShield resolver.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Preconfigured to block adult content.
 
 Operated by Cisco OpenDNS. Service page: https://www.opendns.com/
@@ -99,6 +105,7 @@ sdns://AQEAAAAAAAAAEVsyNjIwOjExOTozNTo6MzVdILc1EUAgbyJdPivYItf9aR6hwzzI1maNDL4Ev
 ## cleanbrowsing-adult
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -110,6 +117,7 @@ sdns://AQMAAAAAAAAAEzE4NS4yMjguMTY4LjEwOjg0NDMgvKwy-tVDaRcfCDLWB1AnwyCM7vDo6Z-UG
 ## cleanbrowsing-adult-doh
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
@@ -119,6 +127,7 @@ sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 ## cleanbrowsing-adult-ipv6
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -130,6 +139,7 @@ sdns://AQMAAAAAAAAAFVsyYTBkOjJhMDA6MTo6MV06ODQ0MyC8rDL61UNpFx8IMtYHUCfDIIzu8Ojpn
 ## cleanbrowsing-family
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -141,6 +151,7 @@ sdns://AQMAAAAAAAAAFDE4NS4yMjguMTY4LjE2ODo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 ## cleanbrowsing-family-doh
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
@@ -150,6 +161,7 @@ sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRD
 ## cleanbrowsing-family-ipv6
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -161,7 +173,8 @@ sdns://AQMAAAAAAAAAFFsyYTBkOjJhMDA6MTo6XTo4NDQzILysMvrVQ2kXHwgy1gdQJ8MgjO7w6Omfl
 ## cloudflare-family
 
 Cloudflare 1.1.1.1 for Families resolver.
-Global anycast. Blocks malware and adult-content domains.
+Available through servers in multiple locations around the world.
+Blocks malware and adult-content domains.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgMAAAAAAAAABzEuMC4wLjMABzEuMC4wLjMKL2Rucy1xdWVyeQ
@@ -170,7 +183,8 @@ sdns://AgMAAAAAAAAABzEuMC4wLjMABzEuMC4wLjMKL2Rucy1xdWVyeQ
 ## cloudflare-family-ipv6
 
 Cloudflare 1.1.1.1 for Families resolver.
-IPv6 endpoint. Global anycast. Blocks malware and adult-content domains.
+Available through servers in multiple locations around the world.
+IPv6 endpoint. Blocks malware and adult-content domains.
 Operated by Cloudflare. Service page: https://developers.cloudflare.com/1.1.1.1/
 
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExM10AGlsyNjA2OjQ3MDA6NDcwMDo6MTExM106NDQzCi9kbnMtcXVlcnk
@@ -235,6 +249,7 @@ sdns://AQMAAAAAAAAAF1syYTAxOjRmODoxYzE3OjRkZjg6OjFdIBMl4s4AFc1JhxIkiipHn-JRjPztj
 ## doh-cleanbrowsing-adult
 
 CleanBrowsing Adult Filter.
+Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -245,6 +260,7 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
 ## doh-cleanbrowsing-family
 
 CleanBrowsing Family Filter.
+Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
@@ -254,7 +270,8 @@ sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
 
 ## dremaxx-family
 
-Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive.
+Available through servers in Zurich, Dusseldorf and Houston.
 Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering. IPv4 endpoint.
 Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
@@ -264,8 +281,9 @@ sdns://AgMAAAAAAAAADTE4NS40NC44Mi4xNTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENT
 
 ## dremaxx-family-ipv6
 
-Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive, sites in Zurich, Dusseldorf and Houston.
-IPv6 anycast endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering.
+Dremaxx Family resolver. Blocks adult content, no logs, DNSSEC validation. Recursive.
+Available through servers in Zurich, Dusseldorf and Houston.
+IPv6 endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tracker or malware filtering.
 Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
@@ -275,7 +293,8 @@ sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMDo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v
 ## mullvad-family-doh
 
 Mullvad family filtering resolver. - Deprecated, will be shot down on 11/02/2026
-No logging, DNSSEC-capable, global anycast network. Blocks ads, trackers, malware, adult content and gambling.
+Available through servers in multiple locations around the world.
+No logging, DNSSEC-capable. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
 sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
