@@ -13,6 +13,20 @@ If you want to contribute changes to a resolvers list, only edit files from the 
 
 --
 
+## anon-cryptids-relay
+
+Public DNSCrypt anonymized relay. IPv4 endpoint.
+
+sdns://gRE3NS4xMTkuMTQ0LjA6ODQ0Mw
+
+
+## anon-cryptids-relay-ipv6
+
+Public DNSCrypt anonymized relay. IPv6 endpoint.
+
+sdns://gR1bMmEwMjpjMjA3OjMwMTg6OTEwMTo6MV06ODQ0Mw
+
+
 ## anon-cs-austria
 
 CryptoStorm Vienna, Austria relay.
