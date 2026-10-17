@@ -6471,6 +6471,14 @@ No logs, DNSSEC. OpenNIC-based resolver operated by ibksturm.
 sdns://AgcAAAAAAAAAAAAUaWJrc3R1cm0uc3lub2xvZ3kubWUKL2Rucy1xdWVyeQ
 
 
+## doh.tiar.app
+
+Tiarap Singapore filtering resolver.
+Operated by id-gmail. No logging, blocks ads, trackers and malware, supports DNSSEC. https://doh.tiar.app
+
+sdns://AQMAAAAAAAAAEzE3NC4xMzguMjkuMTc1OjE0NDMgAwQlHXHuBS3jFzDIgtQkjjhnDVSRDp1KT5rvzJC7Ne8YMi5kbnNjcnlwdC1jZXJ0LnRpYXIuYXBw
+
+
 ## doh.tiar.app-doh
 
 Tiarap Singapore filtering resolver.
