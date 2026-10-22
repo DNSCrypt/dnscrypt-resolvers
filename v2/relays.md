@@ -1453,6 +1453,15 @@ https://www.dnscry.pt
 sdns://gQ05NS4xNDMuMTk2LjE2
 
 
+## dnscry.pt-anon-hudiksvall-ipv6
+
+DNSCry.pt Hudiksvall - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
+
+https://www.dnscry.pt
+
+sdns://gRxbMmEwMzpkNzgwOjA6MTk2OjozZTg0OjU2YWZd
+
+
 ## dnscry.pt-anon-ikeja-ipv4
 
 dnscry.pt Ikeja relay.

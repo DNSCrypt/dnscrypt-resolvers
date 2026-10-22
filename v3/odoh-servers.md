@@ -896,6 +896,15 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD3NqYzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
+## dnscry.pt-odoh-saopaulo
+
+dnscry.pt São Paulo ODoH target.
+Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
+https://www.dnscry.pt
+
+sdns://BQcAAAAAAAAAD3NhbzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
+
+
 ## dnscry.pt-odoh-seattle
 
 dnscry.pt Seattle ODoH target.
