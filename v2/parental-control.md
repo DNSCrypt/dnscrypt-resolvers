@@ -32,7 +32,7 @@ Available through servers in multiple locations around the world.
 Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
-sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNSCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQw5NC4xNDAuMTQuMTUKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADDk0LjE0MC4xNC4xNSCbNPrD425-Kx_uSEenN2Yi1M4shzeMLqLUYEcj3T_2KQw5NC4xNDAuMTQuMTUKL2Rucy1xdWVyeQ
 
 
 ## adguard-dns-family-doh-ipv6
@@ -42,7 +42,7 @@ Available through servers in multiple locations around the world.
 IPv6 endpoint. Blocks ads, trackers, phishing, malicious and adult domains. Enforces safe search where available.
 Operated by AdGuard. Service page: https://adguard-dns.io/en/public-dns.html
 
-sdns://AgMAAAAAAAAAFFsyYTEwOjUwYzA6OmJhZDE6ZmZdIJo6NPcn3rm8pRAD2c6cOfjyfdnFJCkBwrqxpE5jWgIZFmZhbWlseS5hZGd1YXJkLWRucy5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAAFFsyYTEwOjUwYzA6OmJhZDE6ZmZdIJs0-sPjbn4rH-5IR6c3ZiLUziyHN4wuotRgRyPdP_YpFmZhbWlseS5hZGd1YXJkLWRucy5jb20KL2Rucy1xdWVyeQ
 
 
 ## adguard-dns-family-ipv6

@@ -733,6 +733,15 @@ https://www.dnscry.pt
 sdns://gRtbMmEwNzplZmMwOjEwMDE6YTVjZTo6YjRiNF0
 
 
+## dnscry.pt-anon-amsterdam03-ipv4
+
+dnscry.pt Amsterdam 03 relay.
+IPv4 endpoint. Operated by dnscry.pt.
+https://www.dnscry.pt
+
+sdns://gQ0yMy4xMzcuMjQ5LjI2
+
+
 ## dnscry.pt-anon-amsterdam03-ipv6
 
 dnscry.pt Amsterdam 03 relay.
@@ -794,15 +803,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRxbMmEwNjoxMjgwOmJlZTE6Mjo6ZWUxMjoyMDhd
-
-
-## dnscry.pt-anon-bangkok-ipv4
-
-dnscry.pt Bangkok relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQ0xMDMuMzguMjUwLjU1
 
 
 ## dnscry.pt-anon-bengaluru-ipv4
@@ -1453,15 +1453,6 @@ https://www.dnscry.pt
 sdns://gQ05NS4xNDMuMTk2LjE2
 
 
-## dnscry.pt-anon-hudiksvall-ipv6
-
-DNSCry.pt Hudiksvall - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://gRlbMmEwMzpkNzgwOjA6MTk2OjozOjU2YWZd
-
-
 ## dnscry.pt-anon-ikeja-ipv4
 
 dnscry.pt Ikeja relay.
@@ -1522,7 +1513,7 @@ dnscry.pt Istanbul relay.
 IPv4 endpoint. Operated by dnscry.pt.
 https://www.dnscry.pt
 
-sdns://gQ8xODguMTMyLjE5Mi4xNjg
+sdns://gQ0xOTMuMjI4LjEuMTk5
 
 
 ## dnscry.pt-anon-istanbul-ipv6
@@ -2288,6 +2279,15 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRtbMjYwNjo2NjgwOjM1OjE6OjUwNmQ6OGNlMl0
+
+
+## dnscry.pt-anon-saopaulo-ipv6
+
+dnscry.pt São Paulo relay.
+IPv6 endpoint. Operated by dnscry.pt.
+https://www.dnscry.pt
+
+sdns://gSBbMmEwYzo5YTQwOjhmNDA6MDoyMDc6MTgwOjM6MTg5XQ
 
 
 ## dnscry.pt-anon-seattle-ipv4
