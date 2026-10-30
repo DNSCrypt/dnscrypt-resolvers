@@ -1846,7 +1846,7 @@ dnscry.pt Miami relay.
 IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
 https://www.dnscry.pt
 
-sdns://gQ4xMjguMjU0LjIwNy41MA
+sdns://gQ8xNjkuMTI4LjE5MS4yMDI
 
 
 ## dnscry.pt-anon-miami-ipv6
@@ -1855,7 +1855,7 @@ DNSCry.pt Miami - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
 
 https://www.dnscry.pt
 
-sdns://gRJbMjYwMjpmN2Y4OjY6YTo6YV0
+sdns://gRRbMjYwMjpmN2Y4OmI6NDAxOjphXQ
 
 
 ## dnscry.pt-anon-milan-ipv4
@@ -1964,15 +1964,6 @@ IPv6 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, b
 https://www.dnscry.pt
 
 sdns://gRpbMmEwYzo4ZmMwOjE3NDk6NjY6MTg6OjE2XQ
-
-
-## dnscry.pt-anon-naaldwijk-ipv4
-
-dnscry.pt Naaldwijk relay.
-IPv4 endpoint. Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://gQs0NS45NS4zOC4yOQ
 
 
 ## dnscry.pt-anon-newcastle-ipv4

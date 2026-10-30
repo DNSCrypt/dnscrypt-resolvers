@@ -95,15 +95,6 @@ https://www.dnscry.pt
 sdns://BQcAAAAAAAAAD2FrbDAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
-## dnscry.pt-odoh-bangkok
-
-dnscry.pt Bangkok ODoH target.
-Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://BQcAAAAAAAAAD2JrazAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
 ## dnscry.pt-odoh-bengaluru
 
 dnscry.pt Bengaluru ODoH target.
@@ -723,15 +714,6 @@ Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redire
 https://www.dnscry.pt
 
 sdns://BQcAAAAAAAAAD211YzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
-
-
-## dnscry.pt-odoh-naaldwijk
-
-dnscry.pt Naaldwijk ODoH target.
-Operated by dnscry.pt. No query logs, no intentional filtering, blocking, redirecting or rewriting, DNSSEC validation.
-https://www.dnscry.pt
-
-sdns://BQcAAAAAAAAAD25hdzAxLmRuc2NyeS5wdAovZG5zLXF1ZXJ5
 
 
 ## dnscry.pt-odoh-newcastle
