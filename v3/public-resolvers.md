@@ -286,6 +286,22 @@ IPv6 endpoint. DNSSEC-validating and non-filtering, operated by the Artikel10 as
 sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
 
 
+## beatquantum
+
+BeatQuantum non-filtering, no-log, DNSSEC-validating DoH resolver in the United Kingdom, with post-quantum (ML-KEM) key exchange.
+Accepts classical, hybrid (X25519MLKEM768) and pure ML-KEM TLS key exchange. Also DoH3, DoT and DoQ. Operated by BeatQuantum Limited. Homepage: https://beatquantum.com/stamps
+
+sdns://AgcAAAAAAAAADDIwNy4yLjEyMS4zNQAPYmVhdHF1YW50dW0uY29tCi9kbnMtcXVlcnk
+
+
+## beatquantum-ipv6
+
+BeatQuantum non-filtering, no-log, DNSSEC-validating DoH resolver in the United Kingdom, with post-quantum (ML-KEM) key exchange.
+IPv6 endpoint. Accepts classical, hybrid (X25519MLKEM768) and pure ML-KEM TLS key exchange. Also DoH3, DoT and DoQ. Operated by BeatQuantum Limited. Homepage: https://beatquantum.com/stamps
+
+sdns://AgcAAAAAAAAAFlsyYTBjOjlhNDY6MWUyMjoxMjo6YV0AD2JlYXRxdWFudHVtLmNvbQovZG5zLXF1ZXJ5
+
+
 ## blahdns-de-doh
 
 BlahDNS ad-blocking resolver in Germany.
