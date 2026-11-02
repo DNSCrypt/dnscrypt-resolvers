@@ -71,10 +71,11 @@ Before submitting a new entry to the list, take the time to test the server with
 
 ### Let's Encrypt certificates
 
-If your server uses a Let's Encrypt certificate, don't pin the intermediate certificate, which can change every time the certificate is renewed.
-Pin the cross-signed ISRG root certificates that your server sends along with it instead.
+If your server uses a Let's Encrypt certificate, don't pin its intermediate certificate.
+It can change every time the certificate is renewed.
 
-Include all three of these hashes in every stamp, even if your certificate only uses one of them.
+Use these three hashes instead, and put all of them in every stamp, even if your certificate only uses one.
+
 In the [online DNS stamps calculator](https://dnscrypt.info/stamps/), paste them as a single line:
 
 ```text
