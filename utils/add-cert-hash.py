@@ -17,6 +17,8 @@ The topmost non-root CA sent by the server is used because:
 - dnscrypt-proxy only verifies against certificates actually in the TLS chain
 - A topmost CA is more stable than leaf certificates and lower intermediates
 
+Servers using Let's Encrypt get all the hashes from lets_encrypt.py instead.
+
 Note: The hash is computed from the TBS (To Be Signed) portion of the certificate,
 which is what dnscrypt-proxy verifies against.
 """
@@ -33,6 +35,8 @@ from typing import Optional
 from cryptography import x509
 from cryptography.x509 import ExtensionNotFound
 from OpenSSL import SSL, crypto
+
+from lets_encrypt import PeerCert, lets_encrypt_pins
 
 
 class DNSStamp:
@@ -249,9 +253,9 @@ class DNSStamp:
         return addr, 443
 
 
-def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[str, bytes, bool, bool]]:
+def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[PeerCert]:
     """
-    Connect to server via TLS and return each peer certificate's TBS hash, CA status, and self-issued status.
+    Connect to server via TLS and return the certificates it sends.
 
     Args:
         host: IP address or hostname to connect to
@@ -259,8 +263,7 @@ def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[st
         server_hostname: SNI hostname for TLS
 
     Returns:
-        List of (subject_cn, tbs_hash, is_ca, is_self_issued) tuples for each
-        certificate sent by the server, in peer-chain order.
+        The certificates sent by the server, in peer-chain order.
         A conforming server normally does not send a root, but callers must
         still identify and exclude a self-issued root if it is present.
     """
@@ -293,7 +296,7 @@ def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[st
     for cert in cert_chain:
         cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
         tbs_hash = get_tbs_hash_from_der(cert_der)
-        subject = cert.get_subject().CN or "unknown"
+        subject = cert.get_subject()
         certificate = cert.to_cryptography()
         try:
             is_ca = certificate.extensions.get_extension_for_class(
@@ -301,7 +304,10 @@ def get_cert_hashes(host: str, port: int, server_hostname: str) -> list[tuple[st
             ).value.ca
         except ExtensionNotFound:
             is_ca = False
-        results.append((subject, tbs_hash, is_ca, certificate.subject == certificate.issuer))
+        results.append(PeerCert(
+            subject.CN or "unknown", tbs_hash, is_ca,
+            certificate.subject == certificate.issuer, subject.O or "",
+        ))
 
     conn.shutdown()
     sock.close()
@@ -411,16 +417,16 @@ def process_resolver(md_path: str, resolver_name: str) -> None:
                             try:
                                 cert_hashes = get_cert_hashes(host, port, sni)
                                 print(f"  Certificates sent by server:")
-                                for i, (cn, h, is_ca, is_self_issued) in enumerate(cert_hashes):
-                                    cert_type = "CA" if is_ca else "Leaf"
-                                    root_marker = " self-issued" if is_self_issued else ""
-                                    print(f"    [{cert_type}{root_marker}] {cn}: {h.hex()}")
+                                for cert in cert_hashes:
+                                    cert_type = "CA" if cert.is_ca else "Leaf"
+                                    root_marker = " self-issued" if cert.is_self_issued else ""
+                                    print(f"    [{cert_type}{root_marker}] {cert.cn}: {cert.tbs_hash.hex()}")
 
                                 selected = next(
                                     (
-                                        (cn, cert_hash)
-                                        for cn, cert_hash, is_ca, is_self_issued in reversed(cert_hashes)
-                                        if is_ca and not is_self_issued
+                                        (cert.cn, cert.tbs_hash)
+                                        for cert in reversed(cert_hashes)
+                                        if cert.is_ca and not cert.is_self_issued
                                     ),
                                     None,
                                 )
@@ -429,11 +435,15 @@ def process_resolver(md_path: str, resolver_name: str) -> None:
                                         "TLS chain has no non-root CA certificate sent by the server"
                                     )
                                 selected_cn, cert_hash = selected
-                                print(f"  Using: {selected_cn}")
+                                new_hashes = lets_encrypt_pins([cert_hashes], [cert_hash])
+                                if new_hashes:
+                                    print("  Using: all Let's Encrypt hashes")
+                                else:
+                                    new_hashes = [cert_hash]
+                                    print(f"  Using: {selected_cn}")
 
-                                # Update hash if it differs from the expected one
-                                if stamp.hashes != [cert_hash]:
-                                    stamp.hashes = [cert_hash]
+                                if set(stamp.hashes) != set(new_hashes):
+                                    stamp.hashes = new_hashes
                                     new_stamp = stamp.serialize()
                                     print(f"  Old: {line}")
                                     print(f"  New: {new_stamp}")

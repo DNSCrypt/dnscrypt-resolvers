@@ -6,6 +6,7 @@
 Update DoH certificate hashes in DNS stamps.
 
 Pins are derived from the topmost non-root CA certificate sent by the server.
+Servers using Let's Encrypt get all the hashes from lets_encrypt.py instead.
 
 Usage:
     python3 utils/update-cert-hashes.py v3/public-resolvers.md [--dry-run]
@@ -31,6 +32,8 @@ from typing import Optional
 from cryptography import x509
 from cryptography.x509 import ExtensionNotFound
 from OpenSSL import SSL, crypto
+
+from lets_encrypt import PeerCert, lets_encrypt_pins
 
 
 class DNSStamp:
@@ -265,8 +268,8 @@ def get_tbs_hash_from_der(cert_der: bytes) -> bytes:
 
 def get_cert_hashes(
     host: str, port: int, server_hostname: Optional[str], timeout: float = 10
-) -> list[tuple[str, bytes, bool, bool]]:
-    """Connect to a TLS server and return each peer certificate's CN, TBS hash, CA status, and self-issued status."""
+) -> list[PeerCert]:
+    """Connect to a TLS server and return the certificates it sends."""
     context = SSL.Context(SSL.TLS_CLIENT_METHOD)
     context.set_default_verify_paths()
     context.set_verify(SSL.VERIFY_PEER, lambda *args: True)
@@ -304,7 +307,7 @@ def get_cert_hashes(
     for cert in cert_chain:
         cert_der = crypto.dump_certificate(crypto.FILETYPE_ASN1, cert)
         tbs_hash = get_tbs_hash_from_der(cert_der)
-        subject = cert.get_subject().CN or "unknown"
+        subject = cert.get_subject()
         certificate = cert.to_cryptography()
         try:
             is_ca = certificate.extensions.get_extension_for_class(
@@ -312,7 +315,10 @@ def get_cert_hashes(
             ).value.ca
         except ExtensionNotFound:
             is_ca = False
-        results.append((subject, tbs_hash, is_ca, certificate.subject == certificate.issuer))
+        results.append(PeerCert(
+            subject.CN or "unknown", tbs_hash, is_ca,
+            certificate.subject == certificate.issuer, subject.O or "",
+        ))
 
     conn.shutdown()
     sock.close()
@@ -401,9 +407,9 @@ def check_and_update_stamp(
 
         selected = next(
             (
-                (cn, cert_hash)
-                for cn, cert_hash, is_ca, is_self_issued in reversed(cert_hashes)
-                if is_ca and not is_self_issued
+                (cert.cn, cert.tbs_hash)
+                for cert in reversed(cert_hashes)
+                if cert.is_ca and not cert.is_self_issued
             ),
             None,
         )
@@ -413,22 +419,27 @@ def check_and_update_stamp(
         stamp_hash_set = set(stamp.hashes)
 
         # Sample additional connections. TLS edges may serve more than one valid chain.
+        chains = [cert_hashes]
         selected_hashes = [new_hash]
         for _ in range(2):
             verify_hashes = get_cert_hashes(host, port, sni, timeout=15)
             verified = next(
                 (
-                    cert_hash
-                    for _, cert_hash, is_ca, is_self_issued in reversed(verify_hashes)
-                    if is_ca and not is_self_issued
+                    cert.tbs_hash
+                    for cert in reversed(verify_hashes)
+                    if cert.is_ca and not cert.is_self_issued
                 ),
                 None,
             )
             if verified is None:
                 raise RuntimeError("Verification failed: TLS chain has no non-root CA certificate")
+            chains.append(verify_hashes)
             selected_hashes.append(verified)
 
         selected_hashes = list(dict.fromkeys(selected_hashes))
+        lets_encrypt_hashes = lets_encrypt_pins(chains, selected_hashes)
+        if lets_encrypt_hashes:
+            selected_hashes, selected_cn = lets_encrypt_hashes, "all Let's Encrypt hashes"
         if stamp_hash_set == set(selected_hashes):
             return None
 
