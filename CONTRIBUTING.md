@@ -69,6 +69,18 @@ The DoH protocol is fragile, and unless the server frequently switches certifica
 
 Before submitting a new entry to the list, take the time to test the server with `dnscrypt-proxy`, both with and without `HTTP/3` if supported by the server.
 
+### Let's Encrypt certificates
+
+If your server uses a Let's Encrypt certificate, don't pin the intermediate certificate, which can change every time the certificate is renewed.
+Pin the cross-signed ISRG root certificates that your server sends along with it instead.
+
+Include all three of these hashes in every stamp, even if your certificate only uses one of them.
+In the [online DNS stamps calculator](https://dnscrypt.info/stamps/), paste them as a single line:
+
+```text
+8c5033973ffe4ff1ef0aa92984fc93281ba7a9278ef8bf641226b898d10d4e74,369d1cf858e309c02aa2824c3763e12c05975e03291bff2bb462567bcbe93f21,32edbb11cc258fbe33c2cd24a149270f0be6f446f57264b3bd1c25b98533272e
+```
+
 ## Oblivious DoH
 
 Modern DoH servers that allow the client IP address to be hidden by a relay can be added to the `v3/odoh-servers.md` list.
