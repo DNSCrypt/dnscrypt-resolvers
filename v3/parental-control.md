@@ -145,8 +145,8 @@ Available through servers in multiple locations around the world.
 Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and mixed-content sites. Google and Bing are set to Safe Mode.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
-sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWNsZWFuYnJvd3Npbmcub3JnES9kb2gvYWR1bHQtZmlsdGVy
-sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBFjbGVhbmJyb3dzaW5nLm9yZxEvZG9oL2FkdWx0LWZpbHRlcg
+sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuEWNsZWFuYnJvd3Npbmcub3JnES9kb2gvYWR1bHQtZmlsdGVy
+sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhFjbGVhbmJyb3dzaW5nLm9yZxEvZG9oL2FkdWx0LWZpbHRlcg
 
 
 ## cleanbrowsing-adult-ipv6
@@ -181,8 +181,8 @@ Available through servers in multiple locations around the world.
 Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content sites. Google, Bing and YouTube are set to Safe Mode.
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
-sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50EWNsZWFuYnJvd3Npbmcub3JnEi9kb2gvZmFtaWx5LWZpbHRlcg
-sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OCCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBFjbGVhbmJyb3dzaW5nLm9yZxIvZG9oL2ZhbWlseS1maWx0ZXI
+sdns://AgMAAAAAAAAADjE4NS4yMjguMTY4LjEwoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuEWNsZWFuYnJvd3Npbmcub3JnEi9kb2gvZmFtaWx5LWZpbHRlcg
+sdns://AgMAAAAAAAAADzE4NS4yMjguMTY4LjE2OKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhFjbGVhbmJyb3dzaW5nLm9yZxIvZG9oL2ZhbWlseS1maWx0ZXI
 
 
 ## cleanbrowsing-family-ipv6
@@ -239,7 +239,7 @@ Blocks adult, gambling, drug, malware, scam/phishing, proxy/anonymizer and adver
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwN6CMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhhkbnMtZG9oLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-doh-no-safe-search
@@ -251,7 +251,7 @@ Warning: This server is incompatible with anonymization.
 
 Provided by: https://dnsforfamily.com
 
-sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwNyAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLidkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADzE2Ny4yMzUuMjM2LjEwN6CMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLidkbnMtZG9oLW5vLXNhZmUtc2VhcmNoLmRuc2ZvcmZhbWlseS5jb20KL2Rucy1xdWVyeQ
 
 
 ## dnsforfamily-no-safe-search
@@ -284,7 +284,7 @@ Blocks adult, pornographic and explicit sites. Allows proxy and VPN domains and 
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
-sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEi9kb2gvYWR1bHQtZmlsdGVyLw
+sdns://AgMAAAAAAAAAAKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhVkb2guY2xlYW5icm93c2luZy5vcmcSL2RvaC9hZHVsdC1maWx0ZXIv
 
 
 ## doh-cleanbrowsing-family
@@ -295,7 +295,7 @@ Blocks adult and explicit sites, proxy and VPN bypass domains, and mixed-content
 
 Operated by CleanBrowsing. Service page: https://cleanbrowsing.org/filters/
 
-sdns://AgMAAAAAAAAAAAAVZG9oLmNsZWFuYnJvd3Npbmcub3JnEy9kb2gvZmFtaWx5LWZpbHRlci8
+sdns://AgMAAAAAAAAAAKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhVkb2guY2xlYW5icm93c2luZy5vcmcTL2RvaC9mYW1pbHktZmlsdGVyLw
 
 
 ## dremaxx-family
@@ -306,9 +306,9 @@ Blocks about 489,000 adult domains (OISD NSFW list, refreshed hourly); no ad, tr
 Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
-sdns://AgMAAAAAAAAADTE4NS40NC44Mi4xNTAgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAACjYyLjMuNTAuNDIgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnQWZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
-sdns://AgMAAAAAAAAADjE4NS4xMjEuMTY5LjQ1IIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50FmZhbWlseS5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADTE4NS40NC44Mi4xNTCgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4WZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAACjYyLjMuNTAuNDKgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4WZmFtaWx5LmRucy5kcmVtYXh4LmNvbQovZG5zLXF1ZXJ5
+sdns://AgMAAAAAAAAADjE4NS4xMjEuMTY5LjQ1oIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuFmZhbWlseS5kbnMuZHJlbWF4eC5jb20KL2Rucy1xdWVyeQ
 
 
 ## dremaxx-family-ipv6
@@ -319,8 +319,8 @@ IPv6 endpoint (AS218835). Blocks about 489,000 adult domains (OISD NSFW list, re
 Blocked names are rewritten, so clients validating DNSSEC themselves get SERVFAIL for blocked signed domains.
 Operated by Yannick Dreher. Homepage: https://dremaxx.de/en/dns-resolvers
 
-sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMDo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
-sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMTo6ZjUzXSCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdBZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMDo6ZjUzXaCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAFVsyYTBjOjlhNDA6ZTEwMTo6ZjUzXaCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhZmYW1pbHkuZG5zLmRyZW1heHguY29tCi9kbnMtcXVlcnk
 
 
 ## mullvad-family-doh
@@ -330,7 +330,7 @@ Available through servers in multiple locations around the world.
 No logging, DNSSEC-capable. Blocks ads, trackers, malware, adult content and gambling.
 Operated by Mullvad. Service page: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
 
-sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42ABZmYW1pbHkuZG5zLm11bGx2YWQubmV0Ci9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAACzE5NC4yNDIuMi42oIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuFmZhbWlseS5kbnMubXVsbHZhZC5uZXQKL2Rucy1xdWVyeQ
 
 
 ## sfw.scaleway-fr
