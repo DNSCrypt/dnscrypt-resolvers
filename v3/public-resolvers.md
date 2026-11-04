@@ -286,6 +286,22 @@ IPv6 endpoint. DNSSEC-validating and non-filtering, operated by the Artikel10 as
 sdns://AgcAAAAAAAAAF1syMDAxOjY3YzoxNDAxOjIxMjA6OjFdoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuEWRucy5hcnRpa2VsMTAub3JnCi9kbnMtcXVlcnk
 
 
+## beatquantum
+
+BeatQuantum non-filtering, no-log, DNSSEC-validating DoH resolver in the United Kingdom, with post-quantum (ML-KEM) key exchange.
+Accepts classical, hybrid (X25519MLKEM768) and pure ML-KEM TLS key exchange. Also DoH3, DoT and DoQ. Operated by BeatQuantum Limited. Homepage: https://beatquantum.com/stamps
+
+sdns://AgcAAAAAAAAADDIwNy4yLjEyMS4zNaDaknoeSuGKZzxJQKvh_GfVvPIDQDR7BwylmZ9bf9CtSKDfRpo-mfrBiOpIBxgriftiG0OzFdY7KxFZ4JMpiJsJu6BYVYo61uRT63fzvX_2NXCessSG1bUcDx2Bh3dJ7U4KziA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_IQ9iZWF0cXVhbnR1bS5jb20KL2Rucy1xdWVyeQ
+
+
+## beatquantum-ipv6
+
+BeatQuantum non-filtering, no-log, DNSSEC-validating DoH resolver in the United Kingdom, with post-quantum (ML-KEM) key exchange.
+IPv6 endpoint. Accepts classical, hybrid (X25519MLKEM768) and pure ML-KEM TLS key exchange. Also DoH3, DoT and DoQ. Operated by BeatQuantum Limited. Homepage: https://beatquantum.com/stamps
+
+sdns://AgcAAAAAAAAAFlsyYTBjOjlhNDY6MWUyMjoxMjo6YV2g2pJ6Hkrhimc8SUCr4fxn1bzyA0A0ewcMpZmfW3_QrUig30aaPpn6wYjqSAcYK4n7YhtDsxXWOysRWeCTKYibCbugWFWKOtbkU-t3871_9jVwnrLEhtW1HA8dgYd3Se1OCs4gNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEPYmVhdHF1YW50dW0uY29tCi9kbnMtcXVlcnk
+
+
 ## blahdns-de-doh
 
 BlahDNS ad-blocking resolver in Germany.
