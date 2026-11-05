@@ -7501,3 +7501,11 @@ Operated by YunZheng LAB (AS204921), a non-profit educational and research labor
 
 sdns://AgMAAAAAAAAADTE3Ny4xNzcuODMuODSgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4ZZmlsdGVyLmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
 
+## iadns
+
+IaDNS public ad-blocking resolver.
+Hosted in Piscataway, New Jersey, US (New York City metro).
+Blocks ads and trackers. No logging, DNSSEC validation. Homepage: https://dns.iakovf1.com
+Operated by Iakov Fomin. Service page: https://dns.iakovf1.com
+
+sdns://AgMAAAAAAAAAEDE0MC44Mi40LjE4Mzo0NDMBIBKRwcyKMHTXiya-JzUkizcRr_NL9Py7IL6zKv-rublyD2Rucy5pYWtvdmYxLmNvbQovZG5zLXF1ZXJ5
