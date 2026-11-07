@@ -42,4 +42,4 @@ sdns://hQcAAAAAAAAAAAASb2RvaC1yZWxheS5udW1hLnJzBi9yZWxheQ
 sh2o ODoH relay.
 Server in Spain.
 
-sdns://hQcAAAAAAAAAETE2MS4yMi40NC4yMDg6NDQzABRvZG9oLXJlbGF5LnNoMm8ubGluawYvcHJveHk
+sdns://hQcAAAAAAAAAAAAUb2RvaC1yZWxheS5zaDJvLmxpbmsGL3Byb3h5
