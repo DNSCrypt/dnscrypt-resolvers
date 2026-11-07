@@ -43,3 +43,4 @@ sh2o ODoH relay.
 Server in Spain.
 
 sdns://hQcAAAAAAAAAAAAUb2RvaC1yZWxheS5zaDJvLmxpbmsGL3Byb3h5
+
