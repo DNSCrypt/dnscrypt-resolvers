@@ -36,3 +36,10 @@ Run by the Numa project on Hetzner in Falkenstein, Germany. Maintained by Razvan
 
 sdns://hQcAAAAAAAAAAAASb2RvaC1yZWxheS5udW1hLnJzBi9yZWxheQ
 
+
+## odohrelay-sh2o
+
+sh2o ODoH relay.
+Server in Spain.
+
+sdns://hQcAAAAAAAAAETE2MS4yMi40NC4yMDg6NDQzABRvZG9oLXJlbGF5LnNoMm8ubGluawYvcHJveHk
