@@ -6708,6 +6708,27 @@ Operated by LibreOps. Service page: https://libredns.gr/
 sdns://AgIAAAAAAAAADjExNi4yMDIuMTc2LjI2oIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuD2RvaC5saWJyZWRucy5ncgYvbm9hZHM
 
 
+## moklav-dns
+
+MOKLAV Public DNS, operated by MOKLAV GLOBAL GK (AS154448), Tokyo, Japan.
+Non-filtering resolver with DNSSEC validation. No query logs are kept.
+DoT and plain DNS are also available on the same addresses.
+Operated by MOKLAV GLOBAL GK. Service page: https://www.moklav.co.jp/en/dns
+
+sdns://AgcAAAAAAAAADTE0NC43OS4xNjEuODigjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4QZG5zLm1va2xhdi5jby5qcAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTE0NC43OS4xNjEuODmgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4QZG5zLm1va2xhdi5jby5qcAovZG5zLXF1ZXJ5
+
+
+## moklav-dns-ipv6
+
+MOKLAV Public DNS, operated by MOKLAV GLOBAL GK (AS154448), Tokyo, Japan.
+IPv6 endpoints. Non-filtering resolver with DNSSEC validation. No query logs are kept.
+Operated by MOKLAV GLOBAL GK. Service page: https://www.moklav.co.jp/en/dns
+
+sdns://AgcAAAAAAAAAE1syNDAyOjQxNjA6MTAwOjo1M12gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4QZG5zLm1va2xhdi5jby5qcAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAAE1syNDAyOjQxNjA6MTAwOjo1NF2gjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4QZG5zLm1va2xhdi5jby5qcAovZG5zLXF1ZXJ5
+
+
 ## mullvad-adblock-doh
 
 Mullvad Ads & Trackers resolver. - Deprecated, will be shot down on 11/02/2026
