@@ -6668,7 +6668,8 @@ sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50o
 
 Provided by a personal, independently-run encrypted DNS resolver network (IaDNS) with ad/tracker blocking, DNSSEC validation, and no query-log retention. Nodes geo-routed across the United States (New York metro + Los Angeles).
 
-sdns://AgEAAAAAAAAAAAAAAAAAAAAQMTQwLjgyLjQuMTgzOjQ0MyBin9cQaL3BsOSN5X2-5N2NUo6DwEvHNDidhXopSXXPYA9kbnMuaWFrb3ZmMS5jb20KL2Rucy1xdWVyeQ
+sdns://AgEAAAAAAAAAAKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLg9kbnMuaWFrb3ZmMS5jb20KL2Rucy1xdWVyeQ
+
 
 ## ibksturm
 
