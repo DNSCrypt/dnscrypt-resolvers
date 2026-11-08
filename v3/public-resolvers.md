@@ -6664,6 +6664,13 @@ Service operated by Hurricane Electric. Unknown logging policy. https://he.net/
 sdns://AgUAAAAAAAAACzc0LjgyLjQyLjQyoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDG9yZG5zLmhlLm5ldAovZG5zLXF1ZXJ5
 
 
+## iadns
+
+Provided by a personal, independently-run encrypted DNS resolver network (IaDNS) with ad/tracker blocking, DNSSEC validation, and no query-log retention. Nodes geo-routed across the United States (New York metro + Los Angeles).
+
+sdns://AgEAAAAAAAAAAKCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLg9kbnMuaWFrb3ZmMS5jb20KL2Rucy1xdWVyeQ
+
+
 ## ibksturm
 
 ibksturm OpenNIC resolver in Switzerland.
