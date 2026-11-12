@@ -1419,7 +1419,7 @@ Operated by DNSBunker.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAADjE4NS4yNTAuMjUwLjYxILTgqMmLCq5DtzgwN6zNEaHJZJcfa3T8vDcM0DD7Mo3dDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE4NS4yNTAuMjUwLjYxoDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50DWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
 
 
 ## dnsbunker-ipv6
@@ -1431,7 +1431,7 @@ Operated by DNSBunker.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XSC04KjJiwquQ7c4MDeszRGhyWSXH2t0_Lw3DNAw-zKN3Q1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XaA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdA1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
 
 
 ## dnscry.pt-adelaide-ipv4
