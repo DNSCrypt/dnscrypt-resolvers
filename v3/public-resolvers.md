@@ -1455,7 +1455,6 @@ DNS4All public resolver by SIDN Labs.
 No logs, DNSSEC validation. Filters domains sanctioned by the EU. Homepage: https://dns4all.eu
 
 sdns://AgMAAAAAAAAACTE5NC4wLjUuMwAOZG9oLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAACjE5NC4wLjUuNjQAEGRvaDY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
 ## dns4all-ipv6
@@ -1464,7 +1463,6 @@ DNS4All public resolver by SIDN Labs.
 IPv6 endpoint. No logs, DNSSEC validation. Filters domains sanctioned by the EU. Homepage: https://dns4all.eu
 
 sdns://AgMAAAAAAAAAD1syMDAxOjY3ODo4OjozXQAOZG9oLmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
-sdns://AgMAAAAAAAAAEFsyMDAxOjY3ODo4Ojo2NF0AEGRvaDY0LmRuczRhbGwuZXUKL2Rucy1xdWVyeQ
 
 
 ## dns4eu
