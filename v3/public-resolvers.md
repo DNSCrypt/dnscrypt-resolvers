@@ -1518,7 +1518,7 @@ Operated by DNSBunker.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAADjE4NS4yNTAuMjUwLjYxILTgqMmLCq5DtzgwN6zNEaHJZJcfa3T8vDcM0DD7Mo3dDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
+sdns://AgMAAAAAAAAADjE4NS4yNTAuMjUwLjYxoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuDWRuc2J1bmtlci5vcmcKL2Rucy1xdWVyeQ
 
 
 ## dnsbunker-ipv6
@@ -1530,7 +1530,7 @@ Operated by DNSBunker.
 
 https://dnsbunker.org
 
-sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XSC04KjJiwquQ7c4MDeszRGhyWSXH2t0_Lw3DNAw-zKN3Q1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
+sdns://AgMAAAAAAAAAElsyYTBhOjUxYzE6YTplYTo6XaCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLg1kbnNidW5rZXIub3JnCi9kbnMtcXVlcnk
 
 
 ## dnscry.pt-adelaide-ipv4
