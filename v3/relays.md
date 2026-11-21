@@ -652,6 +652,22 @@ Maintained by id-gmail / Tiarap. Service page: https://tiarap.org/
 sdns://gRMxNzQuMTM4LjI5LjE3NToxNDQz
 
 
+## anon-tidepeers
+
+Anonymized DNS relay hosted in Germany (netcup). IPv4 endpoint.
+Maintained by tidepeers (operator@tidepeers.org). No logs.
+
+sdns://gRE2Mi44My45Ny4xOTg6NDM0Mw
+
+
+## anon-tidepeers-ipv6
+
+Anonymized DNS relay hosted in Germany (netcup). IPv6 endpoint.
+Maintained by tidepeers (operator@tidepeers.org). No logs.
+
+sdns://gSxbMmEwMzo0MDAwOjE1OjE2MzE6MThjMjo2ZWZmOmZlMGI6NDMyY106NDM0Mw
+
+
 ## dnscry.pt-anon-adelaide-ipv4
 
 dnscry.pt Adelaide relay.
