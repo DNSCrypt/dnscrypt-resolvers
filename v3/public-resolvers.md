@@ -6711,6 +6711,33 @@ Operated by La Contre-Voie. Service page: https://lacontrevoie.fr/services/doh/
 sdns://AgUAAAAAAAAADDE3OC4xMDUuMTYuNqCMUDOXP_5P8e8KqSmE_JMoG6epJ474v2QSJriY0Q1OdKA2nRz4WOMJwCqigkw3Y-EsBZdeAykb_yu0YlZ7y-k_ISAy7bsRzCWPvjPCzSShSScPC-b0RvVyZLO9HCW5hTMnLhNkb2gubGFjb250cmV2b2llLmZyCi9kbnMtcXVlcnk
 
 
+## ledns-fr
+
+a free, uncensored, privacy-respecting public dns resolver.
+no logging. no filtering. no bullshit.
+fully hosted in Gravelines, FR. gdpr-compliant. https://ledns.eu/
+
+sdns://AgcAAAAAAAAACzUxLjc1Ljk2LjgyoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuCGxlZG5zLmV1Ci9kbnMtcXVlcnk
+
+
+## ledns-de
+
+a free, uncensored, privacy-respecting public dns resolver.
+no logging. no filtering. no bullshit.
+fully hosted in Limburg, DE. gdpr-compliant. https://ledns.eu/
+
+sdns://AgcAAAAAAAAACzUxLjg5Ljk1LjMzoIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuCGxlZG5zLmV1Ci9kbnMtcXVlcnk
+
+
+## ledns-pl
+
+a free, uncensored, privacy-respecting public dns resolver.
+no logging. no filtering. no bullshit.
+fully hosted in Warsaw, PL. gdpr-compliant. https://ledns.eu/
+
+sdns://AgcAAAAAAAAADjE1MS4xMTUuODAuMTY1oIxQM5c__k_x7wqpKYT8kygbp6knjvi_ZBImuJjRDU50oDadHPhY4wnAKqKCTDdj4SwFl14DKRv_K7RiVnvL6T8hIDLtuxHMJY--M8LNJKFJJw8L5vRG9XJks70cJbmFMycuCGxlZG5zLmV1Ci9kbnMtcXVlcnk
+
+
 ## libredns
 
 LibreDNS public resolver in Germany.
