@@ -7543,3 +7543,8 @@ Operated by YunZheng LAB (AS204921), a non-profit educational and research labor
 
 sdns://AgMAAAAAAAAADTE3Ny4xNzcuODMuODSgjFAzlz_-T_HvCqkphPyTKBunqSeO-L9kEia4mNENTnSgNp0c-FjjCcAqooJMN2PhLAWXXgMpG_8rtGJWe8vpPyEgMu27Ecwlj74zws0koUknDwvm9Eb1cmSzvRwluYUzJy4ZZmlsdGVyLmRucy55dW56aGVuZy5zcGFjZQovZG5zLXF1ZXJ5
 
+## converso-dns
+
+Converso Public DNS — Fast, zero-log encrypted DNS resolver with ad, tracker, and malware blocking. Hosted in (Europe). Privacy & setup: https://conversoempire.tech
+
+sdns://AgMAAAAAAAAADjg5LjE2OC4xMDAuMTQ2ABdkbnMuY29udmVyc29lbXBpcmUudGVjaAovZG5zLXF1ZXJ5
